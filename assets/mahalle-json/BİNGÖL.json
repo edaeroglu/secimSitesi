@@ -1,0 +1,5397 @@
+[
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AFET KONUTLARI MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ARICA MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "DEMİROLUK MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "DÖŞLÜCE MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "GÜNGÖRSÜN MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AFET KONUTLARI MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AFET KONUTLARI MAH (DOĞANKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AFET KONUTLARI MAH (YELDEĞİRMENİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AFETKONUTLARI 2 MAH (HASBAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AFETKONUTLARI MAH (HASBAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AĞA KÖY MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AKBİNEK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AKKUŞ MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AKTAŞ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ALTINBAŞAK MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ALTINEVLER KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ALTINYAYIK MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ARZU 1 MAH (SEVKAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ARZU MAH (SEVKAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AYRANLI MAH (MERCAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AYSAKLI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "AYVADÜZÜ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "BAĞLARPINARI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "BEKAN MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "BENT MAH (KAYNAKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "BOÇ MAH (KOZLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "CAFERAN MAH (ALTINEVLER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇAKILCA MAH (SARIDİBEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇANAKÇİ MAH (GÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇATKUYU MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇATMA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇAYAĞZI MAH (BAĞLARPINARI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇELEBİ MAH (DOĞANKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇEM MAH (SEVKAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇEVRECİK MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇEVRELİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇİÇEK MAH (KABAÇALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇİÇEKLİ MAH (SARIDİBEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇİÇEKLİ MAH (SEVKAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇOMAK MAH (MERCAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ÇÖREKLİ MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "DAĞDELEN MAH (AYVADÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "DOĞANCA MAH (KAYNAKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "DOĞANKAYA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "DOĞLICA MAH (SARIDİBEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "DOLUÇAY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "DOLUTEKNE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ELMAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ELMADÜZÜ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ERBAŞLAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ERLER KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "GOŞAN MAH (SARIDİBEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "GÖKÇELİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "GÖZÜTEK MAH (KOZLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "GURBET MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "GÜVERCİN MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "HARABA MAH (AYVADÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "HASBAĞLAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "İKİZ MAH (MERCAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KABAÇALI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KALE MAH (KAYNAKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KAMIŞGÖLÜ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KANTAR MAH (KAYNAKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KARAÇUBUK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KARAKOÇ MAH (KAYNAKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KARAMAN MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KAYNAKDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KIRKPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KORKMAZ MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KOZLU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "KURİ MAH (KARAÇUBUK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "MERCAN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "MERGAN MAH (AYVADÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "OSMANUŞAĞI MAH (AKBİNEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "SARIDİBEK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "SEVKAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "SIRALISÖĞÜTLER MAH (KAYNAKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "ŞABAN MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "TOPAĞAÇLAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "TOSUNLU MAH (KABAÇALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "UZUNPAZAR MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "YAKINCA MAH (HASBAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "YAYLAKONAK MAH (AYSAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "YELDEĞİRMENİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "ADAKLI",
+    "Mahalle": "YONCALIK MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YOLDAŞAN MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ABASAN MAH (BİNEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AÇIKALAN MAH (BÜYÜKÇAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AKBÜYÜK MAH (SARISAMAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AKBÜYÜK MAH (YİĞİTBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AKÇASÜT MAH (ALAADDİN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AKSUNGUR MAH (ELMAGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AKTOPRAK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AKYUMAK MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ALANCIK MAH (BAYIRLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ALATLI MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ALİÇAPAN MAH (ARDIÇDİBİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AMERAN MAH (ŞEHİTTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ARDİVEN MAH (KAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ARITAŞ MAH (ÜÇGÜL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ARPA ÇAY MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ARPACİK MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ASLANCIK MAH (BÜYÜKÇAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AŞAĞIBİÇER MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AŞAĞIELMAGÜNÜ MAH (ELMAGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AŞAĞIGEM MAH (YOLAÇTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AYDINCIK MAH (ELMAGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AYDINLI MAH (YİĞİTBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AYDOĞMUŞ MAH (YAĞIZCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "AYRANCI MAH (YİĞİTBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BAHÇEBAŞI MAH (BAHÇEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BARDACIK MAH (SARMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BAŞMAKLI MAH (YAĞIZCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BAYIRCIK MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BAYRAMLI MAH (GERÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BEKÇİLER MAH (YOLAÇTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BEREKET MAH (SAĞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BİNDALLI MAH (DİLEKTAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BOYLU MAH (SARMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BÖLÜKLÜ MAH (SOĞUKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BUDAK MAH (TARLABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BULGURLU MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BÜYÜKÇAĞ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "BÜYÜKKÖY MAH (ÜÇGÜL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "CİM MAH (DOĞANEVLER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "COŞKUNLAR MAH (YOLAÇTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇALIŞKANLAR MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇAYBAŞI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇEKMECE MAH (DEDEBAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇETİNKAYA MAH (HARMANCIK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇEVİRME KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇEVRELİ MAH (YENİSU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇEVRELİ MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇİÇEKLİ MAH (ÇEVİRME KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇOBANÇEŞMESİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇOBANKAYA MAH (ÜÇGÜL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÇÖĞÜRLÜ MAH (ESKİBAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DAHLEK MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DEMİRKAPI MAH (YENİSU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DEMİRLİBAĞ MAH (YAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DEMİRÖREN MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DEREMURT MAH (PINARALTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DERMAN MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DEVELİ MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DİBEK MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DİKMELİ MAH (SARISAMAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DİKMETAŞ MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DİKPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DİREKLİ MAH (ŞEHİTKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DOĞANCA MAH (KARCI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DOĞANEVLER KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DOĞANLAR MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DOĞRULAR MAH (SARISAMAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DOĞRULAR MAH (YAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DOĞUKENT MAH (SERVİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DOLUDERE MAH (DOLUDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DOMLUCA MAH (KEKLİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DOYUMLU MAH (SAĞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DURMUŞLAR MAH (SAĞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DURMUŞLU MAH (KEPÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DUTLUCA MAH (BALGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "DÜZ YAYLA MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "EKİNCİK MAH (YAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "EKMEKLİ MAH (YAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ERDOĞDU MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ERENLER MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ESENLER MAH (DEDEBAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ESKİ KEKLİKDERE MAH (KEKLİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ESKİ KÖY MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ESKİ KÖY MAH (KEPÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "EYERLİ MAH (GÜZELDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "FIRAT MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GELBE MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GELİNGİK MAH (ÜÇGÜL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GILGÖR MAH (KOÇSIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÖKYAZI MAH (ÇEVİRME KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÖRSÜ MAH (DİLEKTAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÖRT MAH (GÜZELDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÖZBASAN MAH (ÜÇGÜL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÖZLÜCE MAH (KOÇSIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÜLLÜCE MAH (DÖŞEKKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÜMÜŞLÜ MAH (BÜYÜKÇAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÜNGÖRMEZ MAH (DİLEKTAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÜNKONDU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÜNKONDU MAH (BİNEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÜNLÜCE MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÜREŞLİ MAH (YAĞIZCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "GÜVERCİNLİ MAH (BAYIRLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "HASANAN MAH (ÜÇGÜL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "HASİNAN MAH (BÜYÜKÇAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "HEGEHIRBON MAH (TARLABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "HENGİMAL MAH (SAĞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "HOŞEK MAH (GÖZÜTOK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "HUZGUNUS MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "HÜLÜCEK MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "IŞIKLI MAH (ELMAGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "IŞIKLI MAH (YİĞİTBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "IŞIKULUK MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "İBRAMAN MAH (ÜÇGÜL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "İĞDECİK MAH (GERÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "İKİZLER MAH (SARISAMAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "İKİZLER MAH (YAĞIZCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "İMECELİ MAH (KEPÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KABATAŞ MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KALDIRIM MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KALEDİBİ MAH (KEPÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KALKANLI MAH (BALGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KANATLI MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KAPAKLI MAH (GÖNÜLAÇAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KAPILI MAH (GERÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KARABULUT MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KARAOLUK MAH (YAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KARATAŞ MAH (DOĞANEVLER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KARDEŞLER MAH (BİNEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KAVACIK MAH (ÇEVİRME KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KAYACIK MAH (BİNEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KAYASIRTI MAH (KEPÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KAYMAKCI MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KAYMAZ MAH (SAĞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KAYNAKLI MAH (YOLAÇTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KAZANCIK MAH (BÜYÜKÇAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KEBİR MAH (YENİSU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KEHEKELENİN MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KESKİN MAH (ÇANAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KILIÇLI MAH (BİNEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KILIÇLI MAH (ÇANAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KİLİMLİ MAH (BULGURLUK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KİRİŞLİ MAH (BULGURLUK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KOCAKAYA MAH (YELKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KORKUT MAH (MEŞEDALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KOSİYA MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KOVACIK MAH (MEŞEDALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KOYUNCUK MAH (KEKLİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KOYUNLU MAH (YAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KOZANKAYA MAH (ŞEHİTKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KÖKLÜ MAH (BÜYÜKÇAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KURUCA KÜME EVLERİ MAH (KEPÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KURUCA MAH (KEPÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KUYUCAK MAH (KEPÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KÜÇÜK MAH (KOÇSIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KÜÇÜKMEZRA MAH (BAYIRLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KÜLTÜR MAH (SERVİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KÜMELİK MAH (YAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "KÜPELİ MAH (GÖZÜTOK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "LAVDERE MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MALA MAH (GÖZÜTOK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ALAADDİN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ARDIÇDİBİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (BALGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (BAYIRLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (BİNEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (BULGURLUK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (BÜYÜKÇAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ÇAMLIYURT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ÇANAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ÇEVİRME KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (DEDEBAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (DİLEKTAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (DÖŞEKKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ELMAGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ERİCEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ESKİBAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (GERÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (GÖNÜLAÇAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (GÖZERTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (GÖZÜTOK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (GÜZELDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (HARMANCIK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (KARCI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (KAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (KEKLİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (KEPÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (KOÇSIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (MEŞEDALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (PINARALTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (SAĞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (SARISAMAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (SARMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (SIRMALIOYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (SÜREKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ŞEHİTKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ŞEHİTTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (TARLABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (ÜÇGÜL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (YAĞIZCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (YATANSÖĞÜT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (YAYDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (YAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (YAZILI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (YELKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (YİĞİTBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MERKEZ MAH (YOLAÇTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "METEŞAN MAH (ŞEHİTTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MİRHİCAN MAH (ŞEHİTTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MOLLAİBRAHİM KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MUCUARE MAH (BÜYÜKÇAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MUMDAN MAH (ÇEVİRME KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "MUTLUCA MAH (MEŞEDALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "OĞLAKLI MAH (SARMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "OĞLAKTEPE MAH (YAĞIZCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "OLUKBAŞI MAH (ALAADDİN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "OLUKLU MAH (SARMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ONBAŞI MAH (KEKLİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ORGUNLAR MAH (BÜYÜKÇAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ORUÇLU MAH (SARMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "OSMANLAR MAH (ÇANAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "OTLUCA MAH (KOÇSIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÖRENCİK MAH (ŞEHİTKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÖRTÜLÜ MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÖZKAYA MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÖZLÜCE MAH (ÇANAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÖZYURT MAH (KOÇSIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "PALACIK MAH (BALGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "PINARBAŞI MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SAĞAN MAH (ARDIÇDİBİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SAĞLIK MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SAHUK MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SAKLICA MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SALUCA MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SANCAKLI MAH (ÜÇGÜL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SARIKAYA MAH (PINARALTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SARISU MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SAVAŞ MAH (BULGURLUK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SAYREK-GUMEYMUS MAH (ESKİBAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SEĞEL MAH (GÖZÜTOK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SEMAT MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SEVİMLİ MAH (SAĞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SOĞANLI MAH (ÇANAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SOĞUKPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SOR MAH (ELMAGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SÖĞÜTLÜ MAH (ÇAYTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "SÜVEREN MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ŞABAN MAH (KEKLİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TANRIVERDİ MAH (SAĞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TAŞDAM MAH (ÇEVİRME KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TAŞKAPI MAH (BULGURLUK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TAŞLIK MAH (SAĞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TAŞÖREN MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TEMELİ MAH (KEPÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TEPECİK MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TEPECİK MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TIMARLI MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TOKLU MAH (YOLAÇTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TULUMLU MAH (PINARALTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "TÜRKTAŞ MAH (YELKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ULAKLI MAH (YAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ULUPINAR MAH (ALAADDİN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ULUTAŞ MAH (ÇEVİRME KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "UMURLU MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "USLUCA MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "UYSAL MAH (BALGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÜÇKARDEŞ MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÜNVEREN MAH (SOĞUKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÜRÜNLÜ MAH (YAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÜSTKAYA MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "ÜZÜMCÜK MAH (BÜYÜKÇAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YAĞMURLU MAH (TARLABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YAMAÇLI MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YAPRAKLI MAH (SARISAMAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YARDIM MAH (ÇANAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YATANSÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YAYLA MAH (BİNEKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YAZICIK MAH (YAZKONAĞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YAZMALI MAH (BULGURLUK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YENİ ÇİÇEKLİ MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YENİCE MAH (SAĞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YENİÇAĞ MAH (GÜNKONDU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YENİÇEVRE MAH (YENİÇEVRE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YENİSU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YENİŞEHİR MAH (SERVİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YENİYAZI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YEŞİLLER MAH (KEKLİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YEŞİLYURT MAH (DİLEKTAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YILDIRIM MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YILDIZ MAH (KOÇSIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YILDIZ MAH (SARISAMAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YILDIZLI MAH (BULGURLUK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YİBO MAH (SÜREKLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YOĞURTLU MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YORULMAZ MAH (MEŞEDALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YUKARI BİÇER MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YUKARIGEM MAH (YOLAÇTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YUMRULU MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YUMURTALİ MAH (KOÇSIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YUVAKLI MAH (GEYİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "GENÇ",
+    "Mahalle": "YÜCELER MAH (YENİYAZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KANIREŞ MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "SEYRAN TEPE MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "AKTAŞ MAH (KAYNARPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ALİ MAH (KARGAPAZARI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ALTI EVLER MAH (KAYNARPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "AŞAĞI ÇIR MAH (YORGANÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "AŞAĞIYAĞMURLU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "AYNİK MAH (KIZILAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "BAĞLIİSA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "BAHÇEKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "BEDRAN MAH (SERPMEKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "BİNKOZ MAH (SOĞUKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "BONCUKGÖZE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "BOYHANE MAH (KARGAPAZARI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "BURMATAŞ MAH (HASANOVA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "CİLLİGÖL KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ÇATAK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ÇATAK MAH (YİĞİTLER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ÇİÇEKLİ MAH (BAĞLIİSA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ÇİÇEKPINAR MAH (TUZLUCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ÇİFTLİKKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ÇUKURTEPE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "DAĞ ÇAYIR MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "DÖRTYOL KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "GOLA USE MAH (KARGAPAZARI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "GÖYNÜK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "GÜLABİ MAH (YİĞİTLER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "HACI FEVZLİ MAH (KIZILÇUBUK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "HALİFAN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "HARMANTEPE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "HASANOVA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "HASAR MAH (GEÇİTLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ILIPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KALENCİK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KANİTAHT MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KANTARKAYA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KARABALÇIK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KARGAPAZARI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KARLICA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KARŞIYAKA MAH (KAYNARPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KAŞIKÇI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KAVAKAN MAH (KAYNARPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KAYNAK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KAYNARPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KAZANLI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KIRAÇTEPE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KIZILAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KIZILÇUBUK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KONAK MAH (HASANOVA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KÜMBET KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "KÜRÜK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "MEZRACIK MAH (YİĞİTLER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "MOLLA HÜSEYİN MAH (KARGAPAZARI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "MOLLAŞAKİR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "MORKOYUN MAH (BAĞLIİSA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ORTAKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "SAKAÖREN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "SARIKUŞAK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "SERİNCE MAH (KAYNARPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "SERPMEKAYA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "SEYRANA MAH (KIRAÇTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "SOĞUKPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "SUÇATI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "SUDURAĞI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "TARLACIK MAH (MOLLAŞAKİR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "TAŞLIÇAY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "TOKLULAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "TUZLUCA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ULUKAPI MAH (BAĞLIİSA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "ÜÇ EVLER MAH (KAYNARPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "VİRANŞEHİR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "YALNIZLAR MAH (SERPMEKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "YAZLIKONAK MAH (KAYNARPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "YİĞİTLER KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "YONCALIK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "YORGANÇAYIR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "YUKARI ÇIR MAH (HASANOVA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KARLIOVA",
+    "Mahalle": "YUKARIYAĞMURLU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "ESKİŞEHİR MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "AÇIKGÜNEY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "AĞAÇÖVEN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "AKÇALI MAH (BİLLİCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "ALAGÖZ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "ALİCAN MAH (NACAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "ALTINDİŞ MAH (BİLLİCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "ARİK MAH (ESKİKAVAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "BAKLALI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "BALIKLI MAH (YAZGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "BİLLİCE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "ÇANAKÇI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "ÇİÇEKTEPE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "DALLICA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "DEMİRDÖŞ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "DEMİRKANAT KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "DEVETAŞI MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "DİKENLİ MAH (NACAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "DURANLAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "ESKİKAVAK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "EŞME KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "FINDIKLI MAH (GÜNEYAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "GEDİKLİ MAH (BİLLİCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "GÜNEYAĞIL KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "HACİKOĞLU MAH (ESKİKAVAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "HALMEK MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "İNCESU MAH (NACAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "KADIKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "KARA KAMU MAH (BİLLİCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "KARATAŞ MAH (YAZGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "KARINCA MAH (BİLLİCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "KILICAN MAH (DARKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "KÖPRÜBAŞI MAH (ESKİKAVAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "KURŞUNLU MAH (BİLLİCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "KUŞÇİMENİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "KUŞLUCA MAH (BİLLİCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "KUTLUCA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "MELEKAN MAH (ALAGÖZ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "NACAKLI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "PAYAMLI MAH (YAZGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "SABIRTAŞI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "SAMANTEPE MAH (AÇIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "SELENK MAH (ESKİKAVAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "SIRMAÇEK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "SOLMAZ MAH (BİLLİCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "SÜTLÜCE MAH (YAZGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "TAŞAĞIL MAH (BİLLİCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "TAŞBAŞI MAH (DARKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "TEKBAŞ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "UZUNDAL MAH (BİLLİCE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "YAZGÜNÜ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "YONCALI MAH (AÇIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "YUKARISERİNYER KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "KİĞI",
+    "Mahalle": "ZENGOK MAH (İLBEYİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALATEPE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATÇAYIR MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİ MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DALSİ MAH (GÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERİNCE MAH (ÇOBANTAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMA MAH (ORTAÇANAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEVİR MAH (ORTAÇANAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖL MAH (DALLITEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZER KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZER MAH (GÖZER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZEL MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEŞVARE MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEVİR MAH (GÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEZAZ MAH (ORTAÇANAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEZAZ YAYLA EVLERİ MAH (ORTAÇANAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIRTIK MAH (ORTAÇANAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "K.KEŞKARE MAH (YENİBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖÇEK MAH (YENİBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖKLÜ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖME MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜRKÜRÜ MAH (YENİBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LEYMAN MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAHKAR MAH (YENİBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AĞAÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇOBANTAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DALLITEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ORTAÇANAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAMAN MAH (YENİBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖMERLİ MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARLI MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAMANLI MAH (ORTAÇANAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYDAN MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOFYAN MAH (GÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUK ÇEŞME MAH (ÇOBANTAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUBAŞI MAH (ORTAÇANAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞENLİK MAH (GÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEYHALAN MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞLI MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TIRŞINEK MAH (ORTAÇANAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "Y.AĞAÇELİ MAH (AĞAÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "Y.KOMSARİK MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİBAŞLAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİYERLEŞİM MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİL MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLMEZRA MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLTEPE MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI YENİBAŞLAR MAH (YENİBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İÇMELER MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNALI MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİRZAN MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RECEP TAYYİP ERDOĞAN MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SELAHADDİN-İ EYYUBİ MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİMANİ MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT MUSTAFA GÜNDOĞDU MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (ILICALAR BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ILICA MAH (ILICALAR BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İÇPINAR MAH (ILICALAR BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAMIŞLI MAH (ILICALAR BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILIÇLI MAH (ILICALAR BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNDERE MAH (ILICALAR BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "71 DEPREM MAH (GÖZELER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞAÇYOLU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKDURMUŞ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALATAŞ MAH (ÇEVRİMPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİ MEZRASI MAH (AŞAĞIAKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİBİR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTINIŞIK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARDIÇTEPE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARDIÇTEPEOSB MAH (ARDIÇTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (BİLALOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (SUVARAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI PAYMERK MAH (KIRAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI YUMAKLI MAH (YUMAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI ZEYNEP MAH (KÜÇÜKTEKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AZ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BANİ MAH (EMTAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BATI MAH (KARTAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYAZTOPRAK MAH (EKİNYOLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKTEKÖREN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CELAL MAH (AŞAĞIAKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEVİZLİ MAH (KUŞBURNU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALLAR MAH (SANCAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇANAKALIN MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYAĞZI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYBOYU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIRLI MAH (KUŞBURNU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇELTİKSUYU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİÇEKDERE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİÇEKYAYLA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİRİŞ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKURCAK MAH (SANCAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAMCIK MAH (YUMAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİKKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİKME MAH (AKDURMUŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİREKLİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİŞBUDAK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜGERNAN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERDEMLİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERENTEPE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİ KÖY MAH (AŞAĞIAKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİ KÖY MAH (KARTAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİ YERLEŞİM MAH (GÖLTEPESİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİKÖY MAH (ÇİÇEKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EVCİLER MAH (GÜMÜŞLÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GARİP KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAYT MAH (AKDURMUŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GERMİK MAH (SARIÇİÇEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇEKANAT KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVEÇLİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIÇAYIR MAH (SARIÇİÇEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HARTINI MAH (GÖKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAVSAL MAH (GÖLTEPESİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAZİRAN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEVSEL MAH (KARDEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İKİZGÖL MAH (YUMAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNCESU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAMIŞLI MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANTAR MAH (SARIÇİÇEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKOÇ MAH (YUMAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞI MAH (KARTAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMALAN MAH (ÇAYAĞZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILÇADIR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRAN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAK-DEREYGAZAN MAH (SANCAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖPRÜBAŞI MAH (EKİNYOLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖRCÜPINAR MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMGEÇİT KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURUCA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURUDERE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUŞLUCA MAH (ÇİÇEKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LINCIK MAH (GÖKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AŞAĞIAKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇEVRİMPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DİKME KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DÜZYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (EKİNYOLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (EMTAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖKDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖLTEPESİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖZELER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÜMÜŞLÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARDEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARTAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KUŞBURNU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KÜÇÜKTEKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SANCAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ-Y.YUMAKLI MAH (YUMAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OLUKPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORMANARDI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVACIK MAH (DİKME KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZLÜCE MAH (KILÇADIR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "POLATLI MAH (YUMAKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RENG MAH (İNCESU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIÇİÇEK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞABANKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPALAN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAMAÇ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEDİEVLER MAH (KARDEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YELESEN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ YERLEŞİM MAH (AŞAĞIAKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ YERLEŞİM MAH (DÜZYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOLÇATI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI KEMALAN MAH (ARDIÇTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (BİLALOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (SUVARAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI PAYMERK MAH (KIRAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI ZEYNEP MAH (KÜÇÜKTEKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIAKPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKBUDAK MAH (SANCAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEKMEZLİ MAH (UĞUROVA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKBAŞKÖY MAH (SANCAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİ MAH (SUDÜĞÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİMENLİ MAH (SANCAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMAÇAYIR MAH (SUDÜĞÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERENLER MAH (UĞUROVA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENLER MAH (SUDÜĞÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİKÖY MAH (SUDÜĞÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAROÇAYIRI MAH (SUDÜĞÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANOVA MAH (BALIKLIÇAY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOŞKAR MAH (SANCAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAPINAR MAH (SANCAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİLSEK MAH (OĞULDERE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KORK MAH (ARICILAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURTULUŞ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUŞKONDU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKBAŞKÖY MAH (SANCAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ARICILAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BALIKLIÇAY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SÜTGÖLÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (UZUNSAVAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YAYGINÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OĞULDERE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAOKUL MAH (SUDÜĞÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIGÜMÜŞ MAH (SANCAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEREF MAH (SÜTGÖLÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞ MAH (GÜNGÖREN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜRKAN MAH (ARICILAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜNLÜCE MAH (BALIKLIÇAY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜSKÜDAR MAH (YAYGINÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYIMLI MAH (UZUNSAVAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZGÜLÜ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ YERLEŞİM MAH (UĞUROVA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLOVA MAH (SANCAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KARŞIYAKA MAH (ARAKONAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KÜLTÜR MAH (ARAKONAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "MERKEZ MAH (ARAKONAK BELDESİ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AKBÜK MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AKDERE MAH (ASMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AKSAKAL KOMLER MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AKSAKAL MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AKTASOR MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AKYÜREK MAH (SÜKYAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ALACA MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ALAK MAH (MURAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ALLO MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ALTINDÜZÜ MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ALTINSU MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ARDİK MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ARMUT MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ARSLANBEYLİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ASLANLAR MAH (EŞMETAŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ASMAKAYA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AŞAĞI CEMALAN MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AŞAĞI KÖPRÜBAŞI MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AŞAĞI KULAN MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AŞAĞI OTLUCA MAH (KIRIK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AŞAĞI YAYIKLI MAH (MUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AŞAĞI ZORK MAH (DOĞUYELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "AYDIN MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BAĞIZLAR MAH (ASMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BALLI MAH (ARSLANBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BARAKALAR MAH (YİĞİTHARMAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BARBARA MAH (YENİBAŞAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BARDAKLI MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BAŞDERE MAH (SÜKYAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BEJAV MAH (KIRIK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BEŞEVLER MAH (MURAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BEŞEVLER MAH (MUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BEŞİKLİ MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BEYAZKÖM MAH (BOZKANAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BİRİK MAH (DİLEKTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BOZKANAT KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "CANUT MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "CEMALAN MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "CEMİL MAH (İNANDIK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "CEVİZLİ MAH (MUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ÇALLI MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ÇATALDERE MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ÇEŞMELİ MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ÇIKRIKLI MAH (ŞİMŞİRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ÇIRALTI MAH (DİLEKTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DEĞİRMEN DERE MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DEĞİRMENDERE MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DELİ MAH (DOĞUYELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DEREMALAN MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DERİNDERE MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DERSOR MAH (ASMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DERVİŞ MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DİKKAYA MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DİLEKTEPE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DİLOVA MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DİYAR MAH (ELBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DOĞUYELİ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DURAKLI MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DURMUŞLU MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DUYGULU MAH (YENİBAŞAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DÜZ MAH (SÜKYAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "DÜZAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "EFENDİDERESİ MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "EĞRİDERE MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ELBAŞI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ELMASIRTI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ELYAN MAH (DOĞUYELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ERDEMLER MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ESKİKÖY MAH (MUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ESKİKÖY MAH (OYMAPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ESKİKÖY MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "EŞMETAŞ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GAÇIR MAH (BOZKANAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GAMIR MAH (DOĞUYELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GELİNTEPE KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GENÇTAVUS KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GERMİK MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GIRİS MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GOZER MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GÖKSU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GÖL MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GÖL MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GÖMDEVDO MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GÖRT MAH (BOZKANAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GÖZÜBÜYÜK MAH (MUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GÜLTEPE MAH (GELİNTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GÜNDOĞDU MAH (YİĞİTHARMAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "GÜZELDERE MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HALİDAN MAH (OYMAPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HALİLLER MAH (OYMAPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HARABEDÜZÜ MAH (BOZKANAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HASAN MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HASENAN MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HATUN MAH (MURAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HAZARŞAH KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HOR MAH (SÜKYAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HORKUM MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HOSİR MAH (OYMAPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HUN MAH (OYMAPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "İNANDIK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KABAKLI MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KAFZELİN MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KANDOZ MAH (MURAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KAPAKLI MAH (ARSLANBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KARAN MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KARATAY MAH (ASMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KARTAL MAH (EŞMETAŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KARYAĞDI MAH (SÜKYAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KAVACIK MAH (SÜLÜNKAŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KAVAKLI MAH (BOZKANAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KAVAKLIDERE MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KAYABAĞ MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KAYALAR MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KEŞKAN MAH (YİĞİTHARMAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KINCAL MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KIRIK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KOKULUPINAR MAH (YENİBAŞAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KONAKBAŞI MAH (ARSLANBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KÖŞK MAH (YENİBAŞAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KUÇ MAH (DOĞUYELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KULAN MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KUŞTEPE MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KÜLLÜCE MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "KÜMBET MAH (SÜLÜNKAŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "LİÇ MAH (ARSLANBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "LİÇ MAH (DİLEKTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "LİÇ MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "MERGAN MAH (ASMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "MERKEZ KOMLER MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "MERKEZ MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "MEVLAGİRİŞ MAH (DOĞUYELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "MURAT KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "MURATÜSTÜ MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "MUTLUCA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "NASIRAN MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "NİŞRİK MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "OLUKLU MAH (SÜLÜNKAŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ORMANİÇİ MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ORTA MAH (YENİBAŞAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "OSMANAN MAH (KIRIK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "OYMAPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ÖĞRENCİK MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ÖMERLER MAH (SÜLÜNKAŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ÖZENGİLİ MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "PİSKİSOR MAH (YENİBAŞAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "PİYAMİ MAH (DOĞUYELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "POST MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "RÖLE ALTI MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SAHAK MAH (BOZKANAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SAMANLIK MAH (TARHAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SANSARLI MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SARIBAŞAK MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SEDAT MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SEPETLİ MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SEYDANGÖLÜ MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SIMIK MAH (ELBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SİMAN MAH (ELMASIRTI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SİNİKAN MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SİVRİTEPE MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SUSAN MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SÜKYAN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "SÜLÜNKAŞ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ŞENLİK MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ŞENOVA MAH (EŞMETAŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ŞEREFMEYDANI MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ŞİMŞİRPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "TANZUT MAH (OYMAPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "TARBAŞ MAH (DİLEKTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "TARHAN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "TAŞ MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "TAŞLIDERE MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "TAŞOLUK MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "TOPLUCA MAH (BOZKANAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "TURNA İSTASYONU MAH (BOZKANAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "TURNACIK MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "UYANIK MAH (BOZKANAT KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ÜNLÜCE MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ÜSTKARAN MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YAMANLAR MAH (ASMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YAYLADÜZÜ MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YAZMALI MAH (DİLEKTEPE KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YENİ MAH (YENİBAŞAK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YENİDAL KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YENİYERLEŞİM MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YENYERLEŞİM KOMLER MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YEŞİLOVA MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YİĞİTHARMAN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YUKARI ÇEŞMELİ MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YUKARI KARAN MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YUKARI KÖPRÜBAŞI MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YUKARI OTLUCA MAH (KIRIK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YUKARI YAYIKLI MAH (MUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YUKARI ZORK MAH (DOĞUYELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YUVA MAH (GENÇTAVUS KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YÜKSEKOVA MAH (SÜLÜNKAŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YÜREKLİ MAH (KIRIK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YÜZENADA MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ZAKARAN MAH (TARHAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ZEDİK MAH (HAZARŞAH KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ZİYARET MAH (DOĞUYELİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "ZİYARET MAH (YENİDAL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "BOĞLAN MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "HALİME PINAR MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "SOLHAN",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "ALINYAZI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "BAKIMLI MAH (ÇİKAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "BAŞPARMAK MAH (GÜNEŞLİK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "BOĞAZKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "BÖLÜKÖREN MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "ÇAY MAH (SÜRMELİKOÇ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "ÇAYLICA MAH (GÜNEŞLİK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "ÇİKAN KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "DAĞARCIK MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "DİKİLİTAŞ MAH (ÇALIKAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "DURUSU MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "DÜĞÜNLÜ MAH (KORLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "ELMACIK MAH (ÇAYAĞZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "EYÜPHAN MAH (KORLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "GÖKÇEDAL KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "GÖL MAH (KORLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "HACI KÖMÜ MAH (KORLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "HACI MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "HALİL MAH (ÇİKAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "KALECİK MAH (KALKANLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "KARADİKEN MAH (YAYLABAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "KAYADİBİ MAH (ÇAYAĞZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "KIRKAĞAÇ MAH (ÇALIKAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "KIRKÖY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "KULLAN MAH (BATIAYAZ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "KURT MAH (KALKANLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (BATIAYAZ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (BİLEKKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (ÇALIKAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (ÇATALKAYA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (ÇAYAĞZI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (DALBASAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (GÜNEŞLİK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (GÜNLÜK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (KALKANLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (KORLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (SÜRMELİKOÇ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (YAYLABAĞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH (ZEYNELLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "OVA MAH (BATIAYAZ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "ÖĞRENCİK MAH (GÜNLÜK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "ÖMERLER MAH (ZEYNELLİ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "ÖZLÜCE MAH (KALKANLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "SARIKONAK MAH (KALKANLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "SARP MAH (KALKANLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "TAŞDİREK MAH (GÜNLÜK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "YAĞMURDERE MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "YAKALI MAH (KORLU KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "YAVUZTAŞ MAH (YAVUZTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "YILDIZLI MAH (ÇİKAN KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "AKÇADAMLAR MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "CONAG MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "HAKTANIR MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "HASKÖY MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YAYLADERE",
+    "Mahalle": "YOLGÜDEN MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "AKIMLI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "AŞAĞI SALKIMLAR MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "AYANOĞLU KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "BÜYÜKDERE MAH (YAĞMURPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "ÇALTEPE MAH (GÜZGÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "ÇİÇEKLİ MEZRASI MAH (GELİNPERTEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "DİNARBEY KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "EKŞİPINAR MAH (YEŞİLGÖL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "ELMALI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "ESKİBALTA KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "GAZİ MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "GELİNCİK MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "GELİNPERTEK KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "GİYİMLİ MAH (KABAYEL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "GÖL MAH (GELİNPERTEK KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "GÖL MAH (KABAYEL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "GÜLEÇ MAH (GÜZGÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "GÜZGÜLÜ KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "HARMANLI MAH (GÜZGÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "HATUNTARLA MAH (KABAYEL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "HIRABA MAH (KABAYEL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "İBİŞ MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "K.Ç.DİNARBEY MAH (DİNARBEY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KABAYEL KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KARAPOLAT KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KASAR MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KAŞIKLI KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KATIRCI MAH (KABAYEL KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KOM MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KONUKLU MAH (GÜZGÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KOYUNCULAR MAH (GÜZGÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KÖY KARŞI MAH (YAĞMURPINAR KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "MERKEZ MAH (KAŞIKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "MERKEZ MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "MEZRA MAH (KAŞIKLI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "ŞEMO MEZRASI MAH (ESKİBALTA KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "UMURLU MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "YAĞMURPINAR KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "YAZIPINAR MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "YEŞİLGÖL KÖYÜ"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "YUKARI SALKIMLAR MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "YURT İÇİ MAH (GÜZGÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "DÖŞENGİ MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KABAOLUK MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "KOŞAN MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "BİNGÖL",
+    "ilçe": "YEDİSU",
+    "Mahalle": "YENİ MAH"
+  }
+]

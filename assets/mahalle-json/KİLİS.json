@@ -1,0 +1,1502 @@
+[
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "AĞYÜZ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "YALÇIN NANE MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "AKÇAĞIL KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "ALAHAN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "AŞAĞIBEYLERBEYİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "AYNAFAR MAH (YAĞIZKÖY KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "BEŞİRİYE KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "BULDUM MAH (GEÇERLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "CİRİS MAH (TAŞLIBAKAR KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "ÇANGALLI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "ÇARDAK MAH (AKÇAĞIL KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "ÇILDIROBA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "ÇİFTLİK MAH (AKÇAĞIL KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "DELHEMİ MAH (YAĞIZKÖY KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "ERİKLİYAYLA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "GEÇERLİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "GÖKTEPE MAH (GEÇERLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "GÜNECE KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "GÜVENDİK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "HACI ŞAKİR ÇİFTLİĞİ MAH (AŞAĞIBEYLERBEYİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "HAVUZLUÇAM KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "İKİZKAYA MAH (KALBURSAİT KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "KALBURSAİT KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "KAPLANLAR MAH (HAVUZLUÇAM KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "KARACURUN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "KARAÇAĞIL KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "KESMELİK MAH (AKÇAĞIL KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "KILCAN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "KUMSURUN MAH (GEÇERLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "KÜÇÜKBIYKIR MAH (ÇILDIROBA KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "MAHLİÖREN MAH (TURANLI KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "MERCANLI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "ÖZKANLAR MAH (YAĞIZKÖY KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "SAĞLICAK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "SALHAN MAH (ALAHAN KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "SARIEVLER MAH (HAVUZLUÇAM KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "SEKİZLER MAH (GÜVENDİK KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "SELMİNCİK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "SOLAK MAH (ERİKLİYAYLA KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "TAŞLIBAKAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "TİLKİP MAH (KARAÇAĞIL KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "TURANLI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "UĞURLAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "UZUNALİ MAH (ALAHAN KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "YAĞIZKÖY KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "YAZILIBAHAR MAH (HAVUZLUÇAM KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "YENİDEĞİRMEN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "YEŞİLYURT MAH (AKÇAĞIL KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "ELBEYLİ",
+    "Mahalle": "YILANLI MAH (KALBURSAİT KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ABDİOYMAĞI MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALBAY İBRAHİM KARAOĞLANOĞLU MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTINÜZÜM MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ASLAN MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞIT MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİLALİ HABEŞ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖLÜK MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKKÜTAH MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CANPOLAT PAŞA MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYLAK MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİLER MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEVECİLER MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞAN GÜREŞ PAŞA MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EBULÜLE MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKREM ÇETİN MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH SULTAN MEHMET MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI GÜMÜŞ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI İLYAS MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAKVERDİ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASAN KAMİL DEMİRBAŞ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HELVACIOĞLU MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HİNDİOĞLU MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNNAPLI KÜTAH MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSLAMBEY MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSMET PAŞA MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANUNİ SULTAN SÜLEYMAN MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAALİ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARTALBEY MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KETENCİLER MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MARAŞAL FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET ABDİ BULUT MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET RIFAT KAZANCIOĞLU MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET SANLI MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERCİDABIK MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEŞETLİK MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MIHALİ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUALLİM RIFAT BİLGE MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MULLAHAMİT MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜCAHİTLER MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜSLÜMANBEY MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NACAROĞLU MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAMIK ÜNLER PAŞA MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NECMETTİN ERBAKAN MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NEDİM ÖKMEN MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NURETTİN MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKÇULAR MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMAN GAZİ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OYLUM MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖNCÜ PINAR MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "POLAT PAŞA MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAÇ MEHMET ÇAVUŞ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT SAKIP MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞIH ABDULLAH MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞIH AHMET MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞIH MEHMET MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞIHLAR MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞÖRHABİL MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TABAKHANE MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEKYE MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TIRIKLI MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOSYALI MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VAİZ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAŞAR AKTÜRK MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAVUZ SULTAN SELİM MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEDİ ARALIK MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZEYTİNLİ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ACAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ACAR MAH (ACAR KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇABAĞLAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKDİLEK MAH (DURUCA KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKINCI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALATEPE KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİ GÜN MAH (YAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARPAKESMEZ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYBASTI MAH (DURUCA KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞMAĞARA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYRAMLI MAH (ÇÖRTEN KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞENLİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞİKKAYA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİLAL HABEŞİ MAH (YAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZCAYAZI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUĞDAYLI MAH (GÜNEŞLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BULAMAÇLI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKKONAK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CERİTLER KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKKALLIPINAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALKAYA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇERÇİLİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİLORLAR MAH (ÇERÇİLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖRTEN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKUROBA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DELİÇAY KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DELİOSMAN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRIŞIK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞANÇAY KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞANLI MAH (BOZCAYAZI KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÖLEK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DURUCA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELBEREN MAH (KARAÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GENÇTEPE MAH (KARAMELİK KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKTAŞ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZKAYA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLBABA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞSUYU KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVENLİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAPSE MAH (YAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HICIPOĞLU KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HİSAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HİZOLAR MAH (NARLICA KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜYÜKLÜ MAH (GÜVENLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNANLI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAPDEĞİRMENİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKOYUNLU MAH (DÖLEK KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMELİK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİLOLAR MAH (ÇERÇİLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCABEYLİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUSKUNKIRAN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZUİNİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜK MISIRCIK MAH (MISIRCIK KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKKONAK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKMAYA MAH (ÇUKUROBA KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜRTÜNCÜ MAH (GÜVENLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAĞARACIK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMETALİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MISIRCIK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NARLICA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORUÇLU MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OTLUCA MAH (SAATLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAATLİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAPKANLI MAH (GÜLBABA KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİNAN PAŞA MAH (YAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜNGÜTEPE KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAHTALI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TANBIRALI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞPINAR MAH (ÇALKAYA KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPDAĞI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNLU KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAMAÇ BEŞENLİ MAH (BEŞENLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAVUZ MAH (YAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI BEŞENLİ MAH (BEŞENLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "AĞCAKENT KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "AŞAĞIBADEMLİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "AŞAĞIKALECİK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "BALIKLI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "BELENTEPE KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "BOGAZKİRİM MAH (DORUCAK KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "BOZKAYA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "ÇAKMAK MAH (KÖRAHMETHÜYÜĞÜ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "ÇAYIRALTI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "ÇINARKÖY KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "DORUCAK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "DUTLUCA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "FERİCEK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "FIRLAKLI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "GEÇİTBOYU KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "GÖKMUSA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "GÖVCELİ MAH (AŞAĞIBADEMLİ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "GÖZLÜCE KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "GÜNDEĞER KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "HASANCALI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "HAYDARLAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "HÜSEYİNOĞLU KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KARADUT KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KARBEYAZ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KAYAPINAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KAYNAKLI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KIZILKENT KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KOCALAR MAH (KÖRAHMETHÜYÜĞÜ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KOÇCAĞIZ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KOLPINAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KOZLUBAĞ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KÖRAHMETHÜYÜĞÜ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KURTARAN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "KÜRTÜNCÜ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "MADENYOLU KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "ORTAOBA MAH (KIZILKENT KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "ÖTEKİOBA MAH (KIZILKENT KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "SABANLI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "SEYDOLAR MAH (FIRLAKLI KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "ŞENLİKÇE KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "TAHTALIKARADUT KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "TAT GEMRİGİ MAH (FERİCEK KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "TOKAÇGEMRİĞİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "TOPALLAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "UGURCA MAH (UĞURTEPE KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "UĞURTEPE KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "ÜÇEVLER MAH (HASANCALI KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "ÜÇPINAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "YASTICA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "YATAĞAN MAH (GÜNDEĞER KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "YEDİGÖZ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "YEŞİLOBA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "YUKARI MADENYOLU MAH (MADENYOLU KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "YUKARIBADEMLİ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "YUKARIKALECİK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "YUVABAŞI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "ZEYTİNBAĞI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "MURATHÜYÜĞÜ MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "MUSABEYLİ",
+    "Mahalle": "PINAR MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "BAĞARASI KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "BEKTAŞOĞLU KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "BELENÖZÜ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "BOZKAYA MAH (YENİYAPAN KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "ÇELİK MAH (ÖMEROĞLU KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "DÜMBÜLLÜ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "EĞLEN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "EVRENTEPE MAH (YENİYAPAN KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "EVRENTEPE YOLU MAH (YENİYAPAN KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "KARACURUN MAH (YENİYURT KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "KARAPINAR MAH (YILANCA KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "KIZILGÖL KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "KOÇLAR MAH (YENİYAPAN KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "ÖMERCİK KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "ÖMEROĞLU KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "POLATBEY KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "TAŞLIALAN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "TEKDAM MAH (DÜMBÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "ÜRÜNLÜ KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "YENİKÖY MAH (DÜMBÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "YENİYAPAN KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "YENİYAPAN MAH (DÜMBÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "YENİYURT KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "YEŞİLPINAR KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "YILANCA KÖYÜ"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "EKREM ÇETİN MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "KAYMAKAM KÜRŞAT AĞCA MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "SOSYAL KONUTLAR MAH"
+  },
+  {
+    "il": "KİLİS",
+    "ilçe": "POLATELİ",
+    "Mahalle": "ŞEHİT ALİ MAH"
+  }
+]

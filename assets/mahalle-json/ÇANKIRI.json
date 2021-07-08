@@ -1,0 +1,3132 @@
+[
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "GAZİBEY MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "HOCA MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "İLKER MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "KIRAN MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "MOLLAOSMAN MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "BOZKUŞ MAH (ÇARDAKLI BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "CUMHURİYET MAH (ÇARDAKLI BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "HÜRRİYET MAH (ÇARDAKLI BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "MUSTAFA KEMAL MAH (ÇARDAKLI BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "NEVZAT AYAZ MAH (ÇARDAKLI BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "BUDAKPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "DEMİRCİLER MAH (KÜKÜRT KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "DEMİRLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "DERE MAH (YAKALI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "EYÜPÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "HÜYÜKKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "ILIPINAR MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "KADIGİL MAH (YAKALI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "KIZILİBRİK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "KOLAVLAĞI MAH (KÜKÜRT KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "ORTA MAH (KÜKÜRT KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "ORTA MAH (YAKALI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "SUSUZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ATKARACALAR",
+    "Mahalle": "ZEVDEŞ MAH (KÜKÜRT KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "KÖPRÜLÜBEY MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "ZÜBEYDE HANIM MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "AKGÜNEY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "AKSEKİ MAH (AKSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "ALUÇ MAH (AKSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "AŞAĞI MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "AŞAĞI MAH (İNCEKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "AŞAĞI MAH (KARAKUZU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "AŞAĞI MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "BELENLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "BOĞAZKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "BÜRÜMCEK MAH (İNCEKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "ÇAMDİBİ MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "DAHANLAR MAH (KARAKUZU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "DALKOZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "DERE MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "DERE MAH (KARAKUZU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "DOĞAN MAH (YUSUFOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "DOLAŞLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "ECÜK MAH (TOPÇU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "EKİNCİK MAH (KAVAKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "ERENLER KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "EVKADI MAH (ÇAYIRCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "FERİZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "GÖKÇUKUR MAH (TOPÇU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "GÜLLÜPINAR MAH (İNCEKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "HACILAR MAH (ÇAKIRBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "HACILAR MAH (KARAKUZU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "HARMANCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "HASANLAR MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "İMATLAR MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "KARABÜK MAH (KAVAKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "KARAKIŞLA MAH (YUSUFOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "KARAOLUK MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "KARATAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "KAVAKDİBİ MAH (YUSUFOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "KIŞLA MAH (YUSUFOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "KIYAN MAH (YUSUFOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "KOÇLU KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "MERKEZ MAH (ÇAKIRBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "MERKEZ MAH (ÇAYIRCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "MERKEZ MAH (KAVAKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "MERKEZ MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "MERKEZ MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "MERKEZ MAH (TOPÇU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "MERKEZ MAH (YUSUFOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "ORTA MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "OVA MAH (TOPÇU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "OYMAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "ÖREN MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "ÖTEDAĞ MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "SAZAK MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "SAZAK MAH (TOPÇU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "SOĞUKOLUK MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "ÜÇGAZİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "YAYLA MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "YAYLA MAH (KARAKUZU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "YAYLATEPESİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "YAZIÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "YUKARI MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "YUKARI MAH (İNCEKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "YUKARI MAH (KARAKUZU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "YUKARI MAH (YUSUFOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "BAYRAMÖREN",
+    "Mahalle": "YURTPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ÇERKEŞ OSB MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "İDRİS MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KARAMUKLU MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KURTLAR MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "OKÇULAR MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ULUSU MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YENİ KENT MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ABDULLAR MAH (DAĞÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "AĞACA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "AHALLAR MAH (ÖRENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "AKBAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ALİÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "AVDAN YAYLASI MAH (YEŞİLÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "BAYINDIR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "BEDİL KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "BEY MAH (GÖKÇELER KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "BOYUNCAK MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "BOZCAARMUT MAH (KISAÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "BÖLÜKÖREN MAH (GÖYNÜKÇUKURU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ÇAKMAK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ÇETİN MAH (ÇALCIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ÇOROĞLU MAH (ÇALCIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ÇÖMLEKÇİ MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "DAĞLI MAH (GÖYNÜKÇUKURU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "DERE YAYLA MAH (ÖRENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "DODURGA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ELPİREK MAH (YAKUPLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ERENLER MAH (GÖKÇELER KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "EYMÜR MAH (ŞEYHDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "FINDICAK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "GELİK MAH (GELİK OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "GÜVEM MAH (ÇAYLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "HALKAOĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ILICA MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "İNCEGEZ MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KABAK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KADIÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KARAAĞAÇ MAH (BELKAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KARAKOCA MAH (KUZÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KARAMUSTAFA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KARAŞAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KARGA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KINIK MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KIŞLA MAH (BEYMELİK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KİRENÖZÜ MAH (YIPRAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KUZDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KÜRÜZ MAH (BAYINDIR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (AKHASAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (BELKAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (BEYMELİK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (BOZOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (ÇALCIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (ÇAYLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (ÇÖRDÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (DAĞÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (DİKENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (GELİK OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (GÖKÇELER KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (GÖYNÜKÇUKURU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (KARACAHÖYÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (KISAÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (KİREMİTÇİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (KUZÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (ÖRENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (ÖRENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (ŞEYHDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (TÜRBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (YAKUPLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (YEŞİLÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MERKEZ MAH (YIPRAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "MEYDAN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "NAHALLAR MAH (ÖRENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ÖMERLER MAH (DAĞÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ÖRENCİK MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ÖRENCİK MAH (TÜRBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "SONGEÇİT MAH (ÇÖRDÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "TAŞANLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "TOHUMLAR MAH (YIPRAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "ULUKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YALNIZCA MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YAYLA EVLERİ MAH (DİKENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YAYLA MAH (TÜRBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YEŞİLOVA MAH (YEŞİLÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YEŞİLÖREN MAH (GÖYNÜKÇUKURU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YONCALI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YORTAN MAH (KİREMİTÇİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YÖRÜK MAH (ÇAYLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YUMAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YUSUFOĞLU MAH (KUZÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "GÜZELYURT MAH (SAÇAK BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "KAYABAŞI MAH (SAÇAK BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YALIÖZÜ MAH (SAÇAK BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ÇERKEŞ",
+    "Mahalle": "YENİ MAH (SAÇAK BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "BEYDERE MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "TOPRAKLIK MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "AKBULUT KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "AKÇALI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "ALVA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "BEŞEVLER MAH (HİSARCIKKAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "BÜYÜKHACIBEY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "ÇALIDERE-YIĞINDAŞ MAH (SARAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "ÇİFTLİKKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "ÇUKURÖZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "ELMACI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "GÖLEZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "GÖMENE MAH (GÖLEZKAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "HİSARCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "KÖY İÇİ MAH (GÖLEZKAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "KÖY İÇİ MAH (HİSARCIKKAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "KÜÇÜKHACIBEY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "SARAYKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "SARITARLA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "SEYDİKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ELDİVAN",
+    "Mahalle": "YUKARIYANLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "GAZİ DEDE MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ŞENTEPE MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ULUPINAR MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YAVUZ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ZİRAAT MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "AKCAÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "AKTAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ALIÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ALPAGUT KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ARPAYERİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ASAR MAH (ÖDEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "AŞAĞI MAH (ALİBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "AŞAĞI MAH (OKCULAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "AŞAĞIBOZAN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "AŞAĞIDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "AŞAĞIMEYDAN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "AŞIKLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "BALCI MAH (BALCI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "BAŞARAZ MAH (YUVADEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "BAŞDİBEK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "BELÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "BELÖREN YENİCE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "BELSÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "BEYKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "BOZATLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "BÜKCÜK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "CANDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "CÖMERT KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ÇALTIPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ÇATAK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ÇELTİKBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "DÖNAŞA MAH (MÜLAYIM KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "DÜZ MAH (MÜLAYIM KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "EKSİK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ERİCEK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ESKİCE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "GAZİLER KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "GÜNEYKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "HACIHASAN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ILISILIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "İKİKAVAK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "İNKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KALEKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KARATAŞ MAH (ALİBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KAVAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KAYI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KESEKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KIRIŞLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KISSENİR MAH (KAZANCI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KIŞLA MAH (YUKARIDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KIYISIN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KIZILIBRIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KÖY MERKEZİ MAH (SERÇELER KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KURMALAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KUŞÇAYIRI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "KUYUPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "LÜLLÜK MAH (ÇÖREKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MEMETLER MAH (GÖKCEYAZI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MENŞER MAH (YUKARIDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MERKEZ MAH (ALİBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MERKEZ MAH (BALCI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MERKEZ MAH (GÖKCEYAZI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MERKEZ MAH (KAZANCI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MERKEZ MAH (OKCULAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MERKEZ MAH (SARMAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MERKEZ MAH (ŞEYHYUNUS KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MERKEZ MAH (YEŞİLDUMLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MERKEZ MAH (YUKARIDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MERKEZ MAH (YUVADEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MESUTÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MURAT HACI MAH (MÜLAYIM KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MUSAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MÜLAYİM MAH (MÜLAYIM KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "MÜLAYİM YENİCE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ONAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ORTA MAH (MÜLAYIM KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ORTA MAH (ÖDEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ÖMERLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "SAĞIRLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "SARAY MAH (ÖDEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "SATILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "SAZAK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "SEKİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "SERÇELER YAYLASI MAH (SERÇELER KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "SEZGİNLER MAH (ILISILIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "SÖĞÜTCÜK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "SÜLEYMANHACILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "ŞEYHYUNUS MAH (ŞEYHYUNUS KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "TERZİLER MAH (GÖKCEYAZI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YAKA MAH (ÇÖREKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YALAYCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YARAĞZI MAH (ÇÖREKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YAYLAÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YAZIKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YENİDEMİRCİLER KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YERKUYU KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YUKARI SARMAŞIK MAH (SARMAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YUKARIBOZAN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YUKARIMEYDAN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ILGAZ",
+    "Mahalle": "YUVASARAY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "HÜSEYİNLİ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "OSMANLI MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "AŞAĞIALEGÖZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "AŞAĞIOVACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "BAYANPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "BOSTANLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "BOYACIOĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "BÜYÜKBAHÇELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "CACIKLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "GAZİBEKİR MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "GÜNEYKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "HALLAÇLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KAHYALI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KAPAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KARADİBEK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KARALLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KARAMÜRSEL KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KARAÖMER KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KAVLAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KEMALLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KORÇULLU KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KUZEYKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "KÜÇÜKBAHÇELİ MAH (TEPEALEGÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "SAKARCA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "SULTANÇİFTLİĞİ MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "TEPEALEGÖZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "TIMARLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "YENİYAPAN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KIZILIRMAK",
+    "Mahalle": "YUKARIALEGÖZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "BÜYÜK MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "BÜYÜKOSB MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "DOĞU MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "ULUDAĞ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "ALPSARI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "BATIBELİ MAH (DİKENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "BUĞAY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "HICIP KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "IKIN YAYLASI MAH (MARUF KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "ILDIZIM KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "ILDIZIM YAYLASI MAH (ILDIZIM KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "İKİÇAM KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "KARATEKİN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "KAŞ YAYLA MAH (MARUF KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "KAYIÇİVİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "KESECİK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "MARUF KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "MERKEZ MAH (DİKENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "SANI YAYLASI MAH (MARUF KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KORGUN",
+    "Mahalle": "ŞIHLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "BEŞPINAR MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "CÖMERTLER MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "ÇAL MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "HACI BEKİR MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "KALEKAPU MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "MÜSLÜM MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "YEŞİL MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "AĞILÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "BAŞOVACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "BEREKET KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "ÇATKESE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "ÇAYLICA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "ÇIRDAK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "ÇİYNİ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "DAĞÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "DEMİRCİÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "EKİNLİ MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "ESKİAHIR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "FATİH MAH (ÇAVUNDUR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "FATİH MAH (SİVRİCEK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "GÖLLÜCE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "HOCAHASAN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "HÜRRİYET MAH (ÇAVUNDUR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "İĞDİR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "KAPAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "KIZILCA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "KÖPÜRLÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "MADENLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "MERKEZ MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "MERKEZ MAH (DUMANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "MERKEZ MAH (HACIMUSLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "MERKEZ MAH (SARIALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "MERKEZ MAH (TAŞKARACALAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "PINARCIK MAH (SARIALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "SUMUCAK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "SÜNÜRLÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "UZUNOĞLU MAH (SARIALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "YENİ MAH (SİVRİCEK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "YEŞİLÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "KURŞUNLU",
+    "Mahalle": "YEŞİLÖZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİBEY MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUĞDAY PAZARI MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNCİLİ ÇEŞME MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARATEKİN MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRKEVLER MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TABAKHANE MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHLAT KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇAVAKIF KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALICA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIPELİTÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALIBAĞI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALLICA MAH (AŞAĞIYANLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞEĞMEZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYINDIR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞTUT KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZKIR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAĞABEY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATALELMA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIRPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇIRÇIR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİFTLİK MAH (ÇİVİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DANABAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEDE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEDE MAH (ÇİVİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİM KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DUTAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GERMECE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GONCAOĞLU MAH (ALTINLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLBURUN MAH (KARADAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACİÖMER MAH (AĞZIBÜYÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HANDIRI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASAKÇA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAYDAM MAH (ALAÇAT KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIDIRLIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İÇYENİCE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNANDIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNCİK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARA CİCELİ MAH (TAYTAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKIŞLA MAH (SÜLEYMANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAŞEYH KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILIÇARGI ALTI MAH (AŞAĞIYANLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖY İÇİ MAH (AŞAĞIYANLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖY İÇİ MAH (ÇİVİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖY MERKEZİ MAH (DOĞANTEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖYİÇİ MAH (KARADAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZU KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKLÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AĞZIBÜYÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ALAÇAT KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ALTINLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TAYTAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÜNÜR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERZİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MOLLAMEHMET MAH (AĞZIBÜYÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH (TÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZ MAH (AŞAĞIYANLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PEHLİVANLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SATIYÜZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜLEYMANLI MAH (SÜLEYMANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPE MAH (AYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TERME MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TUZLAĞAN MAH (BALIBAĞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TUZLU KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜNEY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİDOĞAN MAH (DOĞANTEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILANLI MAH (DEDE KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIPELİTÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZAFER MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ABDULHALİK RENDA MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "AKÇAÖREN MAH (ELMALIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "BUĞURÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "BÜĞDÜZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "DEREBAYINDIR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "DOĞANLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "ELDEN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "ELVAN MAH (ELMALIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "FATİH MAH (ÖZLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "GÖKÇEÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "HACI HASAN MAH (KALFAT KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "HAMAMÖNÜ MAH (DODURGA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "HASANHACI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "HATİPLER MAH (KALFAT KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "HÜYÜKKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "İNCECİK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "KANARYA MAH (DODURGA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "KAYIÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "KIRSAKAL KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "KISAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "NALTEPE MAH (DODURGA KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "NEVZAT AYAZ MAH (KALFAT KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "ORTABAYINDIR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "SAKAELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "SAKARCAÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "SALUR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "SANCAK MAH (ÖZLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "SANCAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "SEYDİ MAH (ELMALIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "SÜNNETÇİLER MAH (KALFAT KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "TAŞLI TARLA MAH (TUTMAÇBAYINDIR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "TUTMAÇBAYINDIR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "YAYLA EVLERİ MAH (ELDEN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "YAYLA EVLERİ MAH (GÖKÇEÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "YAYLA EVLERİ MAH (HASANHACI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "YENİ HARMAN YERİ MAH (ELDEN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "YENİ ORTABAYINDIR MAH (ORTABAYINDIR KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "YUVA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "CEM SULTAN MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "ESKİ YAYLA MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "KANLICA MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "SULTAN BEYAZIT MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "CUMHURİYET MAH (YAYLAKENT BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "HÜRRİYET MAH (YAYLAKENT BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "İNKİLAP MAH (YAYLAKENT BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ORTA",
+    "Mahalle": "KAYILAR MAH (YAYLAKENT BELDESİ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "BAKIRLI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "BULDUK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "BULGURCU KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "BÜYÜKYAKALI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "ÇADIR MAH (MARTKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "ÇAPAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "ÇAPARKAYI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "ÇERÇİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "DEMİRSAHAN MAH (ÖDEK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "DEPREM KONUTLARI MAH (KAMIŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "GÖLDAĞI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "GÜNDOĞMUŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "KAMIŞKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "KARAHACI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "KARAKOÇAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "KARAMUSA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "KAYAPINAR MAH (ÇAPARKAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "KURTSİVRİSİ MAH (ÖZBEK KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "KUTLUŞAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "KÜÇÜKYAKALI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "MARTKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "OLUKLU MAH (ÇAPARKAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "ÖDEK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "ÖZBEK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "SIRIKLI MAH (GÜNDOĞMUŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "GÜMERDİĞİN MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "GÜRPINAR MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "KARAÖREN MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "ŞABANÖZÜ",
+    "Mahalle": "YENİOSB MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "AŞAĞIÖZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "AYSEKİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "AYVA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "BADEMÇAY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "BALIBIDIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "BELİBEDİR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "BUĞAY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "BULUCA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "BÜYÜK CAMİ MAH (YÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "BÜYÜKAKSEKİ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "ÇAKIRLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "ÇEVRECİK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "ÇİÇEK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "DAVUTLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "DOĞANBEY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "GÜRMEÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "KARACAÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "KAYACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "KAYMAZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "KIVCAK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "KİRLİAKÇA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "KULLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "MÜSELLİM KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "OVACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "SAZCAĞIZ KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "SOFUOĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "SUBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "ŞEYH İSMAİL MAH (YUKARIÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "ŞEYH OSMAN KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "TOPUZSARAY KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "YAKA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "YAKADERE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "YAMAÇBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "YENİ MAH (İKİZÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "ZEKERİYA KÖYÜ"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "AKYAZI MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "İĞDİR MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "KAVAK MAH"
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilçe": "YAPRAKLI",
+    "Mahalle": "YUKARI MAH"
+  }
+]

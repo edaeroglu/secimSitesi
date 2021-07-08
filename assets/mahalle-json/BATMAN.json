@@ -1,0 +1,3692 @@
+[
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "BAĞDU MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "BEHREM YOĞUN MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KOBİN MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "MEHMET YATKIN MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "MİLLİ EGEMENLİK MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KARADUMAN MAH (İKİKÖPRÜ BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KIYANÇ MAH (İKİKÖPRÜ BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "TURGUT ÖZAL MAH (İKİKÖPRÜ BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "AĞILCIK MAH (ÖRMEGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "AKTAŞ MAH (KAŞÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ALACA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ALIÇLI MAH (İNPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ALİ BEY MAH (DURUCAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ARILI MAH (KAYATEPE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ASMADERE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "AŞAĞI KÜRSÜ MAH (OTLUCA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "AŞAĞI ÜRÜNLÜ MAH (DURUCAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ATBAĞI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "AYIŞIĞI MAH (ESENCE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "AYRANCI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "BAŞARI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "BAŞLAMIŞ MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "BAYRAMLI MAH (ESKİHAMUR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "BEŞPINAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "BEYÇAYIRI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "BIGEVRA MAH (ESKİHAMUR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "BİLEK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ÇAKILLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ÇAMLITEPE MAH (ESKİHAMUR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ÇAVUŞBAYIRI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ÇAY KENARI MAH (SAMANLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ÇAYKENARI MAH (DURUCAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ÇIĞIRLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DAĞYOLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DANACI MAH (KAŞÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DANALI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DAYILAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DEĞİRMENÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DEMİRDÖVEN MAH (IŞIKVEREN KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DEVEBOYNU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DOĞANKAVAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DOĞANPAZARI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DORUKLU MAH (BEŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DÖŞEME MAH (ESKİHAMUR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "DURUCAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "EKİNCİLER MAH (KUŞÇUKURU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ESENCE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ESKİHAMUR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "GEDİKLİ MAH (YAZIHAN KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "GÖKTAŞ MAH (DOĞANPAZARI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "GÜVERCİNLİK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "HANLI MAH (KUMÇAY KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ILICA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "IŞIKVEREN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "İKİYAKA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "İNPINAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "İSLAM MAH (ESKİHAMUR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "İSLAMKÖY MAH (DURUCAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KALE MAH (YALINKAVAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KAPAKLI MAH (BAHÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KARATAŞ MAH (KAŞÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KARATEPE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KAŞÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KAYATEPE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KESİKTAŞ MAH (ALACA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KEZİK MAH (ESKİHAMUR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KIŞLACIK MAH (OĞUZ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KÖKEBİ MAH (ESKİHAMUR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KUMÇAY KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KUMGEÇİT KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KUMRULU MAH (KÜTÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KURUKAVAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KUŞÇUKURU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "KÜTÜKLÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "MEYDANCIK MAH (KUMGEÇİT KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "MEZELKAN MAH (KUŞÇUKURU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "NEJAN MAH (ESKİHAMUR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "NURETTİN MAH (BİLEK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "OĞUZ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ONBAŞI MAH (OĞUZ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH (ÖRMEGÖZE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ORTAALAN MAH (KURUKAVAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "OTLUCA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ÖRMEGÖZE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "PİRİNÇLİK MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "POMPALI MAH (IŞIKVEREN KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "REMİKAN MAH (BİLEK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "SAMANLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "SAPANLI MAH (YALINCA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "SÜTLÜCE MAH (BEŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "TEKAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "TEPECİK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "UĞURCA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "ÜÇKUYULAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YAĞLICA MAH (ÇAKILLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YAKACIK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YALINCA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YALINKAVAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YARIMTAŞ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YAVUZ MAH (OĞUZ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YAZIHAN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YAZYURDU MAH (BAHÇELİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YENİ MAH (İNPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YENİPINAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YENİYOL KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YEŞİLOBA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YOLBOYU MAH (DURUCAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YOLKONAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YONTUKYAZI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YUKARI BAYRAMLI MAH (ESKİHAMUR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YUKARI KÜRSÜ MAH (OTLUCA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YUKARI ÜRÜNLÜ MAH (DURUCAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "BEŞİRİ",
+    "Mahalle": "YUMRUKAYA MAH (İKİYAKA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ÇUKURÇEŞME MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "PINARBAŞI MAH (KAYAPINAR BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "YEŞİLYURT MAH (KAYAPINAR BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "AKARCA MAH (ARDIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "AKBAŞ MAH (ARDIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "AKBURÇ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "AKÇA MAH (BOĞAZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "AKYAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ARDIÇ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ARDIÇLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ARICA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ARIK MAH (BAĞÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "AYDINCA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "AYDINLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "BABNİR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "BAĞLICA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "BAĞÖZÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "BAŞARKÖY KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "BAŞOVA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "BECİRMAN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "BOĞAZKÖY KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ÇALIŞKAN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ÇUKURYURT KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "DEREİ MAH (YAYLADÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "DEREİÇİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "DERELİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "DİREKLİ MAH (ARDIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "DORUK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "DÜZMEŞE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ESENTEPE MAH (KARALAN KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "EYMİR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "GEÇİT KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "GÖKÇE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "GÖKÇEPINAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "GÖNÜLLÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "GÜRBÜZ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "GÜZELÖZ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "HANİK MAH (ARDIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "HAYDARPAŞA MAH (ARDIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "HİSARMERKEZ MAH (HİSAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KANİYA DELAVA MAH (YAKITLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KANTAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KARALAN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KAYALAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KAYNARCA MAH (GÜZELÖZ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KELAN MAH (ARDIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KESİKSU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KIRKAT KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KIŞLAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KOÇAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KONAK MAH (KIRKAT KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KOYUNLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KOZLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KÖMÜRCÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "KUTLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "MAĞARALI MAH (AYDINLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "MURATLI MAH (ARDIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "NURLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ÖTEYAKA MAH (KIRKAT KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ÖZLER KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "POYRAZ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "RÜZGARLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "SARGIN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "SEKİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "SERİNKÖY KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "SEYRANTEPE MAH (ARDIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "TAŞÇI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "TEPECİK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "TUTUMLU MAH (ÇUKURYURT KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "ULAŞ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "YAKITLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "YAMANLAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "YASSICA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "YAYLADÜZÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "YEMİŞLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "YOLAĞZI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "GERCÜŞ",
+    "Mahalle": "YÜCEKÖY KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "AKALIN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "AKSU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "ATLIHAN MAH (KUMLUCA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "BAYIRLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "BÜYÜKDERE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "ÇARDAKLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "DİCLE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "EYYUBİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "IRMAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "İNCİRLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "KARAKÖY KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "KAVACIK MAH (IRMAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "KAVAK MAH (ÜÇYOL KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "KAYIKLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "KELEKÇİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "KUMLUCA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "ÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "PALAMUT KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "RAMAN MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "SAKLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "UZUNDERE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "ÜÇYOL KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "YAKAKÖY KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "HASANKEYF",
+    "Mahalle": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ADNAN MENDERES MAH (BEKİRHAN BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GÜLPINAR MAH (BEKİRHAN BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ORTAÇAY MAH (BEKİRHAN BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TURGUT ÖZAL MAH (BEKİRHAN BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YAPRAKLI MAH (BEKİRHAN BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "AŞAĞIGÜNEŞLİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "HAMAM MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "İSLAMBEY MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KOMANDO MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SELAHADDİNİ EYYÜBİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ŞEMDİNAĞA MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YAMAÇLI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YUKARI GÜNEŞLİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "AĞAÇLIK MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "AĞILBAŞ MAH (BEŞKONAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "AĞLEMK MAH (KOÇAKLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "AKAĞAÇ MAH (KAMIŞLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "AKÇAKIŞLA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "AKÇALI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "AKSARAY MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ALACA MAH (YENİDOĞAN ASE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ALIÇLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ARIKAYA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ARIKBAŞI MAH (YAZILI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ARMUTLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ASLAN KÖY MAH (KUMLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ASLANLI MAH (DANAGÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "AŞAĞIKIRATLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ATALAR MAH (AKÇAKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "AVA MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "BACAK MAH (YENİÇAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "BAHÇELİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "BAŞEYMEZ MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "BEKİRHAN YENİDOĞAN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "BEŞEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "BEYBAĞI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "BÖLÜKKONAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "BUDAKLI MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "BULGURLU MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "CAMİLİ MAH (ULAŞLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "CEMALO MAH (İNİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "CİNDO MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAKIRLAR MAH (ÇAYÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAVUŞLU MAH (YANIKKAYA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAY KENARI MAH (ÇAYÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAY MAH (DANAGÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAY MAH (DERİNCE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAYGEÇİT KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAYHAN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAYÖNÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇAYÖNÜ MAH (ZİYARET KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÇEVRECİK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DAMARLI MAH (AKÇAKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DANAGÖZÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DELAVA MAH (BEYBAĞI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DERE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DERİNCE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DİKBAYIR MAH (ARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DİKENLİ MAH (GÜLLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DİLİMLİ MAH (ÇAYÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DOĞANCIK MAH (TAŞLIDERE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DÖVECİK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DUTLUCA MAH (AKÇAKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "DUYGULU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ESENTEPE MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ESHABE MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ESİNLİK MAH (BEŞKONAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ESKİCE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GEÇİTALTI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GELŞE MAH (GEÇİTALTI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GERTAVİ MAH (YANIKKAYA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GEYİKLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GOLAZENG MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GÖKBUDAK MAH (ARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GÜLOVASI MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GÜLTEPE MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GÜMÜŞÖRGÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GÜNDÜZLÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GÜNYAYLA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "GÜVEÇLİ MAH (KOÇAKLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "HANDELU MAH (TAŞLIK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "HASKÖY MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "HAZARİ MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "IRMAK MAH (ARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "İKİPINAR MAH (GEÇİTALTI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "İNANLI MAH (KALETEPE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "İNCİLİ MAH (ÇAYÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "İNCİRLİK MAH (TOSUNPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "İNİŞLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KAHVECİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KALE MAH (ULAŞLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KALE MAH (YILDIZLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KALETEPE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KALKANCIK MAH (GÜNDÜZLÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KANİYEBİNE MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KARAOĞLAK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KARPUZLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KARPUZLU MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KARSER MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KARŞIYAKA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KAVAKDİBİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KEKLİKPINAR MAH (ULAŞLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KESELİ MAH (YAZILI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KETTI MAH (KOÇAKLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KOCABEY MAH (KUMLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KOÇAKLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KONAKLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KOYUNCULAR MAH (ÜNSALDI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KÖMK MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KÖMÜRLÜ MAH (ÖRENSU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KÖSELER MAH (YAZILI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KULLUDERE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KUMLUPINAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "KURŞUNLU MAH (ÇAYÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "MERCAN MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "MERCE MAH (KARAOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "MERGEDERE MAH (GEYİKLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "METİNGA MAH (DUYGULU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "NAVALA MAH (YUKARIKIRATLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "OKÇULAR MAH (YAYALAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ORTA MAH (KAVAKDİBİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ORTA MAH (ZİYARET KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ORTACA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "OYUKTAŞ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÖRENSU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÖRNEK MAH (TUZLAGÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "PARMAKKAPI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "PINARHİSAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SALİHLİ MAH (KAVAKDİBİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SAMANYOLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SARIDA MAH (ARMUTLU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SARIKUŞ MAH (YANIKKAYA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SATI MAH (ESKİCE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SEYHAN MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SEYİTLER KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SEYİTLER MAH (ESKİCE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SEYMENLER MAH (UZUNYAZI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SEYRANTEPE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SEYRANTEPE MAH (YENİDOĞAN ASE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SOĞUKPINAR MAH (KAVAKDİBİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SORK MAH (YENİDOĞAN ASE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SOYLU MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SOYLU MAH (YAYALAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SUGESİYE MAH (GEÇİTALTI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SÜLEYMANA MAH (GÜLLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "SÜLEYMANLAR MAH (BEŞKONAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ŞAKULİ MAH (TAŞLIK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ŞERİKAN MAH (BEŞKONAK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ŞÖPİR MAH (YENİDOĞAN ASE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TAAVA MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TAŞLIDERE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TAŞLIK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TAŞOLUK MAH (DANAGÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TEKELİ MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TEPECİK MAH (YENİDOĞAN ASE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TEPELİ MAH (İNİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TEPEÜSTÜ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TOMURCAK MAH (ULAŞLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TOPTAŞ MAH (KUMLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TOSUNPINAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TUNÇBİLEK MAH (İNİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "TUZLAGÖZÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "UĞURLU MAH (UZUNYAZI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ULAŞLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ULUCANLAR MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "UZUNÇAYIR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "UZUNYAYLA MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "UZUNYAZI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÜÇYOL MAH (KARPUZLU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÜNSALDI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ÜZÜMLÜ MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YANIKKAYA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YANKILI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YAPAKLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YAYALAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YAZILI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YAZPINAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YEDİBÖLÜK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YEMİŞLİK MAH (ARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YENİ MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YENİÇAĞLAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YENİDOĞAN ASE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YENİKÖY MAH (ÇAYÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YEŞİLKÖY MAH (UZUNÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YEŞİLÖZ MAH (KALETEPE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YEŞİLTEPE MAH (KOÇAKLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YEŞİLTEPE MAH (PINARHİSAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YEŞİLYURT MAH (OYUKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YILDIZLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YOKUŞ MAH (TUZLAGÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YOLALTI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YOLBAŞI MAH (DUYGULU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YOLKENARI MAH (ÇAYÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YOLÜSTÜ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YUKARI ŞAT MAH (TOSUNPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YUKARI ZİYARET MAH (ZİYARET KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YUKARIKIRATLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "YUVACIK MAH (TAŞLIDERE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ZİYARET KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "KOZLUK",
+    "Mahalle": "ZORLUCA MAH (ULAŞLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEGİRKAN MAH (BALPINAR BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYRANTEPE MAH (BALPINAR BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİKÖY MAH (BALPINAR BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİMAHALLE MAH (BALPINAR BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "19 MAYIS MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDINLIKEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HUZUR MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İLUH MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KISMET MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELDE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUDİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLITEPE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAP MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KORİK MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAFAK MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞİRİNEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TİLMERC MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GİRBEREŞİK MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HİLAL MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAZARYERİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RAMAN MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZİYAGÖKALP MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKOBA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AZİZİYE MAH (YAYLICA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BADELEN MAH (KAYABAĞI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYRAKLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELİKLİ MAH (GÜNEŞLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEST MAH (BİNATLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BIÇAKÇI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİNATLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇARIKLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYELİ MAH (DEMİRLİPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEŞMEBAŞI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEVRİMOVA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRBİLEK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİ MAH (AKOBA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRLİPINAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİKTEPE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOLUCA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH (DOLUCA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EVERCİ MAH (KUYUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLBAŞI MAH (DİKTEPE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVERCİN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI ÖMER MAH (ÇAYÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HANLI MAH (BİNATLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAYÜN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARDELEN MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYABAĞI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KESMEKÖPRÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILIÇ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRMATAŞ MAH (KAYABAĞI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCALAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOLBAŞI MAH (BİNATLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖSETARLA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMTEPE MAH (KÖSETARLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUYUBAŞI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NEVAL MAH (GÜNEŞLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKÇU MAH (KARAYÜN KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OLUKLU MAH (YAYLICA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OYMATAŞ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖDEMİŞ MAH (ÇARIKLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RECEPLER KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "REYHAN MAH (GÜNEŞLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALKIMLI MAH (ÇAYÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SELAMET MAH (BAYRAKLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİNCANLI MAH (OYMATAŞ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKSU MAH (OYMATAŞ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUÇEKEN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞERBET MAH (YAYLICA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEYHÇOBAN MAH (OYMATAŞ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UĞRAK MAH (YAĞMURLU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "URGANLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇTEPE MAH (GÜNEŞLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜNLÜCE MAH (OYMATAŞ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAĞMURLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAKITLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLICA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEDİYOL KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ KÖY MAH (DİKTEPE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLÖZ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOĞURTLU MAH (BAYRAKLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOLAĞZI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOLVEREN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYÜREK MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEYKENT MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İRMİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PETROL MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PETROLKENT MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYİTLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİTE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ACAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "AĞAKÜNÜK MAH (DÖRTBÖLÜK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "AHKAR MEZRA MAH (DERİNCE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "AKBELEN MAH (HEYBELİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ALTINDERE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "AMBARLI MEZRA MAH (DÖRTBÖLÜK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ARKÖK MAH (YAKABAĞ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ARPACIK MEZRA MAH (ÇAKIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "AŞAĞI ÇAYIRLI MAH (ÇAYIRLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "AYKONAK MAH (BAYRAMLAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BAKİHİSAR MAH (YAKABAĞ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BALBAŞI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BAYRAMLAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BERGAZİ MAH (HEYBELİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BEYPSİYE MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BİNÖNİ MEZRA MAH (KELHASAN KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BOĞAZKAPI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BOZDOĞAN MEZRA MAH (DÖRTBÖLÜK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÇADIRKENT MAH (ACAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÇAĞLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÇAKIRPINAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÇAKMAKLI MEZRA MAH (DERİNCE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÇALIŞIRLAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÇAYIRLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÇEMEŞEŞO MEZRA MAH (ERGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÇEMEŞEVKE MAH (KARAMEŞE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÇINARLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÇUKURCA MAH (ÖRENAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DAĞÇATI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DAĞLICA MEZRA MAH (ÇAKIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DELİKTAŞ MEZRA MAH (ÇAKIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DEREİÇİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DERİNCE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DİBEK MAH (DÖRTBÖLÜK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DİKBAYIR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DİKMETAŞ MAH (BAYRAMLAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DÖRTBÖLÜK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "EKİNLİK MEZRA MAH (EKİNLİK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ELAGÖZ MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ELLİBREN MAH (ÇAKIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ELMAPINAR MEZRA MAH (KAŞYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ERGÜNÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ERİKLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GENÇLER KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GİRASUR MAH (ÇAYIRLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GİRİBANİ MEZRA MAH (KALEYOLU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GOMAN MEZRA MAH (DÖRTBÖLÜK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GORTİR MEZRA MAH (TAŞYUVA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÖLBAŞI MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÖLBAŞI MAH (HEYBELİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÖRTİL MAH (ÇAKIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÖŞEK MEZRA MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÜLEÇ MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÜNDOĞDU MEZRA MAH (ÇAĞLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÜNEŞLİ MAH (HEYBELİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÜNEŞLİ MEZRA MAH (ACAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÜNYECİK MEZRA MAH (KAŞYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÜRGENLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÜVENÇ MEZRA MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÜVERCİNLİK KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "HASANBEY MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "HASANLAR MEZRA MAH (ACAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "HAYDAR MAH (UMURLU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "HAZZANK MAH (TAŞYUVA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "HEYBELİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "HILINSUR MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "HOPİR MEZRA MAH (TAŞYUVA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "İNCESU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KALEYOLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KAMAN MAH (YAKABAĞ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KARAAĞAÇ MAH (KARAYÜN KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KARAMEŞE KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KAŞYAYLA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KAVAKLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KAYADİBİ MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KAYADİBİ MAH (ÖRENAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KAYADÜZÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KEÇELİ MAH (YUVALAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KEÇİLER MAH (ÖRENAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KELHASAN KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KINALI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KISRAK MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KİLİS KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KOCANLAR MEZRA MAH (KAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KONAKLI MEZRA MAH (ÇAKIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KÖMÜRDÜR MAH (ÖRENAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KULAKSIZ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KURT MAH (YUVALAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KUZKONCUK MAH (ÇAĞLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "MERGE MAH (UMURLU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "MERKEZ MAH (KARAYÜN KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "MEŞELİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ORDU MEZRA MAH (ÇAĞLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "OSMANİK MAH (ÇAKIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÖRENAĞIL KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÖZLÜCE MEZRA MAH (DERİNCE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "PAZARCIK MEZRA MAH (BALBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "PIJUNİK MAH (ÖRENAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "PİVANK MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "SARIKIZ MAH (YUVALAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "SARIYAYLA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "SARİGAN MEZRA MAH (KALEYOLU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "SİNEMERG MEZRA MAH (KELHASAN KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "SOĞANLI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "SOĞE MAH (UMURLU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "SUARKI MAH (DAĞÇATI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ŞAHİNLİ MEZRA MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ŞEHAN MEZRA MAH (KALEYOLU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ŞENGİRİK MEZRA MAH (DÖRTBÖLÜK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ŞIMDANK MAH (KAŞYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ŞİLFO MEZRA MAH (DÖRTBÖLÜK KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TAHTİKA MEZRA MAH (BALBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TAŞBURUN MAH (TURNALI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TAŞLICA MAH (ÖRENAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TAŞYUVA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TAŞYUVA MAH (KAŞYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TEPECİK MEZRA MAH (KAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TİRE MAH (KARAMEŞE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TOPLUCA KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TURNALI KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "UMURLU KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÜÇDİREK MAH (YUVALAR KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ÜÇEVLER MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YAKABAĞ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YAMANLI MEZRA MAH (KALEYOLU KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YAYARLI MAH (KAŞYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YEDİGÖZ MAH (ÖRENAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YELEK MEZ MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YENİYURT MAH (HEYBELİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YILDIZKAYA MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YİĞİTLER KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YİĞİTLİ MEZRA MAH (YİĞİTLER KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YOLLAÇ MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YONCADÜZÜ MAH (KİLİMLİ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YONCALI MEZRA MAH (DERİNCE KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YUKARI ERGÜNÜ MAH (ERGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YUKARI ERGÜNÜ MAH (KAYADÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YUVALAR KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YUVALIÇAY KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YÜREKLİ KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ZİYARET KÖYÜ"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ZORNİK MEZRA MAH (TAŞYUVA KÖYÜ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "AYKUT OZAN MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BEŞEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DEMETEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ERDEMLİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÜRPINAR MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "HAYDAR MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "SEVEK MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ŞİRİNEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TEKEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TEKİNLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YAYLATEPE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YEŞİLEVLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YEŞİLLER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YILDIZ MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "AYDINLIK MAH (YÜCEBAĞ BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BARIŞ MAH (YÜCEBAĞ BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "BİNEKLİ MAH (YÜCEBAĞ BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "GÜNLÜCE MAH (YÜCEBAĞ BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KARŞIYAKA MAH (YÜCEBAĞ BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "KOÇKAYA MAH (YÜCEBAĞ BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "TEPE MAH (YÜCEBAĞ BELDESİ)"
+  },
+  {
+    "il": "BATMAN",
+    "ilçe": "SASON",
+    "Mahalle": "YILDIZ MAH (YÜCEBAĞ BELDESİ)"
+  }
+]

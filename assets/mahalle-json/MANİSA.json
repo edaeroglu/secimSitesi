@@ -1,0 +1,5467 @@
+[
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "ALAHIDIR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "ALTIEYLÜL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "BAHÇECİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "CAMBAZLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "DERİCİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "DİBEKDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "GÜLDEDE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "HACIKÖSELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "HALİLKAHYA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "KARGIN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "KENDİRLİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "KESTELLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "MANDALLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "SEYDİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "ULU CAMİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "YARAŞLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AHMETLİ",
+    "Mahalle": "GÖKKAYA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "AKÇAALAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "AKÇEŞME MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "AKKOCALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "AKSELENDİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ARABACIBOZKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "AŞAĞIDOLMA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "BALLICA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "BAŞLAMIŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "BEKİRLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "BEYOBA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "BOYALILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "BÜKNÜŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "BÜNYANOSMANİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ÇAMÖNÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ÇANAKÇI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ÇITAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ÇOBANHASAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ÇORUK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "DAĞDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "DAYIOĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "DİNGİLLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "DOĞANKAYA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "DOĞUCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "DOLMADEĞİRMEN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "DURASIL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "EFENDİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ERDELLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "EROĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "EVKAFTEKE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "GÖCEK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "GÖKÇEAHMET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "GÖKÇELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "HACI İSHAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "HACIİBRAHİMLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "HACIOSMANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "HAMİTKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "HANPAŞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "HARMANDALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "HAS HOCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "HASKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "IŞIKKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "İSACA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KABAAĞAÇKIRAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KADIDAĞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KAPAKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KARABÖRKLÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KARAYAĞCI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KAVAKALAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KAYALIOĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KAYGANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KETHÜDA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KIZLARALANI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KOBAŞDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KOCAKAĞAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KÖMÜRCÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KULAKSIZLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "KURTULMUŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "MEDAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "MORALILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "MUSACA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "MUSALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "MUŞTULLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "PAŞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "PEKMEZCİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "PINARCIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "RAGIP BEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "RAHMİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "REŞAT BEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SABANCILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SAĞRAKÇI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SAKARKAYA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SARIÇALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SARILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SARNIÇKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SAZOBA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SEĞİRDİM MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SELÇİKLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SELVİLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SEYİT AHMET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SIRTKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SİNDELLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SÜLEYMANKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SÜLEYMANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SÜLEYMANLI OSB MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "SÜNNETÇİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ŞEYHİSA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "TAŞÇILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "TOPLUCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "TÜTENLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ULU CAMİİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ULUPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ÜÇAVLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "YATAĞAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "YAYAKIRILDIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "YAYKIN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "YEĞENOBA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ZEYTİNLİBAĞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "AKHİSAR",
+    "Mahalle": "ZEYTİNLİOVA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "AKKEÇİLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ALHAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "AYDOĞDU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "AZITEPE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "BADINCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "BAHADIR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "BAHÇEDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "BAHÇELİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "BAKLACI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "BELENYAKA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "BEŞEYLÜL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "CABERBURHAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "CABERFAKILI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "CABERKAMARA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ÇAKIRCAALİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ÇAMLIBEL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ÇARIKBOZDAĞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ÇARIKKARALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ÇARIKTEKKE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ÇEŞNELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "DAĞARLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "DAĞHACIYUSUF MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "DELEMENLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ERENKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ESEN TEPE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "EVRENLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "GİRELLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "GÖBEKLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "GÜLENYAKA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "GÜLPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "GÜMÜŞÇAY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "GÜRSU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "HACIALİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "HACIBEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "HORZUMALAYAKA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "HORZUMEMBELLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "HORZUMKESERLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "HORZUMSAZDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ILGIN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "İSMAİLBEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "İSMETİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "KARACALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "KARADAĞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "KASAPLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "KESTANEDERESİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "KOZLUCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "MATARLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "NARLIDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ÖRNEKKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SARIPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SARISU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SELCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SERİNKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SERİNYAYLA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SOBRAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SOĞANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SOĞUKYURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ŞAHYAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ŞEYH SİNAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "TOYGAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "TÜRKMEN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ÜZÜMLÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "YUVACALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "KAVAKLIDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "KEMALİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "KİLLİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "PİYADELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "ULUDERBENT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ALAŞEHİR",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "AHATLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "AHMETLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "AKDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ALAAĞAÇ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "AYVAALAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "AZİZBEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "BAHÇELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "BARDAKÇI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "BAYRAMŞAH MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "BEYAZIT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "BOYACIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "BOZÇATLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "BOZKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "BÜYÜKKIRAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "CAMİİ ATİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÇAĞILLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÇAMKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÇANAKÇI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÇANDIR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÇARDAKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÇATALOLUK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "DANİŞMENTLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "DEMİRCİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "DOKTOR MEHMET AKARSU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ELEK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ESENYURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ESKİHİSAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "GÖMEÇLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "GÜMELE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "GÜRÇEŞME MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "GÜVELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "HACIBABA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "HACIHAMZA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "HACIHASAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "HACITÜRBEK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "HIRKALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "HOŞÇALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "HÜDÜK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "IKLIKÇI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "İCİKLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "İÇHİSAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "İMCELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "İMRENLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "İRİŞLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "İSMAİLLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KARAİSALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KARGINIŞIKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KASIMFAKI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KAYAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KAYRANOKÇULAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KAZANCI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KERPİÇLİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KILAVUZLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KIŞLAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KOVANCI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KÖYLÜCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KULALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KUZEYİR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KUZUKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KÜÇÜKKIRAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KÜÇÜKOBA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "KÜPELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "MARMARACIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "MEZİTLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "MİNNETLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "MİTHATPAŞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÖKSÜZLÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÖREN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÖRÜCÜLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "RAHMANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "SAĞNIÇ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "SAYIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "SECAATTİN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "SERÇELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "SEVİŞLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "SİNAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "SÖĞÜTÇÜK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ŞEHREKÜSTÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "TALAS MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "TAŞOKÇULAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "TEKELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "TEPERİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ULACIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "ÜŞÜMÜŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "YAĞMUR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "YARBASAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "YAVAŞLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "YEŞİLOBA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "YİĞENLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "YİĞİTLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "DURHASAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "DEMİRCİ",
+    "Mahalle": "MAHMUTLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "AYANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "BEYLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "ÇAMKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "ÇÖMLEKÇİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "DEĞNEKLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "ESKİ CAMİİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "HACIBAŞTANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "HACIVELİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "HIROĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "KAYAALTI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "KAYAPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "KILCANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "OZANCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "TAŞKUYUCAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "TİYENLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "YENİ CAMİİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖLMARMARA",
+    "Mahalle": "YUNUSLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "BALIKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "BAYAT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "BEĞEL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "BEĞENLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "BENLİELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "BEŞEYLÜL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "BOYALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "BÖREZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "CUMA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "ÇATALARMUT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "ÇİĞİLLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "DALKARA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "DARGIL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "DELİÇOBAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "DEREÇİFTLİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "DİKİLİTAŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "DİVAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "DOĞANPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "DUTLUCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "EFENDİLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "FUNDACIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "GÜLPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "HÜSEYNİ BABA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KABAKOZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KALEMOĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KARAKEÇİLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KARAYAĞCI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KARAYAKUP MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KAŞIKÇI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KILCANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KIRANKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KIYMIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KIZILDAM MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KOBAKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KORUBAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KÖSELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KUŞLUKKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KUYUCAKKARAPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KÜREKÇİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "MALAZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "MALKOCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "NAKIPAĞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "OĞULDURUK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "SALUR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "SARIALİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "ŞAHİNKAYA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "ŞEYHYAYLA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "TÜPÜLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "ULGAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "UZUNÇAM MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "YAKAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "EVCİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "GÜNEŞLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "GÖRDES",
+    "Mahalle": "KAYACIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "BAKIR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "GELENBE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "İLYASLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "KARAKURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "ALACALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "ALİFAKI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "BODUROĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "BOSTANCI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "CİNOSMAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "ÇALTICAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "ÇOBANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "DEMİRTAŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "DUALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "FIRDANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "GEBELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "GÖKÇUKUR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "GÜVENDİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "HACET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "HACIHİMMET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "HALKAHAVLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "HAMİTLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "HIDIRAĞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "KADRİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "KARAALİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "KINIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "KOCAİSKAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "KOCAMEHMETAĞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "KUYUCAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "KÜÇÜKYAYA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "MEMİŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "MUSAHOCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "MUSALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "ÖVEÇLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "SAKARLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "SARIAĞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "SİLEDİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "SÖĞÜTALAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "ŞAİR EŞREF MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "TEVFİKİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "YAĞMURLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KIRKAĞAÇ",
+    "Mahalle": "ZORAĞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "AKÇAALAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "ALANYOLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "ARMAĞAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "ARPACI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "AZİMLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "BORLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "BOZBURUN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "CICIKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "ÇARIKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "ÇAVULLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "ÇAYKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "DÖĞÜŞEREN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "ESAT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "GÖKVELİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "GÜLPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "İKİZKUYU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KARAELMACIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KARYAĞDI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KASAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KAVAKYERİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KEMHALLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KIDIRCIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KINIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KIRANŞEYH MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KİLLİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KOZAKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KULALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "KURTLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "MESTANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "RAĞILLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "SARAYCIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "SARGAÇ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "SELVİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "TEMREK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "TOKMAKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "YABACI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "YARDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KÖPRÜBAŞI",
+    "Mahalle": "YUMUKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "4 EYLÜL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "AHMETLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "AKGÜN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "AYAZÖREN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "AYVATLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "BALIBEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "BAŞIBÜYÜK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "BATTALMUSTAFA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "BAYRAMŞAH MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "BEBEKLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "BEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "BÖRTLÜCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "CAMİİ CEDİT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ÇARIKBALLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ÇARIKMAHMUTLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ÇİFTÇİİBRAHİM MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "EMRE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ENCEKLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ERENBAĞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "EROĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ESENYAZI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "EVCİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "GÖKÇEÖREN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "GÖKDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "GÜVERCİNLİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "HACITUFAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "HAYALLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "İBRAHİMAĞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "İNCESU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "KALINHARMAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "KARAOBA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "KAVACIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "KENGER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "KIZILKAYA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "KONURCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "KÖREZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "NARINCALIPITRAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "NARINCALISÜLEYMAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "PAPUÇLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "SANDAL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "SARAÇLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "SARNIÇ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "SEYİTALİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "SÖĞÜTDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ŞEHİTLİOĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ŞEREMET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ŞERİTLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ŞIHLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "TATLIÇEŞME MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "TOPUZDAMLARI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "YAĞBASTI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "YEŞİLYAYLA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "YURTBAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "KULA",
+    "Mahalle": "ZAFERİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ADALA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "DURASILLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "AKÇAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "AKÖREN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "AKYAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ALLAHDİYEN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "BAĞCILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "BAHÇECİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "BAŞLIOĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "BEYLİKLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "BURHAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "CAFERBEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÇAKALDOĞANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÇALTILI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÇAMURHAMAMI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÇAPAKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÇAVLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÇAYKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÇAYPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÇELİKLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÇÖKELEK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÇUKUROBA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "DAMATLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "DELİBAŞLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "DERBENT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "DOMBAYLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ELDELEK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "EMİNBEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "EMİRHACILI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "GÖKÇEKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "GÖKEYÜP MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "GÖKKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "HACIBEKTAŞLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "HACIHIDIR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "HACIKÖSELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "HACILI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "HASALAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "İĞDECİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KABAZLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KAPANCI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KAPLAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KARAOĞLANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KARASAVCI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KARAYAHŞİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KEMER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KEMERDAMLARI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KIRDAMLARI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KIZILHAVLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KORDON MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KÖSEALİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KURTTUTAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "MAMATLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "MERSİNDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "MERSİNLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "MEVLUTLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ORAKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "PAZARKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "POYRAZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "POYRAZDAMLARI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "SALİHLİ OSB MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "SİNDEL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ŞİRİNYER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "TAYTAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "TEKELİOĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "TORUNLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÜÇTEPE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "YAĞBASAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "YAĞMURLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "YENİPAZAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "YEŞİLKAVAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "AKSOY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "BEŞEYLÜL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "DEDETAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ESKİ CAMİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "GAFFAR OKKAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "GÜMÜŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "GÜNEŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KIRVELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KOCAÇEŞME MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "MİTATPAŞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ÖZYURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "SARIPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "SEYRANTEPE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "YILMAZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "YÖRÜK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SALİHLİ",
+    "Mahalle": "SART MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "AFŞAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "AHMETAĞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "ALEMŞAHLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "AŞAĞI KOÇAKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "AYAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "BAĞLICA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "BAHADIRLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "BAHARLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "BEREKETLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "BEYHARMANI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "ÇANAKÇI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "ÇAVUŞLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "ÇİMENTEPE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "DADAĞLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "DİNDARLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "DOĞUŞLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "EMCELLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "GÜNEYDAMLARI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "GÜNYAKA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "KAHRAMANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "KARACAALİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "KIZILÇUKUR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "ÖZPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "SIĞIRTMAÇLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "SİTELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "ŞEYHDAVUTLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "TIRAZLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "YUKARIKOÇAKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARIGÖL",
+    "Mahalle": "ZİYANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ALİBEYLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "BÜYÜKBELEN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "DİLEK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "GÖKÇEKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "GÜMÜLCELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "HACIRAHMANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "HALİTPAŞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "İSHAKÇELEBİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "KOLDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "KUMKUYUCAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "MÜTEVELLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "NURİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "PAŞAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ADİLOBA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "APAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "AZİMLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "BAHADIR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "BEDELLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "CENGİZ TOPEL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ÇAKMAKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ÇALTEPE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ÇAMLIYURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ÇERKEZ OSMANİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ÇINAROBA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ÇULLUGÖRECE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "DEVELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "GÖZLET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "HACIMUSA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "HATIPLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "HEYBELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "KAYIŞLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "KEMİKLİDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "KEPENEKLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "KOYUNCU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "LÜTFİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "SARIÇAM MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "SARISIĞIRLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "SARUHAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "SEYİTOBA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ŞATIRLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "TAŞDİBİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "TİRKEŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SARUHANLI",
+    "Mahalle": "YILMAZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "AKÇAKERTİL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ALTINKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "AŞAĞITEFEN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "AVLAŞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "BEKİRAĞALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "BEYPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ÇALIKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ÇAMKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ÇAMPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ÇAMYAYLA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ÇANŞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ÇIKRIKÇI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ÇİNAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ÇORTAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "DEDELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "DUMANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ESKİCAMİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ESKİN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "HACIHALİLLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "HALILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "HAVAOĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "İNNİCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KABAKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KARABEYLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KARAKOZAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KARASELENDİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KARATAŞTERZİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KARŞIOVA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KAYRANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KAZIKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KINIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KURŞUNLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "KÜRKÇÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "MIDIKLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "MOLLAAHMETLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "OMURLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "PINARLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "RAHMANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "SELMANHACILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ŞEHİRLİOĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ŞEREFİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "TAVAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "TEPEYNİHAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "TURPÇU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "YAĞCI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "YENİCAMİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "YEŞİL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "YILDIZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "YUKARITEFEN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SELENDİ",
+    "Mahalle": "ZIRAMANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "AVDAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "CENKYERİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "ADİL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "AKÇAAVLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "BAYAT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "BEYCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "BONCUKLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "BOZARMUT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "BÜYÜK GÜNEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "BÜYÜK IŞIKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "CUMA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "ÇATALÇAM MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "ÇAVDIR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "ÇEVİRCEK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "DARKALE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "DENİŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "DEVLETHAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "DUALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "DUĞLA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "EĞNEZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "EVCİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "GÖKTAŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "HACIYUSUF MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "HAMİDİYE MAH (MERKEZ MAH)"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "HATUN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "HECİZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KAPLAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KARACAHİSAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KARACAKAŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KARAÇAM MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KARAMANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KAYRAKALTI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KIZILÖREN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KİRAZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KOBAKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KOYUNDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KOZANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KOZLUÖREN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KUM MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "KÜÇÜK GÜNEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "MENTEŞE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "NALDÖKEN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "NAMAZGAH MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "NİHAT DANIŞMAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "ONÜÇ EYLÜL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "PİRAHMET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "SAMSACI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "SARIKAYA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "SEVİŞLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "SÖĞÜTÇÜK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "SULTANİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "TABANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "TEKELİ IŞIKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "TÜRKALİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "TÜRKPİYALA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "ULARCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "URUZLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "VAKIFLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "YAYLADALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "YIRCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "TURGUTALP MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "SOMA",
+    "Mahalle": "YAĞCILI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "AŞAĞIÇOBANİSA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "1.ANAFARTALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "2.ANAFARTALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "ALAYBEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "ARDA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "DİNÇER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "NİŞANCIPAŞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "PEKER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "YARHASANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "HACIHALİLLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "KARAAĞAÇLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "ADAKALE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "BAYINDIRLIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "DİLŞİKAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "EGE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "GEDİZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "GÖKTAŞLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "İBRAHİMÇELEBİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "İSHAKÇELEBI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "KOCATEPE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "MİMARSİNAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "SARUHAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "TUNCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "UTKU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "KARAOĞLANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "AHMET BEDEVİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "KUŞLUBAHÇE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "NURLUPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "SANCAKLIBOZKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "AYVACIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "BELENYENİCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "ÇAMKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "ÇAVUŞOĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "ÇERKEZMAHMUDİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "ÇINARLIKUYU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "GÖKBEL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "GÜZELKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "HALITLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "HAMZABEYLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "KAĞAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "KALEKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "KALEMLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "KARAYENİCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "KIRANÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "SANCAKLIÇEŞMEBAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "SANCAKLIİĞDECİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "SANCAKLIKAYADİBİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "SANCAKLIUZUNÇINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "SARIALAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "SELİMŞAHLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "TEKELİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "TİLKİSÜLEYMANİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "VEZİROĞLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "YENİHARMANDALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "ŞEHZADELER",
+    "Mahalle": "YUKARIÇOBANİSA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "DERBENT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ACARLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "AKÇAPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "AKKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ALBAYRAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ALTAY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "AŞAĞIBOZKIR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "AVŞAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "AYVACIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "BAKTIRLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "BOZKIR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "BOZKURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ÇAMPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ÇATALKÖPRÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ÇEPNİBEKTAŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ÇEPNİDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ÇIKRIKÇI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "DAĞYENİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "DALBAHÇE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ERGENEKON MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "GÖKGEDİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "HACIİSALAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "IRLAMAZ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "İSTASYONALTI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "İZZETTİN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "KABAÇINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "KARAOLUK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "KAYRAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "KUŞLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "MUSACALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "MUSALARYENİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "MUSTAFA KEMAL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "OSMANCIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ÖREN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ÖZYURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "SARIBEY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "SELVİLİTEPE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "SELVİLİTEPEOSB MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "SİNİRLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "SİVRİCE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "TEMREK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "TURAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "TURGUTLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "YAKUPLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "YEDİ EYLÜL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "YILDIRIM MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "YILMAZLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "YİĞİTLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "YUNUSDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "TURGUTLU",
+    "Mahalle": "URGANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "50.YIL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "MAREŞAL FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "SPİL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "75. YIL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "HAFSA SULTAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KEÇİLİ KÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KEÇİLİKÖYOSB MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "LALELİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "MESİR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "UNCUBOZKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "YENİ MAHALLE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "MURADİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "AYNİ ALİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "MERKEZ EFENDİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "TEVFİKİYE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "ÜÇPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "AKÇAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "AKGEDİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "AKMESCİT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "ASMACIK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "AVDAL MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "BAĞYOLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "BEYDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "BOSTANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "BÜYÜKSÜMBÜLLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "DAVUTLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "DAZYURT MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "DEMİRCİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "DURASILLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "DÜZLEN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "EMLAKDERE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "EVRENOS MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "GÖKÇELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "GÜLBAHÇE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "GÜRLE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "İLYASÇILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KARAAHMETLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KARAALİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KARAHÜSEYİNLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KARAKILIÇLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KARAKOCA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KARAVELİLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KARAYAĞCIHACILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KAYAPINAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KAYNAK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KIŞLAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KOCAKORU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KORUKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KOZAKLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KUYUALAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KÜÇÜKBELEN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "KÜÇÜKSÜMBÜLLER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "LALAPAŞA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "MALDAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "MOLLASÜLEYMANLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "MUTLU MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "MÜSLİH MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "OSMANCALI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "OTMANLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "ÖRSELLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "PELİTALAN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "PINARKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "RECEPLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "SAKALLI MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "SARIAHMETLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "SARINASUHLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "SARMA MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "SEYİTLİ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "SÜMBÜLTEPE MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "SÜNGÜLLÜ MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "ŞAMAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "TOPÇUASIM MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "TURGUTALP MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "TÜRKMEN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "UZUNBURUN MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "UZUNLAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "YAĞCILAR MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "YAYLAKÖY MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "YUNTDAĞIKÖSELER MAH"
+  },
+  {
+    "il": "MANİSA",
+    "ilçe": "YUNUSEMRE",
+    "Mahalle": "YUNTDAĞYENİCE MAH"
+  }
+]

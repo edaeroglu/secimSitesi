@@ -1,0 +1,7167 @@
+[
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "AHMETADİL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "BALIKHİSAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "BEYAZIT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "BÜĞDÜZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "CÜCÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "ÇAM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "ÇARDAKBAĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "ELECİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "GALABA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "GÜZELHİSAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "HAYDAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "KARACAKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "KARACALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "KARAYATAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "KIZIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "KOZAYAĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "SAMUT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "SARACALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "ŞEYHLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "TEBERİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "TİMURHAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "UZUNLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AKYURT",
+    "Mahalle": "YILDIRIM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "ATIFBEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "ÖRNEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "AYDINLIKEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "BARAJ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "DOĞANTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "GÜNEŞEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "SOLFASOL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "YILDIZTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "ZÜBEYDE HANIM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "HACETTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "AYDINCIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "BAŞPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "BATTALGAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "BEŞİKKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "FERİDUN ÇELİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "GİCİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "KARAPÜRÇEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "ÖNDER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "PEÇENEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "TATLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "ULUBEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ALTINDAĞ",
+    "Mahalle": "HACI BAYRAM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "AKKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "BAŞAYAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "BAŞBEREKET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "BAYAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "BAYRAM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "CAMİATİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "ÇANILLI ÇİĞDEMCİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "ÇANILLI ULUYOL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "DERVİŞİMAM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "EMİNE TEVFİKA AYAŞLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "EVCİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "FERAHFAKİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "FERUZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "GENÇALİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "GÖKÇEBAĞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "GÖKLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "HACIMEMİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "HACIRECEP MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "HACIVELİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "İLHANKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "OLTAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "ORTABEREKET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "ÖMEROĞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "PINARYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "SİNANLI CUMA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "SİNANLI HOCASİNAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "SİNANLI MAHKEME MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "ŞEYHMUHİTTİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "UĞURÇAYIRI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "ULUPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "AYAŞ",
+    "Mahalle": "YAĞMURDEDE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "ABAZLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "AFŞAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "AHMETÇAYIRI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "AKKOYUNLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "AŞAĞIHACIBEKİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "AŞIKOĞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "AYDOĞAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "BAHÇEKARADALAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "BEKTAŞLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "BELÇARŞAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "BEYNAM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "BÜYÜKBAYAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "BÜYÜKBOYALIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "BÜYÜKCAMİLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "ÇATALÇEŞME MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "ÇATALÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "ÇİĞDEMLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "DAVDANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "DEREKIŞLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "EĞRİBASAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "ERGİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "GÖZTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "GÜLBAĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "HANBURUN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KARAHAMZALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KARTALTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KERİŞLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KESİKKÖPRÜ ERDEMLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KESİKKÖPRÜ KIZILIRMAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KESİKKÖPRÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KOÇYAYLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KÖSELİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KUYULAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KÜÇÜKBAYAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KÜÇÜKBIYIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KÜÇÜKBOYALIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "KÜÇÜKCAMİLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "SARIHÜYÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "SIRAPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "SUYUGÜZEL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "ŞEHRİBAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "ŞENTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "TATARHÜYÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "TOLKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "ÜÇEM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "YAYLALIÖZÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "YENİYAPANÇARŞAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "YENİYAPANŞEYHLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "YÖRELİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BALA",
+    "Mahalle": "YUKARIHACIBEKİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "ACISU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "ADAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "AKÇAKAVAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "AKÇALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "AŞAĞIGÜNEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "AYVAŞIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "BAĞÖZÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "BAŞAĞAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "BAŞÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "BATÇA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "BEYTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "BOYALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "ÇAKILOBA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "ÇANTIRLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "DAĞŞEYHLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "DERELİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "DİBECİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "DİBEKÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "DİKMEN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "DOĞANÇALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "DOĞANYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "DUDAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "FASIL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "GAZİPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "GEYİKPINARI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "GÜRSÖĞÜT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "HACIKARA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "HARMANCIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "HAYDARLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "HIRKATEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "İNCEPELİT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KABACA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KABALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KAPLAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KAPULLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KARAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KARAŞAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KARGI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KAYABÜKÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KERBANLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KIRBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KIRŞEYHLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KIZILCASÖĞÜT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KOZAĞAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KOZALAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KÖSELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KÖST MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KURTKOVAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KUYUCAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "KUYUMCUTEKKE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "MACUN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "MAHMUTLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "MENÇELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "MİKAİL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "NUHHOCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "OYMAAĞAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "RÜSTEMPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "SARIAĞIL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "SEKLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "SOPÇAALAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "TACETTİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "TAHİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "URUŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "UŞAKGÖL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "ÜREĞİL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "YALNIZÇAM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "YEŞİLAĞAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "YILDIZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "YİĞERLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "YOĞUNPELİT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "YUKARIGÜNEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "YUKARIULUCAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "BEYPAZARI",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "AHATLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "AKKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ALAKOÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ATÇA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "AVDAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "AVŞARLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "BARDAKÇILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "BEŞBEYLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "BEYLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "BUĞRALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "BÜKELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ÇAMKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ÇUKURÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "DAĞKUZÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "DOĞANCI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "DOĞANLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "DOYMUŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "DÖRTKONAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ELDELEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ELÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ELVANLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "GÜMELE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "İNCEÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "KÖRLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "KUŞÇULAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "KUYUBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "MEŞELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "MUZRUPAĞACIN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "MÜSELLİM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "OSMANSİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ÖMERAĞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ÖRENKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "ÖZMÜŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "PEÇENEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "PELİTÇİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "SARIKAVAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "TATLAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "YAHŞİHAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "YAHYALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "YAYALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "YEDİÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "YILANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇAMLIDERE",
+    "Mahalle": "YONCATEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ÇİĞDEM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ÇUKURAMBAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "İŞÇİ BLOKLARI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KIZILIRMAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "MUSTAFA KEMAL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "SÖĞÜTÖZÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "AHLATLIBEL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "YUKARI BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "BALGAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "CEVİZLİDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "EHLİBEYT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "NASUH AKAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "OĞUZLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "BEYTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "MUTLUKENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ÜNİVERSİTELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "BİRLİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KIRKKONAKLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "50.YIL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ARKA TOPRAKLIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "CEBECİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ÇAMLITEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "DİLEKLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ERTUĞRULGAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ERZURUM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "FAKÜLTELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "İLERİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "İNCESU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ÖN CEBECİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "TOPRAKLIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "AYRANCI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ÇANKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "GÜVENEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "GÜZELTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ALACAATLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ÇAYYOLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "DODURGA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KONUTKENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KORU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "PROF. DR. AHMET TANER KIŞLALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ÜMİT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "YAŞAMKENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "GÖKKUŞAĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "İLKADIM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "İLKER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KEKLİK PINARI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "MALAZGİRT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "METİN AKKUŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "MÜRSEL ULUÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "NACİ ÇAKIR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "OSMAN TEMİZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "DOĞUŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ESATOĞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KÜÇÜKESAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "MUHSİN ERTUĞRUL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "SEYRANBAĞLARI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "TINAZTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "AKARLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "AŞAĞI İMRAHOR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ÇAVUŞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "EVCİLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KARAHASANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KÖMÜRCÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ORTA İMRAHOR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "TOHUMLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "YAKUPABDAL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "YEŞİLKENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "100.YIL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "BÜYÜKESAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KAVAKLIDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KAZIM ÖZALP MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "REMZİ OĞUZ ARIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ANITTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ETİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "MALTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "MEBUSEVLERİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "YÜCETEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "AŞAĞI ÖVEÇLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ATA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "HARBİYE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "HUZUR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ÖVEÇLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "SOKULLU MEHMET PAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ŞEHİT CENGİZ KARACA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ŞEHİT CEVDET ÖZDEMİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "YUKARI ÖVEÇLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "DEVLET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "FİDANLIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KIZILAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KOCATEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KORKUTREİS MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "MEŞRUTİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "HİLAL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "İLKBAHAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ORAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "SANCAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "YILDIZEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "YUKARI DİKMEN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "AŞIKPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "BADEMLİDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "BAĞCILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "BAYRAKTAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "BOZTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "GÖKTÜRK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "METİN OKTAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "MURAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "UMUT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇANKAYA",
+    "Mahalle": "ZAFERTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "AĞILCIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "AKBAYIR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "AKKUZULU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "AŞAĞIÇAVUNDUR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "AŞAĞIEMİRLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "AŞAĞIOBRUK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "AVCIOVA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "CAMİLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "ÇATOKCULAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "ÇİTKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "DAĞKALAFAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "DALYASAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "DEDELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "DEMİRCİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "DURHASAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "EĞRİEKİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "ESENBOĞA MERKEZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "ESKİÇÖTE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "GÖKÇEDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "GÜLDARPI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "GÜMÜŞYAYLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "İKİPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "İMAMHÜSEYİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KAPAKLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KARAÇAM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KARADANA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KARAMAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KARGIN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KIŞLACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KIZILÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KIZILÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KÖSRELİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KURUÇAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KUTUÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KUYUMCU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "KÜÇÜKALİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "MAHMUTOĞLAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "MELİKŞAH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "MEŞELİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "MUHSİN YAZICIOĞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "MUTLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "MUTLU OSB MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "NUSRATLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "OKÇULAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "OYUMİĞDE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "ÖMERCİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "ÖZLÜCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "SARAYCIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "SARIKOZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "SARISU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "SELE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "SIĞIRLIHACI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "SUSUZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "SÜNLÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "TAHTAYAZI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "TAŞPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "TUĞLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "ULUAĞAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YAKUPHASAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YAVUZSELİM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YAYLAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YAZIR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YAZLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YEŞİLKENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YILDIRIM BEYAZIT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YILDIRIMAYDOĞAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YILDIRIMELÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YILDIRIMEVCİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YILMAZKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YİĞİTLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YUKARI ÇAVUNDUR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YUKARIEMİRLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ÇUBUK",
+    "Mahalle": "YUKARIOBRUK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "AKÇAALİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "AŞAĞIKAMIŞLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "DELİLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "EDİĞE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "GÜMÜŞPALA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "KARACAHASAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "KUŞÇUALİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "LALABEL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "SEYİTCEMALİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "SÜLEYMANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "TABURLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "TATLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "ÜÇEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "YENİPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "YEŞİLDERE FATİH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "YUKARIKAMIŞLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "HASANOĞLAN BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "HASANOĞLAN FATİH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "HASANOĞLAN HAVUZBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "MUZAFFER EKŞİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ELMADAĞ",
+    "Mahalle": "ŞEHİTLİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "30 AĞUSTOS MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "AHİ MESUT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ELVAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "PİYADE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "SÜVARİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "BAHÇEKAPI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ATAKENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "AYYILDIZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ETİLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "OĞUZLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "TOPÇU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "DEVLET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ERYAMAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ŞEYH ŞAMİL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "TUNAHAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ALSANCAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "BAĞLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ERLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "FATİH SULTAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "YAPRACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "YENİ BAĞLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ALTAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ŞEHİT OSMAN AVCI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ŞEKER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "GÜZELKENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "AŞAĞIYURTÇU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ATAYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "BALIKUYUMCU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "FEVZİYE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ORHUN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "ŞEHİTALİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "TURKUAZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ETİMESGUT",
+    "Mahalle": "YUKARIYURTÇU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "ALTINBAŞAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "CEBİRLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "ÇATALPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "DEMİRAYAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "ESKİTORUNOBASI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "İBRAHİMBEYLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "İNEBEYLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "MODERN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "SOLAKUŞAĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "ŞERAFETTİN YILMAZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "EVREN",
+    "Mahalle": "YUSUFUŞAĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "AHİBOZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "AKÖRENÇARŞAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ALTUNÇANAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "BAĞİÇİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "BALLIKPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "BEZİRHANE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "BOYALIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÇAYIRLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÇELTEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÇİMŞİT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "DİKİLİTAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "EMİRLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "EYMİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "GÖKÇEHÜYÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "GÖLBEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "GÜNALAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "HACIHASAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "HACIMURATLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "HALAÇLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "İKİZCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "İNCEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARAALİ MERKEZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARAALİ YAZLIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARAGEDİK AYDIN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARAGEDİK ERCAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARAOĞLAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KIRIKLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KIZILCAŞAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KOPARAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "MAHMATLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "MAHMATLIBAHÇE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "OĞULBEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "OYACA AKARSU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "OYACA YEŞİLÇAM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "SEĞMENLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "SELAMETLİ ŞEHİT EMRAH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "SOĞULCAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ŞAFAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "TAŞPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "TEPEYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "TOPAKLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "TULUMTAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "VELİHİMMETLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YAĞLIPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YAVRUCUK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YAYLABAĞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YURTBEYİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "ADALIKUZU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "AFŞAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "AKBAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "AKÇAKESE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "BOYALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "ÇAĞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "ÇUKURÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "EMİRLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "GARİPÇE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "GÜNEYCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "GÜZEL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "KADIOBASI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "KAMANLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "KAVAKÖZÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "KAYI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "KIRKKAVAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "MEYVABÜKÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "ÖZÇALTI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "ÖZKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "SALİHLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "SAPANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "SORGUN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "TAHTACIÖRENCİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "TAŞÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "YELLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "YEŞİLÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "GÜDÜL",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "AHIRLIKUYU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ALAÇIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ALAHACILI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ALTIPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "BAHÇECİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "BALÇIKHİSAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "BALTALİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "BOĞAZKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "BOSTANHÜYÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "BUMSUZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "BÜYÜKKONAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "BÜYÜKYAĞCI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "CİHANŞAH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "CİNGİRLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "CULUK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ÇALDAĞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ÇALIŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ÇAYRAZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ÇELTİKLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "DEMİRÖZÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "DEVECİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "DEVECİPINARI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "DURUPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "DURUTLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "EMİRLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ESEN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ESKİKIŞLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "EVCİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "EVLİYAFAKI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "GEDİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "GÜZELCEKALE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "İNCİRLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KARAHOCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KARASÜLEYMANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KATRANCI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KAVAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KERPİÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KESİKKAVAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KIZILKOYUNLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KİRAZOĞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KUTLUHAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KÜÇÜKKONAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "KÜÇÜKYAĞCI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "MANDIRA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "MEDRESE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SAATLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SARIDEĞİRMEN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SARIGÖL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SAZAĞASI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SERİNYAYLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SEYRAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SINDIRAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SIRÇASARAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SİNANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SOĞULCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "SÖĞÜTTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "ŞEREFLİGÖKGÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "TABAKLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "TOYÇAYIRI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "TÜRKHÜYÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "TÜRKŞEREFLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "YAMAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "YAPRAKBAYIRI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "YAYLABEYİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "YERGÖMÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "YUKARISEBİL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "HAYMANA",
+    "Mahalle": "YURTBEYLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "AHİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "AKÇAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "AKINCI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "ALPAGUT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "AŞAĞIKARAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "AYDIN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "BİTİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "CİĞİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "ÇALTA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "ÇİMŞİT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "DAĞYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "DUTÖZÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "EMİRGAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "FETHİYE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "GÜNBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "GÜVENÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "İÇÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "İMRENDİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "İNCEĞİZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "İNE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "İYMİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "KANUNİ SULTAN SÜLEYMAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "KAYI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "KILIÇLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "KINIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "KUMPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "PEÇENEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "SANCAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "SARAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "SARAYOSB MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "SARIAYAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "SARILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "SATIKADIN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "SOĞUCAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "UÇARI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "YAKUPDERVİŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "YASSIÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "YAVUZ SULTAN SELİM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "YAYALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "YAZIBEYLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KAHRAMANKAZAN",
+    "Mahalle": "YILDIRIMBEYAZIT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "AFŞAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "AHİKEMALŞENYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "AHİLER YENİCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "AKCATAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "AKKAYNAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "AKKUZULU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "AKTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ALİBEYLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ALTINTAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ARKBÜRK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "BEYKAVAĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "BUĞRA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "CUMA SARAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ÇANDIR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ÇANŞA KALE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ÇAYKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ÇİFTLİKKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "DAĞDEMİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "DEĞİRMENKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "DEMİRTAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ELMAPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ESKİKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "EŞMEDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "GÖKÇEÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "GÖKDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "GÖLKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "GÜMÜŞPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "HACIKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "HALİLAĞA TABAKHANE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "HALİTCEVRİASLANGİL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "HANÇILI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "HASAYAZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "KARAHÖYÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "KARATEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "KARKIN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "KEKLİCEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "KILÇAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "KINIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "KIZILKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "KOYUNBABA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "KUYUCAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "MAHMUTLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "SAMANLIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "SATILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ŞEMSETTİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "ŞEYHMAHMUT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "TAVŞANCIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "TİLKİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "UYURCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "YALIMKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "YENİÇÖTE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "YENİDOĞAN YEŞİLYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "YEŞİLÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "YILANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "YURTYENİCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KALECİK",
+    "Mahalle": "YÜZBEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "23 NİSAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "AKTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "BADEMLİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ÇALDIRAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KAMİL OCAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KÖŞK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ŞEFKAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ŞENYUVA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "UYANIŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "YEŞİLÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "BAĞLUM GÜZELYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ÇALSEKİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "HİSAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KAFKAS MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KÖSRELİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "SARIBEYLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ESERTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "SANCAKTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ŞEHİT KUBİLAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "YÜKSELTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "AŞAĞI EĞLENCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "AYVALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "BASINEVLERİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "EMRAH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ETLİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "İNCİRLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "GÜMÜŞDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "HASKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KAVACIK SUBAYEVLERİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KALABA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KARARGAHTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "19 MAYIS MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KUŞCAĞIZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "GÜÇLÜKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ŞENLİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "YAKACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "ATAPARK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "KANUNİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KEÇİÖREN",
+    "Mahalle": "UFUKTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "AKÇAKESE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "AKÇAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "AKDOĞAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "AKSAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ALİBEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ALPAGUT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "AŞAĞIADA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "AŞAĞIÇANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "AŞAĞIHÜYÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "AYVACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BAĞLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BAĞÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BALCILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BAŞAĞAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BAYIR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BELPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BERÇİNÇATAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BERÇİNYAYALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BEŞKONAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BEZCİKUZÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BİNKOZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "BULAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "CİĞİRLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÇAVUŞLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÇELTİKÇİ AKÇAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÇELTİKÇİ BAŞÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÇELTİKÇİ KINIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÇELTİKÇİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÇEŞTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÇIRPAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÇUKURCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÇUKURÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "DEĞİRMENÖNÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "DEMİRCİÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "DERENECİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "DOĞANÖZÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "DOYMUŞÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "EĞERLİALÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "EĞERLİBAŞKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "EĞERLİDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "EĞERLİKOZÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ESENLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "GAZİ MUSTAFA KEMALPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "GEBELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "GÖKBEL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "GÖL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "GÜMELE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "GÜNEYSARAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "GÜVEM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "HIDIRLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "İĞDİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "İĞMİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "İNCEĞEZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "İYCELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KALEMLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KASIMLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KAVAKÖZÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KIRKIRCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KIRKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KIŞLAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KIZIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KIZILCAKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KIZILCAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KOCALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KURUMCU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "KUŞCUÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "MAHKEMEAĞCİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "OĞLAKCI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "OLUCAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "OTACI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "PAZAR BAŞÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "PAZAR KINIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "SALIN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "SARAYCIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "SAZAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "SEMELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "SEMER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "SÜLELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ŞAHİNLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "TAHTALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "TAŞLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "TURNALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÜÇBAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "ÜYÜCEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YAĞCIHÜSEYİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YAKAKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YANIK ÖZBEKLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YILDIRIMÇATAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YILDIRIMDEMİRCİLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YILDIRIMHACILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YILDIRIMÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YILDIRIMYAĞLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YUKARIADA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YUKARIÇANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YUKARIHÜYÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YUKARIKARAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "KIZILCAHAMAM",
+    "Mahalle": "YUKARIKESE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ABİDİNPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "AŞIK VEYSEL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "BALKİRAZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KARTALTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "MEHTAP MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "SAİMEKADIN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "TUZLUÇAYIR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "AKDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "GENERAL ZEKİ DOĞAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KAZIM ORBAY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KUTLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "MUTLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "PEYAMİ SAFA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ŞEHİT CENGİZ TOPEL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "TÜRKÖZÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "AKŞEMSETTİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "BOĞAZİÇİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "CENGİZHAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "DURALİ ALIÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "DUTLUK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "EGE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "FAHRİ KORUTÜRK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KIBRISKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KÜÇÜK KAYAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ŞAHAP GÜRLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ŞİRİNTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "YENİ BAYINDIR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "YEŞİLBAYIR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "DEMİRLİBAHÇE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ŞAFAKTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ALTINEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "BAHÇELERÜSTÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "DİRİLİŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "GÜLVEREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "HÜREL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "BAŞAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "BOSTANCIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "EKİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ARAPLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "DERBENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "DOSTLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "GÖKÇEYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KAYAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KÖSTENCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KUSUNLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KUTLUDÜĞÜN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ÜREĞİL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "YUKARI İMROHOR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ZİRVEKENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "LALAHAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ALTIAĞAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "BAHÇELERİÇİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ÇİĞİLTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "HARMAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "HÜSEYİNGAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "MİSKET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "MAMAK",
+    "Mahalle": "ŞAHİNTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "100.YIL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "AKDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ALAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ALİAĞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ALİEFE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ALPAĞUT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ARKUTÇA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "AŞAĞIBAĞDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "AŞAĞIBAĞLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "AŞAĞIKAVACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ATÇA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "AYDOĞMUŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "BELENALAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "BELENÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "BEYALAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "BEYCİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "BEYDİLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "BOZYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "CENDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ÇALICAALAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ÇAMALAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ÇAYIRHAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ÇİLLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ÇİVE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ÇULHALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "DANİŞMENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "DAVUTOĞLAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "DEMİRKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "DOĞANDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "DÖĞMECİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "EĞRİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "EMREMSULTAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "EPÇELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ERİCEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "EYMİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "GÖKÇEÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "GÜZELÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "HACIBEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "HACIHASANLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "HIDIRLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "İSLAMALAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KABACA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KARACASU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KARAHİSAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KARAHİSARGÖLCÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KARAHİSARKOZLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KAVAKKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KULU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KURUCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "KUZUCULAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "MEYİLDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "MEYİLHACILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "NALLIDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "NALLIGÖLCÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "NASUHPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "NEBİOĞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "OSMANKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "OZAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ÖMERŞEYHLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ÖŞÜRLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "SARIKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "SARIYAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "SOBRAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "SOĞUKKUYU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "TEKİRLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ULUHAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "ULUKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "UZUNÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "YAKAPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "YAZI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "YUKARIBAĞDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "YUKARIBAĞLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "NALLIHAN",
+    "Mahalle": "YUKARIKAVACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ADATOPRAKPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "AVDANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "AVŞAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "BABAYAKUP MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "BASRI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "BEŞKÖPRÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "BEYCEĞİZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "BEYLİKKÖPRÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ÇANAKÇI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ÇEKİRDEKSİZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ÇEKİRDEKSİZOSB MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ÇİMENCEĞİZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ESKİKARSAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ESKİKÖSELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ESKİPOLATLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "GEDİKLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "GENÇALİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "GÜLPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "GÜLVEREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "GÜMÜŞYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "GÜNDOĞAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "GÜREŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "HACIMUSA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "HACIMUSLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "HACIOSMANOĞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "HACITUĞRUL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "HIDIRŞEYH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "İĞCİLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "İNLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KABAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KARAAHMET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KARABENLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KARACAAHMET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KARAHAMZALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KARAİLYAS MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KARAKUYU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KARAYAVŞAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KARGALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KIRANHARMANI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KIZILCAKIŞLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KOCAHACILI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "KUŞCU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "MACUN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "MEHMETAKİF MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "MÜSLÜM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "OĞUZLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "OLUKPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ÖMERLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ÖRDEKGÖLÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ÖZYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "POYRAZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "SABANCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "SARIHALİL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "SARIOBA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "SAZLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "SİNANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "SİNCİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "SİVRİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ŞABANÖZÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ŞEHİTLİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ŞENTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ŞEYHALİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ŞIHAHMETLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "TAŞPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "TATLIKUYU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "TOYDEMİR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "TÜFEKÇİOĞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "TÜRKKARSAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "TÜRKTACİRİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "UZUNBEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ÜÇPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YAĞCIOĞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YAĞMURBABA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YARALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YASSIHÜYÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YENİKÖSELER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YENİMEHMETLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YEŞİLÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YILDIZLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "YÜZÜKBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "POLATLI",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "ABADAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "ALTINOVA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "AYYILDIZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "KÖSRELİKKIZIĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "PEÇENEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "SARAY CUMHURİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "SARAY FATİH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "SARAY GÜMÜŞOLUK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "SARAY OSMANGAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "SİRKELİ YEŞİLOVA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "SİRKELİ YEŞİLYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "TEVFİK İLERİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "YENİ KARAKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "YILDIRIM BEYAZIT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "PURSAKLAR",
+    "Mahalle": "YUVA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "AHİ EVRAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "AHİ EVRAN OSB MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "GAZİ OSMANPAŞA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "GÖKÇEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "TÖREKENT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ULUBATLI HASAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "AKŞEMSETTİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ANAYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ANDİÇEN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ÇİÇEKTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ERTUĞRULGAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ESENLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "KESİKTAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "MALAZGİRT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "MARAŞAL ÇAKMAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "OSMANLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "PLEVNE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "POLATLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "SARAYCIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "SELÇUKLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "TANDOĞAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "TATLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "YENİÇİMŞİT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "YENİPEÇENEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ALAGÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ALCI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ALCI OSB MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "BACI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "BEYOBASI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ÇOKÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "GİRMEÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "HİSARLIKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "MALIKÖY ANADOLU OSB MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "MALIKÖY BAŞKENT OSB MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "MALIKÖY DÖKÜMCÜLER OSB MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "MALIKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "TÜRKOBASI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ÜCRET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "YENİHİSAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "29 EKİM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ADALET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "AKÇAÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ÇOĞLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "ERKEKSU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "İLYAKUT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "İNCİRLİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "MUSTAFA KEMAL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "MÜLK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "SİNCAN",
+    "Mahalle": "YENİKAYI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ACIKUYU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ACIÖZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "AKARCA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "AKİN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "AKSEKİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ALİUŞAĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "BAĞOBASI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "BALTALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "BOĞAZİÇİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "BÜYÜKDAMLACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "BÜYÜKKIŞLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "CINGIL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ÇALÖREN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ÇATÇAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ÇAVUŞKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ÇAYIRÖNÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "DELİLLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "DEVEKOVAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "DOĞANKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "EKİCİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ELEY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "FADILLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "GEÇİTLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "GÜLHÜYÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "HACIBEKTAŞLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "HACIENBİYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "HAMZALI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "HAYDARLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "KACARLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "KADINCIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "KADIOBASI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "KARABÜK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "KARAMOLLAUŞAĞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "KARANDERE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "KÜÇÜKDAMLACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "MUSTAFACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "MUSULAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ODUNBOĞAZI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "PALAZOBASI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "PARLASAN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "SADIKLI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "SARIKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "SEYMENLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ŞANLIKIŞLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ŞEKERKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ŞEREFLİDAVUTLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ŞEYH KUYUSU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ŞEYHLİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "ÜZENGİLİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "YALNIZPINAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "YAZISÖĞÜT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "ŞEREFLİKOÇHİSAR",
+    "Mahalle": "YUSUFKUYUSU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "BEŞTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "EMNİYET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "BATI SİTESİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "ERGAZİ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "İLKYERLEŞİM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "KARDELEN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "KENTKOOP MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "UĞUR MUMCU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "YENİ BATI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "25 MART MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "DEMETEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "DEMETGÜL MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "DEMETLALE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "İVEDİKKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "İVEDİKOSB MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "ÖZEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "YEŞİLEVLER MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "ATA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "KARACAKAYA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "KUZEY YILDIZI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "MACUN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "MEMLİK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "SUSUZ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "YAKACIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "YUVAKÖY MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "OSTİM MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "OSTİM OSB MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "SERHAT MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "ANADOLU MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "AŞAĞI YAHYALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "AVCILAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "BARIŞTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "BURÇ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "ÇİĞDEMTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "GÜVENTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "GÜZELYAKA MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "KALETEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "KAYALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "PAMUKLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "YUKARI YAHYALAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "ERGENEKON MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "GAYRET MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "IŞINLAR MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "RAGIP TÜZÜN MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "TEPEALTI MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "VARLIK MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "YENİÇAĞ MAH"
+  },
+  {
+    "il": "ANKARA",
+    "ilçe": "YENİMAHALLE",
+    "Mahalle": "YUNUS EMRE MAH"
+  }
+]

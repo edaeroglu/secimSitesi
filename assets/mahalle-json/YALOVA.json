@@ -1,0 +1,542 @@
+[
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "HERSEK MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "MERKEZ MAH (KAYTAZDERE BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "AHMEDİYE KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "AKTOPRAK KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "ÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "DEVLETYOLU ALTI MAH (ÇAVUŞÇİFTLİĞİ KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "DEVLETYOLU ÜSTÜ MAH (ÇAVUŞÇİFTLİĞİ KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "FEVZİYE KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "GEYİKDERE KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "HAVUZDERE KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "KARADERE KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "KÖY ALTI MAH (TOKMAK KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "KÖY İÇİ MAH (TOKMAK KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "SERMAYECİK KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "ALTINKENT MAH (SUBAŞI BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "DENİZGÖREN MAH (SUBAŞI BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "MERKEZ MAH (SUBAŞI BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "FATİH MAH (TAVŞANLI BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ALTINOVA",
+    "Mahalle": "ŞEHİTLİK MAH (TAVŞANLI BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ARMUTLU",
+    "Mahalle": "50. YIL MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ARMUTLU",
+    "Mahalle": "BAYIR MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ARMUTLU",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ARMUTLU",
+    "Mahalle": "HAYRİYE MERKEZ MAH (HAYRİYE KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ARMUTLU",
+    "Mahalle": "İHSANİYE MAH (MECİDİYE KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ARMUTLU",
+    "Mahalle": "KÖY MERKEZİ MAH (FISTIKLI KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ARMUTLU",
+    "Mahalle": "KÖY MERKEZİ MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ARMUTLU",
+    "Mahalle": "KÖY MERKEZİ MAH (MECİDİYE KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ARMUTLU",
+    "Mahalle": "KÖY MERKEZİ MAH (SELİMİYE KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ARMUTLU",
+    "Mahalle": "YALI MAH (FISTIKLI KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "HARMANLAR MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "HASANBABA MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "KARPUZDERE MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "TAŞLİMAN MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "ALİYE HANIM MAH (ESENKÖY BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "LİMAN MAH (ESENKÖY BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "ATAKENT MAH (KORU BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "CUMHURİYET MAH (KORU BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "HÜRRİYET MAH (KORU BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "KÖY İÇİ MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "MERKEZ MAH (ÇALICA KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "MERKEZ MAH (KOCADERE KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "MERKEZ MAH (ORTABURUN KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "YALI MAH (KOCADERE KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "CUMHURİYET MAH (TEŞVİKİYE BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "İSTİKLAL MAH (TEŞVİKİYE BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇINARCIK",
+    "Mahalle": "KARŞIYAKA MAH (TEŞVİKİYE BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "500 EVLER MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "SAHİL MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "SİTELER MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "SULTANİYE MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "BURHANİYE KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "GACIK MAH (GACIK KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "GÖLLÜ MAH (GACIK KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "KILIÇ MERKEZ MAH (KILIÇ KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "MERKEZ MAH (ÇUKURKÖY KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "MERKEZ MAH (İLYASKÖY KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "MERKEZ MAH (LALEDERE KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "YALOVA İZMİT KARAYOLU MAH (KILIÇ KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "YUKARI MAH (ÇUKURKÖY KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "YUKARI MAH (İLYASKÖY KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "KABAKLI KÖYÜ"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "MERKEZ MAH (DENİZÇALI KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "MERKEZ MAH (KABAKLI KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "TAŞKÖPRÜ MERKEZ MAH (TAŞKÖPRÜ BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "ÇİFTLİKKÖY",
+    "Mahalle": "TAŞKÖPRÜ YENİ MAH (TAŞKÖPRÜ BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYRAKTEPE MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSMET PAŞA MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSTAFA KEMAL PAŞA MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞAKENT MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RÜSTEM PAŞA MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜLEYMAN BEY MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KADIKÖY BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZDEN MAH (KADIKÖY BELDESİ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEYKÖY MAH (GÜNEYKÖY KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ELMALIK KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ESADİYE KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÜNEYKÖY KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HACIMEHMET KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAZIMİYE KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KURTKÖY KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SAFRAN KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SAMANLI KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SUGÖREN KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SANAYİ MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYRANTEPE MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUGÖREN MAH (SUGÖREN KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜPÜRGELİK MAH (SUGÖREN KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "TERMAL",
+    "Mahalle": "KÖYİÇİ MAH (AKKÖY KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "TERMAL",
+    "Mahalle": "KÖYİÇİ MAH (YENİMAHALLE KÖYÜ)"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "TERMAL",
+    "Mahalle": "GÖKÇEDERE MAH"
+  },
+  {
+    "il": "YALOVA",
+    "ilçe": "TERMAL",
+    "Mahalle": "ÜVEZPINAR MAH"
+  }
+]

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:login_page_day_23/animation/FadeAnimation.dart';
-import 'package:login_page_day_23/pickOrDropdown.dart';
 
+import 'haritaSecim.dart';
 import 'konum.dart';
 
-class UyeOlmadanDevamSayfasi extends StatelessWidget {
+class pickOrDropdown extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -35,7 +35,7 @@ class UyeOlmadanDevamSayfasi extends StatelessWidget {
               Column(
                 children: <Widget>[
                   Text(
-                    '''Eğer üye değilsen bunları deneyebilirsin;''',
+                    '''haritadan veya dropdown;''',
                     style: TextStyle(
                       fontFamily: 'Caveat',
                       fontSize: 33,
@@ -48,42 +48,7 @@ class UyeOlmadanDevamSayfasi extends StatelessWidget {
                   SizedBox(
                     height: 20,
                   ),
-                  FadeAnimation(
-                      1.5,
-                      Container(
-                        padding: EdgeInsets.only(top: 3, left: 3),
-                        decoration: BoxDecoration(
-                            borderRadius: BorderRadius.circular(50),
-                            border: Border(
-                              bottom: BorderSide(color: Colors.black),
-                              top: BorderSide(color: Colors.black),
-                              left: BorderSide(color: Colors.black),
-                              right: BorderSide(color: Colors.black),
-                            )),
-                        child: MaterialButton(
-                          minWidth: double.infinity,
-                          height: 60,
-                          onPressed: () {
-                            Navigator.push(
-                                context,
-                                MaterialPageRoute(
-                                    builder: (context) =>
-                                        pickOrDropdown()));
-                          },
-                          color: Colors.cyan,
-                          elevation: 0,
-                          shape: RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(50)),
 
-                          child: Text(
-                            "Üye Olmadan Konumla Oy Ver",
-                            style: TextStyle(
-                                fontWeight: FontWeight.w600,
-                                fontSize: 18,
-                                color: Colors.white),
-                          ),
-                        ),
-                      )),
                   Container(
                     child: SizedBox(
                       height: 20,
@@ -109,14 +74,14 @@ class UyeOlmadanDevamSayfasi extends StatelessWidget {
                                 context,
                                 MaterialPageRoute(
                                     builder: (context) =>
-                                        pickOrDropdown()));
+                                        Konum()));
                           },
                           color: Colors.yellow[700],
                           elevation: 0,
                           shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(50)),
                           child: Text(
-                            "Üye Olmadan Konumla Ankete Katıl",
+                            "Dropdown ile seç",
                             style: TextStyle(
                                 fontWeight: FontWeight.w600,
                                 fontSize: 18,
@@ -147,14 +112,14 @@ class UyeOlmadanDevamSayfasi extends StatelessWidget {
                               context,
                               MaterialPageRoute(
                                   builder: (context) =>
-                                      pickOrDropdown()));
+                                      haritaSecim()));
                         },
                         color: Colors.red[900],
                         elevation: 0,
                         shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(50)),
                         child: Text(
-                          "Üye Olmadan Konumla Haber Oku",
+                          "Harita Üzerinden Seç",
                           style: TextStyle(
                               fontWeight: FontWeight.w600,
                               fontSize: 18,

@@ -1,0 +1,7342 @@
+[
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "AYHAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "CENGİZHAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "DENİZHAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "GÜNHAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÖZHAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "YILDIZHAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "AKÇAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "AKÇİÇEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "AKÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BALÇIKHİSAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BELPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BEŞİKTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BOĞAZİÇİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BOLATÇIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BOZDOĞAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BÜYÜKCAMİLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BÜYÜKDONA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BÜYÜKKEŞLİK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "BÜYÜKSÖĞÜTÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "CUMHURİYET MAH (BÜYÜKHIRKA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "CUMHURİYET MAH (ÇOPRAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇAL KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇATAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇATALBAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇATALKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇELEBİBAĞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇETEDERESİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇEVRELİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇIRÇIR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇİKHASAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇÖPLÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÇÖPLÜAVUTMUŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "DEDEPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "DEĞİRMENDERE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "DEĞİRMENÖNÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "DEREYAZICI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "DUTLUCA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "EREN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ESKİYAPAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "EVCİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "FAKILAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "FATİH MAH (BÜYÜKHIRKA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "FATİH MAH (ÇOPRAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "GAZİPAŞA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "GERDEKKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "GEVEN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "GÖKÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "GÜLDERESİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "GÜLLÜK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "HARHAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "HAYDAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "HÖYÜK MAH (ALACAHÜYÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "İBRAHİM KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "İMAT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "İSAHACI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "İSMAİLLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KALECİKKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KALINKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KAPAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KARAÇAL KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KARAMAHMUT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KARATEPE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KARGIN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KARNIKARA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KAYABÜVET KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KICILI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KILAVUZ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KIZILLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KIZILYAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KIZKARACA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KİLLİK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KOÇHİSAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KOYUNOĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KÖRPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KUYLUŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KUYUMCUSARAY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KUZKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KÜÇÜKCAMİLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KÜÇÜKDONA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KÜÇÜKHIRKA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KÜÇÜKKEŞLİK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KÜLAH KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KÜRE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "KÜRKÇÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "MAHMUDİYE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "MAZIBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "MİYANESULTAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "OĞUZHAN MAH (BÜYÜKHIRKA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ONBAŞILAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÖRÜKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "PERÇEM KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "SANCI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "SARISÜLEYMAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "SEYİTNİZAM KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "SİNCAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "SULTAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "SULUDERE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "TAHİRABAT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "TEVFİKİYE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "TUTAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "ÜNALAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "YATANKAVAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ALACA",
+    "Mahalle": "YÜKSEKYAYLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "TEPEBAYAT MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YATUKCU MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "AKKAYA MAH (SARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "AKSEKİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ALİBEY MAH (ESKİALİBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ANKARA YOLU MAH (SARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ASMA MAH (BEYDİLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "AŞAĞI EMİRHALİL KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "AŞAĞI MAH (ÇAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "AŞAĞI YEŞİLÇAT MAH (YEŞİLÇAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "AYVALICA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "BAĞ ARKASI MAH (HACIBAYRAM KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "BAĞÖZÜ MAH (KURUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "BARAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "BOYALIK MAH (DEREKUTUĞUN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "BÜYÜK MAH (TEVEKLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ÇAĞIL MAH (YONCALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ÇALI SÖKÜ MAH (KURUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ÇAMLIGÜNEY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ÇAY KAVUŞTU MAH (ÇERKEŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ÇEBİŞ GEDİĞİ MAH (KÖPÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ÇERKEŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ÇUKURÖZ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "DANGAZLAR MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "DEREKUTUĞUN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "DORUKSEKİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "EMİRŞAH KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ENALTI ÇAYI MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "FATİH MAH (KUNDUZLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "FINDICAK MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "GAZİ MAH (ESKİALİBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "GAZİ MAH (YEŞİLÇAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "GERİŞ MAH (KALINPELİT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "GÖYNÜK HARMAN ALTI MAH (TEVEKLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "GÜLEÇ MAH (YONCALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "GÜLLEVÜK MAH (ÇERKEŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "GÜZEL BAĞLAR MAH (ÇERKEŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "HACIAYVAT MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "HACILAR MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "HAVDAN MAH (TEVEKLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "HAYDAR MAH (DEREKUTUĞUN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "HOROZLAR MAH (İLEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "İMAMOĞLU MAH (EVCİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KARABALÇIK MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KARAKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KARŞIKÖY MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KARŞIYAKA MAH (ESKİALİBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KAVAKKIRI MAH (KÖPÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KAYABAŞI MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KAYTAZLAR MAH (YEŞİLÇAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KESKİNLER MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KIZILPELİT MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KİRENLE MAH (EVCİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KOM MAH (İLEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KOZDERE MAH (KUNDUZLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KÖM MAH (TEPEKUTUĞUN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KÖM MAH (YONCALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KÖMÜR OCAĞI-1 MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KÖMÜR OCAĞI-2 MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KÖYYERİ MAH (YONCALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KUBBEDİN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KURUÇAY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KURUGÖL MAH (HACIBAYRAM KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "KÜRTALİ DAMI MAH (KALINPELİT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "LAPA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (BAYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (BEYDİLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (ÇUKURÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (EMİRHALİL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (EVCİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (FALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (HACIBAYRAM KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (İLEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (İSHAKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (KALINPELİT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (KÖPÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (SAĞPAZAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (SARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MERKEZ MAH (YENİŞIHLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "MEZARLIK MEVKİ MAH (EMİRHALİL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "NASIFLAR MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "NAZPINAR MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "OBA MAH (İLEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ORTA MAH (TEVEKLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "OSMANYERİ MAH (HACIBAYRAM KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "PANCARLIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "SEMER DERESİ MAH (TEPEKUTUĞUN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "SOYUK MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "TAŞLIK MAH (EVCİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "TAYTAK MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "TEPEKUTUĞUN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "TOYHANE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "ÜRGÜPLER MAH (KALINPELİT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YAZLIK MAH (KUNDUZLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YENİ MAH (ESKİALİBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YENİ MAH (KUNDUZLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YENİCAMİ MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YEŞİLYURT MAH (KALINPELİT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YUKARI MAH (ÇAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YUKARI MAH (YONCALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YUKARI TAŞLIK MAH (EVCİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BAYAT",
+    "Mahalle": "YÜCEARDI MAH (AHACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "HATTUSAS MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "HİSAR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "BAĞLARBAŞI MAH (YEKBAS KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "BAHÇELİEVLER MAH (YEKBAS KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "ÇARŞICUMA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "DEREBAĞLAR MAH (EVCİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "EMİRLER KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "FATİH MAH (YEKBAS KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "GÖLPINARLAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "KADILITÜRK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "KARAKEÇİLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "KAYMAZ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "ÖRENKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "SARIÇİÇEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "YANICAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "YAZIR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "YENİ MAH (EVCİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "YENİKADILI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "YUKARIFINDIKLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "BOĞAZKALE",
+    "Mahalle": "YUNUS EMRE MAH (EVCİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "ÇATAR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "DOĞU MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "OKUL MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "ULUCAMİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "AKKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "CAMİİ MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "CUMHURİYET MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "ÇİFTLİKKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "DİKENLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "KABAKDERE MAH (DİKENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "KİRENCİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "KİRENPINARI MAH (AYVAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "KUYUCAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "MEHMETDEDEOBRUĞU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "MEHMETDEDETEKKESİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "MERKEZ MAH (AYVAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "MERKEZ MAH (BERKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "SOĞUKEŞME MAH (DİKENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "ŞEHİT ALİ ŞİRİN MAH (DİKENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "TIRIKLAR MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "TOKUŞ MAH (AYVAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "TUTUŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "YAYLA EVLERİ MAH (TUTUŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "YENİOKUL MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "YUKARI MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "DODURGA",
+    "Mahalle": "YUSUFLAR MAH (AYVAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "BAHABEY MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "BÜYÜKTAŞ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÇAVUŞ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "EKİZOĞLU MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "HACIPİRİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KALEBOĞAZI MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MUTAFLAR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "TABAKHANE MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ULAŞTEPE MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ULUDERE MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YENİCAMİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ACIPINAR MAH (MUSULAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "AHLAT MAH (KARAÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "AHLATCIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "AKKİL MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ALİBEYLİ MAH (HALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ALUÇ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ARAPLAR MAH (ÇOMU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "AŞAĞI EKŞİOĞLU MAH (AŞAĞIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "AŞAĞI KARLIK MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "AŞAĞI KIRAN MAH (AŞAĞIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "AŞAĞI MAH (İKİKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "AŞAĞISEKİ MAH (YAYLACIKSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "AŞİNA TAVUKÇULUK MAH (ŞEHİRKURUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "BAHÇELİEVLER MAH (YALAKÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "BARUTCU ÇİFTLİĞİ MAH (DEREKARGIN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "BOYRAZLAR MAH (BAŞMAKCI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "BURUNCUK MAH (AŞAĞIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "CANSIZLAR MAH (İKİPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "CINGILLIOĞLU MAH (KILIÇDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "CUHALAR MAH (GÜNEYALUÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "CURALAR MAH (HALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÇAĞILARDI MAH (ÇAVUŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÇATKARA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÇELİKLER ÇİFTLİĞİ MAH (ŞEHİRKURUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÇIRAKLAR MAH (HALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÇİMENLER ALİDAYI MAH (YANOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÇÖRDÜK MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÇÖRDÜK MAH (AŞAĞIÖRENSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÇUHALAR MAH (GÜNEYALUÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÇUKURKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DAMRUYURT MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DELİKKAYA MAH (AŞAĞIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DEMİRCİLER MAH (SEYİRÇAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DERE MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DEREKÖY MAH (YANOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DERELİ MAH (YAYLACIKSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DEVECİ MAH (DEREKARGIN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DİKBIYIKLAR MAH (ÇETMİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DİVANOĞLU MAH (AVHATYAKA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DOĞANGİR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DORUK HARMAN MAH (İBİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "DÜZBAĞ MAH (İBİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ELLER SAKLAR MAH (YAYLACIKSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ELLEZLER MAH (ÇOMU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ESENTEPE MAH (ÇAVUŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "EVLİK MAH (DERESEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "GICIKLAR MAH (BEYOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "GÖL KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "GÖLDAĞI MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "GÜLEKLER MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "GÜNEY MERKEZ MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "HACILAR MAH (ÇOMU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "HALİLPAŞA MAH (KARAÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "HARUN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "HASANDEĞEN MAH (YALAKÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "HASANFAKI MAH (AKCASU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "HİNOLAR MAH (ÇOMU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "HÜSEMOĞLU KÖYÜ MAH (HACIHALİL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "İKİPINARKÖYÜ YOLÜZERİ MAH (DEREKARGIN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "İNNİCE MAH (İBİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KADİRLİLER MAH (ŞEYH KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KALE MAH (ŞEYH KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KALFA MAH (KAYAAĞZI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KAMIŞAĞIL MAH (MUSULAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KAPI MAH (YAYLACIKSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KARABURUN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KARAGÖZ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KARAKAYA MAH (İBİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KARAMUK MAH (DAĞKIYISI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KARAŞAR MAH (ŞEYH KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KARAYANIK MAH (SORKUN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KARKIN MAH (DERESEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KARKIN MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KARMIŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KAVACIK MAH (İBİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KAYNARCA MAH (KILIÇDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KELAĞA MAH (ÇOMU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KELLELİ MAH (İKİKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KENGER MAH (KARAÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KIYI MAH (KURUSARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KIZILCABAYIR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KIZILİBRİK KÖYÜ MAH (HACIHALİL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KOÇCAĞIZ MAH (YALAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KOZVEREN MAH (ASARCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KUŞLAR MAH (SARIKAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KUTLUÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KUZ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KUZAHLAT MAH (SARIKAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KUZEY MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KUZÖREN MAH (AŞAĞIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KUZULUK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "KÜYÜKLER MAH (BEYOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MANASTIR MAH (İKİPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MANTARLI MAH (İKİPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MEMİLER MAH (GÜNEYALUÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERCİMEKLİK MAH (AHMETCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (AHMETCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (AKCASU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (ASARCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (AŞAĞIÖRENSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (AŞAĞIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (AVHATYAKA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (BAŞMAKCI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (BEYOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (ÇAVUŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (ÇETMİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (DAĞKIYISI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (DEREKARGIN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (DERESEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (GÜNEYALUÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (HACIHALİL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (HALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (İBİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (İKİKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (İKİPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (KARAÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (KAYAAĞZI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (KILIÇDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (KURUSARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (MUSULAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (ONAÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (ÖRÜBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (SARIKAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (SEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (SEYİRÇAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (SORKUN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (ŞEHİRKURUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (ŞEYH KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (YALAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (YALAKÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (YANOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (YAYLACIKSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "MERKEZ MAH (YERLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "OBRUK MAH (YAYLACIKSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "OKÇULAR MAH (SEYİRÇAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "OKÇULAR MAH (YAYLACIKSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ORTA MAH (AKCASU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ORTA MAH (KURUSARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "PARPUCU ÇİFTLİĞİ MAH (DEREKARGIN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "PAŞALI MAH (İKİKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "PORSUKLAR MAH (AVHATYAKA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SADIKLAR MAH (KURUSARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SALDERE MAH (SEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SEKİZEVLER MAH (İBİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SEMOĞLU MAH (GÜNEYALUÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SEMÜŞLER MAH (HALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SENNÜÇ MAH (İBİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SİPAHİ MAH (ÇETMİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SOPAK MAH (KARAÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SORGUNCUK MAH (İKİKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SÖYLEMEZLER MAH (AVHATYAKA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SUHİLAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SUSUZDAĞ MAH (AŞAĞIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "SÜLELİ MAH (HALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ŞADIMAN MAH (ÇOMU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ŞAHİNLER MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ŞAHİNLER MAH (ONAÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "TAŞKESTİK MAH (SEYİRÇAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "TEBEROĞLU MAH (GÜNEYALUÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "TEPEYAKASI MAH (ŞEHİRKURUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "TETİRİ MAH (AHMETCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "TEVGELER MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "TIRAŞLAR MAH (ÖRÜBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "TİLKİLER MAH (YAYLACIKSEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "TOSYA YOLU KORARDI MAH (YANOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "TÜLTEPE MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ULUGÜRGEN MEVKİİ MAH (DEREKARGIN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÜÇPINAR MAH (İBİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "ÜRKÜLER MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "VELETLER MAH (KILIÇDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YALINKİSE MAH (İKİKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YAMA MAH (BEYOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YANIKLAR MAH (İKİKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YASKAM MAH (SEYİRÇAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YAVAŞLAR MAH (ÇOMU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YAVU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YAVULAR MAH (SARIKAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YENİMAHALLE MAH (YANOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YENİYOL MAH (AKCASU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YUKARI EKŞİOĞLU MAH (AŞAĞIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YUKARI KIRAN MAH (AŞAĞIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YUKARIÖRENSEKİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "İSKİLİP",
+    "Mahalle": "YUNUS PINARI MAH (İBİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "İMAMBEY MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MİHRİHATUN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ABDİ MAH (SARAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ACEKSE MAH (BADEMCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AKÇAYAZI MAH (ARIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AKÇAYAZI MAH (BEYGİRCİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AKKAYA YAYLA MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AKKAYA YAYLASI MAH (GÖLET KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AKTAŞ MAH (SİNANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ALACİNEK MAH (CİHADİYE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ALADAĞ MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ALAYÜREK MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ARZUMANLAR MAH (BADEMCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AŞAĞI KAYADİBİ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AŞAĞI MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AŞAĞI MORA MAH (UZUNYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AŞAĞI YAYLA MAH (ÇOBANLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AŞAĞI YAYLA MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "AŞIKLAR MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "BAHÇELİEVLER MAH (HACIHAMZA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "BAŞPINAR MAH (GÖL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "BAYASLI MAH (GÖKBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "BAYAT YAYLASI MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "BOKLUCA MAH (ÇAKIRLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "BOSSEKİ MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "CARTLAKLAR MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "CELLELER MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "CEMBEKLİ MAH (GÖLETDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "CİNEMİNİN MAH (KUŞBAĞIN MAH) (GÖLETDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÇALARASI MAH (GÖL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÇALIKLAR MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÇATAK MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÇATAK YAYLASI MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÇAY MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÇAYKIŞLA MAH (BAĞÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÇEŞTEPE MAH (ÇAL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÇİÇEK YAYLASI MAH (UZUNYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÇORAK MAH (UZUNYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÇÖRÇÖR MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "DEĞİRMENDERE MAH (HACIHAMZA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "DEMİRCİ MAH (SARAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "DERE MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "DÜZENLİ MAH (ARIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ELİKOĞLU MAH (ÇOBANKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ERKEŞ MAH (CİHADİYE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ESKİ ARIK MAH (ARIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ESKİ YERLEŞİM YERİ MAH (ÇAKIRLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ESKİKÖY MAH (GÖKBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "EYNÖNÜ MAH (ÇOBANLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "FADILOĞLU MAH (GÖLETDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "FINDICAK MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "GERİÇÇİK MAH (GÖKBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "GÖCEN MAH (SÜNLÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "GÖCEN YAYLASI MAH (SÜNLÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "GÖKYER MAH (ÇAL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "GÖLCEĞİZ MAH (GÜNYAZI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "GÖLCEĞİZ YAYLASI MAH (GÜNYAZI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "GÜNEY MAH (ÇAKIRLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "GÜNEY MAH (KARAKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "GÜNYAZI YAYLASI MAH (GÜNYAZI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "HACI AHMET MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "HACI AHMET YAYLASI MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "HACILAR MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "HAMZALAR MAH (SEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "HARMANCI MAH (SARAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "İBİDERESİ YAYLASI MAH (UZUNYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "İĞDİŞ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "İKİTAŞ MAH (ÇAKIRLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "İKİZLER MAH (SÜNLÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KABAKÇI YAYLASI MAH (KABAKCI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KADİMLİ MAH (KARAOSMANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KALE MAH (HACIHAMZA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KARAAHMETLER MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KARAALİOĞLU MAH (ÇOBANKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KARAGÖL MAH (GÖLET KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KARAGÖZ GÜNEY MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KARAOĞLAN KIZI MAH (KABAKCI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KARAOLUK MAH (BEYGİRCİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KARATUZLA YAYLASI MAH (BOZARMUT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KARGI MAH (UZUNYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KARSU ALABALIK TESİSLERİ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KASIMLAR MAH (GÖL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KAŞ MAH (UZUNYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KAVAK MAH (GÖL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KAVAKDİBİ MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KELEŞLER MAH (SEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KESEK MAH (ÇAKIRLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KIRINTI MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KIRINTI YAYLASI MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KIŞLA MAH (ÇOBANKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KIŞLA MAH (GÜNYAZI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KIŞLA MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KIZILTAŞ MAH (SİNANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KIZILTAŞ YAYLASI MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KIZLANKIRAĞI MAH (CİHADİYE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KİRAZDİBİ GÜNEY MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KOCAÖMER MAH (YUVANIN MAH) (GÖLETDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KORU MAH (ÇOBANKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KÖPRÜBAŞI MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "KÜYÜKÇÜGİL MAH (ÇOBANKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MALKAYASI MAH (HACIVELİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MANDIRA MAH (SÜNLÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MEHDİOĞLU MAH (CİHADİYE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (ABDULLAH KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (AKÇATAŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (AKKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (AVŞAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (BADEMCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (BAĞÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (BEYGİRCİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (BOZARMUT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (CİHADİYE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (ÇAKIRLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (ÇAL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (ÇELTİKÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (ÇETMİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (ÇOBANKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (ÇOBANLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (ÇUKURALUÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (DEMİRÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (GÖKBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (GÖKÇEDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (GÖL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (GÖLET KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (GÖLETDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (GÜMÜŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (GÜNYAZI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (HACIVELİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (HALILAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (KABAKCI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (KARABOYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (KARAKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (KARAOSMANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (KARAPÜRÇEK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (KAVAKÇAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (KOYUNKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (MAKSUTLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (PELİTÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (SARAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (SİNANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (SÜNLÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (TEPELİCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (UĞUZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MERKEZ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MESTANLAR MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MOLLALAR MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "MORA YAYLASI MAH (UZUNYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "NASIFLAR MAH (SARAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "OBRUK MAH (HACIHAMZA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ONBAŞILAR GÜNEY MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ORTA MAH (ABDULLAH KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ORTA MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "OSMANSIRDIĞI MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÖKSÜZLER MAH (ARIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÖMERLER MAH (SARAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÖTEKÖY MAH (UZUNYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÖZBAŞI MAH (SİNANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ÖZKÖY MAH (SARAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "PINAR MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "PITILAR MAH (SEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "PİŞBİLİK MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "SAKIZÇAYI MAH (KAVAKÇAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "SEKİ MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "SOVLA MAH (SİNANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "SÖPSEKİ MAH (BADEMCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "SÜNLÜK YAYLASI MAH (SÜNLÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ŞIHLAR MAH (GÜMÜŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "TEKKEŞİN MAH (GÖKÇEDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "TEPE MAH (GÖL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "TEPEARKASI MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "UZUNTARLA MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (AKKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (ARIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (BADEMCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (ÇAL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (ÇUKURALUÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (GÖKÇEDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (GÖL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (KARABOYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (KARAKİSE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (PELİTÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (UĞUZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAYLA MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YAZIPINAR MAH (GÖL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YEMİŞLİ MAH (ÇETMİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YEMİŞLİ MAH (GÖLETDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YENİCE MAH (ÇOBANKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YENİKÖY MAH (TEPELİCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YEŞİLKÖY YAYLASI MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YİĞREN YAYLASI MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YİRGEN MAH (KARACAOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YUKARI DEREKÖY MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YUKARI KAYADİBİ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YUKARI MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YUKARI MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "YUKARI YAYLA MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ZAİMLER MAH (SARAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ZEYNEL MAH (HACIHAMZA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "KARGI",
+    "Mahalle": "ZEYVE MAH (UZUNYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "ADA MAH (NARLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "BAĞLARBAŞI MAH (NARLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "CAVRAŞLAR MAH (NARLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "ÇAMLIPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "DOĞANLAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "DUTLUDERE MAH (KUYUMCU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "GÖKÇEKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "GÜNEY MAH (NARLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "İKİZCE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "KARAKÖY MAH (GÖKGÖZLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "KARAKÜTÜK MAH (GÖZÜBÜYÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "KARASOKU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "KAVAKLIÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "KUYUMCU MAH (KUYUMCU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "MERKEZ MAH (GÖKGÖZLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "MESCİTLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "SITMA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "ŞENYURT MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "YENİ MAH (NARLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "YEŞİLPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "LAÇİN",
+    "Mahalle": "YEŞİLYURT MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "BAHÇELİEVLER MAH (ELVANÇELEBİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "ÇAMLIK MAH (ELVANÇELEBİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "DEDİĞİ MAH (ELVANÇELEBİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "DOĞU MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "HIDIRLIK MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "MESCİT MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "SARIDEDE MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "ŞEHLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "TUTLUK MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "AĞCAKOYUN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "ALANCIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "ALÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "AŞAĞI MAH (BOYACI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "AŞAĞIKÖRÜCEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "BAYINDIR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "BEKİŞLER KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "BEYÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "BOĞAZKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "BOYACI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "BÜKSE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "ÇAM BEKİŞ MAH (BEKİŞLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "ÇAYKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "ÇİTLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "DAĞSARAY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "DEVLETOĞLAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "DOĞLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "DORUK BEKİŞ MAH (BEKİŞLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "ELMAPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "EMİRBAĞI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "FAKIAHMET KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "FINDIKLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "FİGANİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "GEYKOCA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "GÖKÇEBEL KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "GÜNGÖRMEZ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "HİSARKAVAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "IŞIKLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "İBEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KALECİK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KARACUMA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KARGI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KAYI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KIŞLACIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KOLOĞLU MAH (FİGANİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KONAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KOYUNAĞILI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KOZÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KÖRÜCEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KÖSEEYÜP KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "KUYUCAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "MOLLACOP MAH (KARACUMA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "PINARBAŞI MAH (PINARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "SARIHASAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "SIRÇALI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "SORKOĞLAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "SÖĞÜTÖNÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "SÖĞÜTYOLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "SÜLÜKLÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "TANRIVERMİŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "TERKEN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "TOTALİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "VAKIFLAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "YEDİGÖZ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MECİTÖZÜ",
+    "Mahalle": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATAKÖY MAH (DÜVENCİ BELDESİ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH SULTAN MEHMET MAH (DÜVENCİ BELDESİ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEDİKBEKİR MAH (DÜVENCİ BELDESİ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İKİPINAR MAH (DÜVENCİ BELDESİ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIŞLADERESİ MAH (DÜVENCİ BELDESİ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KULTAK MAH (DÜVENCİ BELDESİ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİMARSİNAN MAH (DÜVENCİ BELDESİ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUSEMRE MAH (DÜVENCİ BELDESİ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLABİBEY MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİMARSİNAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUHARAEVLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKEÇİLİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARÇAYOSB MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇTUTLAR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ABDALATA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHİİLYAS KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHİİLYAS MAH (AHİİLYAS KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMEDİYE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMET ŞAHNA MAH (KADIKIRI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇAAZ MAH (DUTÇAKALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇAKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKDAM MAH (KARAKEÇİLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKKOL MAH (ÇALYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKSEKİ MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKTAŞ MAH (ŞENDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYAZI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİKİ MAH (ESKİEKİN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTINBAŞ MAH (ALTINBAŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARSLAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARZUM PINARI MAH (SIRIKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞ.SARILIK MAH (SARILIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (ACIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (HAMDİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI ÜÇDAM MAH (SEYDİMÇAKALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATCALI MAH (ATÇALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYVALI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BABAOĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BABAOĞLU MAH (KERTME KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BADEMLİ MAH (YAKUPARPA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALIMSULTAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALIYAKUP KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYAT MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEKAROĞLU MAH (DÜDÜKLÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYDİLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞABAĞI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞACIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞAZÖNÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BORSUNLU MAH (MORSÜMBÜL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOYRALI MAH (KILIÇÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZBUĞA MAH (BOZBOĞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUDAĞAN MAH (ŞAHİNKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUDAKÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BURUN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜĞRÜOĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜKLÜCE MAH (ÖKSÜZLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKDİVAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKGÜLÜCEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CERİT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAĞŞAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALTICAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇANAKÇI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYSEKİ MAH (SEYDİMÇAKALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇELİKKAYA MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEŞMEÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOBANDİVAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOMARBAŞI MAH (ÇOMARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇORAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞBAĞ MAH (ÇALYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞKARAPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DANADERESİ MAH (AŞAĞISARAYLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DELİLER KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DELİLER MAH (DELİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREBEY MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DUT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EĞRİDERE MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELİCEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMALI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERDEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERTUĞRUL KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİCE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİCE MAH (ESKİCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİEKİN BAĞLARI MAH (ESKİEKİN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİEKİN MAH (ESKİEKİN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİKARADONA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİKÖY MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EVCİKUZKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EVCİORTAKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EVCİYENİKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EYERCİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH (OVASARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FERHATLI MAH (ESKİÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FERUZ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEMET KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖK MAH (ATÇALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇEPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKDERE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLYERİ MAH (SEYDİM KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZÜBÜYÜK MAH (KIRKDİLİM KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLVEREN MAH (HARMANCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVEÇLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVENLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI MAH (OVASARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIAHMETDERESİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIBEY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIMUSA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIPAŞA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIPAŞA MAH (HACIPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACİVAT MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMAMLIÇAY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HANKOZLUSU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HARMANTARLA MAH (ESKİEKİN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIZIRDEDE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜSEYİNAĞ MAH (HIMIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMLAR MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSMAİLKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADIKIRI MAH (KADIKIRI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALEHİSAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARABÜRÇEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARABÜRÇEK MAH (KARABÜRÇEK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKAYA MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAPINAR MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (HIMIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAŞGAGA MAH (MORSÜMBÜL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVACIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKLI MAH (AKSUNGUR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZIKLIKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZIKLIKAYA MAH (KAZIKLIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KENDİSİ MAH (ALTINBAŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KENDİSİ MAH (KARAHİSAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KINIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIŞLACIK MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIVIRCIK MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILKIR MAH (İĞDELİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRANLIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRAZLIPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİREÇOCAĞI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOĞUDURUK MAH (ESKİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAKLI MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOPARAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOZANOĞLU MAH (AKSUNGUR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOZLUCA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖSRELİK MAH (KARABAYIR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMÇELTİĞİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURUÇAY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUŞSARAY MAH (KUŞSARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUŞVEREN MAH (YAKUPARPA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜK EYMİR MAH (EYMİR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKDÜVENCİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKGÜLÜCEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKPALABIYIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LALOĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MECİDİYEKAVAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEMİŞLER MAH (AKSUNGUR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ACIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AHMETOĞLAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AKSUNGUR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ALTINBAŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ARPALIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ARPAÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AŞAĞISARAYLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ATÇALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AYAZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BEKTAŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BOZBOĞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BÜĞDÜZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BÜĞET KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (CELİLKIRI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇAKIR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇALICA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇALKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇALYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇAYHATAP KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇIKRIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DEĞİRMENDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DELİBEKİROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DENİZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DÜDÜKLÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ESENÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ESKİEKİN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ESKİÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (EYMİR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖCENOVACIĞI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HAMDİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HARMANCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HIMIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (İĞDELİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (İNALÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KADIDERESİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KADIKIRI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARABAYIR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARACA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARADONA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAGÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAHİSAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAKEÇİLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KERTME KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KILIÇÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KINIKDELİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KIRKDİLİM KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KÖPRÜALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KUŞSARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (MOLLAHASAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (MORSÜMBÜL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÖKSÜZLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÖMERBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SARILIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SERBAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SEYFE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SIRIKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SOĞUKSU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ŞAHİNKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ŞANLIOSMAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ŞENDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ŞEYHHAMZA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ŞEYHMUSTAFA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TARHAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TOZLUBURUN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TURGUT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TÜRKAYŞE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÜYÜK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YAKUPARPA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YEŞİLYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİSLEROVACIĞI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSTAFAÇELEBİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜHÜRLER KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OLUKÖZÜ MAH (SIRIKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (DUTÇAKALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA-AKÇAAZ MAH (DUTÇAKALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMANİYE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OYMAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRENCİK KAÇAĞI MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRENCİKKAÇAĞI MAH (HIMIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PALABIYIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PANCARLIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PANCARLIK MAH (PANCARLIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PEMBECİK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARCIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARÇAY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RIÇVANLAR MAH (ÇOMARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALUR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAPA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAY MAH (OVASARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAYLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIMBEY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIMBEY MAH (SARIMBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIŞEYH KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIYAR MAH (SEYDİMÇAKALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARMAŞA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAZDEĞİRMENİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SERPİN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEVİNDİKALANI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYİTMURAT MAH (SEYDİM KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SORSAVUŞ MAH (HAMDİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÖĞÜTSEKİ MAH (ESENÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜLÜKLÜ MAH (İNALÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT BEKİR ÖZAYDIN ALİKİ BAĞLISI MAH (ESKİEKİN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEKERBEY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞENYURT MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TARHANKOZLUSU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TATAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TATAR MAH (TATAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPE MAH (ÖMERBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TESLİM KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOLAMEHMET KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOLAMEHMET MAH (TOLAMEHMET KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜRKLER KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UĞRAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇDAM MAH (SEYDİMÇAKALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇEVLER MAH (ACIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜLKENPINARI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYDİĞİN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (OVASARAY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİCE MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİHAYAT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYURT MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOĞUNPELİT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUSEMRE MAH (SEYDİM KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AK KENT MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEPNİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖPLÜ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUNDUZHAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULUKAVAK MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAVRUTURNA MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİYOL MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "ASARÇAY MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "BİRTATLI MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "ÇEŞME MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KARADONLU MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KIZILCAPELİT MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "AŞIRLIK MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "ÇAPARAHMETLER MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "ÇEMAL MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "ÇİĞDEMLİK MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "GAFURLAR MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "GÖLEÇÜK MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KAMBURLAR MAH (DERİNÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KARABOYALIK MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KARAYA MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KASIMLAR MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KAVAKDAĞ MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KAYADİBİ MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KELOĞLANLAR MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KIŞLI İÇİ MEVKİ MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KIZIKCIKÖY MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KÖRPAŞALAR MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KÖSELER MAH (DERİNÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "KÖTELEKLER MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "MERKEZ MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "MERKEZ MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "MERKEZ MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "MEZARLIK YANI MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "ONBEŞ EVLER MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "ÖMERLER MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "SORDOĞLU MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "ŞAPHANE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "TEKKEŞİNLER MAH (DERİNÖZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "YAMAÇ MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OĞUZLAR",
+    "Mahalle": "YOĞUNPELİT MAH (AĞAÇÇAMI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "BAHÇELİEVLER MAH (AŞTAVUL BELDESİ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "ŞİRİNEVLER MAH (AŞTAVUL BELDESİ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "AKYAR MAH (SENEMOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "ASAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "BÜYÜKKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "CUMHURİYET MAH (KARAHACİP KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "ESENTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "FATİH MAH (KARAHACİP KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "FINDIKLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "İNCESU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "KAVAKALAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "KIZILHAMZA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "MERKEZ MAH (SENEMOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "ORUÇPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "SALBAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "SİRKEOĞLU MAH (SENEMOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "YAYLACIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "YUKARI KUYUCAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "ORTAKÖY",
+    "Mahalle": "SUYOLU MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "AĞIROĞLAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "AĞIZSUYU MAH (GECEK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "AHATLI MAH (KARALARGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "AHATLI MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "AHIBABA MAH (GECEK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "AHIRÇAYI MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ALACAKIŞLA MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ALAN MAH (FINDIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ALİBEY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ARAPLI MAH (AVLAĞI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "AŞAĞISALTUK MAH (SARIALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "AŞAĞIZEYTİN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "AYVALIK MAH (BALTACIMEHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "BALLIPINAR MAH (FINDIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "BATAK MAH (TEPEYOLALTI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "BEKİRÇAVUŞ MAH (BALTACIMEHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "BELKAVAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ÇALDİBİ MAH (SARIALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ÇATAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ÇAYLI MAH (KAMİL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ÇENELER MAH (ARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ÇERÇİLİ MAH (KONACA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "DELLER KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "DİLİMHİSAR MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "DOĞAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "DURUCASU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ELMACIK MAH (KUZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ELMALI MAH (SEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ESENLİ MAH (AŞIKBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ESKİ KÖY MAH (OVACIKSUYU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ESKİKÖY MAH (ÇAMPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "EVLİK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "FINDICAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "FINDIKLI MAH (YUKARIZEYTİN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GERMEÇ MAH (ÖBEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GİRİNOĞLAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GÖCÜK YAYLASI MAH (KUZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GÖCÜKBAŞI MAH (BALTACIMEHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GÖKÇELİ MAH (HANEFİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GÖLETCİK YAYLASI MAH (KUZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GÜNEŞÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GÜNEY MAH (BALTACIMEHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GÜNEY MAH (KARALARGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GÜVERCİNLİK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "HACI HASAN MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "HALİLLER MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "HAMİTLER MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "HASANÇAVUŞLAR MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "HAVDAN MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "HAYRAT MAH (BALTACIMEHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "İĞDEYİÇAL MAH (GÖKDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "İNAL KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "İNCESU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "İSAKLI MAH (AŞIKBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KABALA MAH (OVACIKSUYU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KALİNSE MAH (BALDIRAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KARACAKAYA 1 MAH (KARALARGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KARACAKAYA MAH (KARALARGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KARAÇAY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KARAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KARATAŞ MAH (TEKMEN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KARGI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KARŞI MAH (TEPEYOLALTI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KAVACIK MAH (AŞAĞIZEYTİN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KAYALIDERE MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KEPÇELİ MAH (FINDIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KINALITAŞ MAH (YENİDANİŞMENT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KIYIKÖY MAH (KONACA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KIZILKAYA MAH (GÖKDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KIZILTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KUMBABA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KUMBEL MAH (BALDIRAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KUZ MAH (BALTACIMEHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KUZHAYAT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (ARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (AŞIKBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (AVLAĞI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (AYDIN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (BALDIRAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (ÇAMPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (FINDIK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (GÖKDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (HANEFİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (KAMİL KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (KONACA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (KUZ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (OVACIKSUYU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (ÖBEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (SARIALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (SARPUNKAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (SEKİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (TEKMEN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (TEPEYOLALTI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (YENİDANİŞMENT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MERKEZ MAH (YUKARIZEYTİN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "MEZRA MAH (AVLAĞI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "PAMUKOĞLU MAH (GÖKDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "PELİTÇİK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "PELİTPINARI MAH (ÇAMPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "POYDORLI MAH (KONACA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SALTIK MAH (TEKMEN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SARALLE MAH (BALDIRAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SARIYAR MAH (BALTACIMEHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SARIYAR MAH (OVACIKSUYU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SARPUN MAH (SARPUNKAVAK KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SAVAŞTEPE MAH (KONACA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SEKİ MAH (AYDIN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SEKİBAĞI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SEYİTGAZİ MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SORUK MAH (YENİDANİŞMENT KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SÖĞÜTLÜ BAHÇE MAH (SARIALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SÜLEYMANDEMİR MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "TEKMEN BAĞLARI MAH (TEKMEN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ULUCAMİİ MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "UMAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YANALAK MAH (YUKARIZEYTİN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YANANKIŞLA MAH (BALTACIMEHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YANANKIŞLA MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YAYLA EVLERİ MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YAYLA MAH (TEPEYOLALTI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YAYLABAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YEDİOLUK MAH (YAĞSİYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YENİ MAH (BALTACIMEHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YENİCAMİİ MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YER ALÇAĞI MAH (KONACA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YEŞİLDERE MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YEŞİLTEPE MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YILDIZ MAH (KONACA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YOLDERE MAH (OVACIKSUYU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YÜRÜK MAH (TEPEYOLALTI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ZEYNELLER MAH (SARIALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ÇİFTLİKLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "EYMİR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GEMİCİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "GÜRLEYİK MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "HIDIRLIK MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KIZILIRMAK MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "KOYUNBABA MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ŞENYURT MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "TEMENÇE MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "ULUCAMİİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YAZI MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "OSMANCIK",
+    "Mahalle": "YEŞİLÇATMA MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AKÇAKOYUNLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AKÇALI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AKDERE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ALEMBEYLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ARABAÇAYI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ARICI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ASAYİŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AŞAĞIBALKAYA MAH (BALKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AŞAĞIBEŞPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AŞAĞIFINDIKLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ATA MAH (ARİFEGAZİLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AYAĞIBÜYÜK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AYDIN MAH (KALEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AYDOĞAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BAĞCILI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BAĞDATLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BAHÇELİEVLER MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BAHŞILI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BEŞDAM KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BEŞKIZ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BEYLİCE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BEYYURDU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BOZTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BOZYAYLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BUNALAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BÜYÜKİNCESU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BÜYÜKPOLATLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "CEVHERİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇADIRHÜYÜK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇAMOLUK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇAVUŞÇU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇAVUŞKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇAYAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇAYYAKA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇİÇEKLİKELLER KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇİFTLİKKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇİNGİLLER KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇUKURLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÇULHALI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "DAYINCIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "DENİZLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "DEREKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "DERTLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "EKMEKÇİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ERGÜLÜBABA MAH (YÖRÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "EŞME KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "FATİH MAH (DEMİRŞEYH KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "GAFURLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "GAZİ MAH (ARİFEGAZİLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "GÖKÇAM KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "GÖKÇEKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "GÖLLER KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "GÜLDERESİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "GÜLOLUK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "GÜVENDİK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "HACIOSMAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "HİLALLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "İKİZLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "İMİRLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "İNEGAZİLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KALENDEROĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KARACABEY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KARAÇAY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KARAKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KARAKOCALI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KARAOĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KARŞIYAKA MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KAVŞUT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KEMALLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KERTME KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KIRANKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KIŞLAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KIZILCAKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KÖRKÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KULA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KURBAĞLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KUŞÇALI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KUZUCAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KÜÇÜKİNCESU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KÜÇÜKPOLATLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "KÜLTÜR MAH (DEMİRŞEYH KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "MAHMATLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "MEHMETALİÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "MEHMETBEYLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "MERKEZ MAH (BALKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "MURATKOLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "OĞLAKÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH (YORGALI KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ORTAKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ORTAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "OYACA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "PAŞA MAH (DEMİRŞEYH KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "SALMANKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "SARICALAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ŞAHLI MAH (ARİFEGAZİLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ŞEKERHACILI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ŞEN MAH (KALEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "TATLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "TERZİLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "TİRKEŞ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "TOKULLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "TOPUZ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "TUĞCU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "TURGUTLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "TÜRKHACILARHANI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÜÇOLUK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YARIMSÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YAVUZ SULTAN SELİM MAH (YÖRÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YENİ MAH (ARİFEGAZİLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YENİ MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YENİHACILARHANI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YİRCE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YORGALI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YUKARIBEŞPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ZAFER MAH (KALEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AKÇAKENT MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "AKÇAY MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "BAŞPINAR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "FEVZİ PAŞA MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "GÜRPINAR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "HACETTEPE MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ÖRNEKEVLER MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "SUNGUROĞLU MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "ŞEKERPINAR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "TURAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "SUNGURLU",
+    "Mahalle": "YENİHAYAT MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "ANBARCI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "AŞILIARMUT KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "BELKAVAK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "BOZTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "BÜYÜKERİKLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "DAĞÖNÜ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "ESKİÇELTEK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "GÖKÇEAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "KARAEVLİYA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "KARAKISIK KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "KIRKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "KIZAĞLI KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "KÖPEÇ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "KÜÇÜKERİKLİ KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "RESULOĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "SAZKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "TORUNLAR KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "ÜÇDAM KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "YARIMCA KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "YENİYAPAN KÖYÜ"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "TUTPINAR MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "YENİCAMİİ MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ÇORUM",
+    "ilçe": "UĞURLUDAĞ",
+    "Mahalle": "YÜZGEÇ MAH"
+  }
+]

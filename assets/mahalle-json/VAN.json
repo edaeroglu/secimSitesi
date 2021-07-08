@@ -1,0 +1,3472 @@
+[
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "AKYAYLA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "ALTINDERE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "ALTINTAS MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "BAĞCILAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "CEVİZLİBELEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "ÇATBAYIR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "ÇÖMLEKÇİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "DOĞANYAYLA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "ELMAYAKA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "GÜNEYYAMAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "İSLAM MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "KARTAL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "KAŞIKÇILAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "PAŞAKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "ŞİŞLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "ULUBEYLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "ÜNLÜCE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "YAŞLIKAVAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAHÇESARAY",
+    "Mahalle": "YAYLAKONAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "AÇIKAĞIL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "AKÇALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ALBAYRAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "AŞAĞIKÜME MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "AŞALAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ATLILAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "AYDEMİR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "AZIKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "BELENCİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "BEŞOCAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "BİLGEÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "BÖĞRÜPEK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "BÖLEKLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "BÜKLÜMDERE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ÇAKIRDOĞAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ÇALDIRAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "DEREİÇİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "DERİNGEÇİT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "EKECEK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "EREK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ERKONAĞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ESENYAMAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "EŞMEPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "EVBAKAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "GEDİKBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "GELENLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "GÜLEÇLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "GÜROLUK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "GÜVENDİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "HAFİZİYE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "HASANBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ILICAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "IŞIKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "KAŞKOL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "KAVURGALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "KEÇİLİOBA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "KOCAKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "KOÇDAĞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "KONUKSAYAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "KOVALIPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "KÖPRÜAĞZI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "MAHMUTABAT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "OĞULVEREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ORTAYAZI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ORTAYOL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ÖMERDAĞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ÖNCÜLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ÖRENKALE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ÖRMETAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "ÖZPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "SAÇAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "SALLIDERE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "SAVAŞKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "SUALTI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "TAHIL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "TINAZLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "YANAL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "YAVUZLAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "YOLMAÇAYIR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "YUKARIDALLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "YUKARIDARICA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "YUKARIDİKMEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "BAŞKALE",
+    "Mahalle": "YURTTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "AKBAŞAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "ALAKAYA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "ALİKELLE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "ALTIYOL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "AŞAĞIÇANAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "AŞAĞIDİKME MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "AŞAĞIGÜLDEREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "AŞAĞIKUYUCAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "AŞAĞIMUTLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "AŞAĞIYANIKTAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "AVCIBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "AYRANCILAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "BAŞEĞMEZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "BEYAZIT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "BEYDOĞAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "BEZİRHANE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "BUĞULUKAYNAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "BURÇAKALAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "ÇAYIRKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "ÇUBUKLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "DEMİRCİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "DİREKLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "DOYUMALAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "ERGİNLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "EVCİLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "FATİH SULTAN MEHMET MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "GÜLYOLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "GÜNGÖREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "HANGEDİĞİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "HANKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "İNCEALAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "İSMAİLBABA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "KALKANDELEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "KARADULDA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "KAŞIM MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "KILAVUZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "KİLİMLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "KOÇOVASI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "KURTOĞLAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "KUSKUNKIRAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "OSMANLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "RECEP TAYYİP ERDOĞAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "SALAHANE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "SARIÇİMEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "SARIHARMAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "SELLİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "SERPMETAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "SUNGUR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "ŞEHİT JANDARMA BİNBAŞI KIVANÇ CESUR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "TEKİNDERE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "TEMRENLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "TOPRAKSEVEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "UMUTTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YAĞIBASAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YASSITEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YAYKILIÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YENİYAKA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YUKARIÇANAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YUKARIDİKME MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YUKARIGÜLDEREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YUKARIKUYUCAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YUKARIMUTLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YUKARISAĞMALLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YUKARIYANIKTAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YUVACIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "YÜCELEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇALDIRAN",
+    "Mahalle": "ZÜLFİBULAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "AĞAÇLIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "AKÇABÜK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "ALACAYAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "AŞAĞINARLICA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "ATLIHAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "BİLGİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "BOYUNPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "ÇILGA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "DALBASTI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "DEREBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "DOKUZDAM MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "ELİAÇIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "GÖRENTAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "HACIOSMAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "IŞINLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "KAÇIT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "KONALGA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "KORULU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "NARLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "ONAĞIL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "ÖVECEK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "SELÇUKLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "SIRMALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "SÖZVEREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "SUGELDİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "TEKNECİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "TOYGA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "UZUNTEKNE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÇATAK",
+    "Mahalle": "YUKARINARLICA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "ELMALIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "ERDEMKENT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "ERENKENT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "ESKİ CAMİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "YENİ CAMİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "AKIN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "ANDAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "AYAZPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "BAKACIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "BAKIMLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "ÇAYIRBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "DİLKAYA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "DOĞANLAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "DÖNEMEÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "EMİNPAŞA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "ENGİNSU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "GÖLKAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "KAVURMA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "KIYICAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "KÖKLÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "KÖPRÜLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "KÖŞKKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "KURUBAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "MÜLK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "SELAHATTİN EYYUBİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "SÜPHAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "ŞABANİYE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "EDREMİT",
+    "Mahalle": "TAŞKONAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ABDALMEZRASI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "AĞAÇÖREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "AĞIRKAYA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "AKBAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "AKÇAYUVA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "AKSAKAL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ALKANAT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "AŞAĞIAKÇAGEDİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "AŞAĞIÇÖKEK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "AŞAĞIGÖZE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "AŞAĞIIŞIKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "AŞAĞIKOZLUCA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "BAYRAMLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "BEYAZIT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "BOZYAKA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "BUCAKÖNÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "CAMİİKEBİR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ÇAKIRBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ÇATAKDİBİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ÇATALTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ÇELEBİBAĞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ÇETİNTAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ÇINARLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ÇİMEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ÇOBANDÜZÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ÇUBUKLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "DELİÇAY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "DEREKENT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "DERİMEVİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "DİNLENCE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "DOĞANCI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "DOLUCA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "DURACAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "DÜVENCİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "EKİCİLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ERGÜCÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "EVBEYLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "GEDİKDİBİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "GERGİLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "GÖKOĞLAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "GÖLAĞZI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "GÖRÜŞLÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "GÖZÜTOK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "GÜMÜŞOLUK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "HACIKAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "HASANABDAL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "HAYDARBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "HOCAALİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "İKİZÇALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "İŞBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KADİRASKER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KARATAVUK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KARDOĞAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KARLIYAYLA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KASIMBAĞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KAYABOYUN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KEKİKSIRTI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KEKLİKOVA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KIRKDEĞİRMEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KIRKPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KIZILÖREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KOCAPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KOÇKÖPRÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "KÖYCÜK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "LATİFİYE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "MAĞARA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "NİŞANCI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ORTAYAYLA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "OYALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ÖRENE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "PAYKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "PINARLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "SABANBÜKEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "SAHİL KENT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "SALİHİYE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "SALMANAĞA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ŞEHİRPAZAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ŞEREFLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "TAŞEVLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "TAŞKAPI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "TAŞLIÇAY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "TEKEVLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "TEKLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "TOPRAKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "ULUPAMİR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "UNCULAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "VANYOLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "YALINDAM MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "YANKITEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "YETİŞEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "YILANLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "YOLDERE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "YÖRELİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "YUKARIAKÇAGEDİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "YUKARIIŞIKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ERCİŞ",
+    "Mahalle": "YÜNÖREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "ABALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "ALADÜZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "ALTINSAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "ANAKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "ATALAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "AYDINOCAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "BAĞLAMA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "BARIŞIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "DAĞYÖRE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "DALDERE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "DEĞİRMİTAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "DEREAĞZI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "DİLMETAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "DOKUZAĞAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "GÖRÜNDÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "GÜNDOĞAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "GÜZELKONAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "HASBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "HİŞET MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "İKİZLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "İNKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "KAYALAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "KAZANÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "KIZILTAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "KOÇAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "KURULTU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "KUŞLUK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "TİMAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "TÖRELİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "UĞURVEREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "UYSAL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "YANIKÇAY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "YEMİŞLİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "YOLDÖNDÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GEVAŞ",
+    "Mahalle": "YUVA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "AKBULUT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "AKDOĞU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ALNIAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ARINDI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "AŞAĞIKAYMAZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "BAĞRIYANIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "BEŞBUDAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "BOZYİĞİT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "BÖLMEÇALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "BÜKEÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "CEVİZALAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ÇAKINLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ÇATAKDİBİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ÇAVUŞTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ÇEPKENLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ÇÖREKLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "DAĞSEVEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "DEĞİRMENDÜZÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "DİKBIYIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "DOLAYLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "DOLUÇIKIN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ELAÇMAZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ERKALDI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "GEÇERLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "GEZİYURT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "GİYİMLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "GÖLARDI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "GÜLEÇLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "GÜNBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "HACIKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "HAMURKESEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "HOŞAB MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "IŞIKPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "KALKANLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "KAPÇIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "KARAKOÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "KILIÇTUTAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "KIRKGEÇİT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "KOÇGÜDEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "KOYUNYATAĞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "KUŞDAĞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "MOLLAHÜSEYİN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "MURATALDI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "OĞULDAMI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ONGUN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "OTBİÇER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ÖRMELİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ÖVEÇLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ÖZLÜCE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "PARMAKKAPI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "SAKALAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "SAPAKONAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "SAVACIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "SEVİNDİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "SICAKSU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "SÜTLÜCE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "TAŞDÖNDÜREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "TAŞLIYAZI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "TEPEGÖREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "TOPÇUDEĞİRMENİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "TOPSAKAL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "TOPYILDIZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "TUTAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "TUTMAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "UMUT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "UZUNGEDİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ÜÇDOĞAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "ÜÇGEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "YALINCA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "YARAMIŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "YATAĞAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "YEDİSALKIM MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "YOLAŞAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "YOLDÜŞTÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "YUKARIKAYMAZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "GÜRPINAR",
+    "Mahalle": "YURTBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "AĞZIKARA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "ERÇEK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "ALİPAŞA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "ARITOPRAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "AŞAĞIÇİTLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "AŞAĞIGÖLALAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "BAHÇIVAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "BAKLATEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "BAKRAÇLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "BEŞÇATAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "BOSTANİÇİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "BUZHANE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "CEVDET PAŞA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "ÇALIMLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "DEĞİRMENARKI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "DEĞİRMENKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "DEREÜSTÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "DİBEKLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "ESENLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "GÖVELEK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "HACIBEKİR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "HAFİZİYE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "HALİLAĞA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "HATUNİYE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "ILIKAYNAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "IRGAT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "KARAGÜNDÜZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "KARAKOÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "KARPUZALANI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "KAVUNCU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "KAYMAKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "KEVENLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "KIRATLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "KÖŞEBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "ORTANCA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "SARMAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "SELİMBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "SERHAT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "SEYİT FEHİM ARVASİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "ŞEREFİYE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "VALİ MİTHAT BEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "YALINAĞAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "YATIKSIRT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "YUKARIGÖLALAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "İPEKYOLU",
+    "Mahalle": "YUKARIGÜNEYCE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "AÇIKYOL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "ADAKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "AKBULAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "AKÇAÇAY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "ALKASNAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "AŞAĞIARGIT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "BABACAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "BALAKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "BEŞPARMAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "BEYDAĞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "ÇAKMAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "DAĞÖREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "DEVETAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "DOĞANGÜN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "DÜRÜKKAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "ERİŞEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "ESENKOÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "GÖNDERME MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "GÖRECEK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "GÜLLÜÇİMEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "GÜMÜŞTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "KANDAHAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "KARAHAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "KARAOĞLAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "KEÇİKIRAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "KEMERKÖPRÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "KOCASABAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "KÖŞK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "KUŞÇU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "OTLAKBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "OVAPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "SARIMEMET MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "SÜRÜYOLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "ŞEHİTMEHMETBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "TANSU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "TOPUZARPA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "ULUŞAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "ÜNSELİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "YAKINCAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "YALINDÜZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "YAVUZSELİM MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "YUKARIARGIT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "MURADİYE",
+    "Mahalle": "YUMAKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "AKSORGUÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "ALTINBOĞA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "AŞAĞIAKÇAGÜL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "AŞAĞIBALÇIKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "AŞAĞIKOÇKIRAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "AŞAĞIMOLLAHASAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "AŞAĞITULGALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "AŞAĞIYORGANLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "BAĞRIAÇIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "BODURAĞAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "BOĞAZKESEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "BOYALDI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "ÇAMURLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "ÇAVUŞLAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "ÇIRAKKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "ÇUBUKLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "DAĞDEVİREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "DAMLACIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "DORUTAY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "DÖNERDERE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "EĞRİBELEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "ESKİ EMEK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "GÖZDEĞMEZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "GÜNYÜZLÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "HACIALİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "HACIKIŞLAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "HAZİNE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "KALECİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "KARGALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "KARLIYAMAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "KAŞIKARA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "KIRKÇALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "MEHMETALAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "MOLLATOPUZ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "OYMAKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "SAĞMALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "SARIKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "SAVATLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "SEYDİBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "SUGEÇER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "ŞEHİTTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "ŞEMSETTİN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "TEPEDAM MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "YARIMKAYA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "YAVUZLAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "YUKARIAYAZCA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "YUKARIBALÇIKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "YUKARIÇAVDARLIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "YUKARIMOLLAHASAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "YUKARITULGALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "YUKARIYORGANLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "YUMRUKLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "ÖZALP",
+    "Mahalle": "YÜNKUŞAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "BAKIŞIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "BALTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "BEYARSLAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "ÇAKMAKKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "ÇARTAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "ÇAYBAĞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "DEĞİRMİGÖL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "DOLUTAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "FERİTMELEN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "KAPIKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "KARAHİSAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "KARGALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "KAZIMPAŞA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "KAZLIGÖL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "KEÇİKAYASI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "KEKİKDÜZÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "KEPİR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "KOÇBAŞI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "KURUCAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "ÖRENBURÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "SIRIMLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "TURANKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "YAMANYURT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "YEŞİLAĞAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "SARAY",
+    "Mahalle": "ZİNCİRKIRAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ABDURRAHMAN GAZİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ADIGÜZEL MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "AKÇAÖREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "AKÇİFT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ALABAYIR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ALAKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ALTINTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ARISU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "AŞIT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ATMACA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "AYANIS MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "BAĞDAŞAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "BARDAKÇI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "BEYÜZÜMÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ÇAKIRBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ÇİTÖREN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ÇOBANOĞLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ÇOLPAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ÇOMAKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "DAĞÖNÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "DEĞİRMENÖZÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "DEREBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "DİBEKDÜZÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "DİLİMLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ERMİŞLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ESENPINAR MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "GEDELOVA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "GEDİKBULAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "GÖLLÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "GÖLYAZI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "GÜLSÜNLER MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "GÜVENÇLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "HALKALI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "HIDIRKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "İSKELE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "KALECİK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "KASIMOĞLU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "KELLE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "KOÇKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "KOLSATAN MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "KOZLUCA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "KUMLUCA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "MEYDANCIK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "MOLLAKASIM MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "OCAKLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "OTLUCA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ÖZKAYNAK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ÖZYURT MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "PİRGARİP MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "SAĞLAMTAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "SATIBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "SEYRANTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ŞAHGELDİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ŞEMSİBEY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "ŞEMSİBEYOSB MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "TABANLI MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "TEVEKLİ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "TOPAKTAŞ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "YALNIZAĞAÇ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "YAYLIYAKA MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "YEMLİCE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "YENİKÖŞK MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "YEŞİLSU MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "YUMRUTEPE MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "AKKÖPRÜ MAH"
+  },
+  {
+    "il": "VAN",
+    "ilçe": "TUŞBA",
+    "Mahalle": "İSTASYON MAH"
+  }
+]

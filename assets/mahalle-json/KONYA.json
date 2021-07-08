@@ -1,0 +1,5802 @@
+[
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "ALİÇERÇİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "BALIKLAVA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "BÜYÜKÖZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "ÇUKURBUCAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "ERDOĞAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "HAMZALAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "HENGEME MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "KARACAKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "KAYACIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "KURUÇAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "KÜÇÜKÖZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AHIRLI",
+    "Mahalle": "AKKİSE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "AĞALAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "AHMEDİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "ALANKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "AVDAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "BELKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "ÇATÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "DUTLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "KARAHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "KAYASU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "TÜLCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKÖREN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ALANYURT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ALTUNTAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "BOZLAĞAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "CANKURTARAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ÇAKILLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ÇAMLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ÇİMENDERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "DEĞİRMENKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "DOĞRUGÖZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ENGİLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "GEDİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "GÖLÇAYIR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "GÖZPINARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ILICAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "KARABULUT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "KARAHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ORTACA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "REİS MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "SAVAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "SORKUN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "TEKKEKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "TİPİKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ULUPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ÜÇHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "YAŞARLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "YAYLABELEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "YAZLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "KİLECİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "KURUÇAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "SEYRAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ADSIZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "AHİCELAL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ALTUNKALEM MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ANIT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ATAKENT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ÇİMENLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "ESKİKALE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "KOZAĞAÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "KUŞÇU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "NASREDDİN HOCA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "SELÇUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "TİPİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "YARENLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "AKŞEHİR",
+    "Mahalle": "YILDIRIM BAYEZİD MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "AKÇAŞAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "AKKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "AYIŞIĞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "BORUKKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "DEDELER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "HACINUMAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "KOÇAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "KOÇYAKA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "MANTAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "OĞUZELİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "ÖLMEZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "SARNIÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "TOPRAKLIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "YENİ ÖLMEZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "YENİKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ALTINEKİN",
+    "Mahalle": "YENİYAYLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ADAKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "AĞILÖNÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "AKBURUN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "AKÇABELEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "AVDANCIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "BAŞGÖZE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "BAYAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "BAYAVŞAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "BEKDEMİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ÇİÇEKLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ÇİVRİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ÇUKURAĞIL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "DAMLAPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "DOĞANBEY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "DOĞANCIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "DUMANLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "EĞİRLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "EMEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ESENCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "EYLİKLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "FASILLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "GÖÇÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "GÖKÇEKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "GÖKÇİMEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "GÖLKAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "GÖLYAKA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "GÖNEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "HUĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "HÜSEYİNLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "İSAKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "KARAALİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "KARABAYAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "KARADİKEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "KARAHİSAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "KURUCUOVA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "KUŞLUCA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "KÜÇÜKAVŞAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "MESUTLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "SADIKHACI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "SARIKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "SEVİNDİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ŞAMLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ÜÇPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ÜSTÜNLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ÜZÜMLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "YAZYURDU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "YEŞİLDAĞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "YUKARIESENCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "YUNUSLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "AVŞAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "BEYTEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "DALYAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "EVSAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "HACIAKİF MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "HACIARMAĞAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "İÇERİŞEHİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "MÜFTÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BEYŞEHİR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "AKÇAPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "ARSLANTAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "AYDINKIŞLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "AYVALCA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "BAĞYURDU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "BAYBAĞAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "BOZDAM MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "DEMİRASAF MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "DEREİÇİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "ELMAAĞAÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "HACIYUNUSLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "HAMZALAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "HARMANPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "HİSARLIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KARABAYIR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KARACAARDIÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KARACAHİSAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KARAYAHYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KAYACILAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KAYAPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KINIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KIZILÇAKIR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KİLDERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KOVANLIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KOZAĞAÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KUŞCA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KUZÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "KÜÇÜKHİSARLIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "PINARCIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "SARIOĞLAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "SAZLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "SOĞUCAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "SORKUN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "SÖĞÜT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "TARLABAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "TAŞBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "TEPEARASI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "TEPELİCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "ULUPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "ÜÇPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "YALNIZCA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "YAZDAMI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "YELBEĞİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "YOLÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "BOZKIR",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "AĞABEYLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "AHİRİGÜZEL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "BEYLİOVA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "BÖĞRÜDELİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "BULDUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "BÜYÜKBEŞKAVAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "ÇİMEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "ÇÖL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "DAMLAKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "GEMECİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "GÖLYAZI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "GÜNYÜZÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "HODOĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "İNSUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KANDİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KARABAĞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KARATEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KAYI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KELHASAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KIRKIŞLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KOCATEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KORKMAZLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KUŞÇA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KÜÇÜKBEŞKAVAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KÜTÜKUŞAĞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "MUTLUKONAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "SIĞIRCIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "TAŞPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "TURANLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "TÜFEKÇİPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "UZUNCAYAYLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "ÜZERLİKTEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "YAPALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "YENİYAYLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "YÜNLÜKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "ZAFERİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "ATÇEKEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "GÖKTEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "YEŞİLÖZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "CİHANBEYLİ",
+    "Mahalle": "YENİCEOBA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "ADAKASIM MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "BAHÇE HİSAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "BAHÇE SARAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "DOĞANYURT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "GÖKPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "HONAMLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "İSHAKUŞAĞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "KAŞÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "KÜÇÜKHASAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "SELÇUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇELTİK",
+    "Mahalle": "TORUNLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "BAKKALBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "BARAJ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "BARDAKÇI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "İZZETBEY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ABDİTOLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ADAKALE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "AFŞAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ALEMDAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ALISSA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ALİBEYHÜYÜĞÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "APA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "APASARAYCIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ARIKÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "AVDUL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "BALÇIKHİSAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "BEYLERCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "BÜYÜKAŞLAMA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ÇİÇEKKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ÇUKURKAVAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "DEDEMOĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "DİNEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "DİNEKSARAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "DİNLENDİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "DOĞANLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ERENTEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "FETHİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "GÖKHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "GÜVERCİNLİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "İNLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "İSTİKLAL OSB MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "KARKIN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "KUZUCU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "KÜÇÜKKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "OKÇU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "SEÇME MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "SÜRGÜÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "TAHTALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "TAŞAĞIL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "TÜRKMENCAMİLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "TÜRKMENKARAHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "UZUNKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ÜÇHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "ÜRÜNLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "YENİSU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "YÖRÜKCAMİLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ÇUMRA",
+    "Mahalle": "İÇERİÇUMRA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "ARAPÖZÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "CAMİİKEBİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "ÇİFTLİKÖZÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "DEĞİŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "DERBENTTEKKE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "GÜNEYKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "HACI AHMET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "MÜLAYİM MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "SARAYPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "SÜLEYMAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DERBENT",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "DURAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "GENCEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "GÖYNEM MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "KENANKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "MUSALLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "SARAYÖNÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "TAŞLIPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "TEPEARASI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DEREBUCAK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "AĞA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "AYASLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "BAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "CUMA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "ÇINAROBA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "DEŞTİĞİN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "FIRINLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "GÜVENDİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "HARMAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "İLYASLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "KEMER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "KOÇAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "KONAKKALE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "KUZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "ŞIH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "TEKKEKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "UNCULAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "YAZIR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "YAZLICA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "YEĞİN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "DOĞANHİSAR",
+    "Mahalle": "KARAAĞA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "AKMESCİT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "BESCİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "DEMİRCİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "EKİZLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "GÖLÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "KARAÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "MEŞELİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "ÖBEKTAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "TÜRBE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "YAMAÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EMİRGAZİ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ACIKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ACIPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ADABAĞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AKHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ALHAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AŞAĞIGÖNDELEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AŞIKLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BAHÇELİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BELCEAĞAÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BELKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BEYKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BEYÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BULGURLUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BURHANİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BÜYÜKDEDE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇAKMAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇAYHAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇİLLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇİMENCİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GAYBİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÖKÇEYAZI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÖKTÖME MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HACIMEMİŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HORTU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KAMIŞLIKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KARABURUN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KARGACI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KIZILGEDİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KUSKUNCUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KUTÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KUZUKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MELİCEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÖZGÜRLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "PINARÖZÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SARICA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SARITOPALLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SERVİLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TAŞAĞIL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TAŞBUDAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TATLIKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TÜRKMEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ULUMEŞE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YAZLIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YELLİCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YILDIZLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YUKARIGÖNDELEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ZENGEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ATAKENT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BATIALAGÖZLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "CAHI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "CİNLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DALMAZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DOGUALAGÖZLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÜLBAHÇE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HACIMUTAHİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HIDIRLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "PİRÖMER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ŞİNASİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TOROS MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TÜRBE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÜÇGÖZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YENİBAĞLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YILDIRIMBEYAZIT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "500 EVLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ALPASLAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BOYACIALİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇÖMLEKÇİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ETİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HACIMUSTAFA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KAZANCI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SELÇUKLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SÜMER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TALATPAŞA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YUNUSLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ZİYA GÖKALP MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "AĞRAS MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "AVCITEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "AYDOĞMUŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "BARDAS MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "DURAYDA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "EMİRHAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "GÜNEYBAĞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "GÜRAĞAÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "HABİLLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "KARASINIR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "KAYAAĞZI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "KIZILÖZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "KURUKAVAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "MEHMET ALİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "ÖMEROĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "ÖRENBOYALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "GÜNEYSINIR",
+    "Mahalle": "SARIHACI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "ARMAĞANLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "AŞAĞI HADİM MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "AŞAĞI MERNEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "AŞAĞIEŞENLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "BEYRELİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "BOLAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "ÇİFTEPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "DEDEMLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "DOLHANLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "DÜLGERLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "EĞİSTE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "FAKILAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "GEREZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "GEZLEVİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "GÖYNÜKKIŞLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "HOCALAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "İĞDEÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "KALINAĞIL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "KAPLANLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "KÜPLÜCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "MERNEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "ODUNCU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "SARNIÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "SELAHATTİN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "TAŞPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "UMURLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "YAĞCI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "YELMEZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "YENİKONAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HADİM",
+    "Mahalle": "YUKARIEŞENLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "BÜYÜKDOĞAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "ÇAKILLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "DEDELİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "DELİMAHMUTLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "ESKİHİSAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "İVRİZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "KARAYUSUFLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "KAYASARAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "KÖRLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "KÜSERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "NERNEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "OSMANKÖSELİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "SEYDİFAKILI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "YASSIKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HALKAPINAR",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "AKDAĞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "BAHÇELİ EVLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "BAŞLAMIŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "BUDAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "BURUNSUZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "ÇAVUŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "ÇUKURKENT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "DEĞİRMENALTI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "GÖÇERİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "GÖRÜNMEZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "İLMEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "KÖŞK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "MUTLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "SELKİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "SULUDERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "TOLCA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "ULUPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "İMRENLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "HÜYÜK",
+    "Mahalle": "KIRELİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ARGITHANI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "AYVATDEDE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "BEHLÜLBEY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "CAMİİATİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "FAHRETTİN ALTAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "MİLLİ EGEMENLİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "SAHİP ATA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ŞIHBEDRETTİN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ŞIHCARULLAH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "UCARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ÇİĞİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "DIĞRAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "GÖKBUDAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "AĞALAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "AVDAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "BALKI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "BARAKMUSLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "BELEKLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "BEYKONAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "BOĞAZKENT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "BULCUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "BÜYÜKOBA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ÇAVUŞÇUGÖL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ÇOBANKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ÇÖMLEKÇİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "DÜĞER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ELDEŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "GEÇİTKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "GEDİKÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "GÖKÇEYURT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "GÖLYAKA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "GÖSTERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "GÜNEYPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "HARMANYAZI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "KALEKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "KAPAKLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "MAHMUTHİSAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "MİSAFİRLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "OLUKPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ORMANÖZÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "SADIKKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "SEBİLLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "TEKELER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "YORAZLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "YUKARIÇİĞİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "ILGIN",
+    "Mahalle": "ZAFERİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "AFŞARLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "ALABAĞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "ATLANTI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "BAKIRPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "BAŞKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "BAYRAMLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "BEYKAVAĞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "BULGURPINARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "ÇAVDAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "ÇEŞMECİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "ÇUBUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "DEMİROLUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "DOĞANLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "GÜNGÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "HACIMEHMETLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "HACIOFLAZLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "HACIPİRLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KABACALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KAMIŞLIÖZÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KARAHİSARLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KARAKURTLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KARASEVİNÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KARAYÜRÜKLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KIZILKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KOLUKISA BERATLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KOLUKISA MESCİT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KONURÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KÖKEZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KÖYLÜTOLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KURTHASANLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "KÜÇÜKKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "MEYDANLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "OSMANCIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "ÖRNEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "PİRALİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "PUSAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "SAÇIKARA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "SARIKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "SÖĞÜTÖZÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "ŞAHÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "TOSUNOĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "TURGUTLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "ÜNVEREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "YAĞLICA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "YAYLAYAKA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KADINHANI",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "ADALET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "AKÇAYAZI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "AKÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "ALAADDİN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "APAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "ÇETMİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "ÇİĞİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "FEVZİ PAŞA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "HACI İSA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "HACI ÖMERLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "HANKAPI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "HASANOBA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "HOTAMIŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "İPEKÇİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "İPEKÇİOSB MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "İSLİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "İSMET PAŞA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "KARAKIŞLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "KAYACIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "KAYALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "KAZANHÜYÜĞÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "KESMEZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "KÜÇÜKAŞLAMA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "KÜLLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "ORTAOBA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "OYMALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "REŞADİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "SANDIKLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "SAZLIPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "TÜRÜDİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "ULUS MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "YAĞMAPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "YENİKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARAPINAR",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "AKİFPAŞA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "BÜYÜK SİNAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KALENDERHANE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KARACİĞAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KAYACIKARAPLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KEÇECİLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KEYKUBAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "SULTAN MESUD MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ULUBATLIHASAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "YEDİLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "FEVZİÇAKMAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "HACIYUSUFMESCİT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "TATLICAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ACIDORT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "AĞSAKLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "AKBAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "AKÖRENKIŞLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "BAKIRTOLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "BAŞGÖTÜREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "BEŞAĞIL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "BÜYÜKBURNAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ÇENGİLTİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "DİVANLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "GÖÇÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "HAYIROĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "İPEKLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "İSMİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KARADONA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KATRANCI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KIZÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KÖSEALİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "OBRUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ORTAKONAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ORTAKONAK OSB MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "OVAKAVAĞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "SAKYATAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "SÜRÜÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ŞATIR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "YAĞLIBAYAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "YARMA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "YAVŞANKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ZİNCİRLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ÇELEBİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ÇİMENLİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "EMİRGAZİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "FETİH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "HACI HASAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "HACISADIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "HACIVEYİSZADE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "HASANDEDEMESCİT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "NAKİPOĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ŞEMSİTEBRİZİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "AKABE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "AKÇEŞME MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "BAŞAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ÇATALHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ÇATALTÖMEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "DOĞUŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ELMACI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ERLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "HACIİBALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "HAMZAOĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KARAASLANDEDE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KARAASLANÜZÜMCÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KARAKULAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KERİM DEDE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "KUMKÖPRÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "MENGENE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "SARAÇOĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "SARIYAKUP MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KARATAY",
+    "Mahalle": "SELİMSULTAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "ALPARSLAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "FATİH SULTAN MEHMET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KEMALİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "ACIKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "ALTILAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "ARŞINCI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "BAHADIRLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "BEŞKARDEŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "BOZAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "BURUNAĞIL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "CANIMANA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "CELEP MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "DEĞİRMENÖZÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "DİNEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "DİPDEDE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "DOĞUTEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "FEVZİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "GÖKLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "GÜZELYAYLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "HİSARKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KARACADAĞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KARACADERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KIRKKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KIRKPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KOZANLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KÖMÜŞİNİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KÖSTENGİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "KÖŞKER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "MANDIRA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "SARIYAYLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "SEYİTAHMETLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "SOĞUKKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "ŞEREFLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "TAVLIÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "TUZYAKA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "YARAŞLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "YAZIÇAYIR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "ZİNCİRLİKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "KULU",
+    "Mahalle": "ÖMERANLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "AYDOĞDU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KONEVİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "PİREBİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "SAHİBATA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ÇAYIRBAĞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "GÖDENE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "HATIP MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KARADİĞİN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KARADİĞİNDERESİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "PAMUKCU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "YENİBAHÇE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ALİ ULVİ KURUCU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "BORUKTOLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "BOYALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ÇARIKLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ÇOMAKLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KAŞINHANI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ATEŞBAZ VELİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "AYANBEY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "DURUNDAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "HAVZAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KARAHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KOZAĞAÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "LALEBAHÇE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "OSMAN GAZİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "BAYAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "BOTSA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ÇOMAKLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ÇUKURÇİMEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ERENKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "EVLİYATEKKE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "HASANŞEYH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "HATUNSARAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "İKİPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "İNLİCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KAVAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KAYALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KAYIHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KIZILÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KİLİSTRA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KUMRALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "SADIKLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "SARIKIZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "SEFAKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "YATAĞAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "YEŞİLTEKKE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ALAKOVA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ALPASLAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "AYMANAS MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "BAHÇEŞEHİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "HADİMİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "HARMANCIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KOVANAĞZI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ULUĞBEY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ULUIRMAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "UZUNHARMANLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "YAYLAPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "ALAVARDI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "AŞKAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "KÖYCEĞİZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "MELİKŞAH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "MERAM",
+    "Mahalle": "YAKA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "BATI İSTASYON MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "DOĞU İSTASYON MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "HATİP MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "İNLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "SARAÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "BAHÇESARAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "BAŞHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "BOYALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "BÜYÜKZENGİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "ÇEŞMELİSEBİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "DEĞİRMENLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "ERTUĞRUL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "GÖZLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "KADIOĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "KARABIYIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "KARATEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "KAYIÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "KONAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "KURŞUNLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "KUYULUSEBİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "LADİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "ÖZKENT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SARAYÖNÜ",
+    "Mahalle": "YENİCEKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "AYDINLIKEVLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BEDİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "ERENKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "HÜSAMETTİN ÇELEBİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SİLLE AK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BOSNA HERSEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "KOSOVA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SANCAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "AŞAĞIPINARBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "AŞAĞIPINARBAŞI OSB MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BÜYÜKKAYACIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BÜYÜKKAYACIKOSB MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "TÖMEK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "YUKARIPINARBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BİNKONUTLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BUHARA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "MALAZGİRT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "ŞEYH ŞAMİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "FERİTPAŞA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "MUSALLA BAĞLARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "HOROZLUHAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "HOROZLUHANOSB MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "AKADEMİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "AKŞEMSETTİN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "ESENLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "HACIKAYMAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "HANAYBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "HOCACİHAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "KILINÇARSLAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SELÇUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "ŞEKER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "FERHUNİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "NİŞANTAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "ARDIÇLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BAĞRIKURT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BAŞARAKAVAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BİÇER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BİLECİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "ÇALDERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "ÇALTI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "ÇANDIR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "DAĞDERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "DOKUZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "EĞRİBAYAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "GÜVENÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "KALEKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "KARAÖMERLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "KERVAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "KINIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "KIZILCAKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "MEYDANKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SALAHATTİN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SARICALAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SIZMA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "TEPEKENT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "YAZIBELEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SİLLE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "KÜÇÜKMUHSİNE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SARAYKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SULUTAS MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "TATKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "ULUMUHSİNE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "BEYHEKİM MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "PARSANA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "SELAHADDİNİ EYYUBİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SELÇUKLU",
+    "Mahalle": "YAZIR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "ALAYLAR BİR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "ALAYLAR İKİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "ANABAĞLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "HACISEYİTALİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KARAKAVAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KIZILCALAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "SAADETLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "AKÇALAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "AŞAĞIKARAÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "BAŞKARAÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "BOSTANDERE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "BOYALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "BÜKÇE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "ÇAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "ÇATMAKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "ÇAVUŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "DİKİLİTAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "GEVREKLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "GÖKÇEHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "GÖKHÜYÜK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "GÖLYÜZÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "IRMAKLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "İNCESU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KARABULAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KAVAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KESECİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KETENLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KOZLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KUMLUCA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "KURAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "MADENLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "MESUDİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "MURADİYE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "OĞLAKÇI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "ORTAKARAÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "SARAYCIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "SUSUZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "TARAŞCI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "TAŞAĞIL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "TOL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "UFACIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "DEĞİRMENCİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "SEYİTHARUN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "SOFUHANE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "STAT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "ULUKAPI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "SEYDİŞEHİR",
+    "Mahalle": "YENİCAMİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "AFŞAR TEPECİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "AFŞAR YUKARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "BALCILAR ORTA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "BALCILAR VELİLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "BALCILAR YUKARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "BEKTAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "BOLAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "ÇETMİ CÖMEŞPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "ÇETMİ YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "HIRA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "ILICAPINAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "KECİMEN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "KONGUL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "SAZAK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TAŞKENT",
+    "Mahalle": "ŞIHLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "ÇÖĞÜRLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "ERDOĞDU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "GÜRSU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "KONARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "KORAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "KÖKLÜCE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "KUNDULLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "MEVLÜTLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "PAZARKAYA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "SUBATAN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "TURSUNLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "TUZLUKÇU",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YALIHÜYÜK",
+    "Mahalle": "ARASÖĞÜT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YALIHÜYÜK",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YALIHÜYÜK",
+    "Mahalle": "SARAYKÖY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YALIHÜYÜK",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "ALTINÖZ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "AYRITEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "BEŞIŞIKLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "BÖĞRÜDELİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "CEBRAİL MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "ÇAYIRBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "EĞRİKUYU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "EŞME MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "HACIFAKILI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "HACIÖMEROĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "HARUNLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "HATIRLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "HURSUNLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "İMAMOĞLU MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "KARAYAYLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "KARGALI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "KILLAR MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "KOÇYAZI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "KURTUŞAĞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "KUYUBAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "KUZÖREN MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "MEŞELİK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "ODABAŞI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "ORTAKIŞLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "ÖZYAYLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "PİRİBEYLİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "SELÇUK MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "SERTLER MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "SEVİNÇ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "SIRAM MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "SİNANLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "SÜLÜKLÜ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "TURGUT MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "YAVAŞLI MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "YEŞİLOBA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "YEŞİLYAYLA MAH"
+  },
+  {
+    "il": "KONYA",
+    "ilçe": "YUNAK",
+    "Mahalle": "YIĞAR MAH"
+  }
+]

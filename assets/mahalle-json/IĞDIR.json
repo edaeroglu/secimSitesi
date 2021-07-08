@@ -1,0 +1,1217 @@
+[
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "ARAS MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "KARASU MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "KÖPRÜLER MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "ADETLİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "AŞAĞIARATAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "AŞAĞIÇAMURLU KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "AŞAĞIÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "AŞAĞITOPRAKLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "BABACAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "EMİNCE KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "ESENKAYA MAH (KARAHACILI KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "GÖDEKLİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "HACIAĞA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "HASANHAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "HIDIRLI MAH (ADETLİ KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "KARAHACILI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "KIRÇİÇEĞİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "KOLİKENT KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "ORTALAR MAH (AŞAĞIÇAMURLU KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "RAMAZANKENT KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "SARAÇLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "TARLABAŞI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "TAZEKÖY KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "TİGEM MAH (EMİNCE KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "YENİDOĞAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "YUKARIARATAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "YUKARIÇAMURLU KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "YUKARIÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "ARALIK",
+    "Mahalle": "YUKARITOPRAKLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "ERGENEKON MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "AKTAŞ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "AŞAĞIALİCAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "BAYATDOĞANŞALI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "BEKİRHANLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "BULAKBAŞI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "CENNETABAT KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "GÖKÇELİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "GÖL MAH (ZÜLFİKARKÖY KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "İSLAMKÖY KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "KACARDOĞANŞALI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "KERİMBEYLİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "KOÇKIRAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "MERKEZ MAH (TAŞBURUN KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "MÜRŞİTALİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "ORTA ALİCAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "SEFERKULU MAH (ŞIRACI KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "ŞIRACI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "YAZLIK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "YUKARIALİCAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "KARAKOYUNLU",
+    "Mahalle": "ZÜLFİKARKÖY KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (HALFELİ BELDESİ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZVATAN MAH (HALFELİ BELDESİ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAİD NURSİ MAH (HALFELİ BELDESİ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TURGUT ÖZAL MAH (HALFELİ BELDESİ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUS EMRE MAH (HALFELİ BELDESİ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FARUKTOKA MAH (HOŞHABER BELDESİ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (HOŞHABER BELDESİ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "14 KASIM MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİ KAMERLİ MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAKVEYİS MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAKLI MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZGÜR MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİR SULTAN ABDAL MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPÇULAR MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARABAĞ MAH (MELEKLİ BELDESİ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET AKİF ERSOY MAH (MELEKLİ BELDESİ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAMIK KEMAL MAH (MELEKLİ BELDESİ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞAVER KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYUMAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİ KÖÇEK MAH (ZOR KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİBEYKÖY KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ASMA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIÇARIKÇI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIERHACI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYRAKTUTAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELALAK MAH (KAVAKTEPE KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BENDEMURAT KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEZİRHANE MAH (ÇİLLİ KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKIRTAŞ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALPALA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALPALAOSB MAH (ÇALPALA KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİKO MAH (ÇİLLİ KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİLLİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMAGÖL KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ENGİNALAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EVCİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLPINAR KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNGÖRMEZ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAKMEHMET KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HARMANDÖVEN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADIKIŞLAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANAL YOLU MAH (ENGİNALAN KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAGÜNEY KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAHİSAR MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKUYU KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KASIMCAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKTEPE KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZANCI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KERVANSARAY MAH (HARMANDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILKULE MAH (GÜNGÖRMEZ KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KORHAN MAH (SUVEREN KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖPRÜKÖY MAH (ÇİLLİ KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUÇ MAH (MEZRAA KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZUGÜDEN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLLÜK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZRAA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİRZA MAH (KAVAKTEPE KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NECEFALİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NİŞANKAYA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OBAKÖY KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRÜŞMÜŞ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PANİK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIÇOBAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUVEREN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞANLIMIRZA MAH (SUVEREN KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TACİRLİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞLICA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYCI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIÇARIKCI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIERHACI MAH (AŞAĞIERHACI KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YÜZBAŞILAR KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZOR KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ABBASGÖL KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ADALET MAH (CANDERVİŞ KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AFET KONUTLARI MAH (KULA KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AĞABEY KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AKDEĞİRMEN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AKDİZ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AKOLUK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ALÇALI MAH (KAYAÖREN KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ALHANLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ALİKÖSE KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ARSLANLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AŞAĞI ÇIYRIKLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AŞAĞIAKTAŞ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AŞAĞICİVANLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AŞAĞIKATIRLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AŞAĞISUTAŞI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AŞIK HÜSEYİN MAH (AŞAĞIKATIRLI KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "BADİLLİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "BAĞLAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "BAHÇECİK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "BAHÇELİMEYDAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "BAŞSİNEK MAH (OMBULAK KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "BEYOĞLU KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "BOSTANLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "BOYLUCA MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "BURUKSU KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "CANDERVİŞ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ÇIRAKLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "DEĞİRMEN MAH (SÜRMELİ KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "DİPSİZ MAH (BAHÇECİK KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "DOĞANYURT KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "EĞREKDERE KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ELMALIK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "GAZİLER KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "GEDİKLİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "GÖKTAŞ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "GÜLAHMET MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "GÜLTEPE MAH (GÜLLÜCE KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "HADIMLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "HAMURKESEN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "HASANKENT KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "İNCE KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "İNCESU KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KALAÇA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KANDİLLİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KARABULAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KARACÖREN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KARAGÜNEY MAH (DOĞANYURT KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KARAKOYUN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KARANLIK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KARATAŞ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KAYAKIŞLAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KAYAÖREN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KAZKOPARAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KELEKLİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KILIÇLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KIRKBULAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KIZILKELEFE MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KIZNEFER KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KOÇBAŞI MAH (TAŞUÇAN KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KONAKLI MAH (OMBULAK KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KULA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KUMBULAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KURUAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "KÜÇÜKOVA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "LALELİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "LEBİ MAH (KALAÇA KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "MOLLAKAMER KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "NAHIRKIRAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "OMBULAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ORTABUCAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "OSMANKÖY KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "PINAR MAH (ABBASGÖL KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "PİRDEMİR KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "PİRLİ MAH (SÜRMELİ KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "RAĞBET MAH (BAHÇECİK KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "SARIABDAL KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "SARIBULAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "SOĞUKBULAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "SÜRMELİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "TAŞKÖPRÜ MAH (KANDİLLİ KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "TAŞUÇAN KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "TEZEKÇİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "TURABİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "TUTAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "UĞRUCA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ÜÇKAYA KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ÜNLENDİ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YAĞLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YASSIBULAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YAYLACIK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YENİKÖY MAH (GÖKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YENİKÖY MAH (OMBULAK KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YUKARI SUTAŞI MAH (AŞAĞISUTAŞI KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YUKARIAKTAŞ KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YUKARICİVANLI KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YUKARIÇIYRIKLI MAH (AŞAĞI ÇIYRIKLI KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YÜCEOTAK KÖYÜ"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ZARİFHANE MAH (OMBULAK KÖYÜ)"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "IĞDIR",
+    "ilçe": "TUZLUCA",
+    "Mahalle": "YUKARI MAH"
+  }
+]

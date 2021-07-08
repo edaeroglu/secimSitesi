@@ -32,6 +32,11 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
+  city_picker_from_map: ^0.0.1
+  svg_path_parser: ^1.0.0
+  district_picker_turkey_map: ^0.0.7
+  sizer: ^2.0.13
+  http: ^0.13.3
 
 dev_dependencies:
   flutter_test:
@@ -68,6 +73,10 @@ flutter:
     - assets/6sayfa.png
     - assets/zsecim.png
     - assets/vote16.png
+    - assets/images/
+    - assets/city.json
+    - assets/county.json
+    - assets/mahalle-json/
 
 
 

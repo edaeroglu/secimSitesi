@@ -1,0 +1,4812 @@
+[
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "14 NİSAN MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "GÖL MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "İSAAĞA MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KETENPINAR MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "MURAT MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ABDULKADİR ÇETİN MAH (SÜRMELİKOÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ADAKENT MAH (DAVUT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AHMET IŞIK MAH (SÜRMELİKOÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AKBIYIK MAH (PİRALİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AKÇAY MAH (SÜRENKÖK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AKÇEVRE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AKYOLAÇ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ALAÇAYIR MAH (DEDEBULAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ALTINKİLİT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ALTINKİLİT MAH (ALTINKİLİT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AMEREŞK MAH (SÜRMELİKOÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "APRO MAH (MUTLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AŞAĞI KÖH MAH (DEDEBULAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AŞAĞI UĞUR MAH (DEDEBULAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AŞAĞIAKPAZAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AŞAĞIDALÖREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AŞAĞIKARDEŞLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "AŞAĞITÜTEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ATADAMI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ATAYOLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "BATIBEYLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "BEŞEVLER MAH (BÜVETLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "BEŞEVLER MAH (SÜRMELİKOÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "BEYAZTAŞ MAH (ATAYOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "BOYALAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "BUDAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "BUĞDAYLI MAH (DEDEBULAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "BURGULU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "BÜVETLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "CUMHURİYET MAH (TAŞKESEN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ÇİFÇİ MAH (GÜNBULDU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "DAVUT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "DEDEBULAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "DELİHASAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "DOKUZTAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "DURAK MAH (BATIBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "GEDİK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "GÖĞEBAKAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "GÖZÜPEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "GULEBIST MAH (GÜNBULDU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "GÜLTEPE MAH (AKYOLAÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "GÜNBULDU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "HACIHALİT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "HARABE MAH (TAŞBASAMAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "HASI KALİ KOMU MAH (SÜRMELİKOÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "HEYBELİYURT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "İBRAHİM KOMU MAH (YENİÇADIR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "İPEK MAH (YENİÇADIR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "İSAAĞA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "İSASELAM MAH (YANIKÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KAMİL IŞIK KOMU MAH (SÜRMELİKOÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KAPANCA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KAPLICA MAH (DAVUT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KAPLICA MAH (KUŞBURNU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KARAPAZAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KARATAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KAYNAKLI MAH (DEDEBULAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KEZO MAH (YUKARITÜTEK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KIRMIZI KOM MAH (MUTLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KOCAÇOBAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KOM MAH (SÜRENKÖK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KOTANCI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KURT DERE MAH (SÜRMELİKOÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KUŞBURNU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "KUŞLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "MECBURİYET MAH (HEYBELİYURT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "MOLLAKARA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "MUTLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "OĞULOBA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "OMUZBAŞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "OTLUBAYIR MAH (OĞULOBA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "PİRALİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "RAHMANKULU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "SAİTBEY MAH (YANIKÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "SATICILAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "SEYİTLER MAH (YENİÇADIR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "SÜRENKÖK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "SÜRMELİKOÇ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ŞAHİNBEY MAH (DEDEBULAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ŞAHİNŞAH KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ŞEKERBULAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "TARIM MAH (GÜNBULDU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "TARLABAŞI MAH (BATIBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "TAŞBASAMAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "TAŞKESEN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "TAZEKENT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "TEYİP MAH (SÜRENKÖK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "TOKLUCAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ULUKENT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "UYSALLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YANIKÇUKUR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YENİÇADIR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YEŞİLDURAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YILDIRIM KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YILDIZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YOL BOYU MAH (YEŞİLDURAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YOL MAH (OMUZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YOL ÜSTÜ MAH (YENİÇADIR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YOLCUPINARI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YÖRÜKATLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YUKARI KARDEŞLİ MAH (AŞAĞIKARDEŞLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YUKARI KÖH MAH (DEDEBULAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YUKARI MAH (YEŞİLDURAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YUKARI SATICILAR MAH (SATICILAR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YUKARI UĞUR MAH (DEDEBULAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YUKARIAKPAZAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YUKARIDALÖREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YUKARITÜTEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YUVA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "YÜCELER MAH (AKÇEVRE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DİYADİN",
+    "Mahalle": "ZORAVA MAH (BOYALAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ABDİGÖR MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "AHMEDİHANİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BÜYÜK AĞRI MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÇİFTEPINAR MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "HASANKEYF MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "İSHAKPAŞA MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KOÇKIRAN MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SARIGÜL MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ULUYOL MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "VATAN MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "AĞA MAH (ÜÇGÖZE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "AKÇUKUR MAH (YANOBA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "AKTARLA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "AKTUĞLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ALINTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ALTUN TEPE MAH (GÜNYOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ARPALI MAH (AYRANCI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "AŞ.KÜÇÜK YILANLI MAH (YILANLI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "AŞAĞI GÜNGÖREN MAH (GÜNGÖREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "AŞAĞITAVLA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ATABAKAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "AYDOĞAN MAH (ORTADİREK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "AYRANCI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BARDAKLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BARINDI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BAŞKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BEDİR MAH (BARDAKLI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BEKİRAĞIL MAH (GÖLYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BEREKET KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BESLER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BEZİRHANE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BİNKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BOZKURT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BOZYAYLA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BÖLÜCEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BULAKBAŞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "BUYURETTİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "CEBEKÜMBET MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÇALIKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÇATKIRAN MAH (YAYGINYURT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÇAYIR MAH (ÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÇETENLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÇEVİRME MAH (GÖLYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÇÖMÇELİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "DAĞDELEN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "DALBAHÇE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "DARIK MAH (ESNEMEZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "DEMİR KAPI MAH (YAYGINYURT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "DEMİR KILIÇ MAH (BULAKBAŞI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "DEMİRTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "DOLAKLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "DOSTALİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "DURYAN MAH (GÜNYOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ELLE MAH (GÖLYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ESKİSU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ESNEMEZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GIR MAH (GÜNGÖREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÖKÇEBULAK MAH (ÇETENLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÖKÇEKAYNAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÖKSÜGÜZEL MAH (ÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÖLLER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÖLYÜZÜ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÖZÜKARA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÜNYOLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÜRBULAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "GÜZEL MAH (YAYGINYURT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "HALAÇ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "HASO MAH (SESLİTAŞ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "İNCESU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KALE MAH (GÜNYOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KALECİK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KALHASAN MAH (GÜNGÖREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KARABULAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KARABURUN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KARACA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KARAKENT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KARAŞEYH KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KARGAKONMAZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KAZAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KESME TAŞ MAH (BULAKBAŞI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KIZILKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KONUT MAH (YAĞMURDÜŞEN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KONUTLAR MAH (SESLİTAŞ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KÖRÜK MAH (GÜNYOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KUCAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KURUTEPE MAH (TANIKTEPE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KUTLUBULAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KÜÇÜK UZUN YAZI MAH (UZUNYAZI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KÜÇÜK YILANLI MAH (YILANLI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KÜNÜTEPE MAH (TANIKTEPE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "KÜPLÜ MAH (SAĞLIKSUYU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "MELİKŞAH KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "MESCİTKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "MİRAĞIL MAH (GÖLYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ORTACA MAH (KARABURUN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ORTADİREK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ORTAKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÖMERBEY MAH (KARAŞEYH KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÖRMELİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÖRTÜLÜ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "PULLUTARLA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "RIZDE MAH (ÜZENGİLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SAĞDIÇ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SAĞLIKSUYU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SAMANLI MAH (BEZİRHANE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SARIBIYIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SARIÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SAZOBA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SESLİTAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SOMKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SUBEŞİĞİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SULUÇEM KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "SÜTCÜ MAH (YAYGINYURT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ŞEVKET MAH (YAĞMURDÜŞEN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "TAB MAH (YALINSAZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "TANIKTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "TAŞLI MAH (ÇALIKÖY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "TELÇEKER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "TEPELİ MAH (ÇALIKÖY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "TIMIR MAH (SESLİTAŞ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "TOPÇATAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "TUTAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "TUTUMLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "TÜRKMEN MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "UĞRAK MAH (MESCİTKÖY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "UZUNYAZI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÜÇGÖZE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÜÇMURAT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ÜZENGİLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YAĞMURDÜŞEN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YAKACIK MAH (GÜNGÖREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YALINSAZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YANOBA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YAYGINYURT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YENİHARMAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YENİKÖY MAH (ATABAKAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YIĞINÇAL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YİĞİTYATAĞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YOLÜSTÜ MAH (KARAŞEYH KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YUKARI MELİKŞAH MAH (MELİKŞAH KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "YUKARITAVLA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "DOĞUBAYAZIT",
+    "Mahalle": "ZİYARET MAH (SAĞLIKSUYU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "LOZAN MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "MÜFTÜSELİM MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ABDİKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "AKYUMAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "AKYUMAK MEZRASI MAH (AKYUMAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ALAGÜN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ALİ PAŞA MAH (MOLLASÜLEYMAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ALKUŞAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ARİFBEY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "AŞAĞIKOPUZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "AYDOĞDU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ÇATALPINAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ÇATKÖSEDAĞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ÇETİNSU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ÇİFTEPINAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "DALKILIÇ KONUTLAR MAH (DALKILIÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "DALKILIÇ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "DEĞİRMENOLUĞU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "DOLUTAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "DÜZAĞIL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "DÜZYAYLA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ERGÖZÜ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "EYÜPKOMU MAH (YAĞMURLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "GONCALI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "GÖZAYDIN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "GÜNEYKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "GÜVENCE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "HAN MAH (YUKARIKOPUZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "HAREBEGÜL MAH (AYDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "HASANPINARI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "HAYDAROĞLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "HAYRANGÖL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "HÜRRİYET KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "İKİZGEÇE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "İKİZGÖL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "İNDERE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "KANATGEREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "KARABACAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "KAYAYOLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "KOKULUPINAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "KÖRPEÇAYIR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "MOLLAHÜSEYİN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "MOLLASÜLEYMAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ÖZTOPRAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "PALAKÇAYIRI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "PİRABAT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "POSTO MAH (GONCALI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "RAMAZAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "SADAKLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "SALKIMLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "SARIKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "SÖBETAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "SULTANABAT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "SÜZGEÇLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "TOPRAKKALE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "TÜRKELİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ULUDAL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "UZUNYAZI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "YAĞMURLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "YANIKDERE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "YELKESEN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "YIĞINTAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "YUKARIKOPUZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "AYDINTEPE MAH (TAHİR BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "KARŞIYAKA MAH (TAHİR BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "YEŞİL MAH (TAHİR BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "AŞAĞICİHANBEY MAH (YAYLADÜZÜ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "CUMHURİYET MAH (YAYLADÜZÜ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "DEĞİRMENGEÇİDİ MAH (YAYLADÜZÜ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "GÖKÇAYIR MAH (YAYLADÜZÜ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "KARŞIYAKA MAH (YAYLADÜZÜ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ESENTEPE MAH (YÜCEKAPI BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "OKLAVALI MAH (YÜCEKAPI BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "ŞEHİT ENGİN MAH (YÜCEKAPI BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "ELEŞKİRT",
+    "Mahalle": "YEŞİLYURT MAH (YÜCEKAPI BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "BUZHANE MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KÜMBET MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ABDİÇIKMAZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ADIMOVA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AKÖREN MAH (KARAKAZAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AKYURT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ALAKOYUN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ALİAĞA MAH (KILIÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ALTIN YURT MAH (ÖZDİREK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AŞ KOYUNCU MAH (SÜLEYMANKÜMBET KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AŞAĞI GÖZE MAH (GÜLTEPE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AŞAĞI KAYALAR MAH (YUKARIGÖZLÜCE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AŞAĞI MOLLAHASAN MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AŞAĞI YURT MAH (SÜLEYMANKÜMBET KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AŞAĞIALADAĞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AŞAĞIDEREDİBİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AŞAĞIGÖZLÜCE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AŞAĞIKARABAL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AŞAĞIYENİGÜN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AYDINLAR MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "AYVACIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "BALDERE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "BEKCİLER MEZRASI MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "BEKLEMEZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "BOZO ÇAYIRI MAH (KARAKAZAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "BOZTEPE MAH (GÜMÜŞKUŞAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "CEYLANLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ÇEŞME MAH (ESENÖREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "DANACIK MAH (KARAKAZAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "DANAKIRAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "EKİNCİK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ERDOĞAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ESENÖREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "GOME MAH (BALDERE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "GÜLLÜCE MAH (NALLIKONAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "GÜMÜŞKUŞAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "GÜVEÇ MAH (AŞAĞIYENİGÜN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "HANİK MAH (SÜLEYMANKÜMBET KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KAÇMAZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KANDİLDAĞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KARADERE MAH (SÜLEYMANKÜMBET KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KARADOĞU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KARAKAZAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KARASEYİTALİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KARDEŞLER MAH (BEKLEMEZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KARLICA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KAYALAR MAH (ESENÖREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KAYNAKLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KELEŞKOM MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KENDALANA MAH (ABDİÇIKMAZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KILIÇ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KÖŞK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "KUNCIK MAH (AŞAĞIDEREDİBİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "MEZRA MAH (SEYİTHANBEY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "MUSABEY MAH (AYVACIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "NALLIKONAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "NENİK MAH (ESENÖREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "OLUKLU MAH (ÖZDİREK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ORTA MOLLAHASAN MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ORTAKÖY MAH (CEYLANLI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ÖMERŞABAN MAH (ERDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ÖRENLİ MAH (ÖZDİREK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ÖZDİREK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "SARIBUĞDAY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "SELİM MAH (ESENÖREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "SESLİDOĞAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "SEYİTHANBEY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "SOĞANLITEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "SÜLEYMANKÜMBET KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ŞEHİT MAH (KARAKAZAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ŞİKEFT MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "TATLISU MAH (CEYLANLI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "TAZEKÖY MAH (CEYLANLI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "TEPECİK MAH (ABDİÇIKMAZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "TOKLU MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "TUTAK MAH (YUKARIYENİGÜN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "TÜKENMEZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "UĞURTAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "UZUN ÇEŞME MAH (AŞAĞIYENİGÜN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "UZUN ÇEŞME MAH (YUKARIALADAĞ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "ÜÇ EVLER MAH (SÜLEYMANKÜMBET KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YAMAÇ MAH (EKİNCİK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YAPILI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YAZILI MAH (KARAKAZAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YEŞİL MAH (YUKARIYENİGÜN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YK KUYUNCU MAH (SÜLEYMANKÜMBET KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YK YURT MAH (SÜLEYMANKÜMBET KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YK. MOLLAHASAN MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YOĞUNHİSAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YOĞURTÇU MAH (GÜLTEPE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YUKARI DEREDİBİ MAH (AŞAĞIDEREDİBİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YUKARI GÖZE MAH (GÜLTEPE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YUKARI KAYA MAH (GÜLTEPE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YUKARIALADAĞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YUKARIEKİNCİK MAH (EKİNCİK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YUKARIGÖZLÜCE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YUKARITEPECİK MAH (ABDİÇIKMAZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YUKARIYENİGÜN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "HAMUR",
+    "Mahalle": "YUVACIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "100.YIL MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALPASLAN MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FIRAT MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MURAT MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ABİDE MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIKÜPKIRAN MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LEYLEK PINAR MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SITKIYE MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAVUZ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞILBAŞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞRI OSB MAH (MURAT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMETBEY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKBULGUR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇAY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTINÇAYIR MAH (KOCATAŞ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ANAKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARAKONAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARAP MAH (ÇOBANBEYİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ASLANGAZİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI PINAR MAH (UZUNVELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIAĞADEVE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIDÜRMELİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIKENT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIPAMUKTAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞISAKLICA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞISUBAŞI MAH (KOVANCIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIYOLDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞKALE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYRANLI MAH (KOVANCIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BADILLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALIKSU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALKAYNAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALLIBOSTAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALOLUK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞKENT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞBULAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞİKTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEZİRHANE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZTOPRAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖLÜKBAŞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMAÇAY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKIROBA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMURLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATALİPAŞA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIR MAH (OĞLAKLI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIRKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOBANBEYİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKURALAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKURÇAYIR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DARBOĞAZ MAH (YUKARIAĞADEVE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DARICA MAH (KOVANCIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEDEMAKSUT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞUTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÖNERDERE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DUMANLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EĞRİBELEN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELİAÇIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESEN KÖY MAH (ESENKÖY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİHARMAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FERHAT MAH (SARICA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEÇİTALAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLSEVTİ MAH (KOVANCIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLÇİMEN MAH (YUKARIAĞADEVE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞYAZI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEYSU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVENDİK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVENLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACISEFER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HANOBA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIDIR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALENDER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARASU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVACIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYABEY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCATAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOMİK MAH (CUMAÇAY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAK MAH (MOLLAOSMAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONUKTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOVANCIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMLUGEÇİT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAMIK MAH (AŞAĞISAKLICA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZRA MAH (AŞAĞIPAMUKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZRA MAH (DOĞUTEPE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MOLLAALİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MOLLAOSMAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MURAT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MURATHAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OĞLAKLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAKENT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAYOKUŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OTLUBAYIR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OZANLAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZBAŞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZVEREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARCIK MAH (KOVANCIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "REŞO MAH (SARICA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SABUNCU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAĞIRTAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARICA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIDOĞAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIHARMAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARITAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞANCUMAÇAY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞANKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUÇATAĞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞTEKNE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAYPINAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TELLİSIRT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEZEREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UÇARKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇ EVLER MAH (MURAT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAKINCA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YALNIZKONAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYIKLI MAH (KOVANCIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLAKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZICI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZILI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YIĞINTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOLLUYAZI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOLUGÜZEL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YONCALI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YORGUNSÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI PINAR MAH (UZUNVELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI SUBAŞI MAH (SARIHARMAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIAĞADEVE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIDÜRMELİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIKÜPKIRAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIPAMUKTAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARISAKLICA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIYOLDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YURTPINAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZİYARET KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "AKBULUT MAH (DEDELİ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ARPACIK MAH (BOZOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BALCILAR MAH (KARBASAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BAŞTARLA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BATIBEYLİ MAH (BOZOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BOZOĞLAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BUDAK MAH (DEDELİ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "CIZVIZ MAH (PİRÖMER KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "CUMHURİYET MAH (DEDELİ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇAVUŞ MAH (BOZOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇAYBAŞI MAH (DEDELİ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇİÇEK MAH (HASANDOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇUKURBAĞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DAMBAT MAH (BAŞTARLA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DEĞİRMEN MAH (DEDELİ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DEĞİRMENDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DERECİK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DEREKOMU MAH (KARBASAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ERYILMAZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "FATİH MAH (BOZOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÜNDÜZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "HASANDOLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "HİSAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KARBASAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KELEŞLER MEZRASI MAH (ÇUKURBAĞ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KIZILAĞIL MAH (DEĞİRMENDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "MERKEZ MAH (DEDELİ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "MEYDANDAĞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ORTADAMLA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÖRENDİK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "PİRÖMER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ŞEYTANOVA MAH (BAŞTARLA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "TOZBELEN MAH (ORTADAMLA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÜZÜMLÜ MAH (DEDELİ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YEŞİLÇİMEN MAH (BOZOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YEŞİLHİSAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YEŞİLOVA MAH (DEDELİ BELDESİ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YK.HIRBE MAH (BOZOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YUKARIDAMLA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ZALİ MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ZÜBEYT KOMU MAH (BOZOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "AKÇAÖREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "AKDİLEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "AKYEMİŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ALATAY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ANDAÇLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "AŞAĞI TEPE ÖNÜ MAH (TANYELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "AŞAĞIGÖÇMEZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "AŞAĞIKAMIŞLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BAHÇELİ MAH (AKDİLEK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BALTACIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BUDAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "CUMHURİYET MAH (LİÇ MAH) (YALÇINKAYA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇAKIRBEY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇAMURLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇAVUŞKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DEMİRÖREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DERMO MAH (AKYEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DİBEK MAH (YUKARIGÖÇMEZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DİKİLİTAŞ MAH (YUKARIKÜLECİK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DİNÇER MAH (EDREMİT KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DOĞANSU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DÜZCE MAH (TANYELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DÜZCELİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "EDREMİT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ESKİKONAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "EVREN MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GEÇİT MAH (YUKARIKÜLECİK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GELEBIZIN MAH (AKÇAÖREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÖKOĞLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÜL MAH (BALTACIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÜLÇİMEN MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÜLDÜZ MAH (AKDİLEK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÜZELDERE MAH (TANYELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "HALİFE MAH (UZUNGÜN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "İNCESU MAH (YUKARIGÖÇMEZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KALE MAH (ALATAY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KANIŞEVİTİ MAH (YUKARIKÜLECİK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KARATOKLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KAYADİBİ MAH (TANYELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KIZILTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KIZKAPAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KOÇAKLAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KONAKBEYİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KURUYAKA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KUŞKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KÜNCÜK MAH (SAĞRICA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KÜREKLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "MEZRA MAH (TANYELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "MEZRA MAH (YÜREKVEREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "MOLLAİBRAHİM KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "OYACIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÖZDEMİR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SAĞRICA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SALAHANE MAH (YUKARIKÜLECİK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SULUCA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SUSUZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ŞEKEROVA MAH (AKDİLEK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ŞIRIK MAH (ÇAKIRBEY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "TANYELİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "TAPU MAH (ÇAKIRBEY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "TEKİK MAH (KURUYAKA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "TEKMAL MAH (SUSUZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "TEPELİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "USLUCA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "UZUNCA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "UZUNGÜN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÜÇOYMAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "VARAN MAH (YUKARIKÜLECİK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "Y.SALAHANA MAH (TANYELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YALÇINKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YAYALAR MAH (TANYELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YENİCE MAH (YUKARIGÖÇMEZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YUKARI TEPE ÖNÜ MAH (TANYELİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YUKARIGÖÇMEZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YUKARIKAMIŞLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YUKARIKÜLECİK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YUKARIMAHALLE MAH (YUKARIGÖÇMEZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YUSUF MAH (ÇAVUŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YÜNCÜLER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YÜREKVEREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ZİNCİRKALE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ZİYARET KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "14 NİSAN MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ABDULVEHAP KÜFREVİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "AHMED-İ HANİ MAHALLESİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ALPASLAN MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BADİŞAN MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SARISU MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SELAHADDİNİ EYYUBİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SERHAD MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SÜPHAN DAĞI MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SÜTLÜ PINAR MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YEŞİL ÇİMEN MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YUNUSEMRE MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ABDULLAH MAH (TAŞKIN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ADALET MAH (KÖSELER KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "AKTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ARMUTLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BAĞBAŞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "BOZO MAH (ZİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "CANİK MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇAPUTLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇATMAOLUK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇEVLİK MAH (ZİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇİÇEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇORTALİ MAH (KAZANBEY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÇUBUKLU MAH (ERGEÇLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DAĞALAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "DİZGİNKALE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ERGEÇLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ESENBEL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ESENTEPE MAH (ERGEÇLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GENÇALİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÖKÇEALİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÖL MAH (GÖKÇEALİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÖL MAH (TAŞKIN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÖNLÜAÇIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÜNBELİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "GÜVERCİNLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "HARABEKENT MAH (TAŞKIN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "HAZNE MAH (GÖKÇEALİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "HIRBA GÜLAN MAH (ZİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "HIRBE MAH (KAZANBEY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KARABULAK MAH (GÖNLÜAÇIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KAZANBEY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KEÇELBABA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KÖSELER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "KUCAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "MALTEPE MAH (AKTEPE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "MECNUNGÖLÜ MAH (ERGEÇLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ONBAŞILAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SARIDİBEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "SATIBULAK MAH (ZİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "TAŞKIN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ÜRKÜT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YEŞİLCE MAH (ARMUTLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YILANLI MAH (ERGEÇLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YK.DUMANLI MAH (ÇAPUTLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "YURTÖVEN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ZİREKLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "PATNOS",
+    "Mahalle": "ZORAVA MAH (ERGEÇLİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "ADAKENT MAH (TANYOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "ALAKOÇLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "ARAS KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "AŞAĞIDUMANLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "AŞAĞIDÜZMEYDAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "AŞAĞIESEN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "AŞAĞITOKLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "BALÇİÇEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "BAYIRALTI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "BAYRAMYAZI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "BOYUNCAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "ÇERMİK MAH (ÇÖĞÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "ÇÖĞÜRLÜ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "ÇÖKELGE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "ÇÖKELGE MAH (ÇÖKELGE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "DİLEKYAZI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "DÖŞEME MAH (ALAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "DÜZGÖREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "ESEN MAH (KUMLUBUCAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "GEÇİTVEREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "GÖZUCU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "GÜLTEPE MAH (SAMANYOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "GÜMÜŞLÜ MAH (YELTEPE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "GÜNEYSÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "İKİYAMAÇ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "İNANLI MAH (SAMANYOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "KADO MAH (TAŞTEKER KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "KAĞNILI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "KAĞNILI MAH (KAĞNILI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "KARAGÖZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "KAYALIK MAH (TANYOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "KUMLUBUCAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "KUMLUCA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "KÜREKLİ MAH (TANRIVERDİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "SAMANYOLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "SATİKOMU MAH (GÖZUCU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "SİVRİCE MAH (YUKARIDÜZMEYDAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "TANRIVERDİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "TANYOLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "TAŞTEKER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YANALYOL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YANKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YARDIMCILAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YASSIKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YAYLACIK MAH (TANRIVERDİ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YAYLACIK MAH (TANYOLU KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YELTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YENİKÖY MAH (KUMLUCA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YUKARIDUMANLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YUKARIDÜZMEYDAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YUKARIESEN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YUKARITAŞLIÇAY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "YUKARITOKLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "15 TEMMUZ ŞEHİTLER MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TAŞLIÇAY",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ADA MAH (SOĞUKPINAR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ADAKENT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "AHMETABAT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "AKSU MAH (PALANDÖKEN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "AKYELE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ALACAHAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ALİHİRCO MAH (UZUNÖZ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "AŞAĞIKARAHALİT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "AŞAĞIKARGALIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "AŞAĞIKÖŞKKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "AŞAĞIKÜLECİK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "AŞAĞIÖZDEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ATABİNDİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ATAKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "AYDIN MAH (ÇELEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "AZİZLER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "BAHÇE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "BATMIŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "BAYINDIR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "BEYDAMARLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "BİNTOSUN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "BİŞİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "BOLAŞLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "BOZKAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "BULUTPINAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "BURNUBULAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ÇELEBAŞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ÇIRPILI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ÇOBANOBA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ÇUKURKONAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DAĞLICA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DALDALIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DAMLAKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DAYIPINARI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DİBELEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DİKBIYIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DİKME KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DOĞANGÜN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DORUKDİBİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DÖNERTAŞ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "DÖŞKAYA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "EDİSLER MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "EKİNCEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ERDAL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ERGEÇİDİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ESMER KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "GEÇİMLİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "GÜLÇİMEN MAH (AŞAĞIKÖŞKKÖY KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "GÜLÇİMEN MAH (ÇELEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "GÜNEŞGÖREN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "HACI ALİ KOMU MAH (ÖNDÜL KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "HACIYUSUF KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "HURİSAN MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "HURRİYET MAH (SOĞUKPINAR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "İKİGÖZÜM KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "İPEKKUŞAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "İSAABAT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "KARACAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "KARAHAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "KARAKUYU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "KAŞÖNÜ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "KAYADİBİ MAH (BAHÇE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "KESİK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "KILIÇGEDİĞİ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "KUŞKAYA MAH (KARACAN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "LAL YUSUF MAH (YUKARIKARGALIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "MERPEZER MAH (BOLAŞLI KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "MIZRAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "MOLLAHALİT MAH (SARIGÖZE KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "MOLLAHASAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "NÜSRET MAH (DAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "OCAKBAŞI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "OĞLAKSUYU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ORTAYAMAÇ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "OTLUCA KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "OZANPINAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ÖNDÜL KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "PALANDÖKEN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "SARIGÖZE KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "SİNCAN KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "SOFUKACIL MAH (BİNTOSUN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "SOĞUKPINAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "SORGUÇLU KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "SUVAR KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ŞEKERBULAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "TAŞBUDAK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "TEPEBAŞI MAH (BAYINDIR KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "TOPİ MAH (GÜNEŞGÖREN KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "UZUNÖZ KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "YAYIKLI KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "YAZI BAŞI MAH (İPEKKUŞAK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "YENİKENT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "YUKARIKARAHALİT KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "YUKARIKARGALIK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "YUKARIKÖŞK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "YUKARIÖZDEK KÖYÜ"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "ZOZO MAH (YUKARIKARGALIK KÖYÜ)"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "MURAT MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "PINAR MAH"
+  },
+  {
+    "il": "AĞRI",
+    "ilçe": "TUTAK",
+    "Mahalle": "YENİ MAH"
+  }
+]

@@ -1,0 +1,4657 @@
+[
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "BOZBAY MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "CUMHURİYET MAH (ZAFERTEPEÇALKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "HÜRRİYET MAH (ZAFERTEPEÇALKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "İSTİKLAL MAH (ÇAYIRBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "ZAFER MAH (ÇAYIRBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "ZAFER MAH (ZAFERTEPEÇALKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "AKÇAKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "ALINCIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "ALİBEY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "AŞAĞI MAH (GÖKÇELER KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "AYDINLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "AYKIRIKÇI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "BEŞKARIŞ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "ÇAKIRSAZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "ERENKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "EYMİR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "GECEK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "GENİŞLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "KUYUCAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "MECİDİYE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "MURATHANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "OSMANİYE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "OYSU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "PINARCIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "PUSAN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "SADIKKIRI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "SEVDİĞİN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "ŞANLIYURT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "ÜÇHÜYÜK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "YALNIZSARAY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "YAPILCAN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "YAYLA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "YENİKARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "YOLÇATI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ALTINTAŞ",
+    "Mahalle": "YUKARI MAH (GÖKÇELER KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "YALNIZSARAY MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ABAŞ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ADA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "AHMET ÇAVUŞLAR MAH (ÇÖMLEKÇİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ALTINTAŞ MAH (NUHÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ASLIHANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "BALLIBABA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "BAYAT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "BAYRAMŞAH KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "BEZİRGAN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ÇAKMAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ÇAL KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ÇALKÖY YAYLASI MAH (ÇAL KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ÇAMDİBİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ÇAMIRDIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "DERE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "EMREZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ESEN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "GÖLBAŞI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "GÖYNÜKÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "HAYDARLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "KARADİĞİN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "KARAKAYA MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "KETENOVA MAH (EMREZ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "KOCA OLUK MAH (MUSA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "KUREYŞLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "KÜMBET MAH (NUHÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "MEVLANA MAH (NUHÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "MUSA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ORTACA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "OSMAN ÇAVUŞLAR MAH (ÇÖMLEKÇİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "PAZARCIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "SARAY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ŞENİŞLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "ŞENİŞLER KÖYÜ KETENOVA YAYLASI"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "TERZİLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "TOKUL KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ASLANAPA",
+    "Mahalle": "YUNUS EMRE MAH (NUHÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "CERELLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "KEMALLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "AFŞAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "AĞARI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "BARAĞI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "CAMİİ KEBİR MAH (HACIKEBİR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "ÇAMKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "ÇATKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "DEMİROLUK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "DOĞANCILAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "EFELER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "EFENDİKÖPRÜSÜ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "ESENTEPE MAH (HACIKEBİR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "GÖKAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "GÖKLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "HACIMAHMUT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "İLCİKÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "KIZIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "PUSATLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "SUSUZKAYA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "TEPECİK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "YAĞDIĞIN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "YENİCEARMUTCUK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ÇAVDARHİSAR",
+    "Mahalle": "ZOBU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "CUMHURİYET MAH (ÇUKURCA BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "ILICAKSU MAH (ÇUKURCA BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "KÜÇÜKLER MAH (ÇUKURCA BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "OSMANLI MAH (ÇUKURCA BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "HASANTEPE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "HİSAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "AKKAYA MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "AKSU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "BAHÇELİEVLER MAH (DURABEY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "BERÇİN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "BÖÇEN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "BÜKERLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "ÇAKILKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "ÇARŞAMBA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "ÇOKKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "DOMUR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "DURABEY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "ERİKLİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "FINDICAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "FIRANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "GÖÇEMEN MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "GÜNEY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "KARABURUN MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "KARAKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "KARAMANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "KIRIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "KOZCAĞIZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "KOZCAĞIZ MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "KOZLUCA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "KÜÇÜKKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "MUHACİRLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "MURATLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "ORTACA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "SAFA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "SAKIZLIK MAH (KIRIK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "SARIOT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "SARUHANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "SEYDİKUZU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "TIRAZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "ÜSTÜBEŞ MAH (MURATLI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DOMANİÇ",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "CAFERGAZİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "AĞAÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "ALLIÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "ARPALI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "BÜYÜKASLIHANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "EYİDEMİR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "HAMUR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "KIZILCA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "KÜÇÜKASLIHANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "SELKİSARAY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "DUMLUPINAR",
+    "Mahalle": "YÜYLÜK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "HAMAM MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KAPAKLICA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KAYNARCA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ABAŞ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ALİPAŞA MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "BAHATLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "CUMHURİYET MAH (AYDINCIK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "CUMHURİYET MAH (EĞRİGÖZ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ÇALCAĞIL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ÇAMLICA MAH (GÜNLÜCE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ÇARŞI MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ÇİMENLİ MAH (GÜNLÜCE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ÇİMENLİK MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "DERELİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "DOĞANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "DÜŞECEK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ESATLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ESELER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "FATİH MAH (ÇERTE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "GENCER MAH (SARIAYAK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "GÖNCEK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "GÜRPINAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "IŞIKLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "İĞDEKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "İKİBAŞLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KABAKLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KALEHİSAR MAH (EĞRİGÖZ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KALFALAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KATRANDAĞI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KAYI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KIRGIL KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KONUŞ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KÖPRÜCEK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "KÜRECİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "MERKEZ MAH (GÜNLÜCE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "MEYDAN MAH (AYDINCIK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "MUSALAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ÖMERFAKI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ÖRÜCE MAH (YAYLAYOLU KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "SAMRIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "SARIAYAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "SUBAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "ŞEHİTLER MAH (GÜNLÜCE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "UMUTLU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "UZUNÇAM KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "YAĞCIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "YARIŞ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "YAYLAYOLU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "YENİ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "YENİ MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "EMET",
+    "Mahalle": "YILDIRIM MAH (ÇERTE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "AKÇAALAN MAH (ESKİGEDİZ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "CAMİKEBİR MAH (ESKİGEDİZ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "HİSAR MAH (ESKİGEDİZ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "İSMETPAŞA MAH (ESKİGEDİZ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KURTULUŞ MAH (ESKİGEDİZ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "PARK MAH (ESKİGEDİZ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SABIRGAZİ MAH (ESKİGEDİZ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "DAYINLAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ERGENEKON MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "GAZİKEMAL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "GEDİZOSB MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "HACIBABA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KIZILTEPE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KUMTAŞ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "MUHİPLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÖZYURT MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SALUR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SAYGILAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ULUOYMAK MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "UMURBEY MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "GÜNEY MAH (GÖKLER BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KUZEY MAH (GÖKLER BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ABİDE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "AKKAYA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "AKSAKLAR MAH (AKSAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ALİAĞA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ALİKAHYA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "AŞIKPAŞA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ATATÜRK MAH (KAYAKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÇAMLIK MAH (FIRDAN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÇANDIR MAH (FIRDAN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÇAY MAH (YEŞİLÇAY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÇİFTLİK MAH (ABİDE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÇİMENTEPE MAH (GÜRLEK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÇOMAKLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "DEDEKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "DEĞİRMENKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "DELİAĞA MAH (ARICA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "DERE MAH (ARICA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "DÖRTDEĞİRMEN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ECE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ERGENEKON MAH (ERDOĞMUŞ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ESKİ MAH (ÇELTİKÇİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "FATİH MAH (ALTINKENT KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "FATİH MAH (CEBRAİL KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "FATİH MAH (GÜMELE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "FATİH MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "FATİH MAH (YUNUSLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "FATİH SULTAN MEHMET MAH (KAYAKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "GENÇLER MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "GÖYNÜK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "GÖYNÜKÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "GÜMÜŞLÜ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "GÜRSU MAH (GÜRLEK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "GÜZÜNGÜLÜ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "HACI ZEYBEKLER MAH (KURTÇAM KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "HANİFECİKLER MAH (KARABACAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ILICASU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "İKİPINAR MAH (AKSAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "İNCESU MAH (ABİDE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "İNCİKLER MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KARABACAKLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KAYA DÜZÜ MAH (KIRAN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KAYACIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KIRAN KÖY"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KÖPENEZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "KURTÇAM KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "MANDIRA MAH (YEŞİLOVA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ORTA MAH (ARICA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "OVA MAH (AKSAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "OVA MAH (ÇELTİKÇİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÖZYURT MAH (ALTINKENT KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÖZYURT MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "PULAT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SAMRALAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SANDIKLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SARUHANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SAZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SAZ MAH (KIRAN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SAZAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "SUMAKLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "TEPEPINAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "UĞURLUCA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "ÜLKÜ MAH (ERDOĞMUŞ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "VAKIF KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YAĞMURLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YAVUZ MAH (GÜMELE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YAYLAKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YEĞİNLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YELKİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YENİ MAH (ÇELTİKÇİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YENİ MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YENİ MAH (YEŞİLÇAY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YENİGÜNEY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YUKARIARICA MAH (ARICA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YUKARISUSUZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YUMRUTAŞ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YUNUSEMRE MAH (YUNUSLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "GÖLCÜK MAH (YENİKENT BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "HAMZABEY MAH (YENİKENT BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "İBRAHİMKAHYA MAH (YENİKENT BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "GEDİZ",
+    "Mahalle": "YENİ MAH (YENİKENT BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "82.YIL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "CUMHURİYET MAH (KARBASAN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "KARŞIYAKA MAH (KARBASAN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "YENİDOĞAN MAH (KARBASAN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "YEŞİLHİSAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "ALIDEDE MAH (ŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "ALINÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "AŞAĞI BEYKÖY MAH (BEYKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "AŞAĞIYONCAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "BAHÇELİEVLER MAH (HASANLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "BAKILAR DAMLARI MAH (ŞEYHÇAKIR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "BEYKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "ÇATAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "EMİRSULTAN MAH (HASANLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "GAZİ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "GÜLDÜREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "HAKSIZHASAN MAH (ŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "HALİFELER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "HAMAMKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "HOCALAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "İNKAYA MAH (KURTDERE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "KARAAĞIL KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "KIZILÇUKUR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "KURTDERE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "KUTLUBEYLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "KUTLUHALLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "ÖRENKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "SAKLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "SEFAKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "ŞEYHÇAKIR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "TEKKE MAH (ŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "TOKAT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "ULAŞLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "YENİPINAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "YUKARIYONCAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "HİSARCIK",
+    "Mahalle": "YUNUSEMRE MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİPAŞA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VEFA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILDIRIM BEYAZIT MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUSEMRE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZAFERTEPE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALIKLI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖREKÇİLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEMALETTİN MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FUATPAŞA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAYBİEFENDİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİRLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SERVİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "100. YIL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "30 AĞUSTOS MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "75. YIL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞAÇKÖY MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKKENT MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAYUNT MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ANDIZ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDOĞDU MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖLÜCEK MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEDİT MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CİVLİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALCA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALCA OSB MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ENNE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EVLİYA ÇELEBİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "G. KEMAL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEVEN MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVEÇÇİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIAZİZLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İKİZÜYÜK MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNKÖY MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRGILLI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRAZPINAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMARI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LALA HÜSEYİN PAŞA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MALTEPE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MARUF MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜDERRİS MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OK MEYDANI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKÇU MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PARMAKÖREN MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞAM SULTAN MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PERLİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİNER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOFU MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SULTANBAĞI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAİR ŞEYHİ DUMLUPINAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ BOSNA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YONCALI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZİĞRA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZİRAAT MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞAÇKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞIZÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHİLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMETOLUĞU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇAMESCİT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKOLUK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALOĞLU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ANASULTAN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARSLANLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYVALI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYAT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYRAMŞAH KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELKAVAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞDERİRME ÇİFTLİĞİ MAH (AHMETOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKSAKA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CENNETOĞLU MAH (ALOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAVUŞÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYCA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİFTEOLUKLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOBANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖĞÜRLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUBUKİÇİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAMLALIKARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DARICA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEDİK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENÖNÜ MAH (GELİNKAYA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENÖZÜ MAH (İHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRÖZÜ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞALAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞARSLAN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMACIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMALI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİ MAH (DEMİRCİÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİYÜREĞİL KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EYNEGAZİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİHLER MAH (KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FINDIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FİNCANBURNU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEDİKOĞLUÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GELİNKAYA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖÇERİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖYNÜKÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖYNÜKÖREN MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLLÜDERE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞKÖY MAH (GÜMÜŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜRLEK MAH (MUSTAFALAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVEM KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMİDİYEKIZILCAÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAYMANA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "IŞIKKARA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "IŞIKKARA MAH (IŞIKKARA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İHSANİYE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNCİK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNLİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNLİCE MAH (OVACIK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSHAK SEYDİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSHAKÇILAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTASYON MAH (ÇÖĞÜRLER KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALBURCU ÇİFTLİĞİ MAH (SABUNCUPINAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÖZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARSAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYNARCA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEPEZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KINIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRANŞEYH KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILCAKAYA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRAZLIYAYLASI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİREÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOÇAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOZLUCA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖPRÜÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖRPE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖRS KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMLUYURT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUYUSİNİR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜKÜRT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LÜTFİYE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAHMUDİYE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAKASALANI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DOĞLUŞAH KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SOĞUKÇEŞME KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUHATBOĞAZI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSTAFALAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NUSRET KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTACA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVACIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PORSUK ÇİFTLİĞİ MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PULLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SABUNCUPINAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAĞIRLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAKAÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEKİÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEKİÖREN MAH (SEKİÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYDİKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOBRAN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOFÇA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKÇEŞME KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÖĞÜTYAYLASI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÖKMEN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SULU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜNNETYENİCE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPEKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEŞVİKİYE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TURGUTLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜRÜNLÜÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAKACA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLABABA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZLICA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (DEMİRCİÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (SOBRAN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİCE ÇİFTLİĞİ MAH (AHMETOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİDOĞAN MAH (KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİKARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİKIZILCAÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLBAYIR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYAYLA MAH (PULLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUMAKLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZCAHÖYÜK MAH (SEYİTÖMER BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLTEPE MAH (SEYİTÖMER BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYİTLER MAH (SEYİTÖMER BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "AKŞİNİK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "ATATÜRK MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "KEPEZ MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "MENDERES MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "ORHANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "ÖREY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "SARAYKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "TEPEKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "YAPAK MAH (ÖREY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "ADNANMENDERES MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "AYVALI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "HOCAAHMETYESEVİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "YAKUPLAR ATATÜRK MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "PAZARLAR",
+    "Mahalle": "YAKUPLAR FATİH MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "CEVİZLİK MAH (AKDAĞ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KINIK MAH (AKDAĞ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "SAVCILAR MAH (AKDAĞ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "CAMİİ KEBİR MAH (ÇİTGÖL BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "CUMHURİYET MAH (ÇİTGÖL BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÇAYSİMAV MAH (DEMİRCİ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "DEMİRCİ MAH (DEMİRCİ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KARACALAR MAH (DEMİRCİ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÖREYLER MAH (DEMİRCİ BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "CUMA MAH (GÜNEY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "FATİH MAH (GÜNEY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "DERE MAH (KUŞU BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KADILAR MAH (KUŞU BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KAYA MAH (KUŞU BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YENİ MAH (KUŞU BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "AHLATLIÇEŞME KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "AHMETLİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "AKSAZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "AKSAZ-MEVKİ MAH (AKSAZ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "AKSAZ-OBA MAH (AKSAZ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ALAN MAH (ÇINARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "AŞAĞI MAH (YAVI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "AŞAĞIDOLAYLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ATATÜRK MAH (BAHTILLI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "AZİZLER MAH (ESENBAĞ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "BADEMLİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "BAŞKONAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "BECİLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "BEDİRLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "BEYLİKLER MAH (BECİLER KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "BOĞAZKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "BÜDÜZ MAH (HASANÖREN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "CUMHURİYET MAH (BAHTILLI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "CUMHURİYET MAH (BEYCE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "CUMHURİYET MAH (GÜMÜŞSU KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "CUMHURİYET MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÇAKIRLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÇAMLIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÇINARLIDERE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÇOBANLAR MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÇULHALAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "DARICI MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "DEREYÜZÜDERE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "EFEDAMLAR MAH (KARAKOCA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "EFİR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "EĞDEMİR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "EĞİRLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ESENBAĞ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "EVCİLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "FATİH MAH (KESTEL KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "FATİH MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "GAZİ MAH (KESTEL KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "GAZİ MAH (YAYKIN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "GILMANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "GÖKÇELER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "GÖKÇEPINAR MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "GÖLKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "GURBETLER MAH (ÇINARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "GÜNEY MAH (SUDÖŞEĞİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "HACIHÜSEYİNEFENDİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "HASANÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "HIDIRDİVANI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "HİSAR MAH (KARACAHİSAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "HİSARBEY MAH (HİSARBEY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "HÜRRİYET MAH (BEYCE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "HÜRRİYET MAH (GÜMÜŞSU KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "IHLAMUR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "İMRANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "İNKAYA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "İNLİCE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KABAŞLAR MAH (KOYUNOBA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KAİLİ MAH (EVCİLER KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KAPIKAYA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KARAKOCA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KARAPINAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KAYAIŞIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KAYALIDERE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KIZILCIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KİÇİR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KOYUNOBA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KOZANLAR MAH (KAPIKAYA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KÖSELER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KURDUMAN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KUSUMLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KÜLCÜ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "MADEN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "MADEN MAH (KÜLCÜ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "MAHMUTLAR MAH (DEREYÜZÜDERE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "MAMAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "MERCANLAR MAH (KAYALIDERE KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "MEVLANA MAH (YAYKIN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "MUSTAFAEFENDİ MAH (HACIHÜSEYİNEFENDİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ORTACI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÖREN MAH (KARACAHİSAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÖRENLİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÖZDERE MAH (KALKAN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "PULLUCA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "RAHİMLER MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "SAMAT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "SARIÇAM KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "SARKATLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "SAYA MAH (HIDIRDİVANI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "SÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "SUDÖŞEĞİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "SÜNNETÇİLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ŞENBİRLİK MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "TAŞKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "TAŞLIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "TEPEBAŞI MAH (IHLAMUR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "TOKLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "TOKLAR MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YAĞILLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YAĞMURLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YASSIEYNİHAN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YAVI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YAYLA EVLERİ-ANITLI MAH (SUDÖŞEĞİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YAYLA EVLERİ-KORUCUK MAH (SUDÖŞEĞİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YENİ MAH (KALKAN KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YENİ MAH (SÖĞÜT KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YENİ MAH (YEMİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YENİ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YENİLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YEŞİLÇAM KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YEŞİLYAYLA MAH (YEMİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YUKARI MAH (YAVI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YUKARIDOLAYLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "CUMHURİYET MAH (NAŞA BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "FATİH MAH (NAŞA BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "HAMZABEY MAH (NAŞA BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "101 EVLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "4 EYLÜL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "CUMA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ÇAVDIR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "DEĞİRMENCİLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "ESENEVLER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "HACIAHMETOĞLU MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "HİSARARDI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KARAKÜR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "KEKLİKTEPE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "MURADINLAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "SIRAPAYAM MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "TABAKHANE MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "SİMAV",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "ASMALI MAH (KIZILKOLTUK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "ATATÜRK MAH (ÜÇBAŞ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "AYVACIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "CUMHURİYET MAH (ÜÇBAŞ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "ÇAM KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "ÇATAK MAH (AYVACIK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "DEĞİRMENDERE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "DOKTOR OSMAN MAH (KARAMANCA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "GAİPLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "GAZİVELİ MAH (KARAMANCA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "GÜRKUYU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "İNCEĞİZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "KARAKAYA MAH (GÜRKUYU KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "KARAKÜR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "KARAMUSTAFALAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "KAYRAKLI MAH (KIZILKOLTUK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "KIZILKOLTUK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "TOPALAHMETLER MAH (KIZILKOLTUK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "UĞURLUGÜME KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "YEŞİLALAN MAH (KARAMANCA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "HACI HASANLAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "KALABAK MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "KARAAĞIL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "KARACADERBENT MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "ŞAPHANE",
+    "Mahalle": "TÜREGÜN MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BALIKÖY-ÇIVGALAR MAH (BALIKÖY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BALIKÖY-KADI MAH (BALIKÖY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BALIKÖY-KARAŞEHİR MAH (BALIKÖY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BALIKÖY-KIŞLA MAH (BALIKÖY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BALIKÖY-MERKEZ MAH (BALIKÖY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "SOLUGANLAR MAH (BALIKÖY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KURUÇAY-GÜZELYURT MAH (KURUÇAY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KURUÇAY-KOCAPINAR MAH (KURUÇAY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KURUÇAY-ÖREN MAH (KURUÇAY BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "1 MAH (ÇOBANLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "2 MAH (ÇALTILI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "3 MAH (ÇALTILI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "4 MAH (ÇALTILI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "AĞAKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "AKÇAKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "AKÇAŞEHİR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ALİKÖY-KEMALSULTAN MAH (ALİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ALİKÖY-ZAFER MAH (ALİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ALPAGUT MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ALTINOVA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ARİFLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ARTIRANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "AVCILAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "AYDINLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "AYVALI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BARAJ KENARI MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BAŞKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BENAH MAH (KAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BOZBELEN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BURHAN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "CEVCELLER MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇAKILLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇALDİBİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇALTILI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇAMALAN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇAYIRKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇAYIROLUK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇIKRICAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇINARCIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇOBANKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇOBANKÖY OSB MAH (ÇOBANKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇOBANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇUKURCA MAH (KARAKİŞİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DAĞDEMİRLİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DEĞİRMİSAZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DERBENT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DERECİK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DEVEKAYASI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DOĞANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DUDAŞ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DULKADİR MAH (ALİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DUTLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DÜMREKHÜSEYİNPAŞA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DÜMREKORTA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DÜMREKULUKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "EĞRİÖZ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ELMAAĞACI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ELMALI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "EMİRLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ERİKLİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "EŞEN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "GAZELYAKUP KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "GEVREKLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "GÖBEL KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "GÖKÇEYURT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "GÖLCÜK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "GÜMÜŞGÖLCÜK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "GÜMÜŞYENİKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "GÜREPINAR MAH (ÇOBANLAR KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "HALİL İBRAHİMLER MAH (ALTINOVA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "HAŞHAŞLIK MAH (ÇİFTLİK MAH) (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "İSAKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "İSTASYON ALTI MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "İSTASYON MAH (KIZILBÜK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KARAALİ MAH (KOCAYERİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KARACAKAŞ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KARAKAYA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KARAKİŞİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KARAKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KARAPELİT KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KARCIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KARGILI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KARLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KAVAKLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KAYAARASI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KAYI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KIRKKAVAK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KIŞLADEMİRLİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KIZILARMAN MAH (TABAKLI MAH) (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KIZILBÜK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KIZILÇUKUR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KOCAYERİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KOZLUCA KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KÖMÜR İŞLETMESİ MAH (KIZILBÜK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KÖPRÜCEK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KÖREKEN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KÖSELER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "MADANLAR KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "MADANLAR MAH (ÜYÜCEK KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "MEHMET EMİNLER MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "NUSRETLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "OPANÖZÜ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "OVACIK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÖKSÜZLER KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÖREN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "PAÇASIZLAR MAH (KARLI KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "SAMAKLI MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "SEKBANDEMİRLİ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ŞAHİN KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ŞAHMELEK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ŞAPÇI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ŞAPÇIDEDE KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ŞENLİK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TAŞDİBİ MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TOPALLAR MAH (ALTINOVA KÖYÜ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ULUÇAM KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÜYÜCEK KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "VAKIF KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "YAĞMURLU KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "YATAKLI KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "YÖRGÜÇ KÖYÜ"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ADA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BAĞLIK MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "BEYKÖY MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇARDAKLI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇIRÇIRÇEŞME MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÇUKURKÖY MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DAĞÇEŞME MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DEDELER MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "DURAK MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "HANIMÇEŞME MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KARAKOVA MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "MOYMUL MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ÖMERBEY MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "ULUCAMİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "YILDIRIM BEYAZIT MAH"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TEPECİK-AŞAĞI MAH (TEPECİK BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TEPECİK-ORTA MAH (TEPECİK BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TEPECİK-YUKARI MAH (TEPECİK BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "GÜRAĞAÇ CEVİZLİ MAH (TUNÇBİLEK BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "GÜRAĞAÇ ÇINAR MAH (TUNÇBİLEK BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TUNÇBİLEK MERKEZ MAH (TUNÇBİLEK BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TUNÇBİLEK-ÇAMALTI MAH (TUNÇBİLEK BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TUNÇBİLEK-DEMİRBİLEK MAH (TUNÇBİLEK BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TUNÇBİLEK-HAMİTABAT MAH (TUNÇBİLEK BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TUNÇBİLEK-IŞIK MAH (TUNÇBİLEK BELDESİ)"
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilçe": "TAVŞANLI",
+    "Mahalle": "TUNÇBİLEK-KÖPRÜBAŞI MAH (TUNÇBİLEK BELDESİ)"
+  }
+]

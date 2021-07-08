@@ -1,0 +1,5502 @@
+[
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "CANDAROĞULLARI MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇALIŞLAR MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇELEBİLER MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "TABAKLAR MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "YALACIK MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "AHATLAR MAH (GÜNGÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "AHMETCİ MAH (AKÇAKESE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "AKBAŞ MAH (OSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ALHANLAR MAH (ÇENGELLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ALİFAKOĞLU MAH (BOSTANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ALOĞLU MAH (KOLTUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ALT MAH (GELİCEK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ASLANLAR MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "AŞAĞI MAH (ALAÇAT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "AŞAĞI MAH (HACIAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "AŞAĞI MAH (YAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "AŞAĞI MÜLAYİM MAH (MÜLAYİM KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "AŞAĞIKONAK MAH (ÇENGELLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "AVDAL MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BAHÇELİ MAH (KOLTUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BAKACAK MAH (HACIŞABAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BAKACAK MAH (KARATAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BARAJ YANI MAH (BOSTANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BAŞİĞDİR KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BAŞÖREN MAH (GÜNLÜCE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BERBEROĞLU MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BEYAZITOĞLU MAH (ÇENGELLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BEZİKLER MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BİCCO MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BODUROĞLU MAH (PINARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BOSTANCI MAH (AKÇAKESE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BOZARMUT MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "BÜRÜNCEK MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "CELEPOĞLU MAH (KOCACIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "CEVİZLİ MAH (ÇAVUŞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "CİLVER MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "CİNGÖZ MAH (HALKEVLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "CORTLAR MAH (YAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "CÜCEY MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇAKIROSMANLAR MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇALIKAHVESİ MAH (OSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇALIKOĞLU MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇALIŞ MAH (OVAÇALIŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇALOĞLU MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇAY MAH (KARATAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇELEBİOĞLU MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇELTEKLER MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇEŞMELİ MAH (KOLTUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇIRAKLAR MAH (YAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇIRAKLI MAH (ADAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇİFTÇİLER MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇİFTLİK MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇİLEKOĞLU MAH (ÇAMYURT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇİRİŞLER MAH (KOCACIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇÖMEÇ MAH (HALKEVLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇÖMLEKLER MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇÖREKLİ MAH (OVAÇALIŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÇUKURCA MAH (GÖLLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DAĞCIOĞLU MAH (HACIAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DANAŞOĞLU MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DAYILAR MAH (GÖKGÖZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DECCALLER MAH (MÜFTÜLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DELE MAH (GÖKGÖZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DEMİRCİOĞLU MAH (KARATAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DEMİRCİOĞLU MAH (KOCACIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DERE MAH (OSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DEREKÖY MAH (AKÇAKESE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DERLER MAH (ÇEMÇİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "DURALLAR MAH (PINARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "EKMEKÇİOĞLU MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "EKŞİOĞLU MAH (ABAKOLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ESENOĞLU MAH (YAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "EYÜPOĞLU MAH (SAÇAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "FİDİKLER MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "GEMİCİOĞLU MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "GENCOĞLU MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "GOCAOĞLU MAH (KARLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "GÖKCEOĞLU MAH (HACIAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "GÜLABİ MAH (ESENCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HACIOĞLU MAH (KARATAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HACIOSMAN MAH (ULUGEÇİT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HACİZ OĞLU MAH (PINARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HALAŞLAR MAH (MÜLAYİM KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HALİLOĞLU MAH (BOSTANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HASANLAR MAH (KUTLUÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HEKİMLİ MAH (ÇAMYURT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HEREŞABANLAR MAH (YAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HESLEMOĞLU MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HIDIRLI MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "HÜNKERLER MAH (MÜLAYİM KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "İMAMOĞLU MAH (BOSTANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "İMAMOĞLU MAH (KOCACIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "İNALLAR MAH (ÇENGELLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "İNCİĞEZ MAH (DEMİRLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KABALAR MAH (SEFERLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KABAOĞLU MAH (OVAÇALIŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KADI MAH (KOLTUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KADIOĞLU MAH (ÇÖREKLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KADIOĞLU MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KADIOĞLU MAH (KARACAPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KADIOĞLU MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KAHYAOĞLU MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KAPSO MAH (ÇÖREKLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KARABACAK MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KARACABEY MAH (HACIAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KARACAOĞLU MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KARAGÖZ MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KARAMEHMETOĞLU MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KARANİ MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KARAPINAR MAH (ALAÇAT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KARASADIK MAH (HACIŞABAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KARTALLAR MAH (KUTLUÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KARYAĞDILAR MAH (ULUGEÇİT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KAVALOĞLU MAH (GÜNLÜCE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KAVUTOĞLU MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KAYA MAH (KARLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KAYABAŞI MAH (GÖKGÖZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KAYALAR MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KAYKIOĞLU MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KAYMAKCI MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KEÇO MAH (SAÇAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KELEKOĞLU MAH (KUTLUÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KEMERLER MAH (MÜFTÜLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KENANLAR MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KIZILCALAR MAH (BOSTANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KIZILGELİK MAH (ÇAL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KONAK MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KÖÇEK MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KÖLE MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KULOĞLU MAH (ABAKOLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KURTÇULAR MAH (BOSTANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KÜRE MAH (DEMİRLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "KÜRT MAH (KOLTUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MAHMUTLAR MAH (GÜNGÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MAKMARA MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MALAKCIOĞLU MAH (HACIŞABAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MAYLAT MAH (GÜNGÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MAZLUMLAR MAH (SEFERLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ABAKOLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ADAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (AKÇAKESE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ALAÇAT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (BOSTANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ÇAL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ÇAMYURT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ÇAVUŞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ÇEMÇİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ÇENGELLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ÇÖREKLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ÇUKURGELİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (DEMİRLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ESENCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (GÖKGÖZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (GÖLLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (GÜNLÜCE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (HACIŞABAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (HALKEVLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (KARACAPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (KARATAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (KARLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (KIRAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (KOLTUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (KUTLUÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (MÜFTÜLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (MÜLAYİM KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (OSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (OVAÇALIŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (PAŞABEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (PINARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (SAÇAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (SEFERLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ŞENYURT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (ULUGEÇİT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MERKEZ MAH (YAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MOLLA HALİL MAH (ÇEMÇİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MOLLAOĞLU MAH (MÜFTÜLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MURAT MAH (SAÇAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MUSLUOĞLU MAH (YAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "MÜSEKOĞLU MAH (KOCACIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "NAMAZCIOĞLU MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "NUHOĞLU MAH (ŞENYURT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "NUMANOĞLU MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ORTAKCI MAH (HALKEVLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ORUÇLAR MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "OVACIK MAH (DEMİRLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÖMEROĞLU MAH (OSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÖMÜROĞLU MAH (GÜNLÜCE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÖRENCİK MAH (ABAKOLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÖRENCİK MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "PARMAKSIZLAR MAH (HACIAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "PINARLAR MAH (GÜNGÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "PONOOĞLU MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "RAHMANLAR MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "RAHMANLAR MAH (ULUGEÇİT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "RAHMANOĞLU MAH (ÇEMÇİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "SAĞIROĞLU MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "SAĞIROĞLU MAH (BOSTANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "SAKALAR MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "SARIKAYAALTI MAH (ADAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "SARIOĞLU MAH (KUTLUÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "SEFERBEYOĞLU MAH (KIRAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "SITLIKOĞLU MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "SİNİTLER MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "SİYAMOĞLU MAH (OVAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "SOFUOĞLU MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ŞEYHOĞLU MAH (GÜNGÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ŞEYHOĞLU MAH (HACIAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ŞÜKÜRŞÜK MAH (ADAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "TAMİŞ MAH (KUTLUÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "TEPE MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "TEPE MAH (OVAÇALIŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "TERKE MAH (ÇAVUŞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "TERZİOĞLU MAH (KUTLUÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "TOPUZ MAH (KOCACIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "TOPUZLU MAH (GÖKGÖZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "TÜRBELİOĞLU MAH (OSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "ÜST MAH (GELİCEK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "VELİFAKİR MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "VELİŞIHLAR MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "YANTİRİ MAH (KOLTUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "YAYALAR MAH (PINARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "YAZICIOĞLU MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "YENİ MAH (OSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "YENİKÖPRÜ MAH (OSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "YUKARI KARLI MAH (KARLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "EFLANİ",
+    "Mahalle": "YUKARI MAH (YAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "BAHÇEPINAR MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KIRANKÖY MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERMER MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YAMANLAR MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ACEMLER MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ADİLLER YAYLA EVLERİ MAH (ADİLLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "AĞIRTAŞ MAH (ARSLANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "AKPINAR MAH (HASLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "AKSU MAH (GÖZLÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ALAN YAYLASI MAH (KABAARMUT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "AŞAĞI BULDUK MAH (BULDUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "AŞAĞI KARAHASANLAR MAH (KARAHASANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "AŞAĞI KAZLAR MAH (HASLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "AŞAĞI KEÇELER MAH (YAZIKAVAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "AŞAĞI SARAY MAH (KARAHASANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "BALDANLAR MAH (BUDAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "BAYINDIR KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "BEKİR MAH (YÜRECİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "BEYE MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "BEYTARLA YAYLASI MAH (BEYTARLA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "BÖLME MAH (ADİLLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "BÜRNÜK MAH (HAMZALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "BÜYÜKTARLA MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "CUMADERESİ MAH (YEŞİLLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ÇATACIK MAH (YÜRECİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ÇAVUŞLAR MAH (KÖYCEĞİZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ÇAY MAH (KARAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ÇEKİÇLER MAH (BEYTARLA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ÇETİÖREN MAH (OVA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ÇÖTLER MAH (BÜYÜKYAYALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DAĞCIOĞLU MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DEĞİRMENBAŞI MAH (DERESEMAİL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DEMİRCİ MAH (KULAT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DEMİRCİLER MAH (KARAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DEMİRCİLER MAH (ŞEVKİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DERE MAH (DERESOBLAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DEREAĞIL MAH (HASLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DEREKÖY MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DOĞANLAR MAH (DOĞLACIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DOĞUCULAR MAH (SÖBÜÇİMEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DOMİ MAH (GÖZLÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DORUKLAR MAH (TOPÇALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DURALLAR MAH (GÖZLÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "DURMUŞLAR MAH (BÜYÜKYAYALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ELELER MAH (BUDAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "EMİRLER MAH (KABAARMUT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "EMİROĞLU MAH (TAMIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ERİCEK MAH (KARAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ESERLER MAH (YÜRECİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "GEVREKLER MAH (ARSLANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "GÖLET MAH (DERESEMAİL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "GÖVEZ MAH (ÇAYLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "GÖZYERİ MAH (DERESOBLAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "GÜNEY MAH (DERESOBLAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "HACI AHMETLER MAH (BUDAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "HACILAR MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "HASANLAR KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "HATİPLER MAH (DOĞLACIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "HAYDARLAR MAH (ÇÖMLEKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "İMAMLAR MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "İMANLAR KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "İMCİLER MAH (ŞEVKİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "İSMETPAŞA MAH (HAMAMLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "İSTASYON MAH (ARSLANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KABACA MAH (BÖLÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KADILLAR MAH (GÖZLÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KAPUCULAR KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KARAKÖY MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KARAPINAR MAH (DERESOBLAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KARASU MAH (YEŞİLLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KARGIN MAH (BONCUKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KARŞI MAH (HAMZALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KARTAK MAH (BABALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KISAÇ MAH (SADEYAKA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KIZILCAÖREN MAH (ÇÖMLEKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KIZILCAPINAR MAH (TAMIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KİRAZGİL MAH (KABAARMUT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KİRAZLAR MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KURUKAVAK MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KURUÖZÜ MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KUZDERE MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KUZÖREN KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KUZYAKA MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "KÜPLÜ MAH (OVA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MAHMUTLAR MAH (BONCUKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (ADİLLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (ARSLANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (BABALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (BEYTARLA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (BONCUKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (BÖLÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (BUDAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (BÜYÜKYAYALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (ÇANDIRLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (ÇAYLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (ÇÖMLEKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (DERESEMAİL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (DOĞLACIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (HAMAMLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (HAMZALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (HANKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (HASLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (İNCEBOĞAZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (KABAARMUT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (KARAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (KÖYCEĞİZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (KULAT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (OVA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (OZANKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (SADEYAKA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (SALLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (SÖBÜÇİMEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (ŞEVKİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (TAMIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (TOPÇALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (YAZIBOY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (YAZIKAVAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (YEŞİLLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MERKEZ MAH (YÜRECİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MEŞECİK MAH (YÜRECİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MUSABAŞOĞLU MAH (KABAARMUT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MUSALLAR MAH (YÜRECİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "MUTAFLAR MAH (BÖLÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "OMURLAR MAH (OVA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ORTA MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ORUÇLAR MAH (ŞEVKİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ÖREN MAH (GÖZLÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ÖREN MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ÖRENCİK MAH (DERESOBLAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "PELİTCİK MAH (BONCUKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "PİLAVCILAR MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "SALMANLAR MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "SARAYCIK MAH (SADEYAKA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "SARIAHMETLER MAH (ARSLANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "SEMERCİLER MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "SEVİLLER MAH (HAMZALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "SİNANGİL MAH (KABAARMUT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "SOBLAN MAH (DERESOBLAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "SOFTALAR MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "SÖĞÜTLÜÇEŞME MAH (GÖZLÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ŞIHLAR MAH (SADEYAKA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ŞIHLAR MAH (YAZIBOY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TAŞLIK MAH (DERESOBLAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TAŞLIK MAH (KÖYCEĞİZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TAŞMANLAR MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TAŞMANLAR MAH (YAZIBOY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TEFEN MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TEPEKÖY MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TERZİ MAH (KULAT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TETİKLER MAH (İNCEBOĞAZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TİRYAKİOĞLU MAH (HAMZALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TOKMAKOĞLU MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "TÜRKMENLER MAH (ŞEVKİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "ÜÇEVLER KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YAHYALAR MAH (BONCUKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YAKA MAH (TOPÇALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YAPLAN MAH (HASLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YAYALAR MAH (BABALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YEMİŞLER MAH (TAMIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YENİ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YENİ MAH (SÖBÜÇİMEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YENİCE MAH (SALLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YUKARI BULDUK MAH (BULDUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YUKARI GÖNE MAH (TOPÇALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YUKARI KARAHASANLAR MAH (KARAHASANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YUKARI KAZLAR MAH (HASLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YUKARI KEÇELER MAH (YAZIKAVAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YUKARI SARAY MAH (KARAHASANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "ESKİPAZAR",
+    "Mahalle": "YUNİSLER MAH (DOĞLACIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "100.YIL MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILAVUZLAR MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜNİVERSİTE MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYIR MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARTALTEPE MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "5000 EVLER 75.YIL MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "5000 EVLER BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "5000 EVLER CUMHURİYET MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDINLIKEVLER MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELENKÖY MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇERÇİLER MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAPULLU MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARABÜK MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖĞLEBELİ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ABDİ MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AFET EVLERİ MAH (KAHYALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇABÜK MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYOL MAH (BULAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI AKTAŞ MAH (KAMIŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (ARICAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (BULAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI YAKA MAH (KAMIŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIKÖY MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYVAZ MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEDİRLER MAH (KADI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELEN MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞİRAĞA MAH (KADI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİ SOKAK MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİÖNÜ MAH (BULAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEMELOVASI MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CİLDEKISIK MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "COBU MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMAYANI KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKILLAR MAH (KAHYALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIK MAH (AŞAĞI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇANDIRLAR MAH (BURUNSUZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (ACIÖZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (BURUNSUZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİĞDEMLER MAH (SAİTLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENÖNÜ MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİLER MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİBEK MAH (BULAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DURHANLAR MAH (KAHYALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZKÖY MAH (YUKARI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELEZLER MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERİKLER MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİKÖY MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKLEN MAH (YUKARI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKLEN MAH (YUKARI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZÜR MAH (SAİTLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLLÜCE MAH (KADI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLVEREN MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEY MAH (DAVUTLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEY MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEY MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEY MAH (SAİTLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEY MAH (ÜÇBAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACILAR MAH (DAVUTLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMZALAR MAH (ZOPRAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HARMANLAR MAH (BULAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANKÖY MAH (TANDIR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATİPOĞLU MAH (MEHTERLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEREDAĞ MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOROZLAR MAH (SAİTLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KABAOĞLU MAH (KAHYALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADIOĞLU MAH (TANDIR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADO MAH (DAVUTLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALAFATLAR MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALAYCILAR MAH (AŞAĞI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAAĞAÇ MAH (ÜÇBAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARADAŞ MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARASEYİTLER MAH (YUKARI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞI MAH (TANDIR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYADİBİ MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMALOYMAN BÜYÜK SANAYİ SİTESİ MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMALOYMAN MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMİKLER MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRAN MAH (MEHTERLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIŞBURUNCUK MAH (KARAŞAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIŞLA MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖSELER MAH (GÖLÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMLUK MAH (BULAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZEY MAH (ÜÇBAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AŞAĞI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ACIÖZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AŞAĞI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BOLKUŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BURUNSUZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DAVUTLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DÜZÇAM KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖLÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÜNEŞLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KADI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAHYALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAMIŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAŞAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (MEHTERLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÖDEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SAİTLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SALMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ŞENLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ZOPRAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEŞELİK MAH (ARICAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSALLA MAH (BULAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜSELLİMA MAH (TANDIR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NİZAMYESİR MAH (MEHTERLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OCASAK MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKÇULAR MAH (MEHTERLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKUL SOKAK MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORMAN MAH (YUKARI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (SALMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAKÖY MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRENKÖY MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞA MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİRİNÇLİK MAH (KAHYALAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAY MAH (BULAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIKONAK MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SELİMA MAH (TANDIR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYİTLER MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOFULAR MAH (DAVUTLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÖKÜ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜNDELLER MAH (KADI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞIHLAR MAH (KADI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPE MAH (YUKARI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YALNIZCA MAH (BOLKUŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAVAŞLAR MAH (ŞENLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA EVLERİ MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZICILAR MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEDİ EVLER MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (AŞAĞI KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLKÖY MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILMAZLAR MAH (ACIÖZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI AKTAŞ MAH (KAMIŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (ARICAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (SALMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI TANDIR MAH (TANDIR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ADATEPE MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERGENEKON MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞİRİNEVLER MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİL MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "AKBIYIK MAH (GÖKÇEDÜZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "AKCAPINAR MAH (ABDULLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "AKHİSAR MAH (TAŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ALINCA KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ALİ BEY MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ALİZAYİM MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ALKISIRAK MAH (YIĞINOT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "AŞAĞI ASARCIK MAH (AMBARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "AŞAĞI MAH (AMBARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "AŞAĞI MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "AYDINLAR MAH (AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "BAKIRCILAR MAH (YENİÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "BAKIRCIOĞLU MAH (AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "BEDİLLER MAH (İMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "BEŞİRAĞA MAH (BODUROĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "BİCİKLER MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "CEVRE MAH (AMBARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "CİNGİLLER MAH (KIŞLA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇATAKLIOĞLU MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇAY MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇOLAKOĞLU MAH (AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "DABAZ ALİ MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "DAĞDİBİ MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "DERE MAH (SÜLÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "DEVECİ MAH (BODUROĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "DODAN MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "DORUK MAH (HATİPOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "DÖKÜK MAH (ERKEÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "EĞERCİLER MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "EMİRLER MAH (AVLAĞIKAYA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ERDEGÖL MAH (TAŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ESENLER MAH (EKİNCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ESKÖY MAH (YIĞINOT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "EYBERLER MAH (ERKEÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "EYBERLER MAH (İMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "GANİOĞLU MAH (AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "GÖCEK MAH (SÜLÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "GÖVEZ MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "GÜLEFLER MAH (ABDULLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "GÜNEŞLER MAH (YAKA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "GÜNEY MAH (GÜNEYSAZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "HATİP MAH (HATİPOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "HATİPOĞLU MAH (PÜRÇÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "HATLAR MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "HATLAR MAH (KÜÇÜKSU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "HOCA MAH (AVLAĞIKAYA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "HOCAOĞLU KÖPRÜSÜ MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "İLYASLAR MAH (YENİÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "İNCEOĞLU MAH (EKİNCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KADI MAH (EKİNCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KAHVECİ MAH (KIŞLA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KARAAĞAÇ MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KARAGÖL MAH (KÜÇÜKSU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KARAKOYUNLU MAH (PÜRÇÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KARGALI MAH (KAVAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KARŞI MAH (AVLAĞIKAYA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KARŞI MAH (KOLTUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KAYALAR MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KEÇİLER MAH (GANİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KIZIK MAH (BODUROĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KIZILELMA MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KÖSELER MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "KUZGUN MAH (ERKEÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MEHMETOĞLU MAH (SÜLÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (ABDULLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (AMBARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (AVLAĞIKAYA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (BAŞBOYUNDURUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (BEYDİLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (BEYDİNİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (BODUROĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (BÖLÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (DOĞANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (DÖKECEK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (ERKEÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (GANİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (GÖKÇEDÜZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (GÜMELİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (İMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (KAVAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (KIŞLA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (KOLTUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (KÜÇÜKSU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (PÜRÇÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (SARILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (SOFUOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (SÜLÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (ŞAMLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (TAŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (YAKA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (YAYLACILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH (YENİÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MICIK MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MURADOĞLU MAH (YAKA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MUSALLAR MAH (BAŞBOYUNDURUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MUSATLAR MAH (AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MUSTAFA AĞA MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ORTA MAH (HATİPOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ORTA MAH (ŞAMLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ORTACA MAH (BÖLÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "OSMANCIK MAH (YENİÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÖMERLER MAH (İMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÖTE GÖVEZ MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "PAZARYERİ MAH (KIŞLA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "PEHLİVANOĞLU MAH (EKİNCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "PELİTÇİK KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "SAĞIROĞLU MAH (DÖKECEK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "SAİTLER MAH (ABDULLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "SARIOĞLU MAH (SOFUOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "SAZ MAH (GÜNEYSAZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "SİNDİRE MAH (GÜMELİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "SOFULAR MAH (AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "SONYA MAH (SARILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "SÖĞÜTÇÜ MAH (SÜLÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "SÜLLER MAH (KÜÇÜKSU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "SÜTCÜ MAH (GÜMELİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ŞAMLI MAH (ERKEÇ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ŞAYLAR MAH (ŞAMLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "TEPE MAH (PÜRÇÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "TERZİ MAH (YAKA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "TOKLAR MAH (GÜMELİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÜZÜMCÜK MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YAHYALAR MAH (AMBARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YAYALAR MAH (EKİNCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YAYAOĞLU MAH (BEYDİLİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YAYAOĞLU MAH (TAŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YİĞİTLER MAH (DOĞANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YUKARI ASARCIK MAH (AMBARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YUKARI KAYALAR MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YUKARI MAH (AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YUKARI MAH (YIĞINOT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YUNUSLAR MAH (SARILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YUVALAR MAH (DUDAŞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "YÜREKÖREN KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "OVACIK",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ABDİOĞLU MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ADALAR MAH (BOSTANBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AĞABEY MAH (KEHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AHMET USTA MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AKKIŞLA KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AKÖREN KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ALABAŞ MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ALABAŞOĞLU MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ALİBEYOĞLU MAH (KEHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ALİFAKİ MAH (TAYYİP KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AŞAĞI MAH (ÇERÇEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AŞAĞI MAH (SIRÇALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AŞAĞI MAH (TOKATLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AŞAĞI MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AŞAĞIKUZ MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AŞCIOĞLU MAH (ÇERÇEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AYNUZ MAH (AŞAĞIDANA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "BAĞCILAR MAH (KADIBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "BAĞLICA MAH (ÜÇBÖLÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "BAHÇELİEVLER MAH (BOSTANBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "BELDERLER MAH (SİNE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "BELENGUR MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "BULAMAÇ MAH (KEHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "CABBAR KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "CABBAROĞLU MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "CAMCIOĞLU MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "CEBECİ MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "CEMALLER MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇAKIL MAH (TAYYİP KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇATACIK MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇATAK KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇAY MAH (ÇERÇEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇAY MAH (KUZYAKAÖTE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇAYDÜZÜ MAH (DAVUTOBASI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇENGELOĞLU MAH (BAĞCIĞAZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇEVRİK KÖPRÜ MAH (KONARI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇİFTLİK MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇİLEKLİ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇOBAN MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇOMAKÖREN MAH (YOLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "DEĞİRMENCİOĞLU MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "DEMİRCİLER MAH (YOLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "DERE MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "DERLER MAH (TOPRAKCUMA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "DÜZ MAH (OVACUMA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "DÜZ MAH (TAYYİP KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "EMİLLAHLI MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "EMİRLER MAH (CÜCAHLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "EYCİLER MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "FAZLIOĞLU MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "FERHATLAR MAH (KONARI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "GAYZA KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "GEREN KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "GİRİŞ MAH (DÜZCE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "GÖLYANI MAH (KONARI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "GÖVEREN MAH (KIRIKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "GÜLÜSTANOĞLU MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "GÜNDOĞAN KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "HABİLLER MAH (AĞAÇKESE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "HACIHASAN KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "HANLAR MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "HARMANLAR MAH (BOSTANBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "HATIRLIK KÖY TARLASI MAH (KADIBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "HİSAR MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "HOŞAFCIOĞLU MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "İNÖNÜ MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "İREZLİ MAH (ÇERÇEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KABAKÇIOĞLU MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KADIOĞLU MAH (KEHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KARAEVLİ MAH (KIRIKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KARAŞER MAH (ÜÇBÖLÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KARATAŞ MAH (ÇERÇEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KARAVELİOĞLU MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KARIT KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KARIT MAH (KARIT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KARŞI MAH (DÜZCE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KARŞI MAH (KONARI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KARŞIYAKA MAH (BOSTANBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KASAPOĞLU MAH (AŞAĞIDANA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KAVACIK MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KELLER MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KETEN MAH (YUKARIÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KILIÇLAR MAH (DEĞİRMENCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KIRIKOĞLU MAH (KEHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KOOPARATİF EVLERİ MAH (KONARI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KOZCAĞIZ MAH (DÜZCE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KÖPRÜBAŞI MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KÖPRÜBAŞI MAH (DAVUTOBASI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KURTTEPESİ MAH (AŞAĞIÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KUŞBAŞ MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MAHMUTOĞLU MAH (TAYYİP KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (AĞAÇKESE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (ALÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (AŞAĞIÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (AŞAĞIDANA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (AŞAĞIGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (BAĞCIĞAZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (BOSTANBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (CÜCAHLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (ÇERÇEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (ÇIRAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (DAVUTOBASI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (DEĞİRMENCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (HACILAROBASI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (HARMANCIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (KADIBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (KARACATEPE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (KIRIKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (KUZYAKAHACILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (KUZYAKAKÖSELER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (KUZYAKAÖTE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (NAVSAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (PELİTÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (SAKARALAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (SAT KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (SİNE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (TAYYİP KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (TOKATLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (TOPRAKCUMA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (ÜÇBÖLÜK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (YOLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (YUKARIÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MERKEZ MAH (YUKARIDANA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MÜSTEKLER MAH (SİNE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "OĞULÖREN KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "OKUYUCULAR MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ORTA MAH (DÜZCE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ORTA MAH (KONARI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ORTA MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ORTA MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ORTAKÖY MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "OSMANSÖKÜ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "OVAKÖSELER KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÖMERSOFU MAH (KARACATEPE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÖRENCİK MAH (TAYYİP KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÖTE MAH (SIRÇALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "PAZARKESE MAH (TAYYİP KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "PİRCE MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "RAHMANOĞLU MAH (BAĞCIĞAZ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SABUNCULAR MAH (AĞAÇKESE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SABUNCULAR MAH (ALÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SAKALAR MAH (ALÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SALLAR MAH (HACILAROBASI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SANDALCIOĞLU MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SARIAHMETLİ KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SARIOĞLU MAH (CÜCAHLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SARPIN MAH (NEBİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SEYİTLER MAH (AĞAÇKESE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SOFUOĞLU MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SORGUNCUK MAH (SIRÇALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SUSUNDUK MAH (YUKARIDANA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "SÜLÜKGÖLÜ MAH (AŞAĞIDANA KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ŞABANLAR MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ŞAMLAR MAH (HARMANCIK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "TAYYİP ALTI MAH (TAYYİP KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "TİNTİN KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "TUZAKLI MAH (İNCEÇAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YAĞCI MAH (SAKARALAN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YAĞMURLU MAH (KEHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YANIK MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YAYALAR MAH (AĞAÇKESE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YAYLA MAH (KADIBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YAYLA MAH (NAVSAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YÖRÜK KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUKARI ÇAVUŞLAR MAH (ÇAVUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUKARI MAH (ÇERÇEN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUKARI MAH (ÇIRAKLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUKARI MAH (DEĞİRMENCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUKARI MAH (KADIBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUKARI MAH (KUZYAKAHACILAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUKARI MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUKARI MAH (PELİTÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUKARI MAH (SIRÇALI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUKARI MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YUSUFBAŞOĞLU MAH (KEHLER KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "15 TEMMUZ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AKÇASU MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "AŞAĞI TOKATLI MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "BABASULTAN MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "CEMALCAYMAZ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇAVUŞ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ÇEŞME MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "HACIHALİL MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "HÜSEYİNÇELEBİ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "İZZETPAŞA MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KARAALİ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "KİRKİLLE MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "MUSALLA MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "SAFRANBOLU",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ADA MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "AHATLAR DÜZÜ MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "AHATLAR MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "AHÇILAR MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "AKBIYIKLAR MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "AKGÜLOĞLU MAH (KUZDAĞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "AKMANLAR-1 MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ALAGÖZLER MAH (DEĞİRMENYANI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ALTIPARMAKLAR MAH (HÜSEYİNBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ARSLANLAR MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "AŞAĞI MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "AŞAĞI MAH (YAMAÇKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ATEŞLER MAH (ŞİRİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "AYANLAR -1 MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "AYANLAR MAH (IBRICAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "BADIRAN MAH (ABDULLAHOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "BAKİBEYOĞLU MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "BALIKISIK MAH (SATUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "BEKTAŞLAR MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "BELEN MAH (CİHANBEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "BEZİRCİLER MAH (KEYFALLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "BOSTANCILAR MAH (DEĞİRMENYANI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "BOŞNAKLAR MAH (YAMAÇKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "BÖLÜKLER MAH (SATUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "CAMİYANI MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "CEMBERK MAH (CİHANBEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "CIBIRLAR MAH (BAĞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "CİNKAVUKLAR MAH (SARAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAKILLI MAH (HÜSEYİNBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAKIRLAR MAH (HİSAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAKIROĞLU MAH (KUZDAĞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇALIKLAR MAH (BAĞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAMLAR ALTI MAH (KAYAARKASI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇATALLAR MAH (KEYFALLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAY MAH (ESENKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAY MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAY MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAY MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAYIROĞLU MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇENESİZLER MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇENGELLER MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇOBANLAR MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇOLAKLAR MAH (ABDULLAHOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇÖTÜROĞLU MAH (KEYFALLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇÖZLER MAH (ŞİRİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇUMURYANI MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "DABAZLAR MAH (BAĞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "DEMİRCİLER MAH (HİSAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "DEMİRCİLER MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "DERE MAH (ÇELTİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "DERE MAH (SATUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "DEREBAŞI KÖYÜ"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "DOĞANCILAR MAH (BAĞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "DÜZYER MAH (IBRICAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ELBİYİ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ERFEYLİ MAH (DEĞİRMENYANI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ERİKCİLER MAH (ABDULLAHOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HACI İSMAİLOĞLU MAH (SARAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HACI ÖMERLER MAH (GÖKBEL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HACIBEYLER MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HACIBEYLER MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HALAMANOĞLU MAH (KAYAARKASI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HAMİTOĞLU MAH (GÖKBEL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HASANBEYLER MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HATIPLAR MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HATİPLER MAH (IBRICAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HATİPOĞLU MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HATİPOĞLU MAH (YAMAÇKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "HAVSALAR MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "İBRAHİMBEYLER MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "İNCEBACAKLAR MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "İSTASYON MAH (KAYAARKASI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "İYİOĞLU MAH (NODULLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KADI DEĞİRMENDÜZÜ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KADI MEZARLIĞI MAH (IBRICAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KADIOĞLU MAH (DEĞİRMENYANI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KAHYALAR MAH (HİSAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KAPAN ÇUKURU MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KAPTANLAR MAH (HİSAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARAGÖZLER MAH (HİSAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARAGÜLLER MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARAGÜLLER MAH (SATUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARAKAVUZ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARAPINAR MAH (CİHANBEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARAŞLAR MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARŞI KADIKÖYÜ MAH (HÜSEYİNBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KAZANCILAR MAH (YİRMİBEŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KESTANE MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KIRAÇLAR MAH (SATUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KIRAN MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KIRIŞLAR MAH (GÖKBEL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KIŞLA MAH (SARAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KIZILTOPRAK MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KİRAZLAR MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KOCAMURATLAR MAH (ÇELTİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KOCAOĞLU MAH (BAĞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KOYMATLAR MAH (BAĞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KÖLEMEN MAH (SARAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KÖSEOĞLU MAH (HİSAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KÖYİÇİ MAH (HİSAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KURTLAR MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KURU OSMANLAR MAH (ÇELTİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KÜRTOĞLU MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MANAVLAR MAH (ÇAKILLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (ABDULLAHOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (ÇAKILLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (DEĞİRMENYANI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (ESENKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (HÜSEYİNBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (IBRICAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (KARAHASANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (KEYFALLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (KUZDAĞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (NODULLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (ŞİRİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (YİRMİBEŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MURATLAR MAH (YAMAÇKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ONANLAR MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ORTA MAH (KAYAARKASI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ORTA MAH (YAMAÇKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "OSMANUSTAOĞLU MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÖMERBAŞI MAH (ŞİRİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÖMEROĞLU MAH (KAYAARKASI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÖZGÜNLER MAH (HİSAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "RECEPBEYOĞLU MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "SARAYDÜZÜ MAH (SARAY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "SARIOĞLU MAH (KEYFALLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "SERDENGEÇTİLER MAH (ÇELTİK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "SEYİSOĞLU MAH (ABDULLAHOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "SOFTALAR MAH (BAĞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "SOFUOĞLU MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "SOĞUK SU MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ŞEKER MAH (KUZDAĞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "TABAKLAR MAH (IBRICAK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "TABAKLAR MAH (SATUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "TACİLLER MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "TAŞLIOĞLU MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "TEFENLİOĞLU MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "TIRPOLU MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "TORHUN MAH (ESENKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "TUNUSLAR MAH (KUZDAĞ KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "TÜKENMEZLER MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "USTAOĞLU MAH (GÖKBEL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "UZUNÇAM MAH (GÖKBEL KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "UZUNKUM MAH (SATUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "UZUNLAR MAH (ÇAKILLAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "UZUNLAR MAH (HÜSEYİNBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YAĞBASAN MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YAHYALAR MAH (BAĞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YARDİBİ MAH (HÜSEYİNBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YARDİBİ MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YASSIÖREN MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YENİ KOCAOĞLU MAH (BAĞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YENİ MAH (TİR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YILANLAR MAH (BAĞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YUKARI MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YUKARI MAH (YAMAÇKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YUSUFBEYOĞLU MAH (SATUK KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ZAİMİNDORUK MAH (HİSAR KÖYÜ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KALAYCILAR MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARAKIRIKLAR MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÖZAL MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "YİRMİBEŞLER MAH"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ATATÜRK MAH (YORTAN BELDESİ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇENGELLER MAH (YORTAN BELDESİ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "DERE MAH (YORTAN BELDESİ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "DÖNGELLER MAH (YORTAN BELDESİ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARAÖMERLER MAH (YORTAN BELDESİ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "MERKEZ MAH (YORTAN BELDESİ)"
+  },
+  {
+    "il": "KARABÜK",
+    "ilçe": "YENİCE",
+    "Mahalle": "SİPAHİLER MAH (YORTAN BELDESİ)"
+  }
+]

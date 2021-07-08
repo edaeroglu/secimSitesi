@@ -1,0 +1,2497 @@
+[
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "BALA MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "HAMAM MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "KIRAÇ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "KUM MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "SAKARCA MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "AŞAĞIYUMRUTAŞ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "BAKIRLI MAH (YUMRUTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "ÇAMLIDERE KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "ÇAMOVA MAH (YUMRUTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "DEREGÖZÜ MAH (YEŞİLBAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "EYNAZLI MAH (YEŞİLBAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "FATİH MAH (MAMAK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "GÖKBEL MAH (ÇAMLIDERE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "HARMANCIK MAH (ÇAMLIDERE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "HİSAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "KARAGÖL MAH (ÇAMLIDERE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "KİPRİT KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "SAKARLAR MAH (YAZIR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "SAKIZLIK MAH (ÇAMLIDERE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "YAVUZ MAH (MAMAK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "AĞLASUN",
+    "Mahalle": "YAZIR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "GÜLPINAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "HEYBELİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "TAŞYAKA MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "BEL MAH (BALLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "ÇUKURKAVAK MAH (BALLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "KAVAKPINARI MAH (ÇÖRTEN KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "KAYMAKCI MAH (BALLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "MERKEZ MAH (ASMABAĞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "MERKEZ MAH (BALLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "MERKEZ MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "MERKEZ MAH (ÇÖRTEN KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "MERKEZ MAH (KIZILYAKA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "SÖBEN MAH (BALLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ALTINYAYLA",
+    "Mahalle": "SÜPÜRGELİK MAH (BALLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ALAATTİN MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ATİLLA MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "BARBOROS MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ÇAMLICAOSB MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ÇAVUŞLAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ÇUKUR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KARAYVATLAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "OĞUZHAN MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ONAÇ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YETMİŞ EVLER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YÖRÜKLER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "AVDAN MAH (KIZILKAYA BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "PAZAR MAH (KIZILKAYA BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YENİ MAH (KIZILKAYA BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YUVA MAH (KIZILKAYA BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "CAMİİ MAH (KOCAALİLER BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ESİRLİK MAH (KIZILSEKİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "GÖKALAN MAH (KOCAALİLER BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KARŞIYAKA MAH (KOCAALİLER BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "PAZAR MAH (KOCAALİLER BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "SARIOTLU MAH (KIZILSEKİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "SEKİ AVLIĞI MAH (KIZILSEKİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "SİNANBABA MAH (KIZILSEKİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YONCAAĞAÇ MAH (KIZILSEKİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "AFETLER MAH (TAŞYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "AKÇAPINAR MAH (KUŞBABA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ALİ HÜSEYİN SARINÇLARI MAH (KUYUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ALKAYA KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ANBAHAN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ANKARA MAH (ÜRKÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "AŞAĞI MAH (KUŞBABA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "AŞAĞI MAH (TAŞYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "AYKIRI MAH (KARAOT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "BELÖREN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "BEŞKONAK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "BOĞAZ MAH (ELSAZI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "BOĞAZKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "BOZYAKA MAH (ELSAZI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "CAMİ MAH (KARAOT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "CAMİ MAH (KIZILSEKİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "CAMİİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "CUMHURİYET MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ÇOBANLAR MAH (KARGI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "DAĞARCIK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "DEĞİRMEN DERESİ MAH (KUŞBABA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "DEMİRLİ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "DEREAĞZI MAH (ÇOBANPINARI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ELMALIBÜK MAH (KIZILLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "EREKLİ MAH (KARAOT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "FATİH MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "GÜLLÜALAN MAH (KARAOT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "HACIBAĞ MAH (ÇAMLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "HACIİSMAİLLER MAH (KIZILLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "HANYIKIĞI MAH (KARAOT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "HARMANCIK MAH (KARGI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "HATİPKÖY MAH (KIZILLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "İNCİRDERE KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KARAAĞAÇ MAH (ÇOBANPINARI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KARAALİLER KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KARAPINAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KARASEKİ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KAVACIK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KAVAK MAH (ELSAZI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KAVAKLI MAH (ÇAMLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KEÇİLİ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KESTEL KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KETRİT MAH (DUTALANI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KIZILCA MAH (ÇOBANPINARI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KIZILCAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KOCAYER MAH (ÇOBANPINARI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KOZAĞACI MAH (KARAOT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KÖLETAŞI MAH (KARAOT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "KÖYYATAĞI MAH (KARAOT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "MERKEZ MAH (AVDANCIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "MERKEZ MAH (DUTALANI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "MERKEZ MAH (ELSAZI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "MERKEZ MAH (GÜNDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "MERKEZ MAH (KARGI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "MERKEZ MAH (KUYUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "MERSİNALTI MAH (KUŞBABA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "NARAĞACI MAH (ÇOBANPINARI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "NARLI MAH (ÇAMLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ORTA MAH (KUŞBABA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "PAZAR MAH (ÜRKÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "PAZARALAN MAH (ÇOBANPINARI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "SAHİL MAH (ÇAMLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "SAKA MAH (ÇAMLIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "SEYDİKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "SIĞINDI MAH (DUTALANI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "SİVİŞLER MAH (AVDANCIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "SUSUZ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "TAŞBAŞI MAH (KARGI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "TAŞDİBİ MAH (KARGI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "TEPE BOYNU MAH (DUTALANI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "ÜZÜMLÜBEL KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YENİ MAH (GÜNDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YENİCE MAH (ELSAZI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YUKARI MAH (KUYUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "BUCAK",
+    "Mahalle": "YÜREĞİL KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "BAYIR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "KOCAPINAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "MENEVŞELİK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "ANBARCIK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "BELEN MAH (KOZAĞACI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "BÖLMEPINAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "BÜYÜKALAN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "ÇAKIR MAH (KIZILLAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "DEPO MAH (KOZAĞACI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "İSHAKKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "KARAKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "KAYACIK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "KÜÇÜKALAN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "MERKEZ MAH (KIZILLAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "SARAY BURNU MAH (KOZAĞACI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "YAZIR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "ÇEŞME MAH (SÖĞÜT BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "FATİH MAH (SÖĞÜT BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "PAZAR MAH (SÖĞÜT BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇAVDIR",
+    "Mahalle": "YEŞİL MAH (SÖĞÜT BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "CAMİİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "AŞAĞI MAH (GÜVENLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "BUCAK ÇAY KENARI MAH (ÇEBİŞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "DEĞİRMENÖNÜ MAH (KUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "EN İÇİ MAH (ÇEBİŞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "GÜNEY MAH (KUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "KUZEY MAH (KUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "MERKEZ MAH (ÇEBİŞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "ORTAYOL MAH (ÇEBİŞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "OVACIK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "SAROT KAYALI YOLU MAH (ÇEBİŞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "TEKKEKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "YAKA MAH (BAĞSARAY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "YUKARI MAH (BAĞSARAY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "ÇELTİKÇİ",
+    "Mahalle": "YUKARI MAH (GÜVENLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ÇAKMAK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ÇEŞME MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "HORZUM MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "MERKEZ CAMİİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ULUCAMİİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ASMALI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "BALCILAR MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "BAŞPINAR MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "BAYRAMLAR MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ÇAMİÇİ MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ÇAMKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ÇAMLIK MAH (İBECİK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ÇAYİÇİ MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "DAMARASI MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "DELİCİN MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "DEPREM EVLERİ MAH (EVCİLER KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "DİVRE MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "DOĞANLAR MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "GÖÇEKİÇİ MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "GÖKÇE PINAR MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "HANYANI MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "KARATAŞ MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "KELALİLER MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "KOCATARLA MAH (HİSARARDI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "KUŞDİLİ MEVKİİ MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "KÜNÜKLÜ MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "KÜRTLÜYAMAÇ MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "MERKEZ MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "MERKEZ MAH (EVCİLER KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "MERKEZ MAH (HİSARARDI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "MERKEZ MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "MERKEZ MAH (KARGALI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "MERKEZ MAH (UYLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "MERKEZ MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ORTA MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "PAZAR YERİ MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "SELMANLAR MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "SORKUN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "TEKELİLER MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "TURANLAR MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "ÜÇOLUK MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "YAĞPINARI MAH (KARGALI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "YAMADI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "YAPRAKLI MAH (İBECİK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "YENİ MAH (İBECİK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "YILANLI MAH (ELMALIYURT KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "YUKARI MAH (UYLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "GÖLHİSAR",
+    "Mahalle": "YUSUFÇA MAH (YUSUFÇA BELDESİ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "CAFER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "CAMİİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "EŞELER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "KARAMAN MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "AŞAĞI MAH (BADEMLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "AŞAĞI MAH (MANCA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "CAMİ MAH (KILÇAN KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "ÇAY MEVKİİ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "DERE MAH (KILAVUZLAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "HANTAŞI MEVKİİ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "KANTAR MAH (KAĞILCIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "KAYALI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "KILAVUZLAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "KILÇAN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "MÜRSELLER KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "OKUL MAH (KAĞILCIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "OKUL MAH (KILAVUZLAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "TAŞOCAĞI MAH (MANCA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "TEPE MAH (KILAVUZLAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "TEPE MAH (KILÇAN KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "TEPE MEVKİİ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "YUKARI MAH (BADEMLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "YUKARI MAH (KAĞILCIK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KARAMANLI",
+    "Mahalle": "YUKARI MAH (MANCA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "YENİ CAMİİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "AKÇAÖREN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "AKÖREN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "AŞAĞI MAH (BELENLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "AŞAĞI MAH (YAKALAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "ÇAY KENARI MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "ELMACIK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "KÖYİÇİ MAH (YAKALAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "ORTA MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "ORTA TEPE MAH (BELENLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "YUKARI MAH (KAYI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "YUKARI TEPE MAH (BELENLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "KEMER",
+    "Mahalle": "YUKARI TEPE MAH (YAKALAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARMAĞAN İLCİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIZIR İLYAS MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEKER EVLERİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BURÇ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEŞMEDAMI MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENLER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARASENİR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZGÜR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİNAN MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇDİBEK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKSU KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYAKA KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARMUT MAH (GÖKÇEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI CİNBİLLİ MAH (CİMBİLLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (ÇALLICA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MÜSLÜMLER KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI TEKKEÖNÜ MAH (ASKERİYE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AZİZİYE KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞAKEVLER MAH (GÖKÇEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞAKEVLER OSB MAH (GÖKÇEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞMAKÇI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYINDIR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEREKET KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞKAVAK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞAZİÇİ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZLAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİ MAH (AKYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİ MAH (ASKERİYE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (İLYAS KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇENDİK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEŞMEÖNÜ MAH (İLYAS KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİNE KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKURÇEŞME MAH (ASKERİYE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEŞTİMANKALE MAH (KAYAALTI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜĞER KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERİKLİ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH (BÜĞDÜZ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNALAN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEYYAYLA KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAL MAH (ASKERİYE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALICILAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İĞDEDERESİ MAH (KAYAALTI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İĞDELİ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNSUYU MAH (ÇATAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAPAKLI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARA TAŞ MAH (GÖKÇEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÇAL KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARADERE MAH (ASKERİYE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKENT KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞI MAH (AKYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARTALPINAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVACIK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAK ALTI MAH (GÖKÇEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYADİBİ SULUDERE MAH (SULUDERE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYIŞ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KERPİÇÇUKURU MAH (KAYAALTI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCAPINAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖKEZ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖYİÇİ MAH (GÖKÇEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMLUCA KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURNA KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURUÇAY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MANDIRA MAH (ÇATAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MENDERES MAH (BÜĞDÜZ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZARLIK MAH (KAYAALTI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİTHAT PAŞA MAH (KOZLUCA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OĞUZHAN MAH (BÜĞDÜZ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (İLYAS KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (KAYAALTI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVA MAH (ÇALLICA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVA MAH (KAYAALTI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PARK MAH (KOZLUCA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAY MAH (KOZLUCA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIOVA KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIĞIRBİRİKEN MAH (KAYAALTI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞANLI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞKAPI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPE MAH (CİMBİLLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULUPINAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "Y.KÖKEZ MAH (KÖKEZ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAKA MAH (ASKERİYE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YARIKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YASSIGÜME KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLABELİ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZIKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ CAMİ MAH (ASKERİYE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ SULUDERE MAH (SULUDERE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLDAĞ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOL ALTI MAH (GÖKÇEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI CİNBİLLİ MAH (CİMBİLLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (ÇALLICA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI SULUDERE MAH (SULUDERE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI TEKKEÖNÜ MAH (ASKERİYE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDINLIKEVLER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIŞLAOSB MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞİRİNEVLER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKIN MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZKURT MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEMİL MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUYU MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NECATİ BEY MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RECEP MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "AŞIKLAR MAH (HASANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "BAYRAMLAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "BELKAYA KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "BEŞİKTAŞ MAH (BEYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "CUMHURİYET MAH (HASANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "ÇAYLI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "ECE KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "GÖKTÜRK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "KAKLIK MAH (BEYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "KARAMUSA KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "SAZAK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "SEYDİLER KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "YAYLAKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "YENİ MAH (HASANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "YUVA KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "YUVALAK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "ZAFER MAH (BEYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "EŞELER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "KIR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "YOKUŞ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "TEFENNİ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "1.KÜME EVLER MAH (ORHANLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "2.KÜME EVLER MAH (ORHANLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "ARMUT KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "AŞAĞI CAMİ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "AŞAĞI KIRLI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "AŞAĞI MAH (SALDA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "ATATÜRK MAH (ÇUVALLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "BAHÇELİ EVLER MAH (ÇALTEPE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "BAYINDIR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "BAYIRBAŞI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "BEYKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "CAMİ MAH (ÇUVALLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "ÇARDAK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "DÜDEN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "ELDEN KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "GENÇALİ KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "GÖKÇEYAKA KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "HOROZKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "HÜYÜK MAH (YARIŞLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "İĞDİR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KARAKÖY KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KARAKÖY MAH (HARMANLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KARŞI MAH (HARMANLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KAVAK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KAYAKÖY MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (AKÇAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (BAŞKUYU KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (BEDİRLİ KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (BÜYÜKYAKA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (ÇALTEPE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (ÇELTEK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (ÇUVALLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (DOĞANBABA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (IŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (ONACAK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KÖYİÇİ MAH (YARIŞLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KUMLUK MAH (ÇUVALLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "MERKEZ MAH (HARMANLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "NİYAZLAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "ORHANLI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "ÖMERLER MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "SAĞLIK OCAĞI MAH (YARIŞLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "SAZAK KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "ŞEHİT İSMAİL ERÇOBAN MAH (ÇALTEPE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "TAŞPINAR KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "TEKKE MAH (YARIŞLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "YAKA MAH (ÇALTEPE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "YENİ BAĞLAR MAH (ÇUVALLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "YENİ MAH (ÇALTEPE KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "YUKARI CAMİ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "YUKARI KIRLI KÖYÜ"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "YUKARI MAH (ONACAK KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "YUKARI MAH (SALDA KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "YUKARI MÜSLÜMLER MAH (YARIŞLI KÖYÜ)"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "BAHCELİEVLER MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "DEĞİRMEN MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KARAATLI MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "KOYUNLAR ÇEŞME MAH"
+  },
+  {
+    "il": "BURDUR",
+    "ilçe": "YEŞİLOVA",
+    "Mahalle": "MERKEZ MAH"
+  }
+]

@@ -1,0 +1,6542 @@
+[
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "AŞAĞIŞAKRAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "B.HAYRETTİN PAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "BAHÇEDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "BOZKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "ÇAKMAKLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "ÇALTILIDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "ÇITAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "ÇORAKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "GÜZELHİSAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "HACIÖMERLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "HOROZGEDİĞİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "KALABAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "KAPUKAYA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "KARAKUZU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "KAZIM DİRİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "SAMURLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "SİTELER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "ŞEHİTKEMAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "UZUNHASANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "YENİŞAKRAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "YUKARI ŞEHİTKEMAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "YÜKSEKKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ALİAĞA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BALÇOVA",
+    "Mahalle": "BAHÇELERARASI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BALÇOVA",
+    "Mahalle": "ÇETİN EMEÇ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BALÇOVA",
+    "Mahalle": "EĞİTİM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BALÇOVA",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BALÇOVA",
+    "Mahalle": "İNCİRALTI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BALÇOVA",
+    "Mahalle": "KORUTÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BALÇOVA",
+    "Mahalle": "ONUR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BALÇOVA",
+    "Mahalle": "TELEFERİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ALANKIYI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ALANKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ARIKBAŞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "BALCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "BIYIKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "BURUNCUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "CAMİİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ÇAMLIBEL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ÇENİKLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ÇINARDİBİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ÇİFTÇİGEDİĞİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "DEMİRCİLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "DERNEKLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ELİFLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ERGENLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "FIRINLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "HACI BEŞİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "HACI İBRAHİM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "HATAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "HAVUZBAŞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "HİSARLIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "KABAAĞAÇ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "KARAHALİLLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "KARAHAYIT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "KIZILCAAĞAÇ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "KIZILCAOVA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "KIZILKEÇİLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "KIZILOBA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "KURT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "LÜTUFLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "MİTHATPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "OSMANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "PINARLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "SADIKPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "SARIYURT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "SÖĞÜTÖREN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "TOKATBAŞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "TURAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "YAKACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "YAKAPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "YUSUFLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ZEYTİNOVA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "KARAVELİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "ÇIRPI CAMİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "HASKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "İBRAHİMÇAVUŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "MEKTEP MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYINDIR",
+    "Mahalle": "NECATİ UZA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "75. YIL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "ALPASLAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "CENGİZHAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "ÇİÇEK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "FUAT EDİP BAKSI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "MUHİTTİN ERENER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "R.ŞEVKET İNCE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "TURAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "ADALET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "BAYRAKLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "TEPEKULE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "DOĞANÇAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "GÜMÜŞPALA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "ORG.NAFİZ GÜRMAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "YAMANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "MANAVKUYU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "MANSUROĞLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "KÖRFEZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "ONUR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "POSTACILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BAYRAKLI",
+    "Mahalle": "SOĞUKKUYU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AHMETBEYLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AKÇENGER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ALACALAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ALHATLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ALİBEYLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ARMAĞANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AŞAĞIBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AŞAĞICUMA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AŞAĞIILGINDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AŞAĞIKIRIKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ATÇILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ATMACA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AVUNDUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AVUNDURUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AYASKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AYVATLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "BAYRAMCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "BEKİRLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "BERGAMA OSB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "BOZKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "BOZYERLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "BÖLCEK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "CEVAPLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÇAKIRLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÇALIBAHÇE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÇALTIKORU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÇAMAVLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÇAMKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÇAMOBA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÇELTİKÇİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÇİTKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÇOBANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÇÜRÜKBAĞLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "DAĞISTAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "DEMİRCİDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "DOĞANCI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "DURMUŞLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "EĞİLLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "EĞRİGÖL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ERTUĞRUL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "FERİZLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "FEVZİPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "GAYLAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "GAZİPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "GÖBELLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "GÖÇBEYLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "GÖKÇEYURT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "GÜNEŞLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "HACIHAMZALAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "HACILAR MAH (DEREKÖY BUCAĞI MAH)"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "HACILAR MAH (İSMAİLLİ BUCAĞI MAH)"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "HALİLAĞALAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "HAMZALISÜLEYMANİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "HİSARKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ILGINCABER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "İKİZLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "İNCECİKLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "İNEŞİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "İNKILAP MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "İSLAMSARAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "İSMAİLLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KADRİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KALEARDI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KAPLAN MAH (GÖÇBEYLİ BUCAĞI MAH)"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KAPLAN MAH (YUKARIBEY BUCAĞI MAH)"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KAPUKAYA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KARAHIDIRLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KARAVELİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KAŞIKÇI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KATRANCI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KIRANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KIRCALAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KIZILTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KOCAHALİLLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KOCAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KOYUNELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KOZLUCA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KURFALLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "MALTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "MARUFLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "MURATLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "NARLICA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "OKÇULAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ORUŞLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÖKSÜZLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÖRENLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÖRLEMİŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "PAŞAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "PINARKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "PİREVELİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "RAHMANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "SAĞANCI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "SARICALAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "SARICAOĞLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "SARIDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "SEKLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "SELÇUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "SİNDEL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "SÜLEYMANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "TALATPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "TAVUKÇUKURU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "TEKKEDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "TERZİHALİLLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "TIRMANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "TİYELTİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "TOPALLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "TURABEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ULUCAMİİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÜÇTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ÜRKÜTLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "YALNIZDAM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "YALNIZEV MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "YENİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "YERLİTAHTACI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "YORTANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "YUKARIADA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "YUKARIBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "YUKARICUMA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "YUKARIKIRIKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ZAĞNOZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BERGAMA",
+    "Mahalle": "ZEYTİNDAĞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "ADAKÜRE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "AKTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "ALAKEÇİLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "BAKIRKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "BEYKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "ÇİFTLİKKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "ÇOMAKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "EĞRİDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "ERİKLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "HALIKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "KARAOBA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "MUTAFLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "PALAMUTÇUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "SARIKAYA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "TABAKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "YAĞCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "YENİYURT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "YUKARIAKTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BEYDAĞ",
+    "Mahalle": "YUKARITOSUNLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "BİRLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "ÇAMKULE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "KOŞUKAVAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "SERİNTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "EVKA 4 MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "KIZILAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "BEŞYOL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "ÇAMİÇİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "EĞRİDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "ERGENE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "ERZENE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "GÖKDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "KARAÇAM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "KAVAKLIDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "LAKA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "SARNIÇKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "YAKAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "MERİÇ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "RAFET PAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "TUNA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "YILDIRIM BEYAZIT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "EGEMENLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "KARACAOĞLAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "KAZIMDİRİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "DOĞANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "EVKA 3 MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "NALDÖKEN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "YEŞİLÇAM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "GÜRPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "ÜMİT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BORNOVA",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "BELENBAŞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "BUCA KOOP MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "ÇAMLIKULE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "ÇAMLIPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "DOĞANCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "KARACAAĞAÇ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "KAYNAKLAR MERKEZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "KIRKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "KOZAĞAÇ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "KURUÇEŞME MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "YENİGÜN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "YILDIZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "ADATEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "AYDOĞDU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "BUCAOSB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "ÇAĞDAŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "İZKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "KARANFİL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "MURATHAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "ŞİRİNKAPI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "ÇALDIRAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "DİCLE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "GÜVEN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "LALELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "UFUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "YİĞİTLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "29 EKİM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "YILDIZLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "EFELER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "FIRAT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "İNKILAP MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "MUSTAFA KEMAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "SEYHAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "VALİ RAHMİ BEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "BUCA",
+    "Mahalle": "YEŞİLBAĞLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ALAÇATI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "16 EYLÜL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ALTINKUM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ALTINYUNUS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ARDIÇ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "BOYALIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "CELAL BAYAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ÇAKABEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "FAHRETTİNPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "GERMİYAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ILDIR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "İSMET İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "MUSALLA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "REİSDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ŞEHİT MEHMET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ŞİFNE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "DALYAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇEŞME",
+    "Mahalle": "ÜNİVERSİTE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "AHMET TANER KIŞLALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "AYDINLIKEVLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "EVKA-2 MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "EVKA-6 MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "GÜZELTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "KÖYİÇİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "MALTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "ŞİRİNTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "YAKAKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "AOSB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "ATAŞEHİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "BALATÇIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "KAKLIÇ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "KÜÇÜK ÇİĞLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "SASALI MERKEZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "YENİ MAHALLE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "ÇAĞDAŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "EGEKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "EVKA-5 MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "İZKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "AHMET EFENDİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "HARMANDALI GAZİ MUSTAFA KEMAL ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÇİĞLİ",
+    "Mahalle": "UĞUR MUMCU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "BAHÇELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "ÇAĞLAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "ÇANDARLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "ÇUKURALANI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "DELİKTAŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "DEMİRTAŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "DENİZKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "GAZİPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "GÖKÇEAĞIL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "İSLAMLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "KABAKUM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "KATIRALANI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "KIRATLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "KIROBA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "KIZILÇUKUR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "KOCAOBA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "MAZILI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "MERDİVENLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "NEBİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "SALİHLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "SALİMBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "SAMANLIKKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "UZUNBURUN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "YAHŞİBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "YAYLAYURT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "DİKİLİ",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "HACIVELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "KAZIM DİRİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "FEVZİPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "ILIPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "KEMAL ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "KOCA MEHMETLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "KOZBEYLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "MAREŞAL FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "MUSTAFA KEMAL ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "YENİBAĞARASI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "FOÇA",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "AKTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "ATIFBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "BEYAZEVLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "BİNBAŞI REŞATBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "DOKUZ EYLÜL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "EMREZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "GAZİKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "IRMAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "SEVGİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "YEŞİL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GAZİEMİR",
+    "Mahalle": "ZAFER SB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "ÇAMLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "ÇELEBİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "KAHRAMANDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "KÜÇÜKKAYA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "MALTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "MUSTAFA KEMAL PAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "PAYAMLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "SİTELER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "YAKA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "GÜZELBAHÇE",
+    "Mahalle": "YELKİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ADNAN SÜVARİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ESENYALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "FAHRETTİN ALTAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "GENERAL KAZIM ÖZALP MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "MALİYECİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "METİN OKTAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "MUAMMER AKAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "POLİGON MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ÜÇKUYULAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ARAP HASAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "BASIN SİTESİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "AYDIN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "GÜNALTAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "İHSAN ALYANAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "KAVACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "PEKER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "SELVİLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "SEVGİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "TIRAZLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ABDİ İPEKÇİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "CENNETÇEŞME MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "DEVRİM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "KİBAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ÖZGÜR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "UMUT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "UZUNDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "YAŞAR KEMAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "YURDOĞLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "YÜZBAŞI ŞERAFETTİN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ALİ FUAT CEBESOY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ALİ FUAT ERDEN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "BAHRİYE ÜÇOK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "DOĞANAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ESENLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "LİMONTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "REFET BELE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "REİS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "SALİH OMURTAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "TAHSİN YAZICI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "VATAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "AŞIK VEYSEL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "BAHAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "BOZYAKA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "CENNETOĞLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "ÇALIKUŞU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "GENERAL ASIM GÜNDÜZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "GÜLYAKA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "KARABAĞLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "OSMAN AKSÜNER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "SARIYER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABAĞLAR",
+    "Mahalle": "UĞUR MUMCU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "ANBARSEKİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "BOZKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "EĞLENHOCA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "HASSEKİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "İNECİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "İSKELE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "KÖSEDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "KÜÇÜKBAHÇE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "PARLAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "SAİP MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "SALMAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "SARPINCIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "TEPEBOZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARABURUN",
+    "Mahalle": "MORDOĞAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "ALAYBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "BAHARİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "TERSANE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "TUNA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "MUSTAFA KEMAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "ZÜBEYDE HANIM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "ATAKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "BOSTANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "MAVİŞEHİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "İMBATLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "LATİFE HANIM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "ÖRNEKKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "AKSOY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "BAHRİYE ÜÇOK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "DONANMACI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "SANCAKLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "YAMANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "DEDEBAŞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "DEMİRKÖPRÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "FİKRİ ALTAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "GONCALAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "NERGİZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "ŞEMİKLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KARŞIYAKA",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ARMUTLU 85.YIL CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ARMUTLU HÜRRİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "BAĞYURDU 29 EKİM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "BAĞYURDU KAZIMPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "BAĞYURDU KEMAL ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "BAĞYURDU YENİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "HALİLBEYLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "AKALAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ANSIZCA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "AŞAĞI YENMİŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "AŞAĞIKIZILCA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "BAYRAMLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "BEŞPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "CUMALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ÇAMBEL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ÇINARKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ÇİNİLİKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "DAMLACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "GÖKÇEYURT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "GÖKYAKA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "HALİLBEYLİ OSB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "HAMZABABA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "KAMBERLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "KEMALPAŞA OSB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "KIZILÜZÜM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "KUYUCAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "NAZARKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ÖREN 75.YIL CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ÖRNEKKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "SARIÇALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "SARILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "SEKİZ EYLÜL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "SİNANCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "SÜTÇÜLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "VİŞNELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "YENİKURUDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "YENMİŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "YİĞİTLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "YUKARIKIZILCA MERKEZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ZEAMET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ÖREN EGEMEN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ULUCAK CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ULUCAK İSTİKLAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ULUCAK MUSTAFA KEMAL ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "ARPADERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "ARPASEKİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "BADEMALAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "BAĞALAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "BÜYÜKOBA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "CUMALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "ÇALTI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "ÇANKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "ÇİFTLİKKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "DEĞİRMENCİELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "DÜNDARLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "ELMADERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "HAMZAHOCALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "İBRAHİMAĞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "KALEMKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "KARADERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "KARATEKELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "KINIK OSB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "KOCAÖMER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "KODUKBURUN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "KÖSELER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "MISTIKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "MUSACALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "ÖRTÜLÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "POYRACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "SUCAHLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "TAŞTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "TÜRKCEDİT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "YAYAKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "YAYLAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KINIK",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "AHMETLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "ALTINOLUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "ARKACILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "AVUNDURUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "AYDOĞDU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "BAHÇEARASI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "BAŞARAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "CERİTLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "CEVİZLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "ÇANAKÇI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "ÇAYAĞZI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "ÇÖMLEKÇİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "DOĞANCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "DOKUZLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "EMENLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "GEDİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "HALİLLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "HİSAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "İĞDELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "KALEKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "KARABAĞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "KARABULU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "KARABURÇ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "KARAMAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "KIRKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "KİBAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "MAVİDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "MERSİNLİDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "OLGUNLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "ÖREN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "SAÇLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "SARIKAYA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "SARISU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "SIRIMLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "SOLAKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "SULUDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "ŞEMSİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "TAŞLIYATAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "TEKBIÇAKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "TUMBULLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "UMURCALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "UMURLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "UZUNKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "VELİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "YAĞLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KİRAZ",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ALSANCAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "AKARCALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "AKINCI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ALİ REİS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ALTAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ALTINORDU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "DAYIEMİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "DOLAPLIKUYU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ETİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "FAİK PAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "HURŞİDİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KOCAKAPI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KUBİLAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MİRALİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "NAMAZGAH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "PAZARYERİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "SELÇUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "SÜVARİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "TUZCU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ÜLKÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "1.KADRİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "19 MAYIS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "2.KADRİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ATİLLA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "BALLIKUYU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ÇİMENTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "DUATEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "GÜNEŞLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "HASAN ÖZDEMİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "İMARİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KADİFEKALE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KOCATEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KOSOVA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "TINAZTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "VEZİRAĞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ZAFERTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "26 AĞUSTOS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ANADOLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ATAMER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ÇINARTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "HUZUR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MİLLET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MURAT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "SAYGI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "TRAKYA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ULUBATLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ZEYBEK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "BOĞAZİÇİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "CENGİZ TOPEL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "EMİR SULTAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "FERAHLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "İSMET PAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KÜÇÜKADA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "LALE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "LEVENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MEHTAP MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ZEYTİNLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "GÖZTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "GÜZELYALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MEHMET ALİ AKMAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "EGE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KAHRAMANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "OĞUZLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "UMURBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "GÜNEŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KESTELLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "YENİGÜN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ALTINTAŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "BOZKURT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ÇAHABEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "FEVZİ PAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "GÜNGÖR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KAHRAMAN MESCİT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ODUNKAPI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "SÜMER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ŞEHİT NEDİM TUĞALTAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "TAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "TÜRKYILMAZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "UĞUR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "YILDIZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "AKIN SİMAV MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ÇANKAYA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KEMAL REİS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "KILIÇ REİS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MİTHATPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MURAT REİS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "PİRİ REİS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "TURGUT REİS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "AKDENİZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "İSMET KAPTAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "ÇINARLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "HALKAPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "HİLAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "MERSİNLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "KONAK",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "DEVELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ATA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "GÖRECE CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "GÜMÜLDÜR ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "GÜMÜLDÜR CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "GÜMÜLDÜR FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "GÜMÜLDÜR İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "KISIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "AHMETBEYLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "AKÇAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ALTINTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "BULGURCA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "CÜNEYTBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ÇAKALTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ÇAMÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ÇATALCA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ÇİLE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ÇİLEME MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "EFEMÇUKURU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "GAZİPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "GÖLCÜKLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "GÖLOVA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "İTOB OSB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "KARAKUYU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "KASIMPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "KELER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "KUYUCAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "KÜNER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "MİTHATPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "OĞLANANASI ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "OĞLANANASI CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "SANCAKLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ŞAŞAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ÇUKURALTI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "ÖZDERE CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "TEKELİ ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENDERES",
+    "Mahalle": "TEKELİ FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "29 EKİM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "30 AĞUSTOS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "75.YIL CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "85.YIL CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "9 EYLÜL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "AHIHIDIR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "ALANİÇİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "ATATÜRK PLASTİKOSB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "AYVACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "BAĞCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "BELEN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "BOZALAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "BURUNCUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "CAMİİKEBİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "ÇALTI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "ÇAVUŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "ÇUKURKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "DOĞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "EMİRALEM MERKEZ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "ESATPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "GAYBİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "GAZİ MUSTAFA KEMAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "GÖKTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "GÖLCÜK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "GÖRECE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "GÜNERLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "HASANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "HATUNDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "HAYKIRAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "IRMAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "İĞNEDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "İNCİRLİ PINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "İSMET İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "KARAORMAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "KASIMPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "KAZIMPAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "KEMAL ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "KESİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "KIR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "MALTEPE SB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "MERMERLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "MUSABEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "MUSTAFA KEMAL ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "SEYDİNNASRULLAH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "SÜLEYMANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "SÜZBEYLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "TELEKLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "TURGUTLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "TUZÇULLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "TÜLBENTLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "UĞUR MUMCU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "ULUS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "VİLLAKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "YAHŞELLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "YANIKKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "YEŞİL PINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "YILDIRIM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "MENEMEN",
+    "Mahalle": "ZEYTİNLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "2. İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "ALTIEVLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "ÇAMTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "ÇATALKAYA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "HUZUR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "LİMANREİS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "NARLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "SAHİLEVLERİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "NARLIDERE",
+    "Mahalle": "YENİKALE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ALAŞARLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ANAFARTALAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ARTICAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BALABANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BAYIRLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BEBEKLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BENGİSU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BEYAZITLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BIÇAKÇI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BİRGİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BOZCAYAKA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BOZDAĞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BUCAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BÜLBÜLLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "BÜYÜKAVULCUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "CEVİZALAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ÇAMYAYLA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ÇAYIR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ÇAYLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ÇOBANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "DEMİRCİLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "DEMİRDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "DEREUZUNYER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "DOLAYLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "EMİRLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "EMMİOĞLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ERTUĞRUL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "GERÇEKLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "GERELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "GÖLCÜK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "GÜNLÜCE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "HACIHASAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "HAMAM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "HORZUM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "IŞIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "İLKKURŞUN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KARADOĞAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KARAKOVA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KAYAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KAYMAKÇI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KAZANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KEMENLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KEMER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KERPİÇLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KIZILCAAVLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KONAKLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KÖFÜNDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KÖSELER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KURUCUOVA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KUTLUBEYLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KUVVETLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KÜÇÜKAVULCUK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KÜÇÜKÖREN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "KÜRE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "MESCİTLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "MEŞRUTİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "MURSALLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "OCAKLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "OĞUZLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "OVAKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "PİRİNÇÇİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "SEKİKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "SEYREKLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "SUÇIKTI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "SÜLEYMAN DEMİREL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "SÜLEYMANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ŞİRİNKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "TOSUNLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "TÜRKMEN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "TÜRKÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "UMURBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "UZUNDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ÜÇ EYLÜL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ÜÇKONAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ÜZÜMLÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "VELİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "YENİCEKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "YILANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "YOLÜSTÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "YUSUFDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "ÖDEMİŞ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "PAYAMLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "BEYLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "ÇAMTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "ÇOLAK İBRAHİM BEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "DÜZCE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "GÖDENCE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "GÖLCÜK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "HIDIRLIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "KAVAKDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "ORHANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "SIĞACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "TURABİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "TURGUT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "ULAMIŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "BENGİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SEFERİHİSAR",
+    "Mahalle": "MERSİN ALANI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "14 MAYIS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "ACARLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "BARUTÇU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "BELEVİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "GÖKÇEALAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "HAVUTÇULU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "İSA BEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "SULTANİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "ŞİRİNCE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "SELÇUK",
+    "Mahalle": "ZEYTİNKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "4 EYLÜL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "AKÇAŞEHİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "AKKOYUNLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "AKMESCİT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "AKYURT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ALACALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ALAYLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "AYAKLIKIRI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "BAHARİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "BOYNUYOĞUN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "BÜYÜKKALE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "BÜYÜKKEMERDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "BÜYÜKKÖMÜRCÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "CAMBAZLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ÇAYIRLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ÇERİKÖZÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ÇİNİYERİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ÇOBANKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ÇUKURKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "DAĞDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "DALLIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "DEREBAŞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "DERELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "DİBEKÇİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "DOYRANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "DUATEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "DÜNDARLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "EĞRİDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ERTUĞRUL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ESKİOBA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "GÖKÇEN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "HALKAPINAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "HASANÇAVUŞLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "HİSARLIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "IŞIKLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "İBNİ MELEK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "İBNİ MELEK OSB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "İPEKÇİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KAHRAT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KAPLAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KARACA ALİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KARATEKE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KETENCİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KIRTEPE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KIZILCAHAVLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KİRELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KOCAALİLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KURŞAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KÜÇÜKBURUN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KÜÇÜKKALE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KÜÇÜKKEMERDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KÜÇÜKKÖMÜRCÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "KÜRDÜLLÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "MAHMUTLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "MEHMETLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "MUSALAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "OSMANCIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "PAŞA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "PEŞREFLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "SARILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "SARUHANLI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "SOMAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "TOKİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "TOPALAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "TOPARLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "TURAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "TURGUTLU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "ÜZÜMLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "YAMANDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "YEĞENLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "YEMİŞLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "YENİÇİFTLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "YENİOBA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TİRE",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "AYRANCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "TÜRKMENKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "MUSTAFA KEMAL ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "PANCAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "19 MAYIS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "PAMUKYAZI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "AHMETLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ALPKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ARSLANLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ATALAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "BOZKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "BÜLBÜLDERE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ÇAKIRBEYLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ÇAPAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "DAĞKIZILCA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "DAĞTEKE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "DEMİRCİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "DİRMİL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "DÜVERLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "EĞERCİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ERTUĞRUL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "GAZİ MUSTAFA KEMAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "GÖLLÜCE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "HELVACI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "KAPLANCIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "KARAKIZLAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "KARAKUYU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "KARAOT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "KIRBAŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "KUŞÇUBURUN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "MURATBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "NAİME MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ORMANKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ÖZBEY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "SAİPLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "TAŞKESİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "TORBALI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "TULUM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "YEDİ EYLÜL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "YEMİŞLİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "YOĞURTÇULAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "YAZIBAŞI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "TORBALI",
+    "Mahalle": "YENİKÖY OSB MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "BADEMLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "BALIKLIOVA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "DENİZLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "GÜVENDİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "İSKELE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "KALABAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "GÜLBAHÇE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "KUŞÇULAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "ÖZBEK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "ALTINTAŞ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "BİRGİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "CAMİATİK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "DEMİRCİLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "HACI İSA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "İÇMELER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "KADIOVACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "NAİPLİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "NOHUTALAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "RÜSTEM MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "SIRA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "TORASAN MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "UZUNKUYU MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "YAĞCILAR MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "YAKA MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "YELALTI MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "ZEYTİNELİ MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "ZEYTİNLER MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "ÇAMLIÇAY MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "M.FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "ŞİRİNKENT MAH"
+  },
+  {
+    "il": "İZMİR",
+    "ilçe": "URLA",
+    "Mahalle": "ZEYTİNALANI MAH"
+  }
+]
