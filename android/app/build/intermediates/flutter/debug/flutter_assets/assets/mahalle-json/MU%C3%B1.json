@@ -1,0 +1,3437 @@
+[
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GÜLLÜOVA MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "MESCİTLİ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ŞEHİTLİK MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "CUMHURİYET MAH (ELMAKAYA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KARŞIYAKA MAH (ELMAKAYA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "AKÇAARMUT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "AŞAĞIBÜKLÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "BİNİCİLER MEZRASI MAH (ESENLİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "BÜNGÜLDEK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "CANKURTARAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ÇATAKLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "DİZBOYU MAH (DOKUZPINAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "DOKUZPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ESENLİK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "FATİH MAH (ERENTEPE BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GAZİ MAH (ERENTEPE BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GÜLÇİMEN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GÜNBATMAZ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GÜVEÇ MAH (ÇATAKLI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "HALİT MEZRASI MAH (ESENLİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "HOŞGELDİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "İKİPINAR MAH (DOKUZPINAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KALE MAH (ERENTEPE BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KARAKAYA MAH (CANKURTARAN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KELEHOŞK MAH (HOŞGELDİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "MOLLADAVUT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "OĞLAKKAYA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "OKÇULAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "OLURDERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "PINARBAŞI MAH (MOLLAKENT KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SARIALTUN MAH (DOKUZPINAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SOMAN MAH (OLURDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ŞIHMİRZA MAH (DOKUZPINAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "TEPECİK MAH (AKÇAARMUT KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YEŞİLOVA MAH (YOKUŞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YEŞİLYURT MAH (MOLLAKENT KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YOKUŞBAŞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YUKARIBÜKLÜ MAH (AŞAĞIBÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ZİYARET MAH (DOKUZPINAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ADIVAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "AKÇAKAYNAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ALTINOLUK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ARAKONAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ARDIÇ MAH (ESKİYOL KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "BAHÇELİEVLER MAH (YEMİŞEN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "BALOTU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "BAYRAMLI MAH (ESKİYOL KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "BEŞEVLER MAH (MEŞEİÇİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "BOSTANCILAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "BOZTAŞ MAH (SULTANLI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ÇAYGELDİ MAH (ÇAYGELDİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ÇİÇEKLİ MAH (SEÇME KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ÇİLÇİLE MAH (SEÇME KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "DEĞİRMENSUYU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "DERE MAH (ALTINOLUK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "DOĞANTEPE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "DÜZALAN MAH (SULTANLI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ERİCEK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ESKİYOL KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "FATİH MAH (YEMİŞEN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GÖLYANI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GÖZTEPE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GÜMÜŞPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GÜNDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GÜNYURDU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "HAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "HORBIZAN MAH (ALTINOLUK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "İBRAHİM KUŞHAN MEZRASI MAH (ARAKONAK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KARABURUN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KILINDOR MEZRASI MAH (YAZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KIRKGÖZE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KIRMIZITAŞ MEZRASI MAH (YAZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KOM MEZRASI MAH (KOTANLI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KORTAGÜL MEZRASI MAH (YAZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KOTANLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KOYUNAĞILI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KÖPRÜYOLU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KURGANLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "KUZULU MAH (GÜNYURDU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "MEMETLER MAH (SEÇME KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "MEŞEİÇİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "MURAT MAH (KARAAĞIL KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ÖRENKENT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "PINARCIK MAH (SAMANYOLU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SALİHA MAH (SEÇME KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SAMANYOLU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SARAY MAH (YEMİŞEN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SEÇME KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SIRADERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SULTANLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SÜTLÜCE MAH (SEÇME KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ŞATIRLAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ŞEHİTTAHİR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ŞEHİTVEREN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "TOKLULAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "TOPAĞAÇ MAH (SEÇME KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "UĞUR MAHHALESİ MAH (KARAAĞIL KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ÜÇTEPE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ÜRÜNLÜ MAH (MEŞEİÇİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "VANGESOR MEZRASI MAH (GÖLYANI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YAZBAŞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YENİKÖY MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YEŞİL YAYLA MEZRASI MAH (ARAKONAK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YILANDERE MAH (ŞATIRLAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YILDIZ MAH (KARAAĞIL KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "BAĞLAR MAH (RÜSTEMGEDİK BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "HANEDAN MAH (RÜSTEMGEDİK BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "İNÖNÜ MAH (RÜSTEMGEDİK BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ZAFER MAH (RÜSTEMGEDİK BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ÇİMEN MAH (SARIPINAR BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "PINAR MAH (SARIPINAR BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "SİNAN MAH (SARIPINAR BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ABDALBEYAZIT MAH (UZGÖRÜR BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ALAGEZ MAH (UZGÖRÜR BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "ARI MAH (UZGÖRÜR BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "FATİH MAH (UZGÖRÜR BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "GAZİ MAH (UZGÖRÜR BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "CUMHURİYET MAH (YONCALI BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "HÜRRİYET MAH (YONCALI BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "BULANIK",
+    "Mahalle": "YENİ MAH (YONCALI BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "BAHÇELİEVLER MAH (DÜZKIŞLA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "KÜLTÜR MAH (DÜZKIŞLA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "YENİ MAH (DÜZKIŞLA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "SAYANLAR MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "SUNAY MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "15 TEMMUZ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "AŞAĞIÜÇDAM KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "AZIKLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "BÖĞÜRDELEN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "BÜVETLİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "COTİK MAH (YARKAYA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "DAĞDİBİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "ELMABULAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "EŞMEPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "GÖKYAZI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "KARAKÜTÜK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "KOÇ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "KOĞUKTAŞ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "ORTANCA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "OTAÇ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "SARIBAHÇE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "UMURCA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "VATAN MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "YAPRAKLI MAH (YARKAYA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "YARKAYA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "YEŞİLDERE MAH (YARKAYA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "YUKARIÜÇDAM KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "HASKÖY",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "AYDINLAR MAH (ALTINOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "BAHÇELİEVLER MAH (ALTINOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "MERKEZ MAH (ALTINOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "YENİ MAH (ALTINOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "AKYILDIZ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "ALADİNO MAH (İÇBOĞAZ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "ALAZLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "BALKIR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "ÇAKIRLI MAH (ÇINARARDI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "ÇALAPLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "ÇINARARDI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "DEĞİRMİTAŞ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "DEREİÇİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "DOĞULAR MAH (DEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "DURUCAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "DÜZOVA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "GELİRLİ MAH (PINARÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "GÜLTEPE MAH (GÜLTEPE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "GÜNEYİK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "GÜVEN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "İÇBOĞAZ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "KAPILI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "KAŞDİBİ MAH (DEĞİRMİTAŞ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "KAVAL MAH (DEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "KIRYAKA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "KOCATARLA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "KONAKDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "MERKEZ MAH (KARAKALE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "MOLLABABA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "OĞULBALI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "ONEVLER MAH (YOLGÖZLER KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "PINARÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "SARMAŞIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "SAZLIKBAŞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "SU DÖNDÜ MAH (DEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "TAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "TAŞLICA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "YEDİPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "YOLGÖZLER KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "YÜNÖREN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "KORKUT",
+    "Mahalle": "YÜREKLİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "1 MAH (AĞILBAŞI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "2 MAH (AĞILBAŞI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BADEMÖZÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BALKAYA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BEŞDAM KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BEYPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BEZİRHANE MAH (GÜZELBABA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BİLALA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BOYÇAPKIN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ÇAT MAH (BALKAYA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ÇİÇEKVEREN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "DEDEAĞAÇ MAH (KAZGÖL KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "DÖVENCİLER MAH (KARINCALI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ERENCE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "FENEK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "GÜZELBABA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "HACILAR MAH (KARAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "İYİKOMŞU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KADIKÖY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KARADERA MAH (GÜZELBABA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KARAKOÇ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KARDEŞLER KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KARINCALI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KAZGÖL KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KURUCA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "SIRTDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "TIKIZLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ULUSU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "UYANIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "YAPRAKLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "YILDIZ MAH (ÇİÇEKVEREN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "YOLGÖZLER KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "YURTSEVEN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ADAKSU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "AKÖREN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BEKİRHAN MAH (KARAALİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BOYUNDERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KARAALİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KARAHASAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KIZILYUSUF KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KULCAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "MAĞALCIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "MOLLADERMAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ODAKÖY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "OĞUZHAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ÖRENŞAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "SARIDAVUT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ŞEKEROVA MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "TATARGAZİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "YARAMIŞ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ATATÜRK MAH (KONAKKURAN BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "MURAT MAH (KONAKKURAN BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "YENİ MAH (KONAKKURAN BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ZİYARET MAH (KONAKKURAN BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ADALAR MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "AFŞİN MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "AKSUNGUR MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ALİŞAN MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ALTUNTAŞ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "DANIŞMENTGAZİ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "MENGÜÇGAZİ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "MURAT MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "SAFTEKİNGAZİ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "SALTUKGAZİ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "SELÇUKLU MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ŞEKERBULAK MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ALINCA MAH (MEZRAAKÖY KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ALYAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ARADERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "AYNALIHOCA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BEŞÇATAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BİLGİN MAH (GÜLKORU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "BOSTANKAYA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ÇAYIRDERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "DOLABAŞ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "EYYUBİ MAH (GÜLKORU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "GÜLEÇ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "HANOĞLU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "HASRETPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KARAKAYA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KILIÇÇI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "MEZRAAKÖY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "MOLLABAKİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "MURATKOLU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "OKÇUHAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "SELEKUTU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "SEYDAGİL MAH (GÜLKORU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "TATLICA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "1 MAH (BAHÇE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "2 MAH (BAHÇE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "AKALAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ALİKALKAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "ARSLANKAYA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "AŞAĞIKICIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "DİRİMPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "DOĞANTAŞ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "GÖLAĞILI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "HANCAĞIZ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "HASANPAŞA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "KOÇALİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "LALADAĞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "NURETTİN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "TAŞLIÇEŞME MAH (NURETTİN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MALAZGİRT",
+    "Mahalle": "YUKARIKICIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLAR MAH (KARAAĞAÇLI BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUBUKLU MAH (KARAAĞAÇLI BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH (KARAAĞAÇLI BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (KIRKÖY BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZ MAH (KIRKÖY BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH (KIRKÖY BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (KIRKÖY BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FETULLAHAĞA MAH (KIZILAĞAÇ BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH (KIZILAĞAÇ BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYURT MAH (KIZILAĞAÇ BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖRPEAĞAÇ MAH (KONUKBEKLER BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİNARE MAH (KONUKBEKLER BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSB MAH (KONUKBEKLER BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞİRİNEVLER MAH (KONUKBEKLER BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEROLUK MAH (KONUKBEKLER BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİNARE MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MURATPAŞA MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUNAY MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLCE MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "15 TEMMUZ MİLLİ İRADE MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞAÇLIK MAH (AĞAÇLIK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞARTI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞILLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞIZTADI MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKKONAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAGÜN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALANİÇİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİCAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİGEDİK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTIKARDEŞ MAH (İNARDI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AMBARMEVKİİ MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARIKÖY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARPAYAZI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ASKAR MAH (KÖŞK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI HALAT MAH (ULUKAYA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI PERZİNG MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞISIZMA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞISOĞUKSU MAH (BEŞPARMAK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIYONGALI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDOĞAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDOĞDU MAH (ULUKAYA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYRANCI MAH (KARABEY KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYRANLI MAH (ALİCAN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞRAÇ MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHAR MAH (SARIDAL KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇEKÖY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALCILAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALÖZÜ MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞAK MAH (SULUCA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BERBERMEVKİİ MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞPARMAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİLEK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOSTANKENT MAH (BOSTANKENT KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOYUNCUK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZBULUT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUĞDAYLI MAH (KAYALISU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKLER MAH (KAYALISU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAFER MAH (BOZBULUT KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKMAK MAH (KARABEY KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATBAŞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇETİNLER MAH (BAHÇEKÖY KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEVİRME MAH (ARPAYAZI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖĞÜRLÜ MAH (ÇÖĞÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKURBAĞ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAHAL MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DANACIK MAH (İNARDI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DARBOĞAZ MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMLER MAH (KARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEPOMEVKİİ MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (GÜDÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERECİK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREİÇİ MAH (BALCILAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREKARABEY MAH (KARABEY KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREYURT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİLİMLİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DONATIM MAH (DONATIM KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DUMLUSU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DURSUNLU MAH (AĞARTI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DURUGÖZE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZKARABEY MAH (KARABEY KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EĞİRMEÇ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKİNCİ MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKİNDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELÇİLER KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMEKMEZRAASI MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERALANI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERENCİK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERKAN MAH (TAŞOLUK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EŞME MAH (GÖLKÖY KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FINDIKLI MAH (ALİGEDİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇELİ MAH (EKİNDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLKÖY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞALİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNDOĞAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜRGÜRE MAH (ERALANI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVENDİK MAH (İNARDI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZELTEPE MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI ŞÜKRÜ MAH (KIYIBAŞI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİTBEY MAH (AĞARTI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HARIPŞANMEZRASI MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HARMAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASALAN MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAŞİKMEZRASI MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HİŞAN MAH (KARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOZAN MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ILICA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "INCESU MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "IŞIKLI MAH (ERENCİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNARDI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALECİK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAMIŞ MAH (KARABEY KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAMIŞLI MAH (AĞARTI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAAĞAÇ MAH (MESCİTLİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARABEY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKÖPRÜ MAH (KARAKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKUYU MAH (KARAKUYU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMEŞE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARDEŞLER MAH (İNARDI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARLIDERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARNI MAH (AĞAÇLIK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYALISU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYAŞIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEÇİDERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEPENEK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRIK MAH (İNARDI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIYIBAŞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIYIK MAH (KIYIK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİLAROZ MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİLİSMEVKİİ MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAK MAH (İNARDI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖŞK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMLUCA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURTULUŞ MAH (ERALANI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURTULUŞMEZRAA MAH (GÜDÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUTKAN MAH (KARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUTLUGÜN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERCİMEKKALE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERGANMEZRASI MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERGİ MAH (KARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZMAH MAH (GÜDÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MESCİTLİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEŞECİK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUDEVİRMEZRASI MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MURATGÖREN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NADASLIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAKENT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OYMATAŞ MAH (KEÇİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRENCİK MAH (KEÇİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRTÜLÜ MAH (KAYALISU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZDEMİR MAH (SAVAŞÇILAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZDİLEK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZGÜREVLER MAH (KIYIK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PERŞEMBE MAH (AĞARTI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RECELANMEZRAASI MAH (CEVİZLİDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAĞLIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIDAL KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAVAŞÇILAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SELİM MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUCAK MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKPINAR MAH (BALCILAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKSU MAH (BEŞPARMAK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÖNMEZLER MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SPİKANMEZRASI MAH (KARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUBOYU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUDURAĞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SULUCA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUVARAN MAH (SUVARAN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜRÜGÜDEN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜTLÜCE MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞENOBA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TABANLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TANDOĞAN MAH (TANDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞOLUK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEKYOL KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TETE MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPRAKKALE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOSUNLU MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜTEN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜTÜNLÜ MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULUKAYA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇDERE MAH (ÜÇDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇEVLER KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇSIRT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VARLIK MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAMAÇ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAMAÇLI MAH (GÜMÜŞALİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YARPUZLU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZLA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YELALAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİL MAH (AĞARTI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILDIZLI MAH (ARIKÖY KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILMAZLI MAH (KAYALISU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YONCALIÖZ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YÖRECİK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI HALAT MAH (ULUKAYA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIMEZRAA MAH (GÜDÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARISIZMA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARISOĞUKSU MAH (BEŞPARMAK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIYONGALI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YÜCETEPE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZİYARET KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDINGÜN MAH (SERİNOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAKIRCILAR MAH (SERİNOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAĞDAŞ MAH (SERİNOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH (SERİNOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (SERİNOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (SUNGU BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH (SUNGU BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH (SUNGU BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT NAİM ÇİFTÇİ MAH (SUNGU BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT YÜCEL KURTOĞLU MAH (SUNGU BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (YAYGIN BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAGARASI MAH (YAYGIN BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARDESLER MAH (YAYGIN BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARSIYAKA MAH (YAYGIN BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YAYGIN BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (YAYGIN BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (YEŞİLOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH (YEŞİLOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (YEŞİLOVA BELDESİ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ABBAS MAH (KARTALDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ALABALIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ALİ MAH (KÖPRÜCÜK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ARMUTKAŞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BEŞİKKAYA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BEŞİKKAYA YAYLASI MAH (BEŞİKKAYA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇAĞLAYAN MAH (KARTALDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇAĞLEK MAH (KÜÇÜKTEPE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇALIDERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇALLICA MAH (TAŞLIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇAYLAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇİÇEKLİ MAH (GÜZELDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇUKURLU MAH (KARTALDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DAĞCILAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DOĞANCA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DOĞANCA MAH (GÜZELDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ERENLER MAH (ÇALIDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ERYURDU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "GÖLYAYLA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "GÜZELKENT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "İÇMELER KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KARTALDERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KELE MAH (DAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KÖPRÜCÜK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KUŞBURNU MAH (TAŞLIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KÜÇÜKTEPE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ONPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÖZKONAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "PINARLI MAH (DAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TAŞLIYAYLA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TEKNEDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TESCİLSİZ AŞAĞI MEZRA MAH (DAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TESCİLSİZ KILIÇ MAH (ERYURDU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TESCİLSİZ MİDİ MAH (TEKNEDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TESCİLSİZ OZANKENT MAH (TUZLU KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TUZLU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÜÇBULAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "VELİ MAH (KÖPRÜCÜK KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YEŞİLDAL KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YEŞİLTEPE MAH (BEŞİKKAYA KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ACARKENT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ADA MEVKİİ MAH (ZORABAT KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "AĞAÇALTI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "AĞAÇKORUR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "AKBALLAR MAH (KAYGINTAŞ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "AKÇATEPE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ANLIAÇIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "AŞAĞI ALAGÖZ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "AŞAĞI HACIBEY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "AŞAĞI KALECİK MAH (HAKSEVER KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BAĞİÇİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BALTAŞ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BAŞKENT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BAYRAM MAH (OCAKLI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BENZER MAH (BAŞKENT KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BOYALI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BOYLU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BUZLUGÖZE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇALTILI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇAVUŞLU MAH (YEŞİLPINAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇAYÇATI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇAYIRLI MAH (ÜNALDI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇAYIRYOLU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇAYÖNÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇELEBİ MAH (OCAKLI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇOBANDAĞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÇUKURLU MAH (KAYALIDERE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DAĞMAHALE MAH (DALLIÖZ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DALLIÖZ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DEĞERLİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DERİNCE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DİKTEPELER KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DÖNERTAŞ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DURUCABULAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "DUTÖZÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ERDOĞAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ESENLER KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "GELİNTAŞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "GÖLTEPE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "GÖRGÜ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "GÜLLÜCE MAH (ÇAYÇATI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "HACI ARİF MAH (YUKARI HACIBEY KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "HAKSEVER KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "HÜSEYİNOĞLU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "İLBEY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KALECİK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KARAÇ MAH (SEKİ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KARAKÖY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KARAMEŞE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KARAPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KARATAŞ MAH (OCAKLI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KAYADELEN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KAYALIDERE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KAYALIK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KAYALIKALE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KAYGINTAŞ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KAYNARCA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KOÇYATAĞI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KOLAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KONAKLI MAH (YEŞİLPINAR KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KUMLUKIYI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KUŞLUK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "LEYLEK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "OCAKLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "OĞLAKÇI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "OMCALI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ONBAŞI MAH (YURTTUTAN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÖLÇEKLİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÖZENÇ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "SAĞLICAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "SANLICA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "SAZLICA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "SEKİ KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TAŞÇI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TAŞDİBEK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TEPE KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TESCİLSİZ BİNGÖL MAH (DALLIÖZ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TESCİLSİZ DOĞDAP MAH (TEPE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TESCİLSİZ YILDIZLAR MAH (BUZLUGÖZE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TESCİLSİZ ZİYARET MAH (BUZLUGÖZE KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "TOKLU MAH (YURTTUTAN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ULUSIRT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ÜNALDI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YAMAÇ MAH (AĞAÇALTI KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YARLISU KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YAYIKLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YAYLA KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YEDİKAVAK KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YEKMAL MAH (GÖRGÜ KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YEŞİLPINAR KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YILANLI KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YUKARI HACIBEY KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YUKARI KALECİK MAH (HAKSEVER KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YURTTUTAN KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YUVALI MAH (ERDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ZORABAT KÖYÜ"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "ALAGÖZ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "GÜMGÜM MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "MUŞ",
+    "ilçe": "VARTO",
+    "Mahalle": "YENİ MAH"
+  }
+]

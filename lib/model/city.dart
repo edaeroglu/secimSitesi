@@ -6,8 +6,8 @@ String cityToJson(List<City> data) => json.encode(List<dynamic>.from(data.map((x
 
 class City {
   City({
-    this.id,
-    this.name,
+    required this.id,
+    required this.name,
   });
 
   String id;

@@ -1,0 +1,4587 @@
+[
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "AKŞAHAP MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "ALAÇEŞME MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "AŞAĞIAŞIKLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "BELENALAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "BOĞAZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "BUCAKALAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "BUCAKKIŞLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "BÜYÜKALAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "CECELER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "CEMERLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "CENDEVE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "ÇALTILIÇUKUR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "ÇANAKPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "ÇINARDİBİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "ÇİMİKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "ÇUKURKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "DEĞİRMENLİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "DEMİRCİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "DİKMEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "DUTLUCA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "EMİRAŞIKLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "ERENYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "FAKILAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "GERİŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "GÜÇLÜKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "GÜMÜŞDAMLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "GÜNEYKAYA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "GÜNYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "GÜZELSU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "HACI İLYAS MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "HOCAKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "HÜSAMETTİNKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "KARAKIŞLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "KEPEZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "KEPEZBELENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "KUYUCAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "MAHMUTLU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "MENTEŞBEY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "MİNARELİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "SADIKLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "SALİHLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "SARIHACILAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "SARIHALİLLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "SİNANHOCA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "SUSUZŞAHAP MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "TAŞLICA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "YARPUZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSEKİ",
+    "Mahalle": "CEVİZLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "ALAYLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "ALTINTAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "BOZTEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "CİHADİYE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "ÇALKAYA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "ÇAMKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "DUMANLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "FETTAHLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "GÖKDERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "GÜLOLUK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "HACIALİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "KARAÇALLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "KARAÖZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "KEMERAĞZI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "KUMKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "KUNDU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "KURŞUNLU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "MACUN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "MANDIRLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "MURTUNA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "PINARLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "SOĞUCAKSU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "SOLAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "TOPALLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "YENİDUMANLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "YEŞİLKARAMAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "AKSU",
+    "Mahalle": "YURTPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "AKÇATI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "AKDAM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ALACAMİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ALARA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ASMACA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BADEMAĞACI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BASIRLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BAYIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BAYIRKOZAĞACI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BEKTAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BELDİBİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BIÇAKÇI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BUCAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BURÇAKLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BÜYÜKHASBAHÇE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "CİKCİLLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ÇAKALLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ÇIPLAKLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "DİNEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ELİKESİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "EMİŞBELENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "FAKIRCALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "FIĞLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "GÖZÜBÜYÜK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "GÜLLER PINARI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "GÜMÜŞGÖZE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "GÜMÜŞKAVAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "GÜZELBAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "HACET MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "HACIKERİMLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "HACIMEHMETLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "HİSARİÇİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KADIPAŞA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KARAKOCALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KARAMANLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KIZILCAŞEHİR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KIZLAR PINARI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KÜÇÜKHASBAHÇE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "MAHMUTSEYDİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "OBA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "OBAALACAMİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ORHAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ÖTEKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "PAŞAKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "SABURLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "SAPADERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "SUGÖZÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "SÜLEYMANLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ŞEKERHANE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ŞIHLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "TAŞBAŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "TIRILAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "TOPHANE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "TOSLAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "TOSMUR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "TÜRKTAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "UZUNÖZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ÜZÜMLÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "YALÇI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "YASİRALİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "YAYLAKONAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "AVSALLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "İNCEKUM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KONAKLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "OKURCALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "PAYALLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "TÜRKLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "DEMİRTAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KESTEL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ALİEFENDİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BEYRELİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "BÜYÜKPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "GÖZÜKÜÇÜKLÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "HOCALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "İMAMLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "İSBATLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "İSHAKLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KARGICAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KEŞEFLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KOCAOĞLANLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "KUZYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "MAHMUTLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "ÖZVADİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "SEKİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "UĞRAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "YAYLALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ALANYA",
+    "Mahalle": "YEŞİLÖZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "BELÖREN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "ÇAĞMAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "ÇEVRELİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "DAVAZLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "GÜRSES MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "KALEÜÇAĞIZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "KAPAKLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "YAVU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "ALAKENT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "BÜYÜKKUM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "GÖKYAZI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "KARABUCAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "KÜÇÜKKUM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "YAYLAKAYA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "BEYMELEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "KAYAALTI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DEMRE",
+    "Mahalle": "KÖŞKERLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "AHIRTAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "AKKOÇ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "ALTINKALE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "AOSB1KISIM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "AOSB2KISIM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "AOSB3KISIM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "AŞAĞIOBA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "AYANLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "BADEMAĞACI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "BAHÇEYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "BIYIKLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "CAMİLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "ÇIĞLIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "ÇIPLAKLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "DAĞBELİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "DERELİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "DÜZLERÇAMI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "EKŞİLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "ILICAKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "KARAMAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "KARAVELİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "KEVŞİRLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "KİLLİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "KOVANLIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "KÖMÜRCÜLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "NEBİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "TOMALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "YAĞCA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "YALINLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "DÖŞEMEALTI",
+    "Mahalle": "YEŞİLBAYIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "AKÇAY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "AFŞAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "AHATLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "AKÇAENİŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "BAYRALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "BEYLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "BOZHÜYÜK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "BÜYÜKSÖĞLE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "CAMİATİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "CAMİCEDİT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "ÇOBANİSA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "ÇUKURELMA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "DÜDEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "ESKİHİSAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "EYMİR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "GEÇİT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "GEÇMEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "GÖKPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "GÖLOVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "GÖLTARLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "GÜMÜŞYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "GÜNDOĞAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "HACIMUSALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "HACIYUSUFLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "İLYAĞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "İMİRCİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "İPLİK PAZARI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "İSLAMLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "KAPMESCİT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "KARAMIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "KARYAĞDI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "KOCAPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "KUZKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "KÜÇÜKSÖĞLE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "MACUN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "MURSAL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "ÖZDEMİR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "PİRHASANLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "SALUR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "SARILAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "TAHTAMESCİT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "TAVULLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "TOKLULAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "YAKAÇİFTLİKKÖYÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "YALNIZDAM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "YAPRAKLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "YILMAZLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "YÖRENLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "YUVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "ELMALI",
+    "Mahalle": "ZÜMRÜTOVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "AKÇAALAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "ALACADAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "ARİF MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "ASARÖNÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "BOLDAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "ÇAMLIBEL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "DAĞBAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "ERNEZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "ESKİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "GÖKBÜK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "GÖKÇEYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "HASYURT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "İSKELE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "KUM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "SAHİLKENT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "SAKLISU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "TURUNÇOVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "YALNIZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "YAZIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "FİNİKE",
+    "Mahalle": "YUVALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "AKOLUK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "AYDIN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "AYDINCIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "BAKILAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "BEYOBASI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "BEYREBUCAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ÇAKMAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ÇALIPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ÇIĞLIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ÇİLE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ÇİMENBAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ÇOBANLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ÇÖRÜŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "DOĞANCA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "EKMEL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ESENPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "GÖÇÜK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "GÖKÇEBELEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "GÖKÇESARAY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "GÜNEYKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "GÜRÇAM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "HASDERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "İNAL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "İNCEĞİZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "KAHYALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "KARAÇUKUR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "KARATEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "KIRAHMETLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "KIZILGÜNEY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "KORU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "KORUBAŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "KÜÇÜKLÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "MACAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "MUZKENT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ÖZNURTEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "PAZARCI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "SARIAĞAÇ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "SUGÖZÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ŞAHİNLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ÜÇKONAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "YAKACIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "YENİGÜNEY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GAZİPAŞA",
+    "Mahalle": "ZEYTİNADA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "AKYAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "BALKAYA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "BEDAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "ÇALTI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "ÇAMLIALAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "ÇAYIRÖZÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "ÇİÇEKOLUK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "ESKİBAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "GÜNEYCİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "GÜNEYYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "KALECİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "KARABUL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "KARADERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "KARAİSA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "KAYABÜKÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "KOZAĞACI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "KÖPRÜLÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "NARAĞACI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "ORTAKONUŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "ÖZÜGÜR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "PEMBELİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "RASİH KAPLAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "SENİR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "SERİNYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "UMUTLU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "GÜNDOĞMUŞ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "İBRADI",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "İBRADI",
+    "Mahalle": "AYDINYAYLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "İBRADI",
+    "Mahalle": "BAŞLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "İBRADI",
+    "Mahalle": "ÇUKURVİRAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "İBRADI",
+    "Mahalle": "DÜZLEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "İBRADI",
+    "Mahalle": "ORMANA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "İBRADI",
+    "Mahalle": "ÜRÜNLÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "İBRADI",
+    "Mahalle": "ÜZÜMDERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "İBRADI",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "BELDİBİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "CEMRE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ÇAMLIKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ÇAMLIOVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "SÜTLEĞEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "YAYLAKILINÇLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "YAYLAPALAMUT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "YEŞİLBARAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "YUVACIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "GÖMBE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "AKLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "BEZİRGAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ÇAVDIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ÇAYKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "GELEMİŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "HACIOĞLAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "İKİZCE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "İSLAMLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "KALKAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "PALAMUT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "SARIBELEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ÜZÜMLÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "AĞULLU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "AHATLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "AKÖRÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ANDİFLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "BELENLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "BELKONAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "BOĞAZCIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ÇATALOLUK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ÇERLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ÇEŞME MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ÇUKURBAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "DİRGENLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "DOĞANTAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "GÖKÇEÖREN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "GÖKÇEYAZI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "GÜRSU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "KARADAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "KASABA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "KEMER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "KIZILAĞAÇ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "ORTABAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "SAHİLKILINÇLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "SARILAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "SİNNELİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "UĞRAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "KINIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "OVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KAŞ",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "BELDİBİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "BEYCİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "ULUPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "ÇAMYUVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "GÖYNÜK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "ARSLANBUCAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "KİRİŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "KUZDERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEMER",
+    "Mahalle": "TEKİROVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "AHATLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "FABRİKALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "KEPEZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "SANTRAL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "YENİ DOĞAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ALTINOVA DÜDEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ALTINOVA ORTA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ALTINOVA SİNAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ÖZGÜRLÜK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ULUS MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "YÜKSELİŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "AVNİ TOLUNAY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "DURALİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "GÜLVEREN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ŞAFAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ÜNSAL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "BEŞKONAKLILAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "DÜDENBAŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "GÜNEŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "TEOMANPAŞA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ÇAMLIBEL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ÇANKAYA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ERENKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "GÖÇERLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "KANAL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "KÜTÜKÇÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "BARAJ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "HABİBLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "HÜSNÜ KARAKAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "SÜTÇÜLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "AKTOPRAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ALTIAYAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "AYANOĞLU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "AYDOĞMUŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "DEMİREL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ŞELALE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "VARSAK ESENTEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "VARSAK KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "VARSAK MENDERES MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ZEYTİNLİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "DUACI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "KIZILLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "KİRİŞÇİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "KUZEYYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "ODABAŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "YENİ EMEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KEPEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "AKDAMLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "AKKUYU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "ALTINKUM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "ARAPSUYU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "AŞAĞIKARAMAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "ÇAĞLARCA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "ÇİTDİBİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "DOYRAN ÇAMLIBEL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "DOYRAN DAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "DOYRAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "GEYİKBAYIRI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "GÖKÇAM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "GÜRSU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "HACISEKİLİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "HİSARÇANDIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "KARATEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "KIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "KUŞKAVAĞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "MOLLA YUSUF MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "ÖĞRETMENEVLERİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "SİTELER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "TOROS MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "ULUÇ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "UNCALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "ÜÇOLUK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "YARBAŞÇANDIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "AYDINLIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "BAHTILI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "ÇAKIRLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "DEMİRCİLİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "GÖKDERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "HURMA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "KURUÇAY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "LİMAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "LİMAN SB MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "SARISU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "SUİÇECEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KONYAALTI",
+    "Mahalle": "ZÜMRÜT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "AKYAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "ALAADDİN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "AŞAĞIPAZAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "AVDAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "BAHÇEYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "BAYAT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "BAYATBADEMLERİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "BEĞİŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "BOZOVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "BÜYÜKKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "ÇAYKENARI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "ÇIVGALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "ÇOMAKLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "ÇUKURCA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "DURALİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "ESENYURT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "GARİPCE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "GÖÇERLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "GÜMÜŞLÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "GÜZLE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "İMECİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "İMRAHOR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KARABAYIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KARAKUYU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KARGALIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KARGIN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KAYABAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KEMERAĞZI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KIRKPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KIZILALİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KIZILCADAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KİREMİTLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KOZAĞACI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KÖSELER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KÜÇÜKKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "KÜÇÜKLÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "LEYLEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "MAMATLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "MANAY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "NEBİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "OSMANKALFALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "SIMANDIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "SÖĞÜTCÜK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "SÜLEKLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "TAŞKESİĞİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "TATKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "UZUNOLUK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "YAKAKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "YAZIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "YELEME MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "YELTEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "YEŞİLOBA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "YEŞİLYAYLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KORKUTELİ",
+    "Mahalle": "YUKARIKARAMAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "ADRASAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "ALTINYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "BAĞLIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "BELEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "BEŞİKÇİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "BEYKONAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "BÜYÜKALAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "ÇALTI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "ÇAYİÇİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "ELLİNCİ YIL MAHALLESİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "ERENTEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "ESKİCAMİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "GÖLCÜK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "GÜZÖREN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "HACIVELİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "HIZIRKAHYA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "İNCİRCİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "KARACAAĞAÇ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "KASAPÇAYIRI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "KAVAKKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "KUM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "KUZCA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "NARENCİYE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "SALUR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "SARICASU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "SARIKAVAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "TEMEL EĞİTİM MAHALLESİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "TOPTAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "YAZIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "YENİKIŞLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "KUMLUCA",
+    "Mahalle": "MAVİKENT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÇOLAKLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "EVRENSEKİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "A. HİSAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "A. PAZARCI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "AHMETLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "AKSAZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "AŞAĞIIŞIKLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "AYDINEVLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "BELENOBASI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "BOZTEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "BUCAKŞEYHLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "CEVİZLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÇAVUŞKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÇAYYAZI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÇELTİKÇİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÇENGER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "DEMİRCİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "DİKMEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "DOĞANÇAM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "DOLBAZLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ESKİ HİSAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "EVRENLERYAVŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "GEBECE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "GENÇLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "GÜZELYALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "HACIALİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "HACIİSALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "HACIOBASI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "HALİTAĞALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "HATİPLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "HOCALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KADILAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KALEMLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KARACALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KARAÖZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KARAVCA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KASAPLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KIZILAĞAÇ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KIZILOT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "MİLLİ EGEMENLİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "NAMARAS MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ODAÖNÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "OYMAPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÖRENŞEHİR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÖRNEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SALKIM EVLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SALUR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SARAÇLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SARILAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SEVİNÇKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SEYDİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SIRTKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SORGUN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SÜLEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ŞELALE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ŞİŞELER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "TAŞKESİĞİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "TİLKİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ULUKAPI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "UZUNKALE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "UZUNLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "Y.HİSAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "Y.PAZARCI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "YALÇIDİBİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "YAVRUDOĞAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "YAYLAALAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "YUKARIIŞIKLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SİDE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ALTINKAYA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "BALLIBUCAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "BEREKET MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "BEŞKONAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "BEYDİĞİN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "BURMAHAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "BÜKLÜCE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÇAKIŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÇALTEPE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "ÇARDAKKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "DEĞİRMENÖZÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "DENİZKENT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "DENİZYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "DÜZAĞAÇ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "HOCALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KARABUCAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KARABÜK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KIRKKAVAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KISALAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "KIZILDAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "PERAKENDE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "SAĞIRİN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "TAŞAĞIL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MANAVGAT",
+    "Mahalle": "YEŞİLBAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "ALTINDAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "DENİZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "MEMUREVLERİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "VARLIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "YILDIZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "BALBEY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "KIZILSARAY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "TAHILPAZARI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "ÜÇGEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "DUTLUBAHÇE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "ETİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "KONUKSEVER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "MURATPAŞA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "SEDİR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "FENER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "ŞİRİNYALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "YEŞİLBAHÇE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "DEMİRCİKARA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "GENÇLİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "HAŞİMİŞCAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "KILINÇARSLAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "SELÇUK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "SİNAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "TUZCULAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "ZERDALİLİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "DOĞUYAKA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "GEBİZLİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "KIZILARIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "KIZILTOPRAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "MEHMETÇİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "TOPÇULAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "YENİGÜN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "YÜKSEKALAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "ERMENEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "GÜZELBAĞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "GÜZELOBA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "YENİGÖL MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "GÜVENLİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "MELTEM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "GÜZELOLUK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "KIRCAMİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "MEYDANKAVAĞI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "TARIM MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "MURATPAŞA",
+    "Mahalle": "ZÜMRÜTOVA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ABDURRAHMANLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "AKBAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "AKÇAALAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "AKÇAPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ALACAMİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "AŞAĞIÇATMA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "AŞAĞIKOCAYATAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "AŞAĞIOBA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "BELEK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "BELKIS MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "BELPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "BERENDİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "BİLGİNLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "BOĞAZKENT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "BOZDOĞAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "BUCAKKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "BURMAHANCI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "BÜĞÜŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "CUMALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ÇAKALLIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ÇANAKÇI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ÇANDIR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ÇATALLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "DEMİRCİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "DENİZTEPESİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "DİKMEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "DORUMLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "EMİNCELER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ESKİYÜRÜK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ETLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "GEBİZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "GEDİK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "GÖKÇEPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "HACIOSMANLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "HASDÜMEN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "HASKIZILÖREN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "HASPINAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KADRİYE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KARADAYI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KARINCALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KAYABURNU MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KIRBAŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KOZAĞACI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KOZAN MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KÖKEZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KUŞLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "KÜRÜŞ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "NEBİLER MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "PINARCIK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "SARIABALI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ŞATIRLI MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "TÖNGÜŞLÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ÜRÜNDÜ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "YANKÖY MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "YEŞİLVADİ MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "YUKARIÇATMA MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "YUKARIKOCAYATAK MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "YUMAKLAR MAH"
+  },
+  {
+    "il": "ANTALYA",
+    "ilçe": "SERİK",
+    "Mahalle": "ZIRLANKAYA MAH"
+  }
+]

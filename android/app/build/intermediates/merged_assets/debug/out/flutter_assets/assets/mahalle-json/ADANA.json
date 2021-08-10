@@ -1,0 +1,4162 @@
+[
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "BAŞPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "MANSURLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "SİNANPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "AKÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "BOZTAHTA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "BÜYÜKSOFULU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "CERİTLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "DAİLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "DARILIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "DÖLEKLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "EBRİŞİM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "EĞNER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "GERDİBİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "GİREĞİYENİKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "GÖKÇEKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "KABASAKAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "KARAHAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "KICAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "KIŞLAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "KIZILDAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "KÖKEZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "KÖPRÜCÜK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "KÜP MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "MADENLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "MAZILIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "POSYAĞBASAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "TOPALLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "UZUNKUYU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "YETİMLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ALADAĞ",
+    "Mahalle": "YÜKSEKÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ADAPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ADATEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "AĞAÇLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "AĞAÇPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "AKDAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ALTIGÖZBEKİRLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ALTIKARA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "AZİZLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "BAŞÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "BİRKENT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "BURHANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "BÜYÜKBURHANİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "BÜYÜKMANGIT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "CAMUZAĞILI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "CEYHANBEKİRLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ÇAKALDERE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ÇATAKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ÇATALHÜYÜK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ÇEVRETEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ÇİFTLİKLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ÇOKÇAPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "DAĞISTAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "DEĞİRMENLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "DİKİLİTAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "DOKUZTEKNE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "DORUK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "DURHASANDEDE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "DUTLUPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "EKİNYAZI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ELMAGÖLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "GÜMÜRDÜLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "GÜNDOĞAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "GÜNLÜCE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "HAMDİLLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "HAMİTBEY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "HAMİTBEYBUCAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "IRMAKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ISIRGANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "İMRAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "İNCEYER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "İSALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KARAKAYALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KILIÇKAYA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KIVRIKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KIZILDERE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KÖPRÜLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KÖRKUYU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KÖSRELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KURTKULAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KURTPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KUZUCAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KÜÇÜKBURHANİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KÜÇÜKMANGIT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "MERCİMEK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "MERCİN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "NARLIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "NAZIMBEY YENİKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "SAĞIRLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "SAĞKAYA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "SARIBAHÇE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "SARIMAZI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "SARIMAZI SB MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "SİRKELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "SOYSALLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "TATARLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "TATLIKUYU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "TOKTAMIŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "TUMLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ÜÇDUTYEŞİLOVA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "VEYSİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "YALAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "YELLİBEL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "YEŞİLBAHÇE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "YEŞİLDAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "YILANKALE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ALTIOCAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "AYDEMİROĞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "BELEDİYE EVLERİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "BOTA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "BURHANİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "BÜYÜKKIRIM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "CİVANTAYAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "FATİH SULTAN MEHMET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KELEMETİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KONAKOĞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KORUKLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "KÜÇÜKKIRIM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "MİTHAT PAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "MODERNEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "MURADİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "SARISAKAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ŞAHİN ÖZBİLEN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ŞEHİT HACI İBRAHİM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ULUS MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "YARSUAT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "ZÜBEYDE HANIM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "CEYHAN",
+    "Mahalle": "MUSTAFABEYLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "BELEDİYE EVLERİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "HUZUREVLERİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "YÜZÜNCÜYIL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "BEYAZEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "BOZCALAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "DÖRTLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "FADIL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "GÖKKUYU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "GÜZELYALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "KABASAKAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "KARAHAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "KARSLILAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "KAŞOBA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "KOCATEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "KURTTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "KÜÇÜKÇINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "MAHFESIĞMAZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "MEMİŞLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "ÖRCÜN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "PİRİLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "ŞAMBAYADI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "TOROS MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "YURT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "ÇUKUROVA",
+    "Mahalle": "SALBAŞ ESENTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "AKKAYA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "AKOLUK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "BAĞDATLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "BAHÇECİK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "ÇANDIRLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "ÇONDU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "ÇÜRÜKLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "DEĞİRMENCİUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "GAFFARUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "GEDİKLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "GÖBELLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "GÜRÜMZE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "GÜZPINARI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "HIDIRUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "İNCİRCİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KALEYÜZÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KAŞALTI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KIRIKUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KISACIKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KIZILYER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KOÇYAZI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KONAKKURAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KOVUKÇINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "MANSURLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "MUSALAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "OLUCAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "ORMANCIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "ORUÇLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "PAŞALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "SÜPHANDERE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "ŞAHMURATLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "TENKERLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "TOKMANAKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "TORTULU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "UĞURLUBAĞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "YAYLAPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "YEREBAKAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "BELENKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "GÖKÇELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "İSLAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KARACAOĞLAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KARACAUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KAZANCI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "KEKLİKÇİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "SÜLEMİŞLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "FEKE",
+    "Mahalle": "YEŞİL DÜŞMÜŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "ADALET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "MENTEŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "TUNA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "AĞZIKARACA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "ALAYBEYİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "ALİLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "AYVALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "CAMİLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "ÇÖRTEN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "DANACILI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "HACIHASANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "KOYUNEVİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "MALIHIDIRLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "OTLUK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "PEKMEZCİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "SAYCA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "SAYGEÇİT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "SEVİNÇLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "SOKUTAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "UFACIKÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "ULUÇINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "ÜÇTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "YAZITEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "İMAMOĞLU",
+    "Mahalle": "YENİEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "AKÇALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "ALTINOVA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "AŞAĞIBELEMEDİK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "AŞAĞIYÖRÜKLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "AYAKKIF MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "BARAKDAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "BAŞKIF MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "BEKİRLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "BEYDEMİR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "BOLACALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "BUCAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "ÇAKALLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "ÇATALAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "ÇECELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "ÇEVLİK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "ÇOCUKLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "ÇORLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "ÇUKUR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "DEMİRÇİT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "DÖŞEKEVİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "DURAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "EĞLENCE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "EMELCİK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "ETEKLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "FETTAHLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "FİLİKLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "GİLDİRLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "GÖKHASANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "GÜLÜŞLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "GÜVENÇ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "HACILI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "HACIMUSALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KALEDAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KAPIKAYA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KARAHASANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KARAKILIÇ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KARAKUYU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KIRALAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KIRIKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KOCAVELİLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KÖRÜKLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KUŞCUSOFULU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KUYUCU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "KUZGUN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "MARAŞLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "MERKEZBOZTAHTA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "MURTÇUKURU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "NERGİZLİK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "NUHLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "ÖMERLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "SADIKALİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "SARIMEHMETLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "SAYPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "SELAMPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "TATIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "TOPAKTAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "TOPKARALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "TORUNSOLAKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "TÜMENLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARAİSALI",
+    "Mahalle": "YAZIBAŞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "ADALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "BEBELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "ÇAĞŞIRLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "ÇAKIRÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "ÇAVUŞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "ÇİMELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "ÇUKURKAMIŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "DAMLAPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "DEVELİÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "DOLAPLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "GÖLKAYA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "HACIHASAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "HASIRAĞACI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "HELVACI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "İNNEPLİHÜYÜĞÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "İSAHACILI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "KAPI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "KARAGÖÇER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "KEMALİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "KESİK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "KIRHASAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "KIZILTAHTA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "KİREMİTLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "MELETMEZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "OYMAKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "SARIMSAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "SİRKENLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "TABAKLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "TABUR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "TERLİKSİZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "TOPRAKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "TUZKUYUSU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "YASSIVEREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "YEMİŞLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "YENİMURAT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KARATAŞ",
+    "Mahalle": "YÜZBAŞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "HACIBEYLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ACARMANTAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "AKARCA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "AKÇALIUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "AKDAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "AKKAYA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ALAPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ANDIL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ARSLANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "AYDIN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "AYŞEHOCA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "BAĞÖZÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "BAĞTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "BOZTAHTA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "BUCAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "BULDUKLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÇAMDERE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÇAMLARCA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÇANDIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÇELENUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÇOBANPINARI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÇOKAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÇUKURÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÇULLUUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÇÜRÜKLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "DAMYERİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "DİKİLİTAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "DİLEKKAYA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "DOĞANALANI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "DURALUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "DURMUŞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "DÜZAĞAÇ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ENİZÇAKIRI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ERGENUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ESKİKABASAKAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ESKİMANTAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "FAYDALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "FERHATLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "GEDİKLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "GÖKÇEYOL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "GÖKGÖZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "GÖRBEYAZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "GÜNERİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "HACIMİRZALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "HAMAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "IŞIKKAYA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "IŞIKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "İDEMKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KABAKTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KAHVELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KALKUMAÇ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KAPIKAYA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KARABUCAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KARAHAMZALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KARANEBİLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KEMERKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KIBRISLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KIZILLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KIZLARSEKİSİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KÖSELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KUYTUCAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KUYUBELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KUYULUK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "MAHYALAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "MARANKEÇİLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "MİNNETLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ORÇAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ORUÇLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÖRENDERE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÖZBAŞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "PEKMEZCİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "POSTKABASAKAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "SALMANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ŞERİFLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "TEPECİKÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "TUFANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "TURGUTLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "TURUNÇLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "VELİCANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "YANALERİK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "YASSIÇALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "YUKARIKEÇİLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "YÜKSEKÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ZERDALİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "AĞLIBOĞAZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ARSLANPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ÇANAKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "HACIUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "KARACAOĞLAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "MAHMUTLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "ŞEVKİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "TAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "TAVŞANTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "TUFANPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "TÜRKELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "VARSAKLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "KOZAN",
+    "Mahalle": "YARIMOĞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "AKÇATEKİR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "ALPU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "AŞÇIBEKİRLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "BELEMEDİK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "ÇAMLIBEL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "DAĞDİBİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "ESKİKONACIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "FINDIKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "GÖKBEZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "KAMIŞLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "KARAKIŞLAKÇI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "ÖMERLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "YAĞLITAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "YAZICAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "YENİKONACIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "YUKARIBELEMEDİK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "POZANTI",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "AKSAAĞAÇ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "AVCIPINARI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "AYVACIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "BEYPINARI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "CIVIKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "CUMHURLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "ÇERALAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "ÇORAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "DEĞİRMENCİUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "EYÜPLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "GÖKMENLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "GÜRLEŞEN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "HALİLBEYLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "HİMMETLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "İSLAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "KANDİLLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "KAPAKLIKUYU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "KARAKUYU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "KIZILAĞAÇ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "MAHMUTLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "NALTAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "TOPALLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "TÜLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "YARDİBİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SAİMBEYLİ",
+    "Mahalle": "YEŞİLBAĞLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ACIDEREOSB MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "BEYCELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "BURUK CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "SOFUDEDE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ACIDERE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "AFLAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "AKKUYU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "AVCILAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "AYDINYURDU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "AYVALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "BAYRAM HACILI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "BOYNUYOĞUN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "BOZTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "BÜYÜK BAKLALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "CERENLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "CİHADİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ÇARKIPARE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ÇAYLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ÇINARLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ÇİRİŞGEDİĞİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "DAĞCI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "DUTLUCA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "EĞECİUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ERTUĞRULGAZİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "GÖKBUKET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "GÖZTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "HAKKIBEYLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "HASANBEYLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "HOCALLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KARAÖMERLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KARAYUSUFLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KARGAKEKEÇ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KARLIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KAŞOBASI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KEPEZTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KILBAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KILIÇLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KIZILKAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KÖSEFAKILI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "KÜÇÜKBAKLALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "MALTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "MENEKŞE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "MUSTAFALAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "MÜMİNLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "SARIÇAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "SULUCA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "TURUNÇLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ÜNLÜCE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "YAĞIZLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "YARIMCA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "YENİYAYLA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "YÜREKLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "BALCALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "REMZİ OĞUZ ARIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "ŞAHİNTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "YAVUZ SULTAN SELİM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SARIÇAM",
+    "Mahalle": "YILDIRIM BEYAZIT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "AKKAPI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "DAĞLIOĞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "AHMET REMZİ YÜREĞİR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "DENİZLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "MİTHATPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "OVA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "ŞAKİRPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "UÇAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "FEVZİPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "CEMALPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "REŞATBEY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "GÜLBAHÇESİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "2000 EVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "BAHÇEŞEHİR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "GÜRSELPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "HADIRLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "ALİDEDE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "BEŞOCAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "MESTANZADE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "SARIYAKUP MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "ŞEHİTDURAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "TÜRKOCAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "YENİBEY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "BÜYÜKÇILDIRIM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "BÜYÜKDİKİLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "CAMUZCU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "ÇAPUTÇU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "DERVİŞLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "DÖRTAĞAÇ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "GÖKÇELER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KARAKUYU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KARAYUSUFLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KAYIŞLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KOYUNCU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KÖYLÜOĞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KUYUMCULAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KÜÇÜKÇILDIRIM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "MÜRSELOĞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "SALMANBEYLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "SARIHUĞLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "SERİNEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "YALMANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "YENİDAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "YOLGEÇEN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "ZEYTİNLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "ÇINARLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "DÖŞEME MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "HANEDAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "HURMALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KOCAVEZİR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KURUKÖPRÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KOZA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KÜÇÜKDİKİLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "MEKAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "PINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "TELLİDERE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "GÜLPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "MİRZAÇELEBİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "YEŞİLYUVA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "BEY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "HAVUZLUBAHÇE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "MIDIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "SUCUZADE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "ONUR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "YEŞİLOBA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KARASOKU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "KAYALIBAĞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "TEPEBAĞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "ULUCAMİİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "DEMETEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "NARLICA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "YEŞİLEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "SARIHAMZALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "YENİBARAJ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "GAZİPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "SÜMER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "SEYHAN",
+    "Mahalle": "ZİYAPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "AKÇAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "AYVAT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "BOLATPINARI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "BOZGÜNEY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "ÇATALÇAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "ÇUKURKIŞLA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "DAMLALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "DEMİROLUK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "DOĞANBEYLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "DOĞANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "ELEMANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "EVCİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "FATMAKUYU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "GÜZELİM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "HANYERİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "İĞDEBEL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "KARSAVRAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "KAYAPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "KAYARCIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "KİRAZLIYURT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "KOCCAĞIZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "PEKMEZLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "PINARLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "ŞAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "TAŞPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "TOZLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "YAMANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "TUFANBEYLİ",
+    "Mahalle": "YENİCAMİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "ASMALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "AYVALIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "DEMİRTAŞ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "DEVECİUŞAĞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "GÖLOVASI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "HAMZALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "HAYLAZLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "KALDIRIM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "KALEMLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "KESMEBURUN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "KIRMIZIDAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "KUZUPINARI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "NARLIÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "SUGÖZÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "YUMURTALIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "ZEYTİNBELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "AKDENİZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "AKYUVA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "AYAS MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "DEVRİŞİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YUMURTALIK",
+    "Mahalle": "ÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YAKAPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ABDİOĞLU CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "AĞZIBÜYÜK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "AKARCALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "AKDAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ALİHOCALI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "AYDINCIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "BELÖREN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "BEYKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "BÜYÜKKAPILI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "CAMİLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "CIRIK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "CİNE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ÇAĞIRKANLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ÇATALPINAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ÇELEMLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ÇOTLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "DANIŞMENT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "DEDEPINARI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "DENİZKUYUSU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "DÜZCE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "EĞRİAĞAÇ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ESENLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "GEÇİTLİ CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "GÖKÇELİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "GÜMÜŞYAZI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "GÜVELOĞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "HACIALİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "HAVRANİYE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "HEREKLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "IRMAKBAŞI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KAMIŞLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KARAAHMETLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KAŞLICA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KAYARLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KÖKLÜCE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KÖPRÜGÖZÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KÜTÜKLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ÖZLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "PAŞAKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "PEKMEZLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "SAĞDIÇLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "SAKIZLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "SAZAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ŞAHİNAĞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ŞEYHMURAT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "TAŞÇI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "VAYVAYLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YAHŞİLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YALNIZCA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YERDELEN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YUKARIÇİÇEKLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YUNUSOĞLU CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YUNUSOĞLU HÜRRİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ZAĞARLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "19 MAYIS MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ANADOLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "BAŞAK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "DEDE KORKUT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "GÜZELEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KOZA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "LEVENT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YEŞİL BAĞLAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "DOĞANKENT BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "DOĞANKENT CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "DOĞANKENT KIŞLA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "GAZİPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "HAVUTLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "SOLAKLI CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "SOLAKLI HÜRRİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "GÜZEL CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ATAKENT MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ÇAMLIBEL MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "DERVİŞLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KİREMİTHANE MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "MUTLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ŞEHİT ERKUT AKBAY MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "TAHSİLLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ULUBATLI HASAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "GÜNEŞLİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KÖPRÜLÜ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "DADALOĞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "KARACAOĞLAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "P.T.T MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "SELAHATTİN EYYUBİ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "SERİNEVLER MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ESKİ MİSİS MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "AKDENİZ MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "HAYDAROĞLU MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "SEYHAN MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YAMAÇLI MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "ÖZGÜR MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "SARIÇAM MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "SİNANPAŞA MAH"
+  },
+  {
+    "il": "ADANA",
+    "ilçe": "YÜREĞİR",
+    "Mahalle": "YAVUZLAR MAH"
+  }
+]

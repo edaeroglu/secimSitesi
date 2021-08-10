@@ -1,0 +1,3607 @@
+[
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "AKSARAY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "AKSÜT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "AKTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ALİÇERİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ALTUNLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ANCAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "AŞAĞIÖRÜKÇÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "BAĞKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "BAHRİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "BAŞPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "BAYRAMUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "BEKİRUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "BÖLÜKLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "BÜYÜKÇİMİŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "BÜYÜKKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ÇAKILLIPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ÇATALBAHÇE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ÇEVİRME MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ÇOBANUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "DARICA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "DEDEKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "DEMİRCİLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "DEVELİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "DOĞANLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "DOĞANTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "DOĞU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "DURULOVA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "DUTLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "DÜMÜKLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "EĞİN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ESENBEY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ESENLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "GÖLPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "GÜNEŞLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "GÜRKAYNAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "HANÇERLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "HARTUT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "HARUNUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ILICAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "İKİNCİLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KADIİBRAHİM MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KAHYALI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KARAMAĞARA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KASIMUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KEKLİKPINARI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KELLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KEPEZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KOLKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KOTANGÖLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KOZLUCA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KÖMEKAVAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KURTUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KÜÇÜKKÜRNE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "LEVENT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "MEZRA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "MİHMANLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "MURATLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ÖREN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "RESULUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "SAHİLKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "SAKALIUZUN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "SARIHACI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "ŞEYHLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "TAŞEVLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "TAŞOLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "TATARUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "YAĞMURLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "YALINBUDAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "YALINKAYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "YAYLIMLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "AKÇADAĞ",
+    "Mahalle": "YUKARIÖRÜKÇÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ALIÇLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "AŞAĞIÇÖRENGE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "AŞAĞIULUPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "AŞAĞIYENİCE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "BERENGE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "BOĞAZLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "BOSTANCIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "BUDAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "CÖMERTLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ÇAKIRSU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ÇİĞNİR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ÇİMEN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ÇOBANLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "DEREGEZEN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "DÜZCE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "EĞNİR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ESİKLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ESKİARAPGİR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "GEBELİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "GÖZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "GÖZELİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "GÜNYÜZÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "HEZENEK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "HOCAALİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "KAYAKESEN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "KAYNAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "KAZANÇ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "KILIÇLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "KONDUCAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "KORU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "KÖSEOĞLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "MEHMETAKİF MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "MEŞELİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ONAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ORMANSIRTI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "OSMANPAŞA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "PACALI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "PİRALİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "SEKİZSU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "SELAMLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "SERGE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "SİNİKLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "SİPAHİUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "SUCEYİN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "SUGEÇTİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ŞAĞILUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ŞIHLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "TARHAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "TAŞDELEN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "TAŞDİBEK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ULAÇLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "YAZILI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "YEŞİLYAYLA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "YUKARIÇÖRENGE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "YUKARIULUPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "YUKARIYABANLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "YUKARIYENİCE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARAPGİR",
+    "Mahalle": "ZÖHRAP MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "AKÖREN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ALHASUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ASAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ASMACA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "AŞAĞISÜLMENLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "BAHÇELİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "BOZAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ÇAKMAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ÇAVUŞKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ÇAYIRLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ÇEVRELİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "DOLAYLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "DOYDUM MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ERMİŞLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "EYMİR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "GÖÇERUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "GÖKAĞAÇ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "GÜMÜŞLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "GÜNGÖREN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "GÜRGE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "GÜVEÇLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "HAKVERDİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "İÇMECE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "İSAKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "KARABABA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "KARAHÜYÜK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "KIZIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "KIZILUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "KOÇAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "KONAKBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "KÖMÜRLÜK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "KURUTTAŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "KUYUDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "MORHAMAM MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "NARMİKAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "PARÇİKAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "ŞOTİK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "TARLACIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "TATKINIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "TEPEBAĞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "YAMAÇ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "YONCALI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "YUKARISÜLMENLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "ARGUVAN",
+    "Mahalle": "YÜREKTAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ADAGÖREN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "AĞILYAZI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ALACAKAPI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ALHANUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ALİŞAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ASLANBEY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "B.HÜSEYİNBEY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "BAĞTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "BAHRİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "BATTALGAZİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "BEYLERBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "BORAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "BULGURLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "BULUTLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "CEVHERİZADE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "CİRİKPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ÇAMURLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ÇOLAKLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ÇOLAKOĞLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "DOLAMANTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "DÜZYOL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "FERHADİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "FIRINCI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "GÖLLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "GÖZTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "GÜLÜMUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HACIHALİLOĞLUÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HACIYUSUFLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HASIRCILAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HATUNSUYU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HİSARTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "İZZETİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "K.HÜSEYİNBEY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KADIÇAYIRI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KAMIŞTAŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KAPIKAYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KARABAĞLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KARAGÖZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KARAHAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KARAKAŞÇİFTLİĞİKÖYÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KARATEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KEMERKÖPRÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KULUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "MERDİVENLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "MERKEZ BEYDAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "MEYDANBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "MEYDANCIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "PELİTLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "SERİNTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "SEVİLDAĞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ŞEHİTFEVZİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ŞIKŞIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "TANIŞIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "TOKLUCA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "TOPTAŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "TOYGAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ULUKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ÜÇBAĞLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ÜNİVERSİTE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ÜZÜMLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "YAMAÇ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "YARIMCAHAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "YAYGIN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "BEYDAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ÇÖŞNÜK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "FIRAT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "DABAKHANE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HALFETTİN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "İSMETİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KAVAKLIBAĞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KIRÇUVAL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "NİYAZİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "SANCAKTAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ŞİFA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ŞİŞMAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "YENİHAMAM MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HANIMINÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "SELÇUKLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "TANDOĞAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "YILDIZTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "KERNEK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "BAŞHARIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HASAN VAROL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "PAŞAKÖŞKÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "ORDUZU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "B.MUSTAFA PAŞA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HACI ABDİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "K.MUSTAFA PAŞA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "NURİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "HİDAYET MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "İSKENDER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "SARICIOĞLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "BATTALGAZİ",
+    "Mahalle": "TAŞTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "AĞILBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "AĞILYAZI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "AKBABA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "AKÇATOPRAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "AKOVA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "AŞAĞIULUPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "AYVALI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "BARINDIR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "BAŞKAYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "BAYTARBAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "BEYBAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "ÇAYBAŞI OSB MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "ÇUKURKAYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "GAZİKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "GÖKÇEÖREN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "GÖKYAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "GÖLLÜCE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "GÜDÜL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "GÜNERLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "GÜNPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "HACIDERVİŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "HACILAR SIRAGÖZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "HACILAR ŞEYHLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "HACOLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "HEYİKETEĞİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "HİSARCIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "HİSARKALE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "IRMAKLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "İBRAHİMPAŞA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KALDIRIM MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KARABACAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KARABAYIR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KARAOĞUZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KAVAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KAYNAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KERİMLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KILIÇBAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KÖLÜKLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "KUZPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "MEDİŞEYH MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "MEHMET PAŞA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "MOLLAUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "NADİR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "NURKUYUSU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "OZAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "PALANGA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "SANDIKKAYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "SAYFİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "SUNGUR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "ŞENDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "ŞUĞUL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "UZUNHASAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "ÜÇPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "YARIMCA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "YAVUZLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "YAZIKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "YENİPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "YEŞİLTAŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "YUKARIULUPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DARENDE",
+    "Mahalle": "ZAVİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "ALTINTOP MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "BEĞRE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "BIÇAKÇI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "ÇAVUŞLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "ÇIĞLIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "ÇÖMLEKOBA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "DEDEYAZI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "DOĞU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "ERKENEK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "ESKİKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "FINDIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "GÖVDELİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "GÜNEDOĞRU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "GÜROBASI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "GÜZELKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "HUDUT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "KADILI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "KAPIDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "KARANLIKDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "KARATERZİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "KELHALİL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "KURUCAOVA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "KÜÇÜKLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "POLAT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "POLATDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "REŞADİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "SAVAKLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "SÖĞÜT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "SUÇATI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "SÜRGÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "ŞATIROBA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "TOPRAKTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "YOLKORU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANŞEHİR",
+    "Mahalle": "YUVALI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "AKKENT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "BEHRAMLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "BURÇKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "ÇOLAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "DAMLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "GEVHERUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "GÖKÇE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "GÜMÜŞSU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "İSAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "KOLDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "KONURTAY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "MEZRAA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "POYRAZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "ULUTAŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "YALINCA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "DOĞANYOL",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "AKMAĞARA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "AKSÜTLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "AŞAĞISAZLICA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "BAĞYOLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "BAHÇEDAMI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "BALLIKAYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "BASAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "BAŞKAVAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "BAŞKINIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "BEYKENT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "BOĞAZGÖREN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "BUDAKLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "ÇANAKPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "ÇİMENLİK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "ÇULHALI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "DAVULGU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "DELİHASANYURDU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "DEVECİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "DİKENLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "DİKİLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "DUMLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "DURSUNLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "GİRMANA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "GÜÇLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "GÜVENÇ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "GÜZELYAYLA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "HASANÇELEBİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "HAYDAROĞLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "IŞIKLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "İĞDİR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KARADERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KARAKÖÇEK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KARSLILAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KAVACIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KOCAÖZÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KOZDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KÖPRÜLÜ MEHMET PAŞA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KÖYLÜKÖYÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "KURŞUNLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "MOLLAİBRAHİM MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "SALICIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "SARAYLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "SARIKIZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "SAZLICA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "SÖĞÜT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "ŞEHİT MEHMET FETHİ AKYÜZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "TAŞBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "TAŞOLUK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "YAĞCA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "YAYLADAM MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "YEŞİLKALE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "YEŞİLPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "HEKİMHAN",
+    "Mahalle": "YUKARISELİMLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "ABUŞOĞLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "AKÇA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "AKUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "BAĞLICA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "BENTKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "ÇANAKÇI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "DARIPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "DEDEKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "DÜZTARLA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "ERDEMLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "GÜLENKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "GÜNEYCE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "İKİZPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "KALEKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "KARAHÜSEYİN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "KIYICAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "KOZLUK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "KUMLUYAZI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "MAHMUT DURSUN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "SALKIMLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "SARIOT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "UYANIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "UZUNHÜSEYİN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "ÜÇDEĞİRMEN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KALE",
+    "Mahalle": "YENİDAMLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "ALVAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "AŞAĞISELİMLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "BAŞÖREN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "BIYIKBOĞAZI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "BİCİR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "BOĞAZİÇİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "CİRİTBELEN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "ÇAYKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "ÇÖRMÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "GÖĞEBAKAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "İLİSULUK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "KARABÜK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "KARAÇAYIR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "KARINCALIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "KARLIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "KAYNARCA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "KIZILHİSAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "KIZILMAĞARA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "KONAKTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "KÖMÜKLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "ORTAPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "SULTANLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "TEMÜKLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "KULUNCAK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "AĞALAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "AKTARLA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ALİÇERİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ALİHAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ARINLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ARITOPRAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ARSLANKENT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "BAKIMLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "BALPINARI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "BAŞMEZRA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "BAYIRKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "BELENKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "BÖLÜKKAYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "BÖLÜNMEZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "BÜYÜKÖZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ÇAMLIDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ÇAYKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ÇENGELLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ÇIĞIRLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ÇUKUROYMAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "DEREDÜZÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ERDEMLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ERSELE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ESENCİK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ESENLİK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "GERTAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "GÖZLÜCE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "GÜNDEĞER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "GÜNDÜZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "HATİP MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "KAVAKLIDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "KAYADERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "KOÇKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "KORUCAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "KOZLUK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "KÖKLÜKAYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "KÖRME MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "KÖYLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "MEŞEDİBİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "NOHUTLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ORMANİÇİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ÖRMELİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ÖRNEKKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "PAZARCIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "POSKIRAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "SAHİLKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ŞİRO TARAKSU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ŞÜKAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "TAŞBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "TAŞMIŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "TAŞTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "TATLICAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "TEKEDERESİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "TELUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "TEPEHAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ULUTAŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "UZUNKORU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "UZUNTAŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "ÜÇYAKA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "YAMAÇ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "YANDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "YAZICA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "YEDİYOL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "PÜTÜRGE",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "AKYAZI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "ALİCAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "AMBARCIK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "BEREKETLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "BOYACA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "BOZTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "BÖĞÜRTLEN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "BUZLUK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "ÇAVUŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "ÇİVRİL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "DEDEKARGIN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "DOĞUŞ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "DURUCASU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "EĞRİBÜK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "EPREME MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "ERECEK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "FETHİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "GAYRET MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "GÖVÜK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "İRİAĞAÇ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "KARACA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "KOŞAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "KÖMÜŞHAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "MISIRDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "SADIKLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "SİNANLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "SÜRÜR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "TAHTALI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "TECİRLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YAZIHAN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "BOSTANBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÇARMUZU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÇAVUŞOĞLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SALKÖPRÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "DİLEK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "GÜNDÜZBEY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KARAKAVAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "AŞAĞI BAĞLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÇİLESİZ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÖZALPER MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ŞEYH BAYRAM MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "TECDE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ŞAHNAHAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "TOPSÖĞÜT MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "YAKINCA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SEYRAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "YEŞİLKAYNAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "1.OSB MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "2.OSB MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ABDULGAFFAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "AŞAĞIKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ATALAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "BAHÇEBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "BENTBAŞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "BİNDAL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "CEMALGÜRSEL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "CEVATPAŞA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "CUMHURİYET MAH (YEŞİLYURT MAH)"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÇAYIRKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÇUKURDERE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "DURANLAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "DURULDU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "GEDİK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "GÖKTARLA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "GÖRGÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "GÖZENE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "HIROĞLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "HOCA AHMET YESEVİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "IŞIKLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "İKİZCE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "İLYAS MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KADİRUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KARAHAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KAYNARCA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KENDİRLİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KIRKPINAR MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KIRLANGIÇ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KİLTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KOŞU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KOYUNOĞLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KOZLUK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KUŞDOĞAN MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KUYULU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "MAHMUTLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "MELEKBABA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "MERKEZ FATİH MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "MULLAKASIM MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "OLUKLU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÖNCÜ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÖZAL MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SALKONAK MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SAMANKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SAMANLI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SEYİTUŞAĞI MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SU MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SULUKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SÜTLÜCE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "TOHMA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "TOPRAKTEPE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÜÇGÖZE MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "YAKA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "YALINKAYA MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MALATYA",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ZAVİYE MAH"
+  }
+]

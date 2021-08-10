@@ -1,0 +1,2107 @@
+[
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "DEDE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "MUSA MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "ULU MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "AĞIZBOĞAZ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "AKOLUK MAH (BERENDİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "AMBAR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "ANDIKARA MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "AŞAĞI KIRAMANOĞLU MAH (BERENDİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "BAŞÇAYIR MAH (KAVAKÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "BERENDİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "BÖĞECİK KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "BUĞDAYLI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "BÜYÜKKORAŞ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "ÇATKÖY KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "DİVLE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "DOKUZYOL KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "ELFETİN MAH (KAVAKÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "GÜNEYDAĞI MAH (DİVLE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "HÜYÜKBURUN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "KALEKÖY KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "KAVAKÖZÜ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "KAVUKLAR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "KAYAÖNÜ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "KEŞİR MAH (BERENDİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "KIRAMAN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "KIRAMANOĞLU MAH (BERENDİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "KÜÇÜKKORAŞ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "MELİKLİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "PINARKAYA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "SARAYKÖY KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "SARIKAYA MAH (BERENDİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "SAVRAN MAH (BÖĞECİK KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "AYRANCI",
+    "Mahalle": "YARIKKUYU KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "GÖZTEPE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "KİRAZLIYAYLA MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "ŞİRİNDERE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "BOZYAKA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "BÜYÜKKARAPINAR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "KIŞLAKÖY KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "SÖĞÜTLÜ MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "ÜZÜMLÜ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "BAŞYAYLA",
+    "Mahalle": "YENİCE MAH (KIŞLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "AKCAMESCİT MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "BAŞPINAR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ÇINARLISU MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "DEĞİRMENLİK MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "GÜLLÜK MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "GÜLPAZAR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KEBENDİBİ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KEÇİPAZAR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KEŞİLLİK MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "SANDIKLI MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "SEYRAN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "SUSAKLI MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "TAŞBAŞI MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ARALIK MAH (GÜNEYYURT BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "CAMİ MAH (GÜNEYYURT BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "HABİB MAH (GÜNEYYURT BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KIŞLACIK MAH (GÜNEYYURT BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ODA MAH (GÜNEYYURT BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ORTA MAH (GÜNEYYURT BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "PINARGÖZÜ MAH (GÜNEYYURT BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "YENİMAHALLE MAH (GÜNEYYURT BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "AŞAĞI MAH (SARIVADİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "BELİÇEKKOZ MAH (İKİZÇINAR KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "BUCAK MAH (KAZANCI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ÇATALBADEM MAH (KAZANCI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "DEĞİRMEN MAH (ARDIÇKAYA KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "GÖKCELER MAH (KAZANCI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "GÖKÇEKENT KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "HAVUZ MERKEZ MAH (İKİZÇINAR KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "MERKEZ MAH (KAZANCI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "TEPECİK MAH (KAZANCI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "TÜRBESEKİ MAH (KAZANCI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ULUKÖY MAH (KAZANCI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "YAYLAPAZARI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "YUKARI MAH (KAZANCI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "YUKARI MAH (SARIVADİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "AĞAÇÇATI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "AŞAĞIÇAĞLAR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "AVCILAR MAH (EVSİN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "BALKUSAN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "BELEN MAH (GÖKCESEKİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "BELEN MAH (YALINDAL KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "BOYALIK KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "BOZYAKA MAH (ELMAYURDU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ÇARIKLI MAH (GÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ÇATALARMUT MAH (GÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ÇAYIRLIALAN MAH (GÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ESKİCE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "EVSİN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "GÖBETTE MAH (GÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "GÖKCESEKİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "GÜNERİ MAH (YALINDAL KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "GÜNEY MAH (AŞAĞIÇAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "HARMANBAĞI MAH (AŞAĞIÇAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "HATİLLA MAH (ELMAYURDU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "İĞDEYAKASI MAH (YALINDAL KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KATRANLI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KAYAÖNÜ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KIŞLA MAH (GÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KIZILALAN MAH (GÖKCESEKİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KÖPRÜBAŞI MAH (GÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KÖPRÜBAŞI MAH (KAYAÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KÖYYAKASI MAH (GÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "KUMYAKA MAH (ELMAYURDU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "MEZARLIALAN MAH (GÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "NİSA MAH (GÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "OLUKPINAR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "PAMUKLU KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "PINARÖNÜ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ŞAHİNLER MAH (YERBAĞ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "TAŞTEKNE MAH (TEPEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "TEKKE MAH (GÖRMELİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "ÜLÜĞER MAH (PAMUKLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "YERBAĞ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "YOLÇATI MAH (ELMAYURDU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "ERMENEK",
+    "Mahalle": "YUKARIÇAĞLAR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "BOYACI MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "EMİNETTİN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "EMSALHAYAT MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "OBA MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "SELÇUKLU MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "TİMSAL MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "AKARKÖY KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "KARALGAZİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "KIZILKUYU KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "MECİDİYE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "ÖZYURT KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "KAZIMKARABEKİR",
+    "Mahalle": "SİNCİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (AKÇAŞEHİR BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH (AKÇAŞEHİR BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİ MAH (AKÇAŞEHİR BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH (AKÇAŞEHİR BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ABBAS MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMET YESEVİ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYAZKENT MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇELTEK MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMAŞEHİR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİDÜKKAN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEVHER HATUN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HİSAR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İBRAHİM HAKKI KONYALI MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMARET MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMANOĞLU MEHMET BEY MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRBAĞI MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOÇAKDEDE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MANSURDEDE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜMİNE HATUN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAKABAŞI MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEKİÇEŞME MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİYAHSER MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEYH EDEBALİ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TABDUK EMRE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPUCAK MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "URGAN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLADA MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUSKENT MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZEMBİLLİ ALİ EFENDİ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZİYA GÖKALP MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ADA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ADAYSIZ MAH (CERİT KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞAÇLI MAH (ERENKAVAK KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞAÇYURDU KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞILÖNÜ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇAALAN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAÇATI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİAĞA MAH (TAŞKALE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARAKÖY MAH (CERİT KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARNAVUT MAH (KOZLUBUCAK KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (BURHAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (İHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (PAŞABAĞI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI YAYLA MAH (ORTAOBA KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIAKIN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIKIZILCA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (KILBASAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (KİSECİK KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (TAŞKALE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYBASTI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BADEMLİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞDAT MAH (AKÇAALAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLIBÜK MAH (ELMADAĞI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLIK MAH (BURHAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (PINARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARUTKAVURAN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞKIŞLA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYIR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELVARYOLU MAH (BURHAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYDİLİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOSTANÖZÜ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOYACI MAH (KILBASAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOYALI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZKANDAK KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖLÜKYAZI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUCAKKIŞLA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİKEBİR MAH (YOLLARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (KİSECİK KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (SÜLEYMANHACI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKIRBAĞ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKIRDAĞ MAH (BURUNOBA KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIK MAH (BURHAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇARŞI MAH (KILBASAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATAK KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAVUŞPINARI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇIKMAZ MAH (BURHAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİĞDEMLİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİMEN MAH (NARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİMENKUYU KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOĞLU KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKUR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKURBAĞ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞKONAK KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAMLAPINAR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENBAŞI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRYURT KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DENİRCİK MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEVELİ MAH (ELMADAĞI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİNEK KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DUMA MAH (MORCALI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZ MAH (KAMENİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EĞİLMEZ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMİNLER KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH (ÇAKIRBAĞ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİKÖY MAH (AYBASTI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖÇER KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇEPINAR MAH (BAYIR KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZTEPE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜÇLER KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLDERE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLKAYA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞKUYU MAH (ÖZDEMİR KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HABACI MAH (ÇUKURBAĞ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI İLYAS MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI İLYAS MAH (YOLLARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIBAYRAM MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMİDİYE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HARMAN MAH (BURHAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HİNSAR MAH (BURHAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İBRAHİM FAKI MAH (YOLLARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMLAR MAH (KILBASAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMOĞLU MAH (KILBASAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSLİHİSAR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTASYON MAH (BURHAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTASYON MAH (DEMİRYURT KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALABA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAMENİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMANOĞLU MEHMET BEY MAH (KILBASAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KASIM MESCİT MAH (TAŞKALE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAŞIKÇI MAH (CERİT KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAŞOBA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYAÖNÜ MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYAPINAR MAH (GÖÇER KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYNAR MAH (LALE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIR MAH (BURHAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZIK KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILLARAĞINI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILYAKA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOVALIÖZ MAH (DEĞİRMENBAŞI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOZLUBUCAK KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMOBA MAH (ÇOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURTDERESİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURUCABEL KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LALE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MADENŞEHRİ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAŞAT MAH (CERİT KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEDRESELİK KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BURUNOBA KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (CERİT KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (EKİNÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ELMADAĞI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ERENKAVAK KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ORTAOBA KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÜÇKUYU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MESUDİYE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MORCALI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MURATDEDE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSALLA MAH (BURHAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NARLIDERE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NUNU MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTACAMİ MAH (TAŞKALE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMANİYE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OTUK YAYLA MAH (KALABA KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZALAN MAH (LALE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZDEMİR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAMUKDERE MAH (GÖÇER KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞABAĞI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PELİTLİ MAH (ÖZDEMİR KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PERENTİ MAH (EKİNÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALUR KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARNIÇ MAH (GÖÇER KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAZLIYAKA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYİTHASAN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SORGUN MAH (YILANGÖMÜ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜLEYMANHACI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAHİNBÜKÜ MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEYHLER KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TABANLI MAH (AYBASTI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TARLAÖREN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞMESCİT MAH (TAŞKALE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAVŞANLI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPALHACI CİFTLİĞİ MAH (İHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TUTLUTEPE MAH (ÇAVUŞPINARI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULUPINAR MAH (KİSECİK KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNKUYU MAH (ÇOĞLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNKUYU MAH (KAMENİ KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇBAŞ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜZÜMLÜ MAH (AYBASTI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YASSI TEPE MAH (ÜÇKUYU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLADEDE MAH (BAŞKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZILI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEDİPINAR MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEMİŞLİ MAH (AYBASTI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILANGÖMÜ KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YÖRÜKLER MAH (BAŞKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (İHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI YAYLA MAH (ORTAOBA KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIAKIN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIKIZILCA KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUS MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUVATEPE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZENGEN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (SUDURAĞI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (SUDURAĞI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KETENCİ MAH (SUDURAĞI BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHİOSMAN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALACASULUK MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİŞAHANE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞAKŞEHİR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEDİT MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FENARİ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACICELAL MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZIM KARABEKİR PAŞA MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRİŞÇİ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLHAN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LARENDE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NEFİSE SULTAN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORGANİZE SANAYİİ BÖLGESİ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİRİREİS MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RAUF DENKTAŞ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜMER MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEYH ŞAMİL MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAHSİN ÜNAL MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜNİVERSİTE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VALİDE SULTAN MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "BOYUNAĞIL MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "CUMHURİYET MAH (GÖKTEPE BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "ÇETİNCE ÖNÜ MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "ÇEVLİK BAŞI MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "ÇUKURBAĞ MAH (GÖKTEPE BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "DİKENLİ MAH (DUMLUGÖZE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "ESENTEPE MAH (GÖKTEPE BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "GEZİRAİL MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "GÖKSU MAH (GÖKTEPE BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "GÜLPAZAR MAH (GÖKTEPE BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "GÜNDER MAH (GÖKTEPE BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "HESBEK MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "KALE DÖŞEĞİ MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "MERKEZ MAH (KOÇAŞLI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "PİRELİ/AŞAKBEL-GEVEN-DİKENLİ-ORMANLI-ÇUKUR-ÇETİNCY MAH (DUMLUGÖZE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "SITMA PINARI MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "YEŞİLYURT MAH (GÖKTEPE BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "YILDIZ MAH (GÖKTEPE BELDESİ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "CİVANDERE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "CİVLER KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "ÇULHALAR-KIZILÇUKUR-AŞAĞI SÜVARİ-YUKARI-SİVARI-ALA MAH (DUMLUGÖZE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "DARAN KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "DUMLUGÖZE KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "GÖKSU MAH (KOÇAŞLI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "IŞIKLI KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "KAYNARCA MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "MANASTIR MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "NACI ALİ YURDU MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "PİRELİ/AŞAKBEL MAH (DUMLUGÖZE KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "UĞURLU KÖYÜ"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "YAYLA EVLERİ MAH (KOÇAŞLI KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "YAYLALAR MAH (DARAN KÖYÜ)"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "ADİLLER MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "BAŞ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "ÇAKILLAR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "KÜÇÜK KARAPINAR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "MENÇEK MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "TURCALAR MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "ULUCAMİ MAH"
+  },
+  {
+    "il": "KARAMAN",
+    "ilçe": "SARIVELİLER",
+    "Mahalle": "YEŞİLYURT MAH"
+  }
+]

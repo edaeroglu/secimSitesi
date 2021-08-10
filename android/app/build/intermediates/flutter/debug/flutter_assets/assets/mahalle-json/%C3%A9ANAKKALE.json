@@ -1,0 +1,4552 @@
+[
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "HAMDİBEY MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÜMMÜHAN MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ADATEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ADATEPEBAŞI ÇAMTEPE MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ADATEPEBAŞI DEĞİRMENDERE MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ADATEPEBAŞI MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ADATEPEBAŞI PALAMUTLUK MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AGORA MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ARIKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BABADERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BAHÇEDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BAŞDEĞİRMEN ŞELALE MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BOZTEPE MAH (BAHÇEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "CEVİZLİBURUN MAH (BAHÇEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇETMİBAŞI MAH (KÜÇÜKÇETMİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇETMİBAŞI-ÇAMEGREK MAH (KÜÇÜKÇETMİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇETMİBAŞI-TELLİGIRAN MAH (KÜÇÜKÇETMİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "DEREOBA MAH (KÜÇÜKÇETMİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "GÖKÇETEPE MAH (KÜÇÜKKUYU BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "HASANOBASI MAH (NUSRATLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ILICA MAH (KÜÇÜKÇETMİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KARAYOLLARI DİNLENME MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KIZTAŞI MAH (NUSRATLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KÜÇÜKÇETMİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KÜPYANI MAH (NUSRATLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "MIHLI MAH (KÜÇÜKKUYU BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "NUSRATLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "PINARALTI MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SAHİL MAH (KÜÇÜKKUYU BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SİVRİCE MAH (BAHÇEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YALI MAH (ARIKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ACIGÖL MAH (BÜYÜKHUSUN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ACIGÖL MAH (KÖSEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AHMETÇE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AHMETÇE MAH (AHMETÇE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AHMETÇE SAHİL YOLU MAH (AHMETÇE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AHMETLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AKÇİN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AKDEDE MAH (BADEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AKLİMAN MAH (BABAKALE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AŞAĞI OBA MAH (YUKARIKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AŞAĞI TARTIŞIK MAH (TARTIŞIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ATATÜRK MAH (GÜLPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "AYVACIK ALANI MAH (UZUNALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BABAKALE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BADEMLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BAHARLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BALABANLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BAŞBAHÇE MAH (BADEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BEHRAM KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BEKTAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BEYALANI MAH (KEÇİKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BİLALLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BUDAKLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BÜNGÜLDEK MAH (AKÇİN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "BÜYÜKHUSUN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "CEMALLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇAKMAK MAH (BADEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇAKMAKLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇALTEPE MAH (AHMETÇE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇALTI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇAMİÇİ MAH (ÇAMKALABAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇAMKALABAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇAMKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇAMLIK MAH (SAPANCA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇAMOBA MAH (KÖSEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇAMTEPE MAH (ÇAMKALABAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇARDAKBAYIRI MAH (KOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇAYİÇİ MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ÇINARPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "DEREOBA MAH (BAHARLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "DİBEKLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "DOĞRUÇARDAK MAH (KÖSEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ERECEK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "GÜZELKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "HARAPİÇİ MAH (KURUOBA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "HÜSEYİNFAKI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ILICAK MAH (BADEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "İLYASFAKI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "İNÖNÜ YAYLASI MAH (SAZLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "İSKELE MEVKİİ MAH (BEHRAM KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KADIRGA MEVKİİ MAH (BEHRAM KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KARAAYIT MAH (KÖSEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KARABAŞINOBA MAH (PINARDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KARABURUN MAH (YUKARIKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KARADİKEN MAH (BADEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KARBASTI MAH (KÖSEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KARŞIOBA MAH (PINARDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KAŞKAYA MAH (ÇAMKALABAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KAYAKÖY KOOPERATİFİ MAH (SAZLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KAYALAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KAYALAR MAH (KAYALAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KAYALAR SAHİL YOLU MAH (KAYALAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KAYANLAR MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KEÇİKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KELEŞİNOBA MAH (PINARDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KESTANELİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KIRAN ÜSTÜ MAH (BALABANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KIRCA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KISACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KIZILKEÇİLİ MAH (GÜLPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KOCAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KORUBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KOYUNEVİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KOZLU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KÖKYERİ MAH (KEÇİKAYA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KULFAL KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KURUOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KUŞKONMAZ MAH (BÜYÜKHUSUN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KÜÇÜK KESTANELİK MAH (KESTANELİK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KÜÇÜKHUSUN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "KÜPLÜ YAYLALARI MAH (SAZLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "MERKEZ 1 MAH (KÖSEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "MERKEZ 2 MAH (KÖSEDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "MİSVAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "NALDÖKEN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "NAMAZGAH MAH (BÜYÜKHUSUN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "PAŞAKÖY ALTI MAH (PAŞAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "PAŞAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "PAŞAKÖY MAH (PAŞAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "PINARDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SAHİL MAH (BEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SAHİL MAH (KOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SAHİL MAH (KOZLU KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SAPANCA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SARNIÇALTI MAH (BALABANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SAZAK MAH (BÜYÜKHUSUN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SAZLI ALTI MAH (SAZLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SAZLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SOKAKAĞZI MAH (KOYUNEVİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "SÜLEYMANKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "ŞAPKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "TABAKLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "TAMIŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "TAŞAĞIL KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "TAŞBOĞAZ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "TUZLA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "TUZTAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "UZUNALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YALI MAH (BÜYÜKHUSUN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YALI MEVKİİ MAH (AHMETÇE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YALIPARA MAH (BADEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YAYLA EVLERİ AKPINAR MEVKİİ MAH (AHMETÇE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YAYLA EVLERİ MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YENİÇAM KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YENİOBA MAH (TUZTAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YEŞİLLİMAN MAH (KORUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YÖRÜKLER EVİ MAH (BALABANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YUKARI TARTIŞIK MAH (TARTIŞIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "AYVACIK",
+    "Mahalle": "YUKARIKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "CAMİCEDİT MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "AŞAĞI MAH (EVCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "AYAZMA YOLU ÜZERİ MAH (EVCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "BEŞİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ÇALIOBAAKÇAKIL KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ÇALTILIK MAH (EVCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ÇAVUŞLU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ÇIRPILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "DAĞOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "GEDİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KARAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KÖSELER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KÜLCÜLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "MOLLAHASANLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "SARIOT KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "SERHAT KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "TOLUKLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "TONGURLU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YUKARI MAH (EVCİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "AĞAÇKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "AHMETÇELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ALAKEÇİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ALİKABAKLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ASMALI MAH (DOĞANCI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "BIYIKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ÇAVUŞKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "DAĞAHMETÇE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "DALOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "DOĞANCI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "DOMBAYLAR MAH (ALAKEÇİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "GÜVEMCİK MAH (ÖRENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "GÜZELTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "IŞIKLAR MAH (PITIRELİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KARŞIOBA MAH (ÇALIDAĞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KAYKILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KOŞUBURNUTÜRKMENLERİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KÖSELER MAH (ÇALIDAĞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KURŞUNLU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KUTLUOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "MACIR MAH (TÜRKMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "MERKEZ MAH (ÇALIDAĞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "MESCİT MAH (TÜRKMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "NEBİLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "NİZAM MAH (TÜRKMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ÖRENLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "PALAMUTOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "PITIRELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "SAÇAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "SARIDÜZ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "TÜLÜLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "TÜRKMENLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "TÜTÜLER MAH (NEBİLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ÜZÜMLÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YAHŞİELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YASSIBAĞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YUKARIPALAMUT MAH (PALAMUTOBA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ZERDALİLİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ZEYTİNLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "AŞAĞIŞAPCI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "AŞAĞIŞEVİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "BEKİRLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "BEZİRGANLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "CAZGİRLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ÇATALÇAM KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "GÖKÇEİÇİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "HACIBEKİRLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "HACIDERVİŞLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "HACIKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "IŞIKELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KARAİBRAHİMLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KARINCALIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KORUCAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KÖYLÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "KUŞÇAYIR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "MURATLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "OSMANİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "SÖĞÜTGEDİĞİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "TEPEKÖY MAH (MURATLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "ÜÇYOL KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YANIKLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YAYLACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YENİCEKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YENİKÖY MAH (MURATLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YİĞİTALİLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YUKARIŞAPÇI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BAYRAMİÇ",
+    "Mahalle": "YUKARIŞEVİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GAZİKEMAL MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "HAMDİBEY MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ŞİRİNTEPE MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "TURAN MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ADLİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AŞAĞIDEMİRCİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "CUMHURİYET MAH (GÜMÜŞÇAY BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ÇEŞMEALTI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ÇINARKÖPRÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "EĞRİDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "EMİRORMAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "HACIKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "İĞDELİK MAH (GÜMÜŞÇAY BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KANİBEY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "OSMANİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ŞİRİNKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "YUKARIDEMİRCİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AKSAZ MAH (AKSAZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ÇAKIRLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ÇINARLI TARLA MEVKİİ MAH (ÇAKIRLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "DEĞİRMENCİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "DERE MAH (DEĞİRMENCİK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "HACIHÜSEYİNYAYLASI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KARAPÜRÇEK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KOCAGÜR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ÖRTÜLÜCE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ŞAHMELEK MAH (AKSAZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "TOKATKIRI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ULUCAMİİ MAH (KARABİGA BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "YALI MAH (KARABİGA BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ZEYTİNLİK MAH (KARABİGA BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ABDİAĞA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AĞAKÖY MAH (AĞAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AĞAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AHATOBA MAH (SARNIÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AHMETLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AKKAYRAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AKKÖPRÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AKYAPRAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AMBAROBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ARABAALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ARABAKONAĞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AŞAĞI MAH (SİNEKÇİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AYITDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "AZİZİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "BAKACAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "BAKACAKLIÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "BALIKLIÇEŞME MERKEZ MAH (BALIKLIÇEŞME KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "BEKİRLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "BEZİRGANLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "BOZLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "CAMİALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "CİHADİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ÇAVUŞKÖY MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ÇELİKGÜRÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ÇELTİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ÇINARDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ÇÖMLEKÇİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "DİKMEN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "DOĞANCI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ECE MAH (YENİÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ELMALI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ESKİBALIKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "EYBEKLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GEMİCİKIRI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GEREDELLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GERLENGEÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GEYİKKIRI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GÖKÇESU MAH (SARNIÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GÖKTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GÜLEÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GÜRÇEŞME KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GÜRGENDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GÜVEM MAH (GÜVEMALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "GÜVEMALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "HACIPEHLİVAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "HARMANLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "HAVDAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "HİSARLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "HOŞOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ILICABAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "IŞIKELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "İLYASALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "İSKENDER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KAHVETEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KALDIRIMBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KAPANBELEN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KARACAALİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KARAHAMZALAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KAŞIKÇIOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KATRANCI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KAYAPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KAYNARCA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KAZIKLI MAH (SARNIÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KAZMALI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KEMER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KEPEKLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KORUOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KÖYİÇİ MAH (İDRİSKORU KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KUMKENT MAH (BOZLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "KÜÇÜKKÖY MAH (İDRİSKORU KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "MERKEZ MAH (KALAFAT KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "MERKEZ MAH (KOZÇEŞME KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH (BALIKLIÇEŞME KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "OTLUKDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "OVACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "PAŞAÇAYI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "PEKMEZLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "RAMAZANLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SARICA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SARISIVAT KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SAVAŞTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SAZKENT MAH (GERLENGEÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SAZOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SELVİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SIĞIRCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SİNEKÇİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "SÜLÜNOBA MAH (SARNIÇ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "ŞAKİRBEY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "TÜRKBAKACAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "UZUNDERE MAH (KEMER KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "YANIÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "YENİ EŞELEK MAH (BEZİRGANLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "YENİCEKÖY MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "YENİMAHALLE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BİGA",
+    "Mahalle": "YOLİNDİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BOZCAADA",
+    "Mahalle": "ALAYBEY MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "BOZCAADA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "OSMANEFENDİ MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "SERAMİK MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "AHLATLIBURUN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ALİBEYÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ALTIKULAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ASMALI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "BAHADIRLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "BARDAKÇILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "BİLALLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "BOSTANDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "BOZGUÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "BÜKLER MAH (YUVALAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "BÜYÜKPAŞA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "BÜYÜKPAŞA MAH (BÜYÜKPAŞA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "BÜYÜKTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "CİCİKLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ÇAKILKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ÇALTIKARA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ÇAMKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ÇEKİÇLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ÇOMAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "DANAPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "DERENTİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "DEREOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "DOĞACA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "DOĞANCILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "DONDURMA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "DUMAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "DURALİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "DURALİ MAH (DURALİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "EMEŞE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ESKİYAYLA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ETİLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "GÖLE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "HACIKASIM KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "HALİLAĞA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "HELVACI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "HURMA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "HURMAKÖY MAH (HURMA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "İLYASAĞAÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KADILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KALBURCU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KAPLICALAR MAH (BARDAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KARADAĞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KARAKADILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KARAKOCA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KARLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KAZABAT KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KEÇİAĞILI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KIZILELMA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KİLİMLİ MAH (DONDURMA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KOCAYAYLA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KOYUNYERİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KULFAL KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KULFAL MAH (KULFAL KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KUMARLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KÜÇÜKLÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "KÜÇÜKPAŞA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "MALLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "MALTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "MANYASOBA MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "OKÇULAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "OZANCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "SAMETELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "SÖĞÜTALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ŞERBETLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "TEPEKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "UZUNALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ÜVEZDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "YAYA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "YAYKIN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "YENİÇERİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "YUKARIKÖY MAH (KÜÇÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "YUVALAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ZEYBEKÇAYIR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "ÇAKMAKÇAYIR MAH (TERZİALAN BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ÇAN",
+    "Mahalle": "SÜLE MAH (TERZİALAN BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "AHILDERE ALTI MAH (YALOVA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "ALÇITEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "AZMAK MAH (SEDDÜLBAHİR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "BAŞÇEŞME MAH (SEDDÜLBAHİR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "BEHRAMLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "BEŞYOL KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "BİGALI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "BOYACIBURNU YALILAR MAH (YALOVA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "BÜYÜKANAFARTA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "GÖZTEPE MAH (SEDDÜLBAHİR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "KOCADERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "KUMKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "KÜÇÜKANAFARTA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "MERKEZ MAH (KİLİDÜLBAHİR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "MORTO KOYU MAH (SEDDÜLBAHİR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "SEDDÜLBAHİR DUASI MAH (SEDDÜLBAHİR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "SEDDÜLBAHİR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "TEKKE MAH (SEDDÜLBAHİR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "TOPRAKSIRTI MAH (SEDDÜLBAHİR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "YALOVA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "YOLAĞZI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "ECEABAT",
+    "Mahalle": "ZIĞINDERE MAH (SEDDÜLBAHİR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "DANİŞMENT MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "SEFERŞAH MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ATATÜRK MAH (MAHMUDİYE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "BEŞİKE ESEREVLER SİTESİ MAH (KUMBURUN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "BOZALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "CUMHURİYET MAH (GEYİKLİ BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ÇAMOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "HÜRRİYET MAH (GEYİKLİ BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "HÜRRİYET MAH (MAHMUDİYE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "İNLİMANI MAH (KUMBURUN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KÖY İÇİ MAH (DALYAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KUMBURUN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "MECİDİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "TAŞKAPI ÇAMLIK MAH (KUMBURUN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ÜVECİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "AHLATLI MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "AKÇAKEÇİLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "AKÇAKEÇİLİ MAH (AKÇAKEÇİLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "AKKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ALADAĞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ALEMŞAH KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ALEMŞAH MAH (ALEMŞAH KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ARAPLAR BOĞAZI MAH (DERBENTBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ARASANLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "BAHÇELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "BALIKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "BALIKLI MAH (BALIKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "BELEN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "BOZELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "BOZKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ÇAMKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ÇARIKSIZ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ÇETMİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ÇINARKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "DERBENTBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "GÖKÇEBAYIR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "HACI EYÜPLER MAH (KARAGÖMLEK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "HACI GARİPLER MAH (KARAGÖMLEK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "HACI HÜSEYİNLER MAH (YENİOBA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "HİSARALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KANARYA SIRTI MAH (DERBENTBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KARADAĞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KAYACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KAYALI MAH (ÇARIKSIZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KEMALLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KEMALLI MAH (KEMALLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KESTANBOL KAPLICASI MAH (KÖRÜKTAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KIZILKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KIZILTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KİREMİTOBA MAH (ALADAĞ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KOZOVA MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KÖRÜKTAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "KÖSELER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ORTA MAH (KARAGÖMLEK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "PAZARKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "SARISÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "SARPDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ŞAPKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "TAŞ OBA MAH (DERBENTBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "TAŞTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "TAVAKLI İSKELESİ MAH (TAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "TAVAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ULUKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ULUKÖY MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "ÜSKÜFÇÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "YAHYAÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "YAVAŞLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "YAYLACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "EZİNE",
+    "Mahalle": "YENİOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ADİLHAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ARMUTDERE MAH (ADİLHAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ARMUTDERE1 MAH (ADİLHAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "BAĞLARDERE MAH (ADİLHAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "BAYRAMİÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "BOSTANLIK MAH (ADİLHAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ÇEŞME MAH (EVREŞE BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ÇOKAL KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "HAMAMALTI MAH (ADİLHAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KALEALTI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KEŞANOĞLU MAH (EVREŞE BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KOCAÇEŞME KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KURTLUKUYU MAH (ADİLHAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KURTLUKUYU1 MAH (ADİLHAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KURTLUKUYU2 MAH (ADİLHAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "SÜLEYMANİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ŞADILLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "YENİ MAH (EVREŞE BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "YÜLÜCE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ALAEDDİN MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "CAMİİKEBİR MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "GAZİ SÜLEYMAN PAŞA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "HOCA HAMZA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "YAZICIZADE MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "CUMHURİYET MAH (KAVAKKÖY BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "HÜRRİYET MAH (KAVAKKÖY BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ATIFBEY ÇİFTLİĞİ MAH (GÜNEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "BAYIRKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "BURHANLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "BURHANLI MAH (BURHANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "BÜYÜK MİTHATLAR MAH (KORUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "CAMİİKEBİR MAH (BOLAYIR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "CUMALI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ÇİFTLİKALTI MAH (KORUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "DAMLAR MAH (BURHANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "DEĞİRMENDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "DEMİRTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "DEMİRTEPE MAH (DEMİRTEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "DOĞA MAH (BURHANLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "DOĞAN ARSLAN MAH (DEMİRTEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "DOĞANARSLAN1 MAH (DEMİRTEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "DOĞANARSLAN2 MAH (DEMİRTEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "DOĞANARSLAN3 MAH (DEMİRTEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "FEVZİÇAKMAK MAH (BOLAYIR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "FINDIKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "GAZİSÜLEYMANPAŞA MAH (BOLAYIR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "GÜNEYLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ILGARDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "ILGARDERE MUCAVİR MAH (ILGARDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KARAİNEBEYLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KAVAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KAYRANDERE MAH (KORUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KORUKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "KÜÇÜK MİTHATLAR MAH (KORUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "MUTATLAR MAH (KORUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "OCAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "OCAKLI MAH (OCAKLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "OVA MAH (ILGARDERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "PAZARLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "PAZARLI MAH (PAZARLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "SALAVURTEPE MAH (KORUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "SÜTLÜCE MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "TAYFURKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GELİBOLU",
+    "Mahalle": "YENİKÖY MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "ÇINARLI MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "BADEMLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "EŞELEK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "KALEKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "KUZULİMANI MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "ŞAHİNKAYA MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "ŞİRİNKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "TEPEKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "UĞURLU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "YENİBADEMLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "GÖKÇEADA",
+    "Mahalle": "ZEYTİNLİKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "GAZİYAKUPBEY MAH (ÇARDAK BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "HACIÖMERLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "TEKKE MAH (ÇARDAK BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "DALYAN MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "GAZİ SÜLEYMAN PAŞA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "ALPAGUT KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "BALCILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "BEYÇAYIRI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "BEYPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "BOZKENT MAH (ŞEVKETİYE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "ÇAMYURT KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "ÇATALTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "ÇAVUŞKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "DEMİRLİ SAHİL SİTESİ MAH (SULUCA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "DİŞBUDAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "DOĞANDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "DUMANLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "EÇİALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "GÜRECİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "GÜRECİALTI MAH (GÜRECİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "HİSARKENT MAH (ŞEVKETİYE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "İLYASKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KARAMUSALAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KARAÖMERLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KARİYER TATİL SİTESİ MAH (SULUCA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KEMİKLİALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KIRCALAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KIZILDAM KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KİRAZLIDERE MAH (GÜRECİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KOCABAŞLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KOCAVELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KUNDAKÇILAR MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "MECİDİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "NUSRATİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "SUBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "SULUCA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "SULUCA TATİL SİTESİ MAH (SULUCA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "ŞAHİNLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "ŞEVKETİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "TAŞTEPE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "YAYLALAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "YENİCEKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "YOL ALTI MEVKİİ MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "YOL ÜSTÜ MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "AKÇAALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "BEYBAŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "BÜBERLER MAH (HACIGELEN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "ESKİKIŞLA MAH (AKÇAALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "GÖKKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "HACIGELEN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "HACILAR OBASI MAH (HARMANCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "HARMANCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KANGIRLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KORU MAH (HACIGELEN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "KUNDUZ MAH (KANGIRLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "SALTIK MAH (KANGIRLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "SAZAK OBASI MAH (BEYBAŞ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "SINDAL KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "UMURBEY MERKEZ MAH (UMURBEY BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "LAPSEKİ",
+    "Mahalle": "ÜÇPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEVAT PAŞA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENLER MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FEVZİPAŞA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARMUTLU MAH (ÇINARLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞAZKENT MAH (KEPEZ BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (KEPEZ BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇINARLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DARDANOS MAH (ÇINARLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMİDİYE MAH (KEPEZ BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇALI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇAPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇEŞME KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKKÖY MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALANKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİ KURBANLAR MAH (ÇAMYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ANDIKTAŞI MAH (AŞAĞIOKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARMUTALAN MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIOKÇULAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATİKHİSAR MAH (KAYADERE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELEN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BODURLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CİVLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMYAYLA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇANAKALAN MAH (KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇIPLAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİFTLİK MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİFTLİKDERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖMLEKLER MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAMYERİ MAH (MARAŞALFEVZİÇAKMAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEDELER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENDERE MAH (ELMACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DENİZGÖRÜNDÜ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÖRTYOL MAH (IŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜMREK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERENKÖY MERKEZ MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERENKÖY YENİ MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇALI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜRECİK MAH (DENİZGÖRÜNDÜ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZELYALI MAH (GÜZELYALI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİLELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİLOĞLU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "IŞIKLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İĞDELİK MAH (KIZILKEÇİLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALABAKLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALAFAT KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARABURUNLAR MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACALAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACAÖREN MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYADERE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYIŞLAR MAH (SALİHLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMEL KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMERDERE MAH (CİVLER KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILKEÇİLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRAZLI ALAN MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRAZLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCALAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOVANDAĞI MAH (DEDELER KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURŞUNLU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MARAŞALFEVZİÇAKMAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET ÇAVUŞ MAH (KUMKALE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERSİN ÇEŞME MAH (OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OBAKÖY MAH (BODURLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTACA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAOBA MAH (AŞAĞIOKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMANLAR MAH (BODURLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZBEK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALAVAT MAH (AŞAĞIOKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALİHLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALTIK MAH (YAPILDAK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIBEYLİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARICAELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SERÇİLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIĞIRLI MAH (SARIBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİTLER MAH (KUMKALE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞLITARLA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAVŞANTEPE MAH (BODURLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TERZİLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TESTİCİKIRI MAH (IŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEVFİKİYE MAH (TEVFİKİYE KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULUPINAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAPILDAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIOKÇULAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "AKKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ARMUTÇUK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "AŞAĞIÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ATATÜRK MAH (AKÇAKOYUN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ATATÜRK MAH (KALKIM BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "BAĞLI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "CANBAZ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "CUMHURİYET MAH (AKÇAKOYUN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "CUMHURİYET MAH (KALKIM BELDESİ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇUKUROBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KALABAKBAŞI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARAAYDIN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KIRAÇOBA MAH (ÇUKUROBA KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KIRIKLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "OĞLANALANI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÖRENCİK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YARIŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YUKARIÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "AHİLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "AHMETLER MAH (SUUÇTU KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ALANCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ALANOBA MAH (BALLIÇAY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ALTIPARMAKLAR MAH (DARIALAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ARAOVACIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "AŞAĞI MAH (NEVRUZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "AŞAĞIİNOVA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "AŞAĞIKARAAŞIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "BALLIÇAY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "BAŞKOZ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "BAYATLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "BEKTEN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "BOYNANLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "CUMHURİYET MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAKIR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAKIROBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAL KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇALTI MAH (KORUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAM MAH (KORUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇAMOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇARGAN OBA MAH (ÇAKIR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇINARCIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇINARKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÇIRPILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "DARIALAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "DAVUTKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ENGECİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "GEDİKOBA MAH (KARAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "GÜMÜŞLER KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "GÜVEYLER MAH (TORHASAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "GÜZELOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "HACIYUSUFLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "HAMDİBEY MAH (HAMDİBEY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "HASANLAR MAH (ALANCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "HAYDAROBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "HIDIRLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "İBRAHİMLER MAH (YAĞDIRAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "İSTİKLAL MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KABAAĞAÇ ARASI MAH (YAĞDIRAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KABALI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARABEY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARADORU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARAKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARASU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KARGACI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KIZILDAM KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KOVANCI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KURTLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KUZUPINARI KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "NAMAZGAH KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ORTA MAH (NEVRUZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÖĞMEN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "PINAROBA MAH (ALANCIK KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "REŞADİYE KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "SAMETELİ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "SARIÇAYIR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "SAZAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "SEYVAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "SOFULAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "SOĞUCAK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "SUUÇTU KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "TABAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "TORHASAN KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "UMURLAR KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ÜÇKABAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YALIOBA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YENİ MAH (UMURLAR KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YEŞİLLER MAH (YAĞDIRAN KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YUKARI MAH (NEVRUZ KÖYÜ)"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YUKARIİNOVA KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YUKARIKARAAŞIK KÖYÜ"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "ESKİ YENİCE MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KIŞLALAR MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilçe": "YENİCE",
+    "Mahalle": "YENİ MAH"
+  }
+]

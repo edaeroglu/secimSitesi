@@ -1,0 +1,7627 @@
+[
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "YENİ SİTELER MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ERENKÖY MAH (GÜMELİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "FINDIKLI AĞILI MAH (GÜMELİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KALE MAH (GÜMELİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (GÜMELİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ABACILAR MAH (ÇAMCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "AHİLER MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ALAPLIBÖLÜCEK KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "AŞAĞIDAĞ MAH (AŞAĞIDAĞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "AŞAĞIDOĞANCILAR MAH (AŞAĞIDOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "AŞAĞITEKKE KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "AYDINLI MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "BÜYÜKİLYASLI MAH (YENİDOĞANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "BÜYÜKTEKKE KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "CİNLER MAH (BEKTAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ÇAMCILAR KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ÇAMCILAR MAH (ÇAMCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ÇAMLIK MAH (KÜÇÜKTEKKE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ÇANAKÇI MAH (AŞAĞIDAĞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ÇANDIRLI MAH (OSMANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ÇOBANLAR MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ÇÖNGELLİ MAH (KASIMLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DAVUTLAR MAH (KASIMLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DEĞİRMENDERE MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DERELİ MAH (KABALAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DOĞANCILAR KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DORUKLU MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DORUKOĞLU MAH (ÇAMCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DUMANLAR MAH (ALAPLIÖMERLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DURABEYLİ MAH (İSAFAKILI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DURULAR MAH (MUSABEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "DÜRGELLİ MAH (AHİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ESENTEPE MAH (KÜRKÜKLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ETEKLİOĞLU MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "GEÇMİŞ ALTI MAH (AYDINYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "GÖKÇELER MAH (ALAPLIÖMERLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "GÜNCÜOĞLU MAH (ÇAMCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "GÜNEY MAH (HACIHASAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "HACIHASAN MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "HACILAR MAH (KÜRKÜKLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "HALLI KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "HARMAN MAH (KILÇAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "HAYDARLAR MAH (ÇİÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "HIDIRLAR MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "HIDIRLAR MAH (AŞAĞIDAĞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "HUZURKENT MAH (KILÇAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "HÜSEYİNLİ KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "İKİSU MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "İMZELİ MAH (KASIMLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "İNCİVEZALTI MAH (KÜÇÜKTEKKE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KADIOĞLU MAH (ALAPLIKOCAALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KARABAKAL MAH (SABIRLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KARADORUK MAH (AYDINYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KARŞIYAKA MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KASIRGALI MAH (BEKTAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KATIRCIOĞLU MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KAVAKBELEN MAH (HACIHASAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KAVUKKAVLA MAH (KIRAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KILÇAK MAH (KILÇAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KOCAMAN KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KUFALLAR MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KURTLAR MAH (KÜRKÜKLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "KÜÇÜKİLYASLI MAH (YENİDOĞANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "LELLER MAH (KABALAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MAKAS MAH (AŞAĞIDAĞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MARMAR MAH (MUSABEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ DEĞİRMENCİLER MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (AHATLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (AHİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (ALAPLIKOCAALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (ALAPLIORTACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (AŞAĞIDOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (AYDINYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (BEKTAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (CANBAZLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (ÇAMLIBEL KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (ÇAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (ÇENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (ÇİÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (DURHANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (GÖKHASAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (HASANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (İSAFAKILI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (KABALAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (KASIMLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (KILÇAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (KIRAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (KÜÇÜKKAYMAZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (KÜÇÜKTEKKE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (KÜRKÜKLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (MUSABEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (OKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (OSMANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (SABIRLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (YENİDOĞANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MERKEZ MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MOLLABEY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "MURATLI MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "NUSRATLI MAH (HASANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "OKUF MAH (KÜRKÜKLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ONURLU KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ÖLÜCE MAH (KASIMLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "PAZARYERİ MAH (ALAPLIKOCAALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "PAZARYERİ MAH (AŞAĞIDAĞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "PİRCİOĞLU MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "SARIKADI KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "SEFEROĞLU MAH (KÜÇÜKKAYMAZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "SIHLAR MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "SİNANLI MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "SİNDELLİ MAH (ÇENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "SOFULLU KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "SUCALLI MAH (SABIRLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ŞAHBAZ MAH (HACIHASAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ŞAHLAR MAH (CANBAZLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "TEKKE MAH (AŞAĞIDOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "TERZİOĞLU MAH (ALAPLIKOCAALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "TOŞMANLI MAH (ALAPLIORTACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "TOŞMANLI MAH (DURHANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "ULAŞLI MAH (OSMANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "VARAHLI MAH (KASIMLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "YAĞIŞLI MAH (AHİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "YAZILLI MAH (KÜRKÜKLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "YAZLIK MAH (OKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "YEDİGELLİ KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "YUKARI DEĞİRMENCİLER MAH (ALİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "YUKARIDAĞ MAH (AŞAĞIDAĞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ALAPLI",
+    "Mahalle": "YUSUFKÖY MAH (OKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GEMİCİLER MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "PEHLİVANLAR MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "VELİOĞLU MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "VELİOĞLUOSB MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ABACIK MAH (FİLYOS BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇAYKÖY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DERECİKÖREN MAH (DERECİKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ESENYURT KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GERİŞ MAH (FİLYOS BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GÖKÇELER KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HİSARÖNÜ MAH (FİLYOS BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KOCAALİ MAH (FİLYOS BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (YUKARIGÖYNÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ORTA MAH (ÇÖMLEKÇİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÖTEYÜZ MAH (ÇÖMLEKÇİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÖTEYÜZ MAH (FİLYOS BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "PEYENLİ MAH (YUKARIGÖYNÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SALMANLAR MAH (YUKARIGÖYNÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SEFERCİK MAH (FİLYOS BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "TEMENLER KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YUKARI MAH (ÇÖMLEKÇİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AŞAĞI ÇUKUR MAH (KARAPINAR BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DURMUŞLAR MAH (KARAPINAR BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (KARAPINAR BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "TİLKİLER MAH (KARAPINAR BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "TORLAKLAR MAH (KARAPINAR BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YUKARI ÇUKUR MAH (KARAPINAR BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AKÇAKÖY MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ARICIOĞLU MAH (KAYIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AŞAĞI MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AŞAĞI MAH (YUKARIDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AŞAĞITAŞÇILI MAH (TAŞÇILI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AYDINLAR MAH (KARAMUSA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AYICIOĞLU MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AYILAR MAH (TORLAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BAHÇEODASI MAH (AKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BAKLACIOĞLU MAH (MUHSİNLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BAŞKANCI MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BAŞÖRENLER MAH (YOLGEÇEN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BOSTANCILAR MAH (YUKARIDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BUDAKLAR MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BÜRÜMCEK MAH (DAĞÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "CİNA MAH (KAYIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇAKILLAR MAH (MUHSİNLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇAKMAKÇIOĞLU MAH (MUHSİNLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇAY MAH (ESENLİK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇAY MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇAY MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇAY MAH (ŞEYHOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇELENLER MAH (AKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇİTMECİLER MAH (KADIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇOBANHASANLAR MAH (KADIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇOMRANLI KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DANABAŞLAR MAH (DEREKÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DEDELER MAH (KARAMUSA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DEMİRCİLER MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DERELİ KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DOMBAYCIOĞLU MAH (ALİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DURDUOĞLU MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DÜZ MAH (DAĞÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ELBİSİ MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ELLEZLİ MAH (AHATLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ESENTEPE KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "EYMÜR MAH (GÜDÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GEBEŞLER MAH (GÜZELYAKA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GEBEŞLER MAH (ŞEYHOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GEMEÇLER MAH (AHATLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GÖÇLER MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GÜLŞENLER MAH (YOLGEÇEN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GÜNELLER MAH (TORLAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GÜNYÜZÜ MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HACI MAH (KAYIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HALAŞLI MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HATIPLAR MAH (TORLAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HATİPLER MAH (DAĞÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HATİPOĞLU MAH (ALİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HORCİNAZ MAH (DAĞÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "İMAMLAR MAH (ALİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "İMAMLAR MAH (KIŞLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KABAKÇILAR MAH (AKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KADILAR MAH (DEREKÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KALAYCIOĞLU KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KALEMBAŞI MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KAMBEROĞLU MAH (MUHSİNLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KAMİLOĞLU MAH (MUHSİNLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KANOĞLU MAH (DEREKÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KARAGÖZLER MAH (YAKADEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KARŞI MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KATIRCILAR MAH (AKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KATIRCILAR MAH (KAYIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KAVARICILAR MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KAYIM MAH (KALAFATLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KIRAN MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KIRKLAR MAH (KIŞLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KOCAMEHMETOĞLU MAH (DEREKÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KÖSE MAH (DEREKÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MANSURKADIOĞLU MAH (KAYIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (AHATLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (ALİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (AYVAZLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (BURUNKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (ESENLİK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (GÜDÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (KADIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (KALAFATLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (KARAMUSA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (KIŞLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (ŞEYHOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (YOLGEÇEN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MİYESSELER MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MUSLUBEY MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ODABAŞOĞLU MAH (GÜZELYAKA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ORTA MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ORTA MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ORTA MAH (YUKARIDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ORUÇLAR MAH (GÜZELYAKA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ORUÇOĞLU MAH (DEREKÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÖCEBOĞLU MAH (MUHSİNLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "PİRAHMET MAH (AYVAZLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "RECEPOĞLU MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SAKALLIOĞLU MAH (DEREKÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SALİHLER MAH (YAKADEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SALİHOĞLU MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SİVRİOVAZ MAH (MUHSİNLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SÜNNETÇİOĞLU MAH (YAKADEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ŞABANOĞLU MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ŞAHNALAR MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "TABAKLAR MAH (MUHSİNLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YANIKLAR MAH (KALAYCIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YENİ MAH (AYVAZLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YENİ MAH (AKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YENİ MAH (AYVAZLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YUKARI MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YUKARI MAH (GÜDÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YUKARI MAH (YUKARIDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YUKARITAŞCILI MAH (TAŞÇILI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YUSUFHANLI MAH (TAŞÇILI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ZOBALAKLAR MAH (GÜZELYAKA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KARAEVLİGERİŞ MAH (NEBİOĞLU BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "TERZİLER MAH (NEBİOĞLU BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YENİ PAZAR MAH (NEBİOĞLU BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YEŞİLYURT MAH (NEBİOĞLU BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AĞALAR MAH (MADENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AHMET BEYOĞLU MAH (ŞEHLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AHMETBAŞAOĞLU MAH (HELVACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AHMETOĞLU MAH (MADENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AKÇALAR MAH (HACIOSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ALAGÖZLER MAH (ŞEHLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ANDIOĞLU MAH (KERİMLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ARIKOĞLU MAH (EMİRŞAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AŞAĞIKIYI MAH (HELVACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BALOĞLU MAH (HACIİBADİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BIÇAKCIOĞLU MAH (ADAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BOYACIOĞLU MAH (KERİMLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "CAMİLİ MAH (AKÇAHATİPLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "CIVAKLAR MAH (KORAMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇİLLER MAH (KIZILBEL KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇUBUKÇU MAH (HACIİBADİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇÜRÜKÇÜOĞLU MAH (DURSUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DEĞİRMEN YANI MAH (KORAMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DEMİRCİLER MAH (YAZIBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DERVİŞOĞLU MAH (KARAAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "EBEŞLER MAH (SANDALLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "EMİRLER MAH (EMİRŞAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "EMİROĞLU MAH (MADENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "EPÇELOĞLU MAH (BASAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ESERLER MAH (EMİRŞAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HACI KADI MAH (PERŞEMBE BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HACI MUHARREMOĞLU MAH (ŞEHLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HAMDİLOĞLU MAH (HACIİBADİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HAMZAOĞLU MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HASANBEYLER MAH (HELVACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HATİPLER MAH (DURSUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HELVACILAR MAH (MUSAUSTA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HOTOĞLU MAH (EMİRŞAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "İBADİOĞLU MAH (ADAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "İMAMOĞLU MAH (BASAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "İNCEAHMETLER MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KADIELİ MAH (BASAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KADIELİ MAH (KIZILBEL KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KADIOĞLU MAH (DURSUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KADİR EFENDİOĞLU MAH (SANDALLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KAPTANLAR MAH (HACIİBADİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KARACAOĞLU MAH (BASAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KATIRCIOĞLU MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KEÇECİOĞLU MAH (PERŞEMBE BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KEÇECİOĞLUOSB MAH (PERŞEMBE BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KEKEŞ MAH (HACIOSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KILÇALLAR MAH (KORAMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KOCABASAT MAH (BASAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KOCAMANLAR MAH (YAZIBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KOZLAR MAH (HACIİBADİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KOZOĞLU MAH (HACIİBADİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KÖLOĞLU MAH (KARAAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KURUMSALAR MAH (HELVACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KUYUMCUOĞLU MAH (MUHARREMŞAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KÜRTLER MAH (BASAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KÜTÜKÇÜOĞLU MAH (SANDALLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MACARLAR MAH (YAZIBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MAHMUTOĞLU MAH (KIZILBEL KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MANGIRLAR MAH (MUHARREMŞAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MANTARCIOĞLU MAH (HELVACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MASMASLAR MAH (KIZILBEL KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (ADAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (AKÇAHATİPLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (HACIİBADİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (HACIOSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (KIZILBEL KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (KORAMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (MADENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (MUHARREMŞAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (MUSAUSTA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (PERŞEMBE BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (ŞEHLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (YAZIBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MUSLUBAŞOĞLU MAH (DURSUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "PALAZOĞLU MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "PAŞA KAHYA MAH (MUSAUSTA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "PAZARLIOĞLU MAH (MADENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "PİRKADI MAH (ŞEHLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "RAHMETOĞLU MAH (KERİMLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "RAMAZANKADI MAH (ŞEHLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SAĞIRLAR MAH (KIZILBEL KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SAĞIROĞLU MAH (KERİMLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SAKAOĞLU MAH (KARAAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SANCIOĞLU MAH (KERİMLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SARI KADI MAH (PERŞEMBE BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SARIÖZLER MAH (HELVACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SEFERLER MAH (KIZILBEL KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SEVERLER MAH (MUHARREMŞAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SİNANLAR MAH (HELVACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ŞABANOĞLU MAH (HELVACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ŞEHLER MAH (KORAMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "TABAKLAR MAH (BASAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "TECELLER - BACAKLAR MAH (KORAMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÜNSALLAR MAH (HELVACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YAHYABAŞIOĞLU MAH (SANDALLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YANIKLAR MAH (DURSUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YAZIKÖY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YENİ MAH (BASAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YÖRÜBAŞ MAH (MUHARREMŞAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ACARLAR MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AHMETLER MAH (AŞAĞISARMAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ALİBEYOĞLU MAH (COBURLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ARAPOĞLU MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "AŞAĞI MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BEDEKLER MAH (SARMAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BIÇAKÇIOĞLU MAH (İHSANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BODUKLAR MAH (RAMAZANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "BOSTANCIOĞLU MAH (İHSANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇAMLIK KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇAVUŞLAR MAH (KAHVECİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇORAK KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ÇÖKELEZLER MAH (GÜZELOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DEMİRCİOĞLU MAH (İHSANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DURCANLAR MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "DÜZ MAH (SALTUKOVA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ENGEL MAH (COBURLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "EYSANLAR MAH (İHSANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "FINDIK ENETİ MAH (AŞAĞIİHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GEBELLİ MAH (BAŞARAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "GERİŞ MAH (İHSANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HACI KARISI MAH (GÜZELOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HACI KIRAMANLAR MAH (İHSANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HATİPOĞLU MAH (GÜZELOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HELİMLER MAH (GÖKÇETABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HOCAOĞLU MAH (KARAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "HÜSEYİN KAPTANLAR MAH (SARMAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KALAFATLAR MAH (İHSANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KARA HASAN PAŞA MAH (RAMAZANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KARBOĞAZ MAH (SALTUKOVA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KARTALLAR MAH (AŞAĞISARMAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KAŞIKÇILAR MAH (YUKARIİHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KAVAKPINARI MAH (COBURLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KAVUKOĞLU MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KIŞLA MAH (AŞAĞIİHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KİRAZOĞLU MAH (KAHVECİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KOKAKSU MAH (SALTUKOVA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KÖSTEBEKLER MAH (GÖKÇETABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KULOĞLU MAH (KARAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "KUYU MAH (İHSANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "LAZLAR MAH (KARAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MANTIKLAR MAH (BAŞARAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MARANGELİ MAH (KARAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (AŞAĞIİHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (COBURLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (GÖKÇETABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (İHSANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (KAHVECİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (KARAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (SERDAROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "MERKEZ MAH (YUKARIİHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "OCAKÇIOĞLU MAH (KARAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "PARPACIOĞLU MAH (BAŞARAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "PAZAR YERİ MAH (İHSANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SARIKADIOĞLU MAH (SERDAROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SARIKUM MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SARIKUM MAH (SALTUKOVA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "SAZKÖY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "ŞENKÖY MAH (YUKARIİHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "TETİKLER MAH (BAŞARAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YENİ MAH (AŞAĞISARMAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YENİ MAH (KAHVECİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YOLCUOĞLU MAH (AŞAĞISARMAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YUKARI MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YUKARI MAH (YUKARIİHSANİYE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "ÇAYCUMA",
+    "Mahalle": "YUMUKLAR MAH (SERDAROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAY MAH (ÇAYDEĞİRMENİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HİMMETOĞLU MAH (ÇAYDEĞİRMENİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KEMERLER MAH (ÇAYDEĞİRMENİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (ÇAYDEĞİRMENİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "RECEP TAYYİP ERDOĞAN MAH (ÇAYDEĞİRMENİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YENİ MAH (ÇAYDEĞİRMENİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AĞALAR MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ESKİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İSMET PAŞA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ABDİBAŞOĞLU MAH (TAŞKESEN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ADIBEYLER MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AHATOĞLU MAH (TAŞKESEN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ALAGAZLAR MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AŞAĞI GEDERNEK MAH (EVEYİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AYAŞLIOĞLU MAH (YAĞMURCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BAŞAKSU MAH (AKSU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BAYRAMOĞLU MAH (EVEYİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BAYRAMUSTA MAH (KOZLUKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BELEN MAH (AKÇABEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BEYAZITOĞLU MAH (KOZLUGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇALCA MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAY MAH (YAZICIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇELELİOĞLU MAH (SERDAROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇERİBAŞOĞLU MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇIPLAKLAR MAH (YAĞMURCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇÖPÇÜOĞLU MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ENSEKÜZÜ MAH (YAZICIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GÜCÜKLER MAH (ÖZYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GÜNEY MAH (AKSU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GÜNEYLER MAH (DURUPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HACIOĞLU MAH (AKSU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HACIOĞLU MAH (KOZLUKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HAMİTLER MAH (DURUPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HATLAR MAH (AKSU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İSMELCİOĞLU MAH (SERDAROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADIOĞLU MAH (KOZLUGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADIOĞLU MAH (PURTULOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARACALAR MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARŞIYAKA MAH (EĞERCİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARŞIYAKA MAH (TAŞKESEN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARŞIYAKA MAH (YAZICIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAYAARKASI MAH (YAĞMURCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAYPAKLAR MAH (PURTULOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KENANOĞLU MAH (EVEYİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KICIMANLAR MAH (YEŞİLADA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KINIKLAR MAH (DURUPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KIYILAR MAH (YEŞİLADA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOCALAR MAH (AKÇABEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOÇBAŞLAR MAH (EVEYİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖSEKADIOĞLU MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KULUZOĞLU MAH (YEŞİLADA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MEMİŞLER MAH (YEŞİLADA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (AKÇABEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (DURUPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (EĞERCİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (KUZCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (ÖZYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (PELİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (PURTULOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (SERDAROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (TAŞKESEN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (YAĞMURCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (YAZICIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (YEŞİLÖZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MISIRLIOĞLU MAH (YAĞMURCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "NADİROĞLU MAH (PURTULOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "OĞMANLAR MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ORMAN İŞLETMESİ MAH (YAZICIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "PELİTVEREN MAH (YAZICIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "PÜRCÜOĞLU MAH (SERDAROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "PÜRKÖYÜ MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "RAHMANOĞLU MAH (PELİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SAFALLAR MAH (YAZICIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ŞIHLAR MAH (AKSU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TIRKIZLAR MAH (DURUPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TOPALLAR MAH (YAZICIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TOPALOĞLU MAH (PELİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TOPÇUOĞLU MAH (ADATEPE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YAPLAR MAH (KOZLUKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YAYALAR MAH (YAĞMURCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YENİ MAH (AKÇABEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YENİ MAH (KUZCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YUKARI GEDERNEK MAH (EVEYİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YÜRÜKOĞLU MAH (KOZLUKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ABACIOĞLU MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ABALIOĞLU MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ADALIOĞLU MAH (KARABAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AĞALAR MAH (MAHMUTOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AHATOĞLU MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AHMETBEYLER MAH (VELİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AHMETÇİOĞLU MAH (YASSIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AHMETLER MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AHMETOĞLU MAH (AKÇASU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AKBALDIR MAH (ALPARSLAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AKBIYIK MAH (ALPARSLAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AKİFBEYLER MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ALAGÖZLER MAH (GÜMÜŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ALAZLAR MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ALDIBAŞOĞLU MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ALİBEYOĞLU MAH (ALPARSLAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ALTUVAKLAR MAH (OSMANBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ARAPOĞLU MAH (ÇOLAKPEHLİVAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ARIKLAR MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ARSLANOĞLU MAH (MÜFETTİŞLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AŞAĞI MAH (AKÇASU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AŞAĞIÖREN MAH (MAHMUTOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ATAMANLAR MAH (BÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AYDINLAR MAH (BAŞLARKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AYGÜN MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AYOĞLU MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AYVATLAR MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "AZİZOĞLU MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BAKİOĞLU MAH (MÜFETTİŞLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BARAKLAR MAH (ERMEKOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BARUTCUOĞLU MAH (YILANLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BAYRAKLI MAH (BÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BAYRAMOĞLU MAH (HATİPLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BEKÇİOĞLU MAH (YAZICIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BEKİROĞLU MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BEKMEZCİOĞLU MAH (KARAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BEKTAŞİ MAH (İSLAMKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BELEN MAH (BILIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BERBERLER MAH (ÇORAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BERBEROĞLU MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BEŞİROĞLU MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BODURLUR MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BODUROĞLU MAH (NİZAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BONCUKOĞLU MAH (ÇOLAKPEHLİVAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BOZCUOĞLU MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BOZOĞLU MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BOZOĞLU MAH (YAZICIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BÖCEKOĞLU MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "BUDAK MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CANDAROĞULLARI MAH (ÇORAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CEBECİOĞLU MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CELLER MAH (VELİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CEPCİOĞLU MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CERELLER ÇAY MAH (BILIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CERELLER MAH (BILIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CİCİBAŞOĞLU MAH (İSABEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CİNBİROĞLU MAH (MAHMUTOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CİNİBRAHİMLER MAH (NİZAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CİNLER MAH (ÇORAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CİNÖMEROĞLU MAH (ÇOLAKPEHLİVAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CİVAKLAR MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CİVAKOĞLU MAH (BÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CURUKLAR MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "CURUKOĞLU MAH (KARAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAKALOĞLU MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAKMAKLIOĞLU MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇALGAMOĞLU MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇANTIOĞLU MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAVUŞOĞLU MAH (İSABEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAY MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAY MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAY MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAY MAH (HALİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAY MAH (KOMŞULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAY MAH (ÖZPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAY MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAY MAH (YILANLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇAYIRBAŞI MAH (KABACA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇEKİRDEKÇİOĞLU MAH (KOMŞULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇENGERE MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇİFTLİK MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇİĞBASMAZOĞLU MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇİLHASANOĞLU MAH (ÇOLAKPEHLİVAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇİLLEROĞLU MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇOBANPINARI MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇOLAK VERMİŞ MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇOMU MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇÖKELEZLER MAH (MAHMUTOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÇUBUKÇUOĞLU MAH (YAZICIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DALKIÇOĞLU MAH (KOMŞULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DANKAZLAR MAH (AHMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DAVULCUOĞLU MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DEĞİRMENCİLER MAH (YILANLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DELİACILAR MAH (DEDEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DEMİRCİLER MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DEMİRCİLER MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DEREKÖY MAH (KABACA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DERİNLER MAH (HATİPLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DEVECİÖREN MAH (TELLİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DİBEKOĞLU MAH (YAZICIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DORUK MAH (TÜRKMENOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DÖNGELLER MAH (YILANLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "DURNAOĞLU MAH (YILANLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "EBEKAYA MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ELİKOĞLU MAH (ÖZPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "EMİNÇAVUŞLAR MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "EMİRLER MAH (YILANLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ERMEK MAH (ERMEKOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ESÜRÜK MAH (BAŞLARKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "EYNEBİOĞLU MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "EYÜPLER MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "FAZLIOĞLU MAH (KOMŞULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GEBEDEKOĞLU MAH (BÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GEDİKOĞLU MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GEDİKOĞLU MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GEDİKOĞLU MAH (TÜRKMENOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GEMEOĞLU MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GERİŞ MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GERİŞ MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GÖKMENOĞLU MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GÖKMENOĞLU MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GÖKTEPE MAH (AHMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GÖLLÜ MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GÜLLÜOĞLU MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GÜNEY MAH (KARAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "GÜNEY MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HABİBOĞLU MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HACI HALİLOĞLU MAH (İSABEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HACIİBRAHİMOĞLU MAH (ÇORAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HACIİMAMOĞLU MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HACILAR MAH (HÜSEYİNÇAVUŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HACIOĞLU MAH (SEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HACIOĞLU MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HACIÖMEROĞLU MAH (KARABAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HALİLEFENDİOĞLU MAH (ÇOLAKPEHLİVAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HATIPOĞLU MAH (KARABAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HATİPLER MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HATİPOĞLU MAH (MÜFETTİŞLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HAZNEDAROĞLU MAH (ÇORAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HEBİLOĞLU MAH (TÜRKMENOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HIDIRLAR MAH (GÜMÜŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HIRABAŞOĞLU MAH (DEDEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HIRÇAOĞLU MAH (MUMCUOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HIŞIRLAR MAH (HIŞIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "HOCAOĞLU MAH (ATAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ISBAHLAR MAH (BAŞLARKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ISLAKLAR MAH (ÇORAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İBİŞOĞLU MAH (KARAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İBRAHİMBEYLER MAH (HIŞIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İBRAHİMÇAVUŞLAR MAH (VELİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İBRAHİMOĞLU MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İMAMLAR MAH (KARABAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İNAMLAR MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İNCEBACAKLAR MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İNCELER MAH (ÇORAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İNCİRCİOĞLU MAH (İSABEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "İVLE MAH (DEREBULACA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KABACA MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KABASAKALLAR MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADEMLER MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADEMLER MAH (SEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADEMOĞLU MAH (HIŞIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADIKÖY MAH (BAŞLARKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADIKÖYÜ MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADILAR MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADIMEHMETOĞLU MAH (NİZAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADIOĞLU MAH (KARAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KADIOĞLU MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAFADAROĞLU MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAFAROĞLU MAH (ERMEKOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAHYAOĞLU MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KALAZOĞLU MAH (ÇAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KALINCILAR MAH (HALİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAMBUROĞLU MAH (HIŞIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KANLIKAYA MAH (İSABEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAPÇIOĞLU MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAPUCUOĞLU MAH (VELİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAPUCUOĞLU MAH (YASSIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARA KAHYAOĞLU MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARACAOĞLU MAH (SEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARADERE MAH (TOHUMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARAGÜLMEZLER MAH (HALİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARAHÜSEYİNOĞLU MAH (YILANLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARGALAR MAH (NİZAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARGAOĞLU MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KARTOĞLU MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KASAFETOĞLU MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAVUNCUOĞLU MAH (ÖZPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAYMAKÇIOĞLU MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KAZKONDU MAH (HALİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KEDİOĞLU MAH (TELLİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KEKLİKOĞLU MAH (SEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KELEŞOĞLU MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KELOĞLU MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KEVKEROĞLU MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KILIÇOĞLU MAH (MUMCUOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KIŞLA MAH (HALİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KM 18 MAH (ATAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOCABACAKLAR MAH (AHMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOCABAŞOĞLU MAH (DEDEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOCABIÇAKLAR MAH (BAŞLARKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOCABIÇAKLAR MAH (HALİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOCADAYIOĞLU MAH (KARABAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOCAİHSANOĞLU MAH (ÇORAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOCAOĞLU MAH (HIŞIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOÇAK MAH (AKÇASU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KODAMANOĞLU MAH (BAŞLARKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOLCAKOĞLU MAH (KARABAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOMŞUOĞLU MAH (YILANLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KONAKLAR MAH (ÇOMAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KONTOROĞLU MAH (BÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KORASANLI MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KOZLUÇAY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖLEOĞLU MAH (KARABAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖPRÜBAŞI MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖPRÜBAŞI MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖROĞLU MAH (YASSIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖSELER MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖSELER MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖSEOĞLU MAH (AKÇASU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖSEOĞLU MAH (HATİPLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖSEOĞLU MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÖŞELER MAH (ÇORAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KURDOĞLU MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KURMALI MAH (YAZICIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KURNALI MAH (YAZICIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KUZ MAH (ÇAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KUZLUOĞLU MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "KÜLOĞLU MAH (ALPARSLAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "LÜLECİOĞLU MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MADENCİOĞLU KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MAHMUTOĞLU MAH (BILIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MAHMUTOĞLU MAH (TELLİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MALOĞLU MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MALYA MAH (TOSUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MANAVOĞLU MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MANDIRACIOĞLU MAH (ERMEKOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MANTAROĞLU MAH (VELİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MEHALLEMOĞLU MAH (ATAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MENDELLER MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERDİVANOĞLU MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (AHMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (AKÇASU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (ALPARSLAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (BILIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (ÇAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (DEDEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (DEREBULACA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (ERMEKOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (GÜMÜŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (GÜRÇEŞME KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (HÜSEYİNÇAVUŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (İSLAMKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (KABACA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (KARABAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (KARAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (KOMŞULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (MAHMUTOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (MEKEKLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (MUMCUOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (MÜFETTİŞLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (MÜSTAKİMLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (NİZAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (OSMANBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (ÖZBAĞI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (SARNAZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (SEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (TELLİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (TOSUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (TÜRKMENOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (VELİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (YASSIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MERKEZ MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MESTANOĞLU MAH (ATAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MIDIKOĞLU MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MUMLAR MAH (HÜSEYİNÇAVUŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MURATLAR MAH (DEDEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MURATOĞLU MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MUSTAFA BAŞOĞLU MAH (NİZAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MUT MAH (KARAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "MUTAFLAR MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "NEBİOĞLU MAH (BAŞLARKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ODABAŞOĞLU MAH (AHMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ORNAKÖY MAH (ÇAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ORUÇOĞLU MAH (SARNAZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ORUZLAR MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "OSMANALİ MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "OSMANBEYLER MAH (ÖZPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "OSMANLAR MAH (HIŞIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÖMERCİOĞLU MAH (ALPARSLAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÖMERÇAVUŞLAR MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÖMEROĞLU MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ÖTEKÖY MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "PARMAKSIZOĞLU MAH (KABACA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "RAHMANOĞLU MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "RESULLER MAH (ATAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SAFİYEOĞLU MAH (ALPARSLAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SAĞIROĞLU MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SALBAŞLAR MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SARACIK MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SARAÇOĞLU MAH (BILIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SARI HÜSEYİNOĞLU MAH (PINARÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SARIOĞLU MAH (HALİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SARNUÇ MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SARSIKLAR MAH (HÜSEYİNÇAVUŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SARSIKOĞLU MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SAYILIOĞLU MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SEFERLER MAH (SABUNLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SEYREKBASANOĞLU MAH (NİZAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SİRKECİOĞLU MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "SÖBELEKLER MAH (ATAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ŞABANOĞLU MAH (YASSIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ŞEFOĞLU MAH (BÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ŞİMŞEKLER MAH (ÇOLAKPEHLİVAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ŞİŞMANOĞLU ÇAY MAH (BILIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ŞÜKÜROĞLU MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TABAKLI MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TASLAKLAR MAH (DEDEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TAŞCIOĞLU MAH (MÜFETTİŞLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TAŞÇILAR MAH (YAZICIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TAZICIOĞLU MAH (KOMŞULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TEKELER MAH (HÜSEYİNÇAVUŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TELBİSOĞLU MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TERZİOĞLU MAH (KOMŞULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TERZİOĞLU MAH (MÜFETTİŞLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TIĞLAR MAH (OĞUZHAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TIĞOĞLU MAH (BAKIRCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TOHUMLAR KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TOPAL AHMETOĞLU MAH (İSABEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TOPÇAYI MAH (BÖLÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TURGUTOĞLU MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TÜMENOĞLU MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "TÜRDÜOĞLU MAH (ÇOMAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "ULUKOZ MAH (HALİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "UZUN ALİOĞLU MAH (HIŞIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "UZUNSELLER MAH (TABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "VAKIF MAH (BAŞLARKADI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YALILIOĞLU MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YANAZOĞLU MAH (HIŞIROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YAPLAR MAH (YILANLICAKUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YAPRAKOĞLU MAH (İSABEYLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YAYALAR MAH (GÜMÜŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YAYALAR MAH (NİZAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YAZICIOĞLU MAH (YAZICIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YENİ HOCAOĞLU MAH (ATAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YENİ MAH (BURHANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YENİ MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YENİ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YENİKÖY MAH (MEKEKLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YOKARIBAŞ MAH (HALİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YUKARIKÖY MAH (VELİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "DEVREK",
+    "Mahalle": "YUSUFOĞLU MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BEKYERİ MAH (GÜLÜÇ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇENGEL MAH (GÜLÜÇ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (GÜLÜÇ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÖRENCİK MAH (GÜLÜÇ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ARMUTÇUK MAH (KANDİLLİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GEYİKBELİ MAH (KANDİLLİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÖKÇELER MAH (KANDİLLİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ŞEHİTLİK MAH (KANDİLLİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YENİ MAH (KANDİLLİ BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AKARCA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BAĞLIK MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BALI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BELEN MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BELENYENİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BÖLÜCEK MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DAĞLAR MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ELMA TEPE MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÖKTEPE MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÜLDERE MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HAMZAFAKILI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KAVAKLIK MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KEPEZ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KESTANECİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KIRMACI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KIYICAK MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KİRMANLI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KOCAALİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KORUBAŞI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KÖSELER MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MURTAZA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MÜFTÜ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ORHANLAR MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÖMERLİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÖREN MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SARIKOKMAZ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SÜLEYMANLAR MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TOPÇALI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "UZUNÇAYIR MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "UZUNMEHMET MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AHMETLİ BAKIMEVİ MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AKILLI MAH (AŞAĞIKAYALIDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AKKÖY MAH (ULUDAĞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AKYAZI MAH (ŞAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ARMUTLUCUMA MAH (AYDIN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ASARLI KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AŞAĞI MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AŞAĞI MAH (KIZILCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AŞAĞI MAH (SOĞANLIYÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AŞAĞIHOCALAR KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AŞIKLI MAH (ABDİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AZİZBEYLER MAH (YAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BAGILLAR MAH (YUNUSLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BAKIRLIK KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BALABAN MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BEREKETLER MAH (DEDELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BURGUCU MAH (YAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BURUNCUK MAH (KEŞKEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "CARİYELİ MAH (KETENCİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "CEBECİ MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇAKALOVASI MAH (DEDELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇALCA MAH (TEPEÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇATAKLI MAH (PEMBECİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇATALÇAM MAH (YUNUSLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇAVUŞLAR MAH (KÜLAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇAYIRBAŞI MAH (DAVUTLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇEVLİK KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇOBANLAR MAH (SOĞANLIYÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇOLLAR MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇÖLEMEN MAH (YENİDOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇÖMEZOĞLU MAH (SOĞANLIYÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇUBUKLU MAH (GÜLLÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DELİHAKKI MAH (SOĞANLIYÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DEMİRCİLER MAH (PINARCIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DERE MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DEREKÖY MAH (ELMACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DOĞUŞLAR MAH (YUNUSLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ESENTEPE MAH (KIZILCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ESENTEPE MAH (SÜCÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ESENTEPE MAH (ŞAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÖLEVİÇ MAH (SÜLEYMANBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÜLLÜK MAH (MERKEZ MAH) (GÜLLÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÜLYALI MAH (ABDİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HACIGİL MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HACIOSMANLAR KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HACIUSLU KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HACULLU MAH (SÜLEYMANBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HAMİTLİ MAH (KURTLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HASBEYLER MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HATİBLER MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HATİPLER MAH (YUNUSLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HOBALLAR MAH (BALLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HOBRÖYLER MAH (ELMACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "İSA MAH (ŞAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KABAKLAR MAH (ŞAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KABAKOZ MAH (AYDIN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KADI MAH (YAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KAHYALAR MAH (KETENCİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KALAYCILAR MAH (HALAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KALAYCILAR MAH (OSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KAPANÇATI MAH (ALACABÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KARALAR MAH (ABDİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KARAOSMANLAR MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KARGALAR MAH (ABDİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KASIMLI MAH (KÜLAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KATIRCIOĞLU MAH (KÜLAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KAYABAŞI MAH (ESENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KAYMAKÇILAR MAH (KÜLAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KEMER MAH (ULUDAĞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KESTANETARLASI MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KIŞLA MAH (AYDIN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KIZILCA MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KİRENCİK MAH (KİRENCİK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KOCABELEN MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KOCALAR MAH (ÇAYLIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KOYUNLU MAH (HALAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KÖMÜRCÜLER MAH (KIZILCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KÖSELER MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KÖYİSTAN MAH (SOĞANLIYÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KUŞLAR MAH (DANİŞMENTLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MANAŞLI MAH (ŞAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ABDİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ALACABÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (AŞAĞI MAH) (DANİŞMENTLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (AŞAĞIKAYALIDERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (AYDIN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (BALLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ÇAMLIBEL KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ÇAYIRLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ÇAYLIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (DAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (DAVUTLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (DEDELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (DÜZPELİT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ELMACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ESENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (GEBE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (HALAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (HASBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (IŞIKLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (İMRANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (İSKENDERLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (KEŞKEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (KETENCİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (KURTLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (KÜLAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (OSMANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ÖĞBERLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (PEMBECİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (PINARCIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (RAMAZANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (RÜŞANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (SAKALLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (SALTUKLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (SÜCÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (SÜLEYMANBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ŞAMLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (TEPEÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ULUDAĞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ÜÇKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (VAKIF KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (VELİDAĞ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (YALNIZÇAM KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (YARAŞLIYÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (YAZIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (YENİDOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (YUKARIHOCALAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (YUNUSLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ZINDANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MİNATLI MAH (ABDİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "NUSRATLI MAH (IŞIKLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "OKULYANI MAH (ABDİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "OKUŞLAR MAH (YENİDOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ORTA MAH (KIZILCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ORTA MAH (YAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÖRENCİK MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "PAZARPINAR MAH (YENİ PAZAR MAH) (KURTLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "PİLLER MAH (ESENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SAKA MAH (AYDIN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SAKALAR MAH (ESENLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SALTUKLU MAH (BALLICA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SANDALCILAR MAH (PINARCIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SARIHAMZALI MAH (YUKARIHOCALAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SERDAROĞLU MAH (SÜLEYMANBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SUBAŞI MAH (SÜLEYMANBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TABAKLAR MAH (ABDİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TAKLAR MAH (ZINDANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TANTANLAR MAH (İMRANLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TERZİ KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TİNGİLLER MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TOPYERİ MAH (KEŞKEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TORUNLU MAH (YAZIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ULAŞLAR MAH (HALAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YAKALAR MAH (YUNUSLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YASLAR MAH (PINARCIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YAVUZLAR MAH (ZINDANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YENİ MAH (ÇAYIRLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YENİ MAH (HASBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YENİ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YENİKÖY MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YÖRÜK MAH (SOĞANLIYÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YÖRÜK MAH (YARAŞLIYÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YUKARI MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YUKARI MAH (SOĞANLIYÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ZOROĞLU MAH (RAMAZANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "A.SOFULAR MAH (HASANKAHYALAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AHMETLİ MAH (ÇİĞDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AHMETPAŞALAR MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ALACALAR MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AŞAĞI MAH (KARAKAVUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AŞAĞI MAH (ORMANLI ORMANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "AYLAR MAH (KIZILCAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BALLI MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "BURUNÖREN MAH (ORTACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "CAMGÖZLER MAH (ÇİĞDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇAMLAR MAH (ÜVEYİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇANKIZI MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇİFTLİK MAH (EMİRALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇİLLER MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ÇOMAKLAR MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DAL MAH (ORTACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DALDABANLAR MAH (ÇİĞDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DANIŞMANTLI MAH (EMİRALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "DOPLAR MAH (BAŞÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ERDELLİ MAH (BAŞÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ESKİLER MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "FİRENKLER MAH (TOYFANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "FODLAR MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "GÖLİÇİ MAH (ORMANLI ORMANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HACULLU MAH (KAYMAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HALI MAH (ORTACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "HOCA MAH (KAYMAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ILGAYIR MAH (BAŞÖRENDOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "İBRAHİMCİ MAH (AKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "İLYASLI MAH (BAŞÖRENDOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KADILAR MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KARABALÇIK MAH (KARAKAVUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KARACAKAYALAR MAH (BAŞÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KARCILAR MAH (ORTACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KAVAKLIK MAH (KARAKAVUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KAYALAR MAH (ÇİĞDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KAYIPLAR MAH (ARTIKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KERİMBEYLER MAH (BAŞÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KINCA MAH (EMİRALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KIŞLA MAH (ORTACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KİRAZAĞILI MAH (KARAKAVUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KÖSELER MAH (ÇİĞDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KUREŞLER MAH (EMİRALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KUYTAK MAH (ORMANLI ORMANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KUYUMCULAR MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "KÜPEŞLER MAH (ÇİĞDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MEHEMLİ MAH (SERİNTEPE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MEKTEP MAH (TOPALLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (EMSALLER MAH) (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (AKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ALAPLISOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ARTIKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (BAŞÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (BAŞÖRENDOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ÇÖMLEKÇİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (EMİRALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (GANA MAH) (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (HASANKAHYALAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (KARAKAVUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (KAYMAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (KIZILCAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ORMANLI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (OVA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (TOPALLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (TOYFANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MERKEZ MAH (ÜVEYİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MUDAHLI MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MUHALLI MAH (ÜVEYİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "MURSALLI MAH (KAYMAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "OBRUKLAR MAH (BAŞÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "RESULLÜ MAH (HASANKAHYALAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SANAYİ MAH (TOYFANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SARIAHMETLER MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SARICA MAH (ORTACI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SARIKAYA MAH (ORMANLI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SEKELİ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SEYİT AHMETLİ MAH (ORMANLI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SİNİTLİ MAH (ORMANLI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "SUCAHLI MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "ŞIHLAR MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TEPEKÖY MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TEPEKÖY MAH (KARAKAVUZ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "TERZİ MAH (EMİRALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "EREĞLİ",
+    "Mahalle": "YENİ MAH (KIZILCAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KADIOĞLU MAH (BAKACAKKADI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "MERKEZ MAH (BAKACAKKADI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "SATIBEYLER MAH (BAKACAKKADI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ONMAYIS MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ÜÇBURGU MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ABASIZOĞLU MAH (BAKİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ABDİBEYOĞLU MAH (GAZİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "AKSAKALOĞLU MAH (AKTARLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ALAOĞLU MAH (BODAÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ALİBEYOĞLU MAH (BAKİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ALİMLER MAH (NAMAZGAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ALİUSTA MAH (UZUNAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "BAKILLAR MAH (BAKİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "BAYRAKTAR MAH (ÖRMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "BEKİRBAŞOĞLU MAH (BAKİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "BEKİROĞLU MAH (MUHARREMLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "BODUROĞLU MAH (AKTARLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "CARİOĞLU MAH (BODAÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "CEBECİLER MAH (HACIMUSA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "CİVELEKLER MAH (DUHANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ÇAPCIOĞLU MAH (BAKİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ÇAY MAH (ÖRMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ÇAY MAH (UZUNAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ÇAYIR MAH (AKTARLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ÇUKUR MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "DAĞKÖYÜ MAH (KARAHATİPLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "DERVİŞLER MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "EMİROĞLU MAH (ÖRMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ENBİOĞLU MAH (VEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ERENLER MAH (ÖRMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ETCİOĞLU MAH (BAKİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ETCİOĞLU MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "GEDİKLER MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "GEGEKOĞLU MAH (DUHANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "GÜNBELLER MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "HACIMUSA MAH (HACIMUSA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "HACIOĞLU MAH (VEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "HATİPLER MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "HAYLAMAZLAR MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "HELME MAH (ALİUSTA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "HERKİME MAH (HACIMUSA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "HÜSEYİNBEYOĞLU MAH (KARAHATİPLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "İBADİÇELEBİOĞLU MAH (UZUNAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "İBRAHİMBEYOĞLU MAH (VEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "İMAMLAR MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "İNCEMEHMETLER MAH (GAZİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KARAHATİPLER MAH (KARAHATİPLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KARANLIKOĞLU MAH (GAZİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KARŞIYAKA MAH (ALİUSTA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KELEZOĞLU MAH (VEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KELLECİOĞLU MAH (DUHANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KÖPRÜBAŞI MAH (GAZİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KÖSEOĞLU MAH (VEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KURTDAMI MAH (BODAÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KÜTÜKCÜOĞLU MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "KÜTÜKOĞLU MAH (KARAHATİPLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "MANKIROĞLU MAH (MUHARREMLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "MERKEZ MAH (AKTARLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "MERKEZ MAH (ALİUSTA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "MERKEZ MAH (BODAÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "MERKEZ MAH (DAĞDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "MERKEZ MAH (PAZARLIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "MURATLAR MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "MUSABEYOĞLU MAH (KARAHATİPLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "MÜSEBEYOĞLU MAH (GAZİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "OLUKLAR MAH (AKTARLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "OSMANBAŞOĞLU MAH (VEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "PARTLAKOĞLU MAH (UZUNAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "PAŞABEYOĞLU MAH (GAZİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "SAKALAR MAH (MUHARREMLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "SALMANLAR MAH (ÖRMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "SARAÇLAR KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "SATUKLAR MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "SİMİTCİOĞLU MAH (ÖRMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "SOĞUKSU MAH (ALİUSTA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "SÜLEYMAN ÇELEBİOĞLU MAH (UZUNAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ŞIHLAR MAH (UZUNAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "TAVUKÇUOĞLU MAH (ÖRMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "TEPEKÖY MAH (BAKİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "TEPEKÖY MAH (BODAÇ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "TÜTÜNCÜOĞLU MAH (DUHANCILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "UZUNELLER MAH (ÖRMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "VARATOĞLU MAH (VEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "VEYİSOĞLU MAH (VEYİSOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "YABOĞLU MAH (ÖRMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "YARDİBİ MAH (UZUNAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "YENİ MAH (UZUNAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "YOLCUOĞLU MAH (AKTARLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "YUKARI MAH (ALİUSTA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "GÖKÇEBEY",
+    "Mahalle": "ZAİMOĞLU MAH (NAMAZGAH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "CUMA YANI MAH (ÇATALAĞZI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "DOĞANCILAR MAH (ÇATALAĞZI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "HACIOĞLU MAH (ÇATALAĞZI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "KIRIMSA MAH (ÇATALAĞZI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "KOKURDAN MAH (ÇATALAĞZI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "KUZYAKA MAH (ÇATALAĞZI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "MERKEZ MAH (ÇATALAĞZI BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "AYİÇİ MAH (GELİK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "AYİÇİ MERKEZ MAH (GELİK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "ESEN MAH (GELİK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "GELİK MERKEZ MAH (GELİK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "KIRAT MAH (GELİK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "BELEDİYE SİTESİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "BÖLÜM MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "DAMARLI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "HİSAR ARKASI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "KARADON MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "SUBATAN MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "AŞAĞI MAH (GÖBÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "BAŞKÖY MAH (TÜRKALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "ÇALCA MAH (ŞİRİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "HALİLLER MAH (GÖBÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "HATİPLER MAH (TÜRKALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "KARŞI MAH (GÖBÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "KARŞIKÖY MAH (TÜRKALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "MERKEZ MAH (KURTKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "MERKEZ MAH (ŞİRİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "MERKEZ MAH (TÜRKALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "MUSTAKİLLER MAH (TÜRKALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "ORUÇLAR MAH (GÖBÜ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "YENİKÖY MAH (KURTKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "YUKARIDERE MAH (TÜRKALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "CUMHURİYET MAH (MUSLU BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "EMİRLER MAH (MUSLU BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KİLİMLİ",
+    "Mahalle": "MERKEZ MAH (MUSLU BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "19 MAYIS MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "ESENKÖY MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "KILIÇ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "TAŞBACA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "YAHMA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "ABACIOĞLU MAH (ÜÇKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "ARDINÇ MAH (SAKAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "AŞAĞI MAH (UZUNGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "AŞAĞIÇAYIR KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "BALÇIKLI KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "CEYÜP MAH (GÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "ÇAMKÖY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "ÇARDAŞ KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "ÇENGELLİ MAH (SAKAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "DAĞKÖY KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "DEĞİRMEN ÇAYI MAH (SEYFETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "DEMİRCİLER MAH (KARGALAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "FUTA KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "HAMYON MAH (SAKAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "HASANBAŞOĞLU MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "HEMDÜLLER MAH (UZUNGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "ILICAKYÜZÜ MAH (KÖSERECİK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "ILIKSU MAH (SAKAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "KAHYALAR MAH (UZUNGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "KARŞI MAH (AKŞEYH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "KATIRLI MAH (BOZCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "KAYADİBİ MAH (UZUNGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MAKALAR MAH (ÇIRGAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MANAŞLAR MAH (ENSEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (AKŞEYH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (BOZCA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (ÇIRGAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (EBEGÜMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (ENSEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (GÜCEK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (KARGALAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (KIZILCAKESE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (KOZLUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (KÖSERECİK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (SAKAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (SEYFETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (SİVRİLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MERKEZ MAH (ÜÇKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "MURATLAR MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "ORTA MAH (UZUNGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "TEPE MAH (SEYFETLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "TOPTAŞI MAH (KIZILCAKESE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "YAYLACIK MAH (EBEGÜMECİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "YENİ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "YUKARI İHSANİYE MAH (KOZLUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "YUKARI MAH (AKŞEYH KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "YUKARI MAH (ÇIRGAN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "KOZLU",
+    "Mahalle": "YUKARI MAH (UZUNGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMETLER MAH (HİMMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİ VELİOĞLU MAH (HACIALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİBÜYÜK MAH (OSMANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARABANCI MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARSLANOĞLU MAH (KARADERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ASMACI MAH (KARADERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYINLI MAH (HİMMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞOĞLU MAH (KORUCAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞÖREN MAH (KUMTARLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELEVREK MAH (AYVATLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYLER MAH (KORUCAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYTEPE MAH (BEYCUMA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİRLİK MAH (BEYCUMA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZCAOĞLU MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖLÜÇEK MAH (AYVATLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKALLAR MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIK MAH (BEYCUMA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAVUŞLAR MAH (KELLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (ECELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (HACIALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇURUKLAR MAH (HACIALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAVULLAR MAH (HACIALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERELİ MAH (KORUCAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EBELER MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİTEN MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ETLER MAH (KORUCAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EYVAZOĞLU MAH (KORUCAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇEBEL MAH (TAŞÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEY MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACILAR MAH (ECELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANLAR MAH (AYVATLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATIPLAR MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMLAR MAH (KARADERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KABALAKLI KÖYÜ"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (HİMMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (KORUCAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KASIMLAR MAH (BEYCUMA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILAVLAR MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIYMETOĞLU MAH (HACIALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRAZLI MAH (KUMTARLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZCA MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MADENLER MAH (KUMTARLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ GERDEK MAH (HİMMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ KELLER MAH (KELLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AYVATLAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BEYCUMA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ECELER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HACIALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KUMTARLA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (OSMANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TAŞÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUDAROĞLU MAH (KARADERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MURATLI MAH (BEYCUMA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSUNLU MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖMEROĞLU MAH (OSMANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAZARCIK MAH (OSMANLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RAHMANLI MAH (KORUCAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RECEPOĞLU MAH (HACIALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAY MAH (HACIALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARI OSMANLAR MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAYILILAR MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEMERCİOĞLU MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAHTACI MAH (KARADERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞAĞIL MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TATOĞLU MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TORLAKLAR MAH (KALEOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNLAR MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VELİKÖY MAH (KARADERE KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YALLIOĞLU MAH (HACIALİ KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA MAH (HİMMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (BEYCUMA BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUSUFOĞLU MAH (HİMMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CELEPÇİOĞLU MAH (ELVANPAZARCIK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (ELVANPAZARCIK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALCA MAH (ELVANPAZARCIK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELVAN MAH (ELVANPAZARCIK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAYAT MAH (ELVANPAZARCIK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ELVANPAZARCIK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TASMACI MAH (ELVANPAZARCIK BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADI MAH (KARAMAN BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMANLAR MAH (KARAMAN BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAMAN BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SATIKLI MAH (KARAMAN BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (KARAMAN BELDESİ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALACA MAH (KARDEŞLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (OLUKYANI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIKÖY MAH (SARIMSAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİKİMÇE MAH (ÇAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMLAR MAH (OLUKYANI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞI MAH (SARIMSAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİREÇ MAH (ÇAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOKAKSU MAH (KARDEŞLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖROĞLU MAH (KÖROĞLU KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MARIKPINAR MAH (KARDEŞLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ ÇAĞLI MAH (ÇAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ ÇAYIRCIK MAH (ÇAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ALANCIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARDEŞLER KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZARLIK MAH (SARIMSAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (OLUKYANI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RECEP HARMAN MAH (SARIMSAK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAPÇA MAH (SAPÇA KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (OLUKYANI KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZEYTİN 1 MAH (ALANCIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZEYTİN 2 MAH (ALANCIK KÖYÜ)"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ASMA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLIK MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞTARLA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİRLİK MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYDAMAR MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇINARTEPE MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİLAVER MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNAĞZI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNCİVEZ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAELMAS MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEŞRUTİYET MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİTHATPAŞA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ON TEMMUZ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TERAKKİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİL MAH"
+  }
+]

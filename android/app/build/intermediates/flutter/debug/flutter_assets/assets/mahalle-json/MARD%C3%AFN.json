@@ -1,0 +1,3532 @@
+[
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "GÖKÇE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ACAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "AHMETLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "AKBAĞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "AKINCI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ALAKUŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ALIMLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "AMBAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ARAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ARPATEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "AŞAĞIYENİKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "AVCILAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "AYTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "BAĞLICA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "BOZTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "BUĞDAY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "CEVİZLİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "CEVİZPINARI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ÇAĞLAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ÇALIŞLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ÇAYIRPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ÇIPLAKTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ÇİFTLİKKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ÇUKURYURT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "DARA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "DİBEKTAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "DÜZLÜK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ELMABAHÇE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "EROĞLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ERYERİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ESKİKALE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "GÖLLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "GÜNEYLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "GÜRAĞAÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "HAMZABEY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "HATUNLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "HAYDAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "HÜYÜKLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "KARADEMİR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "KONAKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "KUMLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "KUYULU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "KÜÇÜKKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "NUR MAH (AKINCI MAH)"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "OFİS MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "OFİSOSB MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ÖZLÜCE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "SAKALAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "SULAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "SULTANKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "TANDIR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "TİLKİTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "TOZAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YALIM MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YARDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YAYLABAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YAYLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YOLBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YUKARIAYDINLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YUKARIHATUNLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YUKARIYENİKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YÜCE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "KABALA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "13 MART MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "NUR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ÇABUK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "DİYARBAKIR KAPI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "EMİNETTİN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ENSAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "GÜL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "KAYACAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "KOTEK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "LATİFİYE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "MEDRESE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "NECMETTİN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "SARAÇOĞLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "SAVURKAPI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ŞAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ŞEHİDİYE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "TEKER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "ULUCAMİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ARTUKLU",
+    "Mahalle": "YENİKAPI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "AKÇAKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "AKYOL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ALAYUNT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ALTINOLUK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ALTIYOL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "BAĞÖZÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "BAHÇEBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "BATUR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "BAYSUN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "BEĞENDİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "BELEN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "BOSTANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ÇATALAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ÇATALÇAM MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ÇAVUŞLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ÇELİKKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ÇUKURDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "DEĞERLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "GÜRGEN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "GÜRIŞIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ILISU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "KARABAYIR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "KARTALKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "KILAVUZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "KISMETLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "KORUCU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "KUMDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "KUŞLUCA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ORMANİÇİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "SAFA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "SUÇATI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "SÜMER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "TANYERİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "TAVŞANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "TEMELLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "ULAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "YANILMAZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "YILMAZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DARGEÇİT",
+    "Mahalle": "YONCALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ADAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ADAKENT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "AHMETLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "AKÇAY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ALAGÖZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ALANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ALİBEY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "AMBARLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "AŞAĞIMEZRA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ATLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BAĞARASI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BALLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BALOVA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BAŞARAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BAYIRKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BAYRAKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BEŞBUDAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BOYAKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BOZBAYIR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BOZOK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BÖĞREK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "BURÇKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "CEVİZPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ÇADIRLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ÇAĞIL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ÇATALTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ÇAYKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ÇUKURSU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "DAĞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "DEMİRLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "DENKTAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "DERİNSU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "DİKMEN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "DOĞANCI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "DUMANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "DUMLUCA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "DÜZTAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "GÖKTAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "HAYIRLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "HİSARALTI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ISSIZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "İNCESU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KANATLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KARABURUN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KAYACIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KOCATEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KOÇYİĞİT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KONUK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KOVALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KOVANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KÖSEVELİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KURUÇAY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KUŞÇU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KUTLUCA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KUYULU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "KÜÇÜKPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "MEŞELİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ORTACA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "PINARCIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "PİRİNÇLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "SOĞUKKUYU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "SÖĞÜTÖZÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ŞAHVERDİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ŞEREFLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "TAŞIT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "TEPEBAĞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ÜÇKUYU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ÜÇTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "YAZICIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "YUKARIMEZRA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "DERİK",
+    "Mahalle": "ZEYTİNPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AKALIN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AKÇA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AKÇAPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AKDOĞAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AKKOÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AKTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AKTULGA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AKYAZI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AKYÜZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AKZİYARET MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ALAKUŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ALEMDAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ALİPAŞA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ALTINTOPRAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ARAKAPI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ARAKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ARIKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ARITEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ASLANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AŞAĞIAZIKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ATMACA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "AYAZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BAĞRIBÜTÜN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BAŞAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BEKTAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BELLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BEŞDEĞİRMEN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BEŞEVLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BEŞİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BOZHÖYÜK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BÜYÜKAYRIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BÜYÜKBOĞAZİYE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BÜYÜKDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "BÜYÜKTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "CANTAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇAĞIL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇAKIR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇAMLIDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇANAKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇATALCA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇETİNKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇETİNLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇINARCIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇIPLAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇİMENLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÇİTLİBAĞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DAMLALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DEMET MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DEMİRCİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DEMİRKAPI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DEMİRLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DİKMEN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DOĞANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DORA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DOYURAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DÖRTYOL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DUNAYSIR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "DÜĞÜRK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "EKİNLİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ELBEYLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ERDEM MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ERİKLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "EROĞLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ERSOYLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ESENLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ESKİN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "EŞME MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "EYMİRLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "FINDIKTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "FIRAT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "GÖLLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "GÖZLÜCE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "GÜÇLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "GÜMÜŞDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "GÜNEŞTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "GÜNGÖREN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "GÜNLÜCE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "GÜRMEŞE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "HACIHASAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "HACIYUSUF MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "HAKVERDİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "HALKALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "HARMANDÜZÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "HAZNEDAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "HOCAKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ILICAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "IŞIKÖREN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "İKİKUYU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "İKİZLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "İNANDI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "İPEK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KAHRAMAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KALAYCIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KARABENT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KARAKULAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KARAKUYU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KARAMAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KAŞIKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KATARLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KAYAPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KAYNARCA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KENGERLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KILDUMAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KIRKKUYU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KİLİMLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KOCALAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KOÇHİSAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KOÇLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KONUKLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KÖRSU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KÜÇÜKAYRIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KÜÇÜKBOĞAZİYE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "KÜPLÜCE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "MEZOPOTAMYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ODAKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "OFİS MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "OTLUK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "RIHANİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "SANCARLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "SANDIKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "SARICA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "SARUHAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "SELAHATTİN EYYUBİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "SEVİMLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "SOĞANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "SÜREKLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ŞAHKULUBEY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ŞENYURT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TANRIVERDİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TARLABAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TAŞLICA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TATLICA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TIRAŞLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TİMURÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TOSUNLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "TUZLUCA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ULAŞLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ULUKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "UZUNKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÜÇEVLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ÜLKER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YALINKILIÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YAMAÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YAMANLAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YARIMCA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YAŞARKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YAYIKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YAYLIM MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YEDİKARDEŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YEŞİLLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YOLALDI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YOLDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YOLÜSTÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YONCALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YUKARIAZIKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YUKARIAZIKLI OSB MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YUMRUTAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YUMURCAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YURTDERİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YURTÖZÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YÜCELİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "YÜKSEKTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ZERGAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "KIZILTEPE",
+    "Mahalle": "ZİYARET MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ARIKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ARISU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "AŞAĞIOCAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ATALAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ATLICA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "AYKUT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "BAHÇECİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "BALPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "BİLGE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ÇANKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ÇAYÖNÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "DERECİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "DİKYAMAÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "DURAKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "EKİNCİLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ENGİN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ERDALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "EVCİLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "GÜMÜŞPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "GÜMÜŞYUVA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "GÜNDOĞAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "GÜRGÖZE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "IŞIKYAKA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "İKİSU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "KARAALANİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "KAYALAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "KEBAPÇI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "KEMERLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "KIŞLAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "KOCAKENT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "KONUR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "MEŞELİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ORTAKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ÖMÜRLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "POYRAZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "SAĞMAL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "SAKIZLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ŞANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ŞENYUVA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "TANRIYOLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "TARLACIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ULUTAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "ÜRÜNLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "YAĞMUR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "YALINAĞAÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "YETKİNLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "YUKARIKONAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "YUKARIOCAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MAZIDAĞI",
+    "Mahalle": "YÜCEBAĞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "AKÇAKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "GÖLCÜK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ACIRLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ADAKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ALTINTAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ANITLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "BARDAKÇI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "BARIŞTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "BAŞYURT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "BETHKUSTAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "BUDAKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ÇALDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ÇALPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ÇAMYURT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ÇANDARLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ÇAVUŞLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ÇAYIRLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "DANIŞMAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "DOĞANÇAY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "DOĞANYAZI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "DOLUNAY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "DÜZGEÇİT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "DÜZOBA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "EĞLENCE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ELBEĞENDİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ERİŞTİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "GELİNKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "GÜLGÖZE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "GÜLVEREN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "GÜNGÖREN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "GÜVEN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "HANLAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "HARMANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "İKİZDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "İZBIRAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "KAYALAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "KAYALIPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "KUTLUBEY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "MERCİMEKLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "NARLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ORTACA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ORTAÇARŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "OYUKLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "PELİTLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "SARIKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "SARIKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "SEYİTLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "SİVRİCE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ŞENKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "TAŞLIBURÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "TEPELİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "TOPTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "TULGALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ULUCAMİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ÜÇAĞIL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "YAYVANTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "YEMİŞLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "YEŞİLÖZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "YOLBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "YUVALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "MİDYAT",
+    "Mahalle": "ZİYARET MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "8 MART MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ABDULKADİRPAŞA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "AÇIKKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "AÇIKYOL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "AKAĞIL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "AKARSU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "AKÇATARLA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "BAHÇEBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "BAKACIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "BEYLİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "BÜYÜKKARDEŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ÇAĞLAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ÇALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ÇATALÖZÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ÇİĞDEM MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ÇİLESİZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ÇÖLOVA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DAĞİÇİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DALLIAĞAÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DEĞİRMENCİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DEMİRTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DEVRİM MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DİBEK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DİCLE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DİRİM MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DOĞANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DOĞUŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DURAKBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DURUCA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "DÜZCE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ESKİHİSAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ESKİMAĞARA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ESKİYOL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "FIRAT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "GIRNAVAS MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "GİRMELİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "GÖRENTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "GÜNEBAKAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "GÜNELİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "GÜNYURDU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "GÜRÜN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "GÜVENLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "HASANTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "HEYBELİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "İKİZTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "İLKADIM MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "İPEKYOLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "KALECİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "KANTAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "KARACA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "KOCADAĞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "KURUKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "KUYULAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "KÜÇÜKKARDEŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "MOR-YAKUP MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "NERGİZLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ODABAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "SELAHADDİN EYYUBİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "SINIRTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "TAŞKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "TEKAĞAÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "TEPEALTI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "TEPEÖREN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "TEPEÜSTÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "TURGUTKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ÜÇKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ÜÇYOL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "YANDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "YAVRUKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "YAZYURDU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "YENİTURAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "YERKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "YEŞİLKENT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "YOLBİLEN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "YOLİNDİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "NUSAYBİN",
+    "Mahalle": "ZEYNELABİDİN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "AKYOKUŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "ALIÇLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "ANITTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "BEŞİKKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "ÇALIŞAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "ÇATALYURT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "ÇAYIRALANI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "ÇINARALTI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "ÇİMENLİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "DÖNERDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "DUYGULU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "FISTIKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "GÖLLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "GÜZELAĞAÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "HARMANKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "HAVUZBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "IŞIKDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "İKİPINAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "İKİTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "KAYABALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "KAYADERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "KAYAGÖZE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "KAYAÜSTÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "KAYNAKKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "KOCAKUYU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "KOCASIRT MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "KOVANLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "KÖMÜRLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "MUTLUCA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "OVABAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "ÖZTAŞ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "PINARCIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "SALİHKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "SİVRİTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "SULAKDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "ŞAFAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "TAŞGEDİK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "TAŞLICA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "TAVUKLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "TEKKUYU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "TOKDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "TOPAĞAÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "ÜNSALLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "YAYLATEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "ÖMERLİ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "AKYÜREK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "ARMUTALAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "BAĞYAKA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "BAŞAĞAÇ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "BAŞKAVAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "BENGİSU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "ÇINARÖNÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "DEREİÇİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "DURUSU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "ERKURAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "HARMANTEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "HİSARKAYA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "İÇÖREN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "İŞGÖREN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "KAPLAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "KAYACIKLAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "KAYATEPE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "KIRBALI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "KIRKDİREK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "KOCAHÜYÜK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "KOŞUYOLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "KÖPRÜLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "ORMANCIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "PINARDERE MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "SAFA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "SANCAKLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "SERENLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "SEYDİN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "SOYLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "SÜRGÜCÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "ŞENOCAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "TAŞLIK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "TOKLUCA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "ÜÇERLİ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "ÜÇKAVAK MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "YAYLAYANI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "YAZIR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "YENİLMEZ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "SAVUR",
+    "Mahalle": "YEŞİLALAN MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "ALIÇLI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "BAHÇEBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "BÜLBÜL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "DEREYANI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "GÜL MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "KOYUNLU MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "KÜTÜKLÜ MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "OVAKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "SANCAR MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "ŞİRİNEVLER MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "UZUNKÖY MAH"
+  },
+  {
+    "il": "MARDİN",
+    "ilçe": "YEŞİLLİ",
+    "Mahalle": "ZEYTİNLİ MAH"
+  }
+]

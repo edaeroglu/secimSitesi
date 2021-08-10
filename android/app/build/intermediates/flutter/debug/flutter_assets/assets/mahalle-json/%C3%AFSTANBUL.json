@@ -1,0 +1,4872 @@
+[
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ADALAR",
+    "Mahalle": "BURGAZADA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ADALAR",
+    "Mahalle": "MADEN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ADALAR",
+    "Mahalle": "NİZAM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ADALAR",
+    "Mahalle": "HEYBELİADA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ADALAR",
+    "Mahalle": "KINALIADA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "ANADOLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "ARNAVUTKÖY MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "İMRAHOR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "İSLAMBEY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "MUSTAFA KEMAL PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "NENEHATUN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "BAKLALI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "BOYALIK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "ÇİLİNGİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "DURSUNKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "DURUSU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "HACIMAŞLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "KARABURUN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "SAZLIBOSNA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "TAYAKADIN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "TERKOS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "YASSIÖREN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "BOĞAZKÖY İSTİKLAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "BOLLUCA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "HİCRET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "MAVİGÖL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "DELİKLİKAYA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "HADIMKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "HASTANE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "ÖMERLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "YEŞİLBAYIR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "HARAÇÇI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "KARLIBAYIR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "MAREŞAL FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ARNAVUTKÖY",
+    "Mahalle": "TAŞOLUK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "FERHATPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "İÇERENKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "KAYIŞDAĞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "KÜÇÜKBAKKALKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "AŞIKVEYSEL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "MUSTAFA KEMAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "ESATPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "FETİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "ÖRNEK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "YENİ ÇAMLICA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ATAŞEHİR",
+    "Mahalle": "YENİSAHRA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "AVCILAR",
+    "Mahalle": "AMBARLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "AVCILAR",
+    "Mahalle": "DENİZKÖŞKLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "AVCILAR",
+    "Mahalle": "CİHANGİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "AVCILAR",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "AVCILAR",
+    "Mahalle": "FİRUZKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "AVCILAR",
+    "Mahalle": "YEŞİLKENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "AVCILAR",
+    "Mahalle": "GÜMÜŞPALA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "AVCILAR",
+    "Mahalle": "MUSTAFA KEMALPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "AVCILAR",
+    "Mahalle": "TAHTAKALE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "AVCILAR",
+    "Mahalle": "ÜNİVERSİTE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "SANCAKTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "YENİGÜN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "YILDIZTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "15 TEMMUZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "GÜNEŞLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "KİRAZLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "100. YIL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "DEMİRKAPI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "GÖZTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAĞCILAR",
+    "Mahalle": "MAHMUTBEY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "SİYAVUŞPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "SOĞANLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "KOCASİNAN MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "ŞİRİNEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "ÇOBANÇEŞME MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "YENİBOSNA MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAHÇELİEVLER",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "ATAKÖY 1. KISIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "ATAKÖY 2-5-6. KISIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "ATAKÖY 3-4-11. KISIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "ATAKÖY 7-8-9-10. KISIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "CEVİZLİK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "SAKIZAĞACI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "BASINKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "ŞENLİKKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "KARTALTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "YEŞİLKÖY SB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "ZEYTİNLİK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAKIRKÖY",
+    "Mahalle": "ZUHURATBABA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "ALTINŞEHİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "GÜVERCİNTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "ŞAHİNTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "BAHÇEŞEHİR 1. KISIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "BAHÇEŞEHİR 2. KISIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "BAŞAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "BAŞAKŞEHİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "İKİTELLİ OSB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "ZİYA GÖKALP MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAŞAKŞEHİR",
+    "Mahalle": "ŞAMLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "ALTINTEPSİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "TERAZİDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "VATAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "İSMET PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "KARTALTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "MURATPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "CEVATPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "KOCATEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BAYRAMPAŞA",
+    "Mahalle": "YILDIRIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "ABBASAĞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "CİHANNÜMA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "SİNANPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "AKAT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "ARNAVUTKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "KURUÇEŞME MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "BEBEK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "ETİLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "BALMUMCU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "DİKİLİTAŞ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "GAYRETTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "YILDIZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "LEVAZIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "NİSBETİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "ULUS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "KONAKLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "LEVENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "MURADİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "TÜRKALİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEŞİKTAŞ",
+    "Mahalle": "VİŞNEZADE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ANADOLU HİSARI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "KANLICA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "KAVACIK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "GÜMÜŞSUYU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "YALIKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "BAKLACI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ÇENGELDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ÇUBUKLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "RÜZGARLIBAHÇE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "GÖZTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "YENİ MAHALLE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ACARLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ÇİĞDEM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "İNCİRKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "PAŞABAHÇE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ALİBAHADIR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ANADOLUFENERİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "BOZHANE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "GÖLLÜ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "İSHAKLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "KAYNARCA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "KILIÇLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "MAHMUTŞEVKETPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ÖĞÜMCE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "PAŞAMANDIRA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "POLONEZKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "POYRAZKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "RİVA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ZERZAVATÇI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "AKBABA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ANADOLU KAVAĞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ÇAMLIBAHÇE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "DERESEKİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "GÖRELE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ORTAÇEŞME MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "ÖRNEKKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYKOZ",
+    "Mahalle": "TOKATKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "BÜYÜKŞEHİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "ADNAN KAHVECİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "DEREAĞZI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "GÜRPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "BEYLİKDÜZÜOSB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "MARMARA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "SAHİL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYLİKDÜZÜ",
+    "Mahalle": "YAKUPLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "ARAP CAMİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "BEREKETZADE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "EMEKYEMEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "ŞAHKULU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "CİHANGİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KATİPMUSTAFA ÇELEBİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KILIÇALİ PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KULOĞLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "TOMTOM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "FETİHTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "HALICIOĞLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KEÇECİ PİRİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "ÖRNEKTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "PİRİPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "SÜTLÜCE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "ASMALI MESCİT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "ÇATMA MESCİT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "EVLİYA ÇELEBİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "BEDRETTİN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "CAMİİKEBİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "HACIAHMET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KADIMEHMET EFENDİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KAPTANPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KULAKSIZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KÜÇÜK PİYALE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "PİYALEPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "YAHYA KAHYA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "FİRUZAĞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "HACIMİMİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KEMANKEŞ KARAMUSTAFAPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "MÜEYYETZADE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "ÖMER AVNİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "PÜRTELAŞ HASAN EFENDİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "GÜMÜŞSUYU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KOCATEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "BOSTAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "BÜLBÜL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "ÇUKUR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "HÜSEYİNAĞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KALYONCU KULLUĞU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "KAMER HATUN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "SURURİ MEHMET EFENDİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "ŞEHİT MUHTAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BEYOĞLU",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "19 MAYIS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "ALKENT 2000 MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "ÇAKMAKLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "DİZDARİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "PINARTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "CELALİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "KAMİLOBA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "GÜZELCE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "KUMBURGAZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "EKİNOBA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "MİMAROBA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "MİMARSİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "MURAT ÇESME MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "SİNANOBA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "AHMEDİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "TÜRKOBA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "BÜYÜKÇEKMECE",
+    "Mahalle": "ULUS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "AKALAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "BAHŞAYİŞ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "BAŞAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "BELGRAT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "CELEPKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "ÇAKIL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "ÇANAKÇA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "ÇİFTLİKKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "DAĞYENİCE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "ELBASAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "FERHATPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "FERHATPAŞA SB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "GÖKÇEALİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "GÜMÜŞPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "HALLAÇLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "HİSARBEYLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "İNCEĞİZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "İZZETTİN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "KABAKÇA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "KALEİÇİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "KALFA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "KARACAKÖY MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "KARAMANDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "KESTANELİK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "KIZILCAALİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "MURATBEY MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "NAKKAŞ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "OKLALI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "ORMANLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "OVAYENİCE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "ÖRCÜNLÜ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "YALIKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇATALCA",
+    "Mahalle": "YAZLIK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "ALEMDAĞ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "ÇATALMEŞE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "EKŞİOĞLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "NİŞANTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "HÜSEYİNLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "KOÇULLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "ÖMERLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "REŞADİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "SIRAPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "GÜNGÖREN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "KİRAZLIDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "SULTANÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÇEKMEKÖY",
+    "Mahalle": "TAŞDELEN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "15 TEMMUZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "BİRLİK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "HAVAALANI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "KEMER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "ÇİFTE HAVUZLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "DAVUTPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "NİNE HATUN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "TUNA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "ORUÇREİS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENLER",
+    "Mahalle": "TURGUT REİS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "BAĞLARÇEŞME MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "ÖRNEK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "PINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "SELAHADDİN EYYUBİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "AKŞEMSEDDİN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "ARDIÇLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "BALIKYOLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "İNCİRTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "SULTANİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "BARBAROS HAYRETTİN PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "BATTALGAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "GÖKEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "NECİP FAZIL KISAKÜREK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "MEHTERÇEŞME MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "PİRİ REİS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "YEŞİLKENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "AKEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "SAADETDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "TALATPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "ÜÇEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "AKÇABURGAZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "AŞIK VEYSEL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "ESENKENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "KOZA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "ORHAN GAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ESENYURT",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "ALİBEYKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "EMNİYETTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "GÜZELTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "AKŞEMSETTİN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "ÇIRÇIR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "DEFTERDAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "İSLAMBEY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "NİŞANCI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "SİLAHTARAĞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "GÖKTÜRK MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "AĞAÇLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "ÇİFTALAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "ODAYERİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "PİRİNÇÇİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "MİTHATPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "DÜĞMECİLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "RAMİ CUMA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "RAMİ YENİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "TOPÇULAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "KARADOLAP MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "EYÜPSULTAN",
+    "Mahalle": "YEŞİLPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "AKSARAY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "HASEKİ SULTAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "ATİKALİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "AYVANSARAY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "BALAT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "DERVİŞ ALİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "BEYAZIT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "EMİN SİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "MİMAR HAYRETTİN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "ŞEHSUVAR BEY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "ALEMDAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "HOCAPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "AKŞEMSETTİN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "İSKENDERPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "HIRKA-İ ŞERİF MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "KARAGÜMRÜK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "CERRAHPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "KOCA MUSTAFAPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "SEYYİD ÖMER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "KATİP KASIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "MESİHPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "MİMAR KEMALETTİN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "MUHSİNE HATUN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "NİŞANCA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "SARAÇ İSHAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "MOLLA FENARİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "SURURİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "TAYA HATUN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "HOBYAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "BİNBİRDİREK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "CANKURTARAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "KÜÇÜK AYASOFYA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "SULTAN AHMET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "MEVLANAKAPI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "ŞEHREMİNİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "MERCAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "RÜSTEMPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "TAHTAKALE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "MOLLA GÜRANİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "TOPKAPI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "BALABANAĞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "DEMİRTAŞ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "HACI KADIN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "HOCA GIYASETTİN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "KALENDERHANE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "MOLLA HÜSREV MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "SARIDEMİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "YAVUZ SİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "SİLİVRİKAPI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "SÜMBÜL EFENDİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "YEDİKULE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "ALİ KUŞÇU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "CİBALİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "YAVUZ SULTAN SELİM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "FATİH",
+    "Mahalle": "ZEYREK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "SARIGÖL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "BARBAROS HAYRETTİN PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "KARADENİZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "ŞEMSİPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "YENİ MAHALLE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "KARAYOLLARI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "KARLITEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "PAZARİÇİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GAZİOSMANPAŞA",
+    "Mahalle": "YILDIZTABYA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "GÜVEN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "HAZNEDAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "MAREŞAL ÇAKMAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "GÜNEŞTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "GENÇOSMAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "ABDURRAHMAN NAFİZ GÜRMAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "MEHMET NESİH ÖZMEN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "GÜNGÖREN",
+    "Mahalle": "TOZKOPARAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "BOSTANCI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "CADDEBOSTAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "CAFERAĞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "EĞİTİM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "HASANPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "ERENKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "FENERBAHÇE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "FENERYOLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "ZÜHTÜPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "FİKİRTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "GÖZTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "ACIBADEM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "KOŞUYOLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "KOZYATAĞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "MERDİVENKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "19 MAYIS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "OSMANAĞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "RASİMPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "SAHRAYICEDİT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KADIKÖY",
+    "Mahalle": "SUADİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "ÇELİKTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "ORTABAYIR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "HARMANTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "TELSİZLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "YAHYA KEMAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "GÜRSEL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "TALATPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "NURTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "SEYRANTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "YEŞİLCE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "EMNİYET EVLERİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "SULTAN SELİM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KAĞITHANE",
+    "Mahalle": "ŞİRİNTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "ATALAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "PETROL İŞ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "KARLIKTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "KORDONBOYU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "CEVİZLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "ORHANTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "GÜMÜŞPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "SOĞANLIK YENİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "ÇAVUŞOĞLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "TOPSELVİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "YUNUS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "UĞUR MUMCU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "YAKACIK YENİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KARTAL",
+    "Mahalle": "YAKACIK ÇARŞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "ATAKENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "KÜÇÜKÇEKMECE İKİTELLİOSB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "HALKALI MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "YARIMBURGAZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "CENNET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "KANARYA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "YENİ MAHALLE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "BEŞYOL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "KARTALTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "SÖĞÜTLÜ ÇEŞME MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "SULTAN MURAT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "TEVFİKBEY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "KÜÇÜKÇEKMECE",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "AYDINEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "BAŞIBÜYÜK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "FINDIKLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "BÜYÜKBAKKALKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "CEVİZLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "ALTAYÇEŞME MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "FEYZULLAH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "ESENKENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "GÜLENSU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "GÜLSUYU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "İDEALTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "ALTINTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "KÜÇÜKYALI MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "GİRNE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "MALTEPE",
+    "Mahalle": "ZÜMRÜTEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "SAPAN BAĞLARI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "YEŞİLBAĞLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "ÇAMÇEŞME MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "ESENLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "KAVAKPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "BATI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "DOĞU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "KAYNARCA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "ÇINARDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "VELİBABA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "AHMET YESEVİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "ESENYALI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "GÜZELYALI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "BALLICA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "EMİRLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "GÖÇBEYLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "KURNA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "KURTDOĞMUŞ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "GÜLLÜ BAĞLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "RAMAZANOĞLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "ŞEYHLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "ERTUĞRUL GAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "SÜLÜNTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "YAYALAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "HARMANDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "KURTKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "PENDİK",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "EYÜP SULTAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "VEYSEL KARANİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "ABDURRAHMANGAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "KEMAL TÜRKLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "MECLİS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "SARIGAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "HİLAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "MERVE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "PAŞAKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "SAFA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SANCAKTEPE",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "BAHÇEKÖY KEMER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "BAHÇEKÖY MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "BAHÇEKÖY YENİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "BÜYÜKDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "ÇAYIRBAŞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "KOCATAŞ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "PTT EVLERİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "EMİRGAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "REŞİTPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "İSTİNYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "PINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "POLİGON MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "AYAZAĞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "HUZUR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "MASLAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "BALTALİMANI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "FATİH SULTAN MEHMET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "RUMELİHİSARI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "DEMİRCİKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "GARİPÇE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "GÜMÜŞDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "KAZIM KARABEKİR PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "KISIRKAYA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "KUMKÖY MAH (KİLYOS MAH)"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "MADEN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "RUMELİFENERİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "RUMELİKAVAĞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "SARIYER MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "USKUMRUKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "ZEKERİYAKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "ÇAMLITEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "DARÜŞŞAFAKA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "FERAHEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "KİREÇBURNU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "TARABYA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SARIYER",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "BEYCİLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "BÜYÜK ÇAVUŞLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "BÜYÜK SİNEKLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "ÇAYIRDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "DANAMANDIRA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "KÜÇÜK SİNEKLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "SAYALAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "SANCAKTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "FEVZİPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "BEKİRLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "BÜYÜK KILIÇLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "ÇELTİK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "FENER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "KURFALLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "KÜÇÜK KILIÇLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "SEYMEN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "YOLÇATI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "GÜMÜŞYAKA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "AKÖREN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "GAZİTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "SELİMPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "ALİBEY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "ALİPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "PİRİ MEHMET PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "SEMİZKUMLAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SİLİVRİ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "ABDURRAHMANGAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "HASANPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "ADİL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "BATTALGAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "AKŞEMSETTİN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "NECİP FAZIL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "AHMET YESEVİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANBEYLİ",
+    "Mahalle": "TURGUT REİS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "50. YIL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "SULTANÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "UĞUR MUMCU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "CEBECİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "ESKİ HABİPLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "HABİBLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "MALKOÇOĞLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "75. YIL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "SULTANGAZİ",
+    "Mahalle": "ZÜBEYDE HANIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "AĞVA MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "BUCAKLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ÇATAKLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ÇELEBİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "GEREDELİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "GÖÇE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "GÖKMAŞLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "HACILLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "İSAKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KALEM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KURFALLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "SOĞULLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ŞUAYİPLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "AĞAÇDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "AHMETLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "AKÇAKESE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ALACALI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "AVCIKORU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "BIÇKIDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "BOZGOCA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ÇAYIRBAŞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ÇENGİLLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "DARLIK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "DEĞİRMENÇAYIRI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "DOĞANCILI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ESENCELİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "HASANLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "İMRENDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "İMRENLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KABAKOZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KARABEYLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KARACAKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KARAKİRAZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KARAMANDERE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KERVANSARAY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KORUCU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KÖMÜRLÜK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KURNA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "MEŞRUTİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ORUÇOĞLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "OSMANKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "SAHİLKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "SATMAZLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "SORTULLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "TEKE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ULUPELİT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ÜVEZLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "YAKA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "YAYLALI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "YAZIMANAYIR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "YEŞİLVADİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "BALİBEY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "ÇAVUŞ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "HACI KASIM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİLE",
+    "Mahalle": "KUMBABA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "BOZKURT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "ESKİŞEHİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "DUATEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "FULYA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "GÜLBAHAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "FERİKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "HALASKARGAZİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "HARBİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "İZZET PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "KUŞTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "MECİDİYEKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "19 MAYIS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "MEŞRUTİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "HALİDE EDİP ADIVAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "HALİL RIFAT PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "KAPTANPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "MAHMUT ŞEVKET PAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "ERGENEKON MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ŞİŞLİ",
+    "Mahalle": "TEŞVİKİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "AKFIRAT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "TEPEOREN İTOSB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "TEPEÖREN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "AYDINLI - BİRLİK OSB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "AYDINLI - İSTANBUL AYOSB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "AYDINLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "AYDINLI SB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "AYDINLI-KOSB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "POSTANE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "AYDINTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "İÇMELER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "ŞİFA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "ANADOLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "DERİ OSB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "MESCİT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "ORHANLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "EVLİYA ÇELEBİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "TUZLA",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ADEM YAVUZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "AŞAĞI DUDULLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "HUZUR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "NECİP FAZIL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "PARSELLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ARMAĞANEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ATAKENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "FİNANSKENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "SİTE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ELMALIKENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "TANTAVİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ÇAKMAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "TATLISU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ESENKENT MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ESENŞEHİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "MADENLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "CEMİL MERİÇ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "FATİH SULTAN MEHMET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "IHLAMURKUYU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "TEPEÜSTÜ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "İNKILAP MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "YAMANEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "HEKİMBAŞI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "TOPAĞACI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ESENEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ALTINŞEHİR MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "DUDULLU OSB MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "ŞERİFALİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜMRANİYE",
+    "Mahalle": "YUKARI DUDULLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "ACIBADEM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "ALTUNİZADE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "BEYLERBEYİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "BURHANİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "KÜPLÜCE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "BULGURLU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "KÜÇÜK ÇAMLICA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "ÇENGELKÖY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "GÜZELTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "FERAH MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "KISIKLI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "KANDİLLİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "KULELİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "KÜÇÜKSU MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "KİRAZLITEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "İCADİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "KUZGUNCUK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "SULTANTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "AHMEDİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "AZİZ MAHMUT HÜDAYİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "MURATREİS MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "SELAMİ ALİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "VALİDE-İ ATİK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "SALACAK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "ZEYNEP KAMİL MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "ÜNALAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ÜSKÜDAR",
+    "Mahalle": "YAVUZTÜRK MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "ÇIRPICI MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "NURİPAŞA MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "SÜMER MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "VELİEFENDİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "MERKEZEFENDİ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "SEYİTNİZAM MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "BEŞTELSİZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "GÖKALP MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "KAZLIÇEŞME MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "TELSİZ MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "İSTANBUL",
+    "ilçe": "ZEYTİNBURNU",
+    "Mahalle": "MALTEPE MAH"
+  }
+]

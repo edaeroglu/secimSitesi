@@ -1,0 +1,3437 @@
+[
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "AYAZLI MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "HACI YUSUFLAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "ACARA MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "AHMETDAĞI MAH (TAHİRLİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "AKKAYA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "AKTAŞ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "ALTUNÇAY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "ARABACI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "BALATLI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "BATTALLAR MAH (KARATAVUK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "BEYHANLI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "BEYLİK AĞACI MAH (KURUKAVAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "BEYÖREN KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "ÇAYAĞZI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "ÇİÇEKPINAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "DADALI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "DAVUTAĞA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "DEREDİBİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "DİLAVER KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "DOĞANCILAR MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "DÖNGELLİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "DÖNGELLİ MAH (DÖNGELLİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "EDİLLİ AĞZI MAH (EDİLLİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "EDİLLİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "ESMAHANIM KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "FAKILLI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "GİRESUNLULAR MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "GÖKTEPE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "HEMŞİN KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KALKIN KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KARABURUN 2 MAH (HASANÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KARABURUN MAH (HASANÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KAYADİBİ MAH (KARATAVUK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KEÇİKAYA MAH (PAŞALAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KEPENÇ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KINIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KİRAZLI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KİRAZYANI MAH (ÇAYAĞZI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KOÇAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KOÇULLU KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KÖYİÇİ MAH (HASANÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KÖYİÇİ MAH (KARATAVUK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KUMPINAR MAH (ÇAYAĞZI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KURUGÖL KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KURUKAVAK MAH (KURUKAVAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "KÜPLER KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "MELENAĞZI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "MERKEZ MAH (KARATAVUK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "NAZIMBEY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "ORTANCA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "PAŞALAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "SARIYAYLA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "SUBAŞI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "TAHİRLİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "TEPEKÖY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "UĞURLU KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "YALI MAH (BEYHANLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "AKÇAKOCA",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ÇEVRİK MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "YAKA MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ALİ USTA MAH (ÇELİKDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ALT MAH (ÇELİKDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ARİF MAH (ÜVEZBELİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "CAMİ MAH (SUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ÇAMLIPINAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "DEĞİRMEN MAH (SUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "DERE MAH (KIZILÜZÜM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "DERE MAH (YENİTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ELMALIDERE MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ESENTEPE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ESKİOĞLU MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "FIRINYANI MAH (ORDULUKARADERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "GÜNEY MAH (ORDULUKARADERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "HARMANKAYA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "HATİPOĞLU MAH (KIZILÜZÜM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "IĞDIR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "İMRİZ MAH (HAMASCIK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KABAÇAYIR MAH (AVLAYAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KAŞALTI MAH (ÜVEZBELİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KERSEN DÜZÜ MAH (ÜVEZBELİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KIRAN MAH (ÇELİKDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KIRAN MAH (ÜVEZBELİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KIRAN MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KORAZOĞLU MAH (DOKUZDEĞİRMEN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KOZLAR MAH (AVLAYAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KURU ALİ MAH (KIZILÜZÜM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KUZ MAH (ORDULUKARADERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "KÜREKLİK MAH (ÜVEZBELİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MERKEZ MAH (AVLAYAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MERKEZ MAH (BÜYÜKMELEN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MERKEZ MAH (ÇELİKDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MERKEZ MAH (DOKUZDEĞİRMEN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MERKEZ MAH (HAMASCIK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MERKEZ MAH (KIZILÜZÜM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MERKEZ MAH (ORDULUKARADERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MERKEZ MAH (SIRTPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MERKEZ MAH (ÜVEZBELİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MERKEZ MAH (YENİTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "MISIRLIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "OKUL MAH (ORDULUKARADERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ORTA MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "OSMANCIK MAH (AVLAYAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ÖREN KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ÖREN MAH (SIRTPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ÖRENİÇİ MAH (ÇELİKDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "SIVAZOĞLU MAH (ÜVEZBELİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "SÜLEYMAN HANCI MAH (BÜYÜKMELEN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "ŞAKİR MAH (ORDULUKARADERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "TAŞLIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "TOMAS MAH (HAMASCIK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "CUMAYERİ",
+    "Mahalle": "YUKARIAVLAYAN KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "ARABACI MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "MAHİRAĞA MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "ŞEREFİYE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "TOPÇULAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "ULUCAMİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "YEŞİL MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "ALİMLER MAH (PIRPIR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "BIÇKIBAŞI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "ÇAKALLAR MAH (PIRPIR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "ÇALILIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "DİKMELİ MAH (DİKMELİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "DÖNGELLİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "ESENLİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "GÜLEBELER MAH (DİKMELİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "HIZARDERE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "İSHAKLAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "KAFYAYLA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "KANAL MAH (PIRPIR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "KARAÇÖRTLEN KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "KAVAKLIK MAH (KIRKHARMAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "KİRAZTARLA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "KOCAVELİLER MAH (PIRPIR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "KUŞOĞLU KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "KÜLTÜR MAH (PIRPIR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "MERKEZ MAH (ALACAMESCİT KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "MERKEZ MAH (DİKMELİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "MERKEZ MAH (KIRKHARMAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "MERKEZ MAH (YENİVAKIF KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "ORMAN MAH (ALACAMESCİT KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "ORTA MAH (PIRPIR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "ÖMERCİKLER MAH (PIRPIR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "SARIMEŞE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "SÖĞÜTLÜ MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "TEPEKÖY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "YENİ MAH (YENİVAKIF KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "YUKARIKARAKÖY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "ÇİLİMLİ",
+    "Mahalle": "YUKARIKÖY MAH (KIRKHARMAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "AÇMA MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "CUMAKIRI MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "ESEN MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "İMAMLAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "KUYUDÜZÜ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "YAZIPINAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "YEŞİL MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "AÇMA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "AKSU KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "ALBAYRAK MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "ALT MAH (BEKİROĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "BAKACAK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "BALKAYA MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "BIÇKI MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "CEVİZLİK MAH (HAMAMÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "CİNO MAH (YUNUSEFENDİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "ÇAY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "DELİ MEHMET MAH (GÜZELDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "DELİHÜSEYİN MAH (DEĞİRMENTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "DERE MAH (ÇAMLIBEL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "DERE MAH (HAMAMÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "DURSUNLU MAH (DEĞİRMENTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "GÖLCÜK MAH (HAMAMÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "GÜNEY MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "HACIOĞLU MAH (BEKİROĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "HACISÜLEYMANBEY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "HACIYAKUP KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "İÇMELER KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "KARACA MAH (ÇAMLIBEL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "KARAMAHMUT MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "KEMERYANI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "KIRAN MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "KIZILCIK MAH (DEĞİRMENTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "KUM MAH (BEKİROĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "KURTDÜZÜ MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "MERKEZ MAH (BEKİROĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "MERKEZ MAH (ÇAMLIBEL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "MERKEZ MAH (DEĞİRMENTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "MERKEZ MAH (HAMAMÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "MERKEZ MAH (YUNUSEFENDİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "MUHAPDEDE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "ORTA MAH (HAMAMÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "ORTA MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "SARIDERE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "ŞİMŞİRLİTEPE MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "TAŞLIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "YANIK 1 MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "YANIK 2 MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "YAZLIK MAH (YAZLIK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "YAZLIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "YENİ MAH (SAÇMALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÖLYAKA",
+    "Mahalle": "ZEKERİYA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "ADAKÖY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "ADAKÖYÜ MAH (ADAKÖY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "ARDIÇDİBİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "ÇAYBÜKÜ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "ÇAYBÜKÜ MAH (ÇAYBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "DEDEDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "ELMACIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "HACIKADİRLER KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "HACIKADİRLER MAH (HACIKADİRLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "HALİLBEY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "KAHVELERYANI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "KAHVELERYANI MAH (KAHVELERYANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "KIYIKÖY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "PAZARCIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "SELAMLAR MAH (SELAMLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "SULTANİYE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "YAKABAŞI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "YAKABAŞI MAH (YAKABAŞI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "YILDIZTEPE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "GÜMÜŞOVA",
+    "Mahalle": "YONGALIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ÇELE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ESKİKÖY MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "KARAÇALI MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "KUMLUCA MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "SARIYER MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ŞİMŞİR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "28 EVLER MAH (DARIYERİ YÖRÜKLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ALT MAH (ÇATALÇAM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ALT MAH (HACIAZİZLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "BAŞYAZICIOĞLU DAĞ EVLERİ MAH (DARIYERİBAKACAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "BEKTAŞLI MAH (BIÇKIYANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "BÜLBÜLDERE MAH (ÇAMOLUK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ÇAKIRSAYVAN KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ÇAMLIK MAH (ÇATALÇAM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ÇAYKARA MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ÇİLLİOĞLU MAH (SARIÇÖKEK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ÇİMENLİKORULUK MAH (TAVAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "D-100 BOLUDAĞI KARAYOLU MAH (DARIYERİBAKACAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "D-100 KARAYOLU MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "DEGİRMENYANI MAH (SARIÇÖKEK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "DERE MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "DERE MAH (DİPSİZGÖL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "DEREBOYU MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "DİP MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "DOĞANTEPE MAH (DİPSİZGÖL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "DÜZGÖSTEK MAH (YENİYURT KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "DÜZORMANI MAH (SARIÇÖKEK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "EĞRELTİLİ MAH (YENİYURT KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ELMALI MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "FATİH MAH (ÜÇKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "FENERBAHÇE MAH (ÜÇKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "FINDIKLI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "FINDIKLI MAH (ÇATALÇAM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "GÜLDERE MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "GÜNEY MAH (SAZKÖY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "HACIMEHMET MAH (DARIYERİMENGENCİK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "HAMZALI MAH (BIÇKIYANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "HENDANOĞLU MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "İLHANLI MAH (YENİYURT KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "KAHVECİ MAH (DARIYERİMENGENCİK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "KARŞI MAH (YENİYURT KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "KOYTAKLI MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "KULUBEYANI MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "KUZUMLU MAH (BIÇKIYANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "KÜLTÜR MAH (DİPSİZGÖL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MEHMETPINAR MAH (YENİYURT KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (ALTUNKÖY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (BIÇKIYANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (ÇAMOLUK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (ÇATALÇAM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (DARIYERİ YÖRÜKLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (DARIYERİBAKACAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (DARIYERİMENGENCİK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (DİPSİZGÖL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (HACIAZİZLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (MURATBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (SARIÇÖKEK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (SAZKÖY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (TAVAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (YENİYURT KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MERKEZ MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "MEŞELİK MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "OFLU MAH (ALTUNKÖY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ONBAŞI MAH (TAVAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ORTA MAH (DİPSİZGÖL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ORTA MAH (HACIAZİZLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "OSMANÇAVUŞ MAH (TAVAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "SAĞLIK MAH (DİPSİZGÖL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "SİNEKLİ MAH (ÇAKIRSAYVAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "SOĞUKSU MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ŞAFAK MAH (ÜÇKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ŞEVKİ MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ŞİRİNEVLER MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "TAHTALIK MAH (SARIÇÖKEK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "TAŞALTI MAH (DARIYERİHASANBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "TEKİRSU MAH (DİPSİZGÖL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "TÜTEKYATAK MAH (YENİYURT KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "UFUK MAH (ÜÇKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "ÜST MAH (ÇATALÇAM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "VELİOĞLU ALİOSMAN MAH (MURATBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "VEYSELUSTA MAH (TAVAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "YAĞCILAR BİLAL MAH (MURATBEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "KAYNAŞLI",
+    "Mahalle": "YENİDOĞAN MAH (ÜÇKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKIRLAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIEVLER MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMETEVLER MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZELBAHÇE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZUKOĞLU MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUYUMCUHACIALİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NALBANTOĞLU MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALLAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOKUŞLAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAHYALAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI YAHYALAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYTEPE MAH (BEYKÖY BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKAÇMA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (BEYKÖY BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET OSB2 MAH (BEYKÖY BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALICUMA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENBAŞI MAH (BEYKÖY BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTİKLAL MAH (BEYKÖY BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTİKLAL OSB1 MAH (BEYKÖY BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH (BEYKÖY BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MURADİYEMENGENCİK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVAPINAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (BEYKÖY BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALLAR MAH (BOĞAZİÇİ BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAPOĞLU MAH (KABALAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIRTARLA MAH (BOĞAZİÇİ BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİNLER MAH (KABALAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOKUZPINAR MAH (BOĞAZİÇİ BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İZMİRLİ MAH (KABALAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KABALAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZARLIK MAH (KABALAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEKERPINAR MAH (BOĞAZİÇİ BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEKİRPINAR MAH (KABALAK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZLIK MAH (BOĞAZİÇİ BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLKÖY MAH (BOĞAZİÇİ BELDESİ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BURHANİYE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEDİDİYE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FEVZİÇAKMAK MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİREMİTOCAĞI MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERGİÇ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NUSRETTİN MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEREFİYE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNMUSTAFA MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞAKÖYÜ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AZMİMİLLİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DARICI MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞIRALIK MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKINLAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARAPÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMKÖY MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARA HACIMUSA MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖRPEŞLER MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SANCAKLAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAYYERİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYCİLER MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAVUŞLAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEDELER MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERELİTÜTÜNCÜ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACA MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOÇYAZI MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİFTEPINARLAR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT BAYRAM GÖKMEN MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT HÜSEYİN KIL MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT KEMAL IŞILDAK MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT MURAT DEMİR MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TERZİALİLER MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AÇMALAR MAH (ASAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AFANOĞLU MAH (YENİ AYNALI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKBIYIKLAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇALAR MAH (OTLUOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKTARLA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYAZI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAÇAM MAH (DERDİN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTINPINAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (YÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYNALI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (DERDİN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BATAKLI ÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOSTANLIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUCAKKURULU MAH (SAMANDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜK MAH (ÇINARDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMA MAH (AYDINPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (ÜÇYOL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKIRHACI İBRAHİM KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKMANLAR MAH (SİNİRCİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAM MAH (ESKİ MENGENCİK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIK MAH (UĞUR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLISU KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIRBAŞI MAH (NASIRLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇINARLI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİÇEK MAH (İSTİLLİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİMEN MAH (YENİ TAŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOBANOĞLU MAH (YENİ AYNALI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇORAK MAH (KAYMAKÇI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇORAK MAH (UĞUR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMEN MAH (GÖLORMANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENÜSTÜ MAH (SAMANDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİLER MAH (ASAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEPO MAH (GÖLORMANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (DERDİN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (KURTSUYU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEVELİ BESNİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEVELİ MAH (HACI AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞANLI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞANLI MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DORUK MAH (DERDİN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DURAKLAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EFENDİ MAH (HOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMİNAÇMA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERDEMLİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FABRİKA MAH (DERDİN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FINDIKÇUKURU MAH (UĞUR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FINDIKLI AKSU KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GICIR MAH (OTLUOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLDERE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞPINAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNBAŞI MAH (GÜNBAŞI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNDOLAMASI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI ALİLER KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIMUSTAFADÜZÜ MAH (SAMANDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIYATAĞI MAH (SAMANDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAKKI HOCA MAH (AYDINPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMAMDAĞI MAH (DERDİN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMAMÜSTÜ MAH (DERDİN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMZA MAH (AYBAŞI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANLAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATIPLAR MAH (SİNİRCİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATİPLİ MAH (HATİPLİ KETENCİLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HECİNLER MAH (ESENÇAM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH (ÜÇYOL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İHSANİYE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSLAHİYE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSLAHİYE MAH (İSLAHİYE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTİKLAL MAH (ÜÇYOL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADIOĞLU KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALEDİBİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALYONCU MAH (GÖLORMANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARA AĞAÇ MAH (GÜNBAŞI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÇAVUŞ MAH (GÖLORMANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARADERE HASANAĞA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÖMER MAH (DÜVERDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARASAKAL MAH (GÖLORMANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARDELEN MAH (DERDİN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KASIM MAH (KEMERKASIM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKBIÇKI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKLAR MAH (SİNİRCİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMER MAH (KEMERKASIM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KETENCİLER MAH (HATİPLİ KETENCİLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRKACAK MAH (GÜVEN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILCIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİREÇKUYUSU MAH (GÜVEN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCAYAYLA MAH (SAMANDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAKLI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOZLUK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURUDERE MAH (DAĞDİBİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURULUK MAH (ÇINARDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURUOĞLU MAH (OZANLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUŞAÇMASI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUŞYUVASI MAH (SAMANDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUTLU KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKAHMET KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKMEHMET KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜRT MAH (BALLICA KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAMURE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ASAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AYBAŞI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AYDINPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BAHÇE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BALLICA KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇINARDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DAĞDİBİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DÜVERDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DÜZ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ESENÇAM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ESKİ MENGENCİK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖLORMANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÜNBAŞI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÜVEN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HACI AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (İSTİLLİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAYMAKÇI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KURTSUYU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (MUNCURLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (NASIRLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (OTLUOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (OZANLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SAMANDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SİNİRCİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TAŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (UĞUR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÜÇYOL KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YENİ AYNALI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YENİ TAŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MOLLAOĞLU MAH (OZANLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUNCURLU MAH (MUNCURLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSABABA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSABABA MAH (MUSABABA KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NUHLAR MAH (NASIRLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NUHLAR MAH (NUHLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NUSRET YILMAZ MAH (GÖLORMANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (OTLUOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (YENİ AYNALI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMANCA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OTLAKLAR MAH (KURTSUYU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVA MAH (YENİ AYNALI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZYANIK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞAKONAĞI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞAORMANI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PETEKLİ MAH (KURTSUYU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARLAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "POYRAZ MAH (GÜNBAŞI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SADIK MAH (SAMANDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SANCAKDERE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SANTRAL MAH (AYDINPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIÇAM MAH (ÇINARDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIKASIM MAH (NASIRLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUNCUK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAZİYE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞOSE ALTI MAH (AYDINPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TANTAN KUYU MAH (KURTSUYU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TATİL KÖYÜ MAH (DERDİN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPE ALTI MAH (GÜVEN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TINAZ MAH (YENİ TAŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOKMAKTARLA MAH (NASIRLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TONYALI MAH (KURTSUYU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TURAPLAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜTÜNLÜK MAH (SAMANDERE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UÇUK MAH (UĞUR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNALİ MAH (GÖLORMANI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇKESE MAH (ESENÇAM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAKA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAMALI MAH (İSTİLLİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YANIK MAH (DERDİN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYAKBAŞI KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLAKAPI MAH (AYDINPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ KARAKÖY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (BAHÇE KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİL MAH (AYDINPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLÇAM KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLÇAM MAH (YEŞİLÇAM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLÇİMEN KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILANKAYA MAH (AYDINPINAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (GÜNBAŞI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (YÖRÜK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUSLAR MAH (KEMERKASIM KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "AKSU MAH (HOŞAFOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ASAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "AŞAĞI MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "AŞAĞI MAH (YILGIN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "AVUTLUK MAH (DİBEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "AYDIN MAH (DUTLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "AYDINYAYLA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "BELEN MAH (HOCATMAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ÇAYIRCIK MAH (KIRIK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ÇIRNIK MAH (AKSAKLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ÇORAK MAH (BEKİRLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "DAĞ MAH (TIRAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "DEREİÇİ MAH (YILGIN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "DOĞANCILAR MAH (REDİFLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "DOKUZ MAH (HACIYERİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ELMAS MAH (DİBEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "GAZİLER KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "GELENÖZ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "GÜNEY KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "GÜNEY MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "GÜNEY MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "GÜNEYALTI MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "HEBELER KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "İĞNELER KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "İSMAİLÇAYIRI MAH (AKÇAÖREN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "KARAKİRAZ MAH (KIRIK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "KAZAKLAR MAH (GÖKÇEAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "KİRSEYANI MAH (HOCATMAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "KÖSELER KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "KÖSELER MAH (TIRAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "KURUCA MAH (YENİYER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "KURUHÜSEYİN MAH (DİBEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "KUZEY MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MEHMETKÖY MAH (AKSAKLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MELEN KIYISI MAH (BEKİRLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MENGEN KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (AKÇAÖREN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (BEKİRLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (DİBEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (DOĞANLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (DUTLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (GÖKÇEAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (HACIYERİ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (HOCATMAN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (HOŞAFOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (KARAKAŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (KIRIK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (KOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (NAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (REDİFLER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (TIRAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MERKEZ MAH (YENİYER KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ORHANGAZİ KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ORTA MAH (AKSAKLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ORTA MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "OSMANCIK MAH (YILGIN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "PINARCIK MAH (KOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "RESULLER MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "SALAVAT MAH (KIRIK KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "SETLİK MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ŞABAN MAH (GÖKÇEAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ŞABANLAR MAH (GÖKÇEAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ŞERENALTI MAH (NAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "TAVUKPINARI MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "TUĞRUL KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "TURNACILAR MAH (AKÇAÖREN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "VAYISLAR MAH (DOĞANLAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "YAPLAR MAH (KARAKAŞ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "YAYLATEPE KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "YOĞUNPELİT KÖYÜ"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "YÖRÜKLER MAH (GÖKÇEAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "YUKARI AKÇAÖREN MAH (KOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "YUKARI MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "YUKARI MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "YUKARI MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "YUKARI MAH (YILGIN KÖYÜ)"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "AHMETÇİLER MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "MAREŞAL FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "DÜZCE",
+    "ilçe": "YIĞILCA",
+    "Mahalle": "ORHANGAZİ MAH"
+  }
+]

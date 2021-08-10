@@ -1,0 +1,3367 @@
+[
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ABALI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ACIELMALIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ALANDÜZÜ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "AŞIRLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "BAYRAKTAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "BİLECİLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "BUDAKLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "BÜYÜKHATAPLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ÇALTICAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ÇAMYOLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ÇELEBİLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ÇERÇİLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ÇÖKEKLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ÇUKURAHMEDİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "DAĞDİBİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "DEMİRBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "DOĞANCILAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "EVRENKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "GÖKTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "GÜLLÜK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "GÜNEŞLER MERKEZ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "GÜNEŞLER YENİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "HACIRAMAZANLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "HARMANTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "HIZIRTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "İKİZCE MÜSLİM MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "İKİZCE OSMANİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "İLYASLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KARADAVUTLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KARADERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KARAKAMIŞ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KARAOSMAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KASIMLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KAVAKLIORMAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KAYRANCIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KÖMÜRLÜK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KURTBEYLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KÜÇÜKHATAPLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "MALTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "MİTHATPAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "NASUHLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "OZANLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ÖRENTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "PAPUÇÇULAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "POYRAZLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "RÜSTEMLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "SALMANLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "SEMERCİLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "SOLAKLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "SÜLEYMANBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ŞEKER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "ŞİRİNEVLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "TAŞKISIĞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "TAŞLIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "TEKELER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "TEPEKUM MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "TIĞCILAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "TURNADERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "YAĞCILAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "YAHYALAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "YENİCAMİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "YENİGÜN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "15 TEMMUZ CAMİLİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KARAMAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ADAPAZARI",
+    "Mahalle": "KORUCUK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "AKBALIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ALAAĞAÇ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ALTINDERE CUMHURİYET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ALTINDERE GÜNDOĞAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ALTINDERE OSMANAĞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "BALLIKAYA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "BATAKKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "BEDİL KAZANCI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "BEDİLKADIRBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "BEDİLTAHİRBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "BELDİBİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "BIÇKIDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "BOZTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "BUĞDAYLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ÇAKIROĞLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ÇATALKÖPRÜ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ÇILDIRLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "DEDELER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "DOKURCUN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "DURMUŞLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "DÜZYAZI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ERDOĞDU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ESKİBEDİL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "GAZİ SÜLEYMAN PAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "GEBEŞ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "GÖKÇELER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "GÜVENÇLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "GÜZLEK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "HANYATAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "HARUNUSTA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "HASANBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "HASTAHANE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "HAYDARLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "KABAKULAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "KARAÇALILIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "KEPEKLİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "KIZILCIKORMAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "KONURALP MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "KUMKÖPRÜ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "KUZULUK ORTAMAHALLE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "KUZULUK TOPÇUSIRTI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "KÜÇÜCEK CUMHURİYET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "KÜÇÜCEK İSTİKLAL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "MADENLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "MANSURLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "MERKEZYENİKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "OSMANBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ÖMERCİKLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "PAZARKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "REŞADİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "SALİHİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "SEYFELER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "SUKENARI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "ŞEREFİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "TAŞAĞIL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "TAŞBURUN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "TAŞYATAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "TOPAĞAÇ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "TÜRKORMANKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "UZUNÇINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "VAKIF MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "YAĞCILAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "YAHYALI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "YENİORMAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "YONGALIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "YÖRÜKYERİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "AKYAZI",
+    "Mahalle": "YUVALAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "ADLİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "AHMEDİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "ARİFBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "AŞAĞI KİRAZCA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "BOĞAZKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "ÇAYBAŞI FUADİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "ÇINARDİBİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "HACIKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "HANLI MERKEZ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "HANLI SAKARYA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "HANLIKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "KARAAPTİLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "KARAÇOMAKLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "KEMALİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "KIŞLAÇAY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "KİRAZCA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "KUMBAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "MOLLAKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "NEVİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "SAKARYA I.ORGANİZE SANAYİ BÖLGESİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "SEMERCİLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "TÜRKÇAYBAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ARİFİYE",
+    "Mahalle": "YUKARIKİRAZCA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "ALANCUMA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "BEKİRPAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "BÜYÜKESENCE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "ÇAYBAŞIYENİKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "ÇAYKIŞLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "DİLMEN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "EKİNLİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "EMİRLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "EPÇELLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "HACIOĞLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "HASANBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "HOROZLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "KAMIŞLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "KAYALARMEMDUHİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "KAYALARREŞİTBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "KOZLUK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "KÜÇÜKESENCE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "KÜPÇÜLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "NAKIŞLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "PİRAHMETLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "SARICALAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "ŞEYHKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "ŞÜKRİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "TABAKHANE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "TUAPSALAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "YAZILI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "ERENLER",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "ABDÜRREZZAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "AĞACIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "AKÇUKUR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "BAKIRLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "CEYLANDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "DAMLIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "DEĞİRMENCİK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "DEVLET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "DOĞANCI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "FERİZLİOSB MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "GÖLKENT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "HOCAOĞLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "KARADİKEN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "KUSCA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "NALKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "OSMANAĞA ÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "SARIAHMETLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "SEYİFLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "SİNANOĞLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "TEBERİK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "TOKAT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "FERİZLİ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "AHİBABA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "AKDOĞAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "AKINCI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "AKKAYA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ALIPLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ALİFUATPAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "BAĞCAZ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "BAYAT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "BELPINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "BOZÖREN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "BURHANİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "CECELER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ÇAYKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ÇELTİKLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ÇENGEL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ÇİNE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ÇUKURKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "DEMİRLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "DOĞANCIL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "DOĞANÇAY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "DOĞANTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "DÜZAKÇAŞEHİR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "EPÇELER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ESENKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "EŞME MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "FINDIKSUYU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "GAZİ SÜLEYMAN PAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "GÜNHOŞLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "HACIOSMANLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "HALİDİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "HIRKA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "HİSARLIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "İLİMBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "İNCİKSUYU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "KAMIŞLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "KARAÇAM MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "KIZILKAYA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "KORU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "KOZAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "KULFALLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "MAKSUDİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "MELEKŞEORUÇ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "MELEKŞESOLAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "NURUOSMANİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "POYDULAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "SABIRLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "SAFİBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "SARAÇLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "SARIGAZİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "SEKİHARMAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "SETÇE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "SUÇATI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "SÜTALAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ŞEHREN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "ŞEREFİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "TAŞOLUK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "TEPECİKLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "UMURBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "YAYLAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "GEYVE",
+    "Mahalle": "YÖRÜKLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "AKARCA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "AKÇAYIR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "AKOVA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "AKTEFEK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "AŞAĞIÇALICA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "BAKACAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "BALIKLIİHSANİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "BAŞPINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "BAYRAKTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "BEYKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "BEYLİCE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "BIÇKIATİK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "BÜYÜKDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "ÇAKALLIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "ÇAYIRBAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "ÇOBANYATAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "ÇUKURHAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "DEREBOĞAZI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "DİKMEN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "ESKİBIÇKI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "GÜLDİBİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "GÜNDOĞAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "HACIKIŞLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "HACİMBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "HALAÇ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "HAMİTLİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "HARMANTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "HİCRİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "HÜSEYİNŞEYH MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "İKBALİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "İKRAMİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KADİFEKALE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KAHRAMAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KALAYIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KARADERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KARATOPRAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KARGALI HANBABA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KARGALI HANBABAOSB MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KARGALIYENİKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KAZIMİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KEMALİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KIRKTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KIZANLIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KOCAAHMETLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KOCATÖNGEL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KURTKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "LÜTFİYEKÖŞK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "MAHMUTBEY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "MARTİNLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "MURADİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "NURİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "PAŞAKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "PINARLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "PUNA ORTAKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "RASİMPAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "SARIDEDE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "SARIYER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "SERVETİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "SİVRİTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "SUKENARI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "SÜMBÜLLÜ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "ŞEYHLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "TURANLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "TUZAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "TÜRBE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "UZUNCAORMAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "UZUNÇARŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YAĞBASAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YARICA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YAYALAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YENİYAYLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YEŞİLVADİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YUKARIÇALICA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "HENDEK",
+    "Mahalle": "YUKARIHÜSEYİNŞEYH MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "AHMEDİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "AHMETLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "ÇEŞMEBAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "HOCAKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "KANLIÇAY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "KIZILBAYIR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "KÜÇÜKKARAPÜRÇEK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "MESUDİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "MEŞEPINARI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "YAZILIGÜRGEN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARAPÜRÇEK",
+    "Mahalle": "YÜKSEL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "ADATEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "AKKUM MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "ARDIÇBELİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "CAMİTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "ÇATALÖVEZ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "DARIÇAYIRI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "DENİZKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "GÖLKÖPRÜ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "İNCİLLİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KABAKOZ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KABAKOZ OSB MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KANCALAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KARAMÜEZZİNLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KARANLIKDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KARASU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KIZILCIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KONACIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KURUMEŞE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KUYUMCULLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "KUZULUK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "LİMANDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "MANAVPINARI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "PARALI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "RESULLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "SUBATAĞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "TAŞLIGEÇİT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "TEPETARLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "ÜÇOLUK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "YASSIGEÇİT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KARASU",
+    "Mahalle": "YUVALIDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "AKBAŞLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "ARİFAĞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "BAŞOĞLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "BİRLİK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "BÜYÜKYANIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "CEBEK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "DUDUKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "EĞRİOĞLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "GÖLCE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "GÜRPINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "GÜVEN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "HATİPLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "İMAMLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "İŞARET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KALBURCU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KARAÇALI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KARAMANLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KAYACIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KERTİL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KIRKTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KIZILCAALİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KULAKLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KÜÇÜKKAYNARCA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "KÜÇÜKKIŞLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "MÜEZZİNLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "OKÇULAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "OSMANLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "ÖMERAĞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "SABIRLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "SARIBEYLİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "ŞEYHTIMARI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "TAŞOLUK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "TOPÇU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "TURNALI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "UZAKKIŞLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "UZUNALAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "YENİÇAM MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KAYNARCA",
+    "Mahalle": "ZİAHMET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "AÇMABAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "AĞALAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "ALANDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "AYDOĞAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "BEYLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "BEZİRGAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "CAFERİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "ÇAKMAKLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "ÇUKURKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "DEMİRAÇMA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "GÖRELE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "GÜMÜŞOLUK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "HIZAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KARAPELİT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KARŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KESTANEPINARI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KIZILÜZÜM MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KİRAZLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KOĞUTPELİT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KOZLUK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KÖYYERİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "KÜPLÜK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "MELEN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "SELAHİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "SÜNGÜT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "ŞERBETPINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "YALPANKAYA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "YANIKSAYVANT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "KOCAALİ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "AĞAÇÇILAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "AHILAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "AKÇAKAYA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "BACIKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "BAKACAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "BAYIRAKÇAŞEHİR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "CİHADİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "ÇARDAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "ÇİLEKLİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "EĞRİÇAY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "ELPEREK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "ESKİYAYLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "FEVZİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "GONCA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "GÖKGÖZ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "HAYRETTİN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "HÜSEYİNLİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "İSABALI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "KAZIMİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "KEMALİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "MEKECE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "ORUÇLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "ÖZBEK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "PAŞALAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "PINARLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "ŞAHMELEK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "ŞEYHVARMAZ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "TEŞVİKİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "TURGUTLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "PAMUKOVA",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "AKÇAY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "BALKAYA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "CAMİCEDİT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "ÇAYİÇİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "FEVZİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "GAZİPAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "GÖL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "GÜLDİBİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "HACIMERCAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "İKRAMİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "İLMİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "İSTANBULDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "KIRKPINAR HASANPAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "KIRKPINAR SOĞUKSU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "KIRKPINAR TEPEBAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "KURTKÖY DİBEKTAŞ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "KURTKÖY FATİH MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "KURTKÖY YAVUZSELİM MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "KURUÇEŞME MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "MEMNUNİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "MURADİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "NAİLİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "RÜSTEMPAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "ŞÜKRİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "UZUNKUM MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "ÜNLÜCE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "YANIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SAPANCA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "ARABACIALANI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "ARALIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "AŞAĞIDEREKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "BEŞEVLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "BEŞKÖPRÜ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "ÇUBUKLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "DAĞYONCALI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "HAMİTABAT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "KAZIMPAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "KIZILCIKLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "KURUÇEŞME MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "MEŞELİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "OTUZİKİ EVLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "REŞADİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "SELAHİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "UZUNKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "YUKARIDEREKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "VATAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SERDİVAN",
+    "Mahalle": "YAZLIK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "AKARCA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "AKÇAKAMIŞ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "AKGÖL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "BEŞDEĞİRMEN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "CAMİ CEDİT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "FINDIKLI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "GÜNDOĞAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "HASANFAKI MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "İMAMLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "KANTAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "KARATEKE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "KURUDİL MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "KÜÇÜK SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "LEVENT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "MAĞARA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "MAKSUDİYE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "RÜSTEMLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "SIRAKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "SOĞUCAK MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "SOĞUCAKOSB MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "TOKMAKLIDERE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "TÜRKBEYLİKKIŞLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "SÖĞÜTLÜ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "AKÇAPINAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "ALBALLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "AVDAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "ÇAMTEPE MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "DIŞDEDELER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "DUMAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "ESENYURT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "HACIALİLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "HACIMURAT MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "HACIYAKUP MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "HARKKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "İÇDEDELER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "KEMALLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "MAHDUMLAR MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "PİRLER MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "ULUCAMİİ MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "SAKARYA",
+    "ilçe": "TARAKLI",
+    "Mahalle": "YUSUFBEY MAH"
+  }
+]

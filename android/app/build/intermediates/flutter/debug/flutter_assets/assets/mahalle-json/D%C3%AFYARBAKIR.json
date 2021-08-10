@@ -1,0 +1,5242 @@
+[
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "AĞAÇGEÇİT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "ALİPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "BAĞCILAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "BATIÇANAKÇI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "BATIKARAKOÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "BUÇUKTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "ÇİÇEKLİYURT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "DEVELİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "GÖMMETAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "KOLLUDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "KÖRTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "ÖZDEMİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "PINAROĞLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "SARIDALLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "TAVŞANTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "TELLİKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "TOKLUCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "TOPRAKTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "TOPYOLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "UZUNBAHÇE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "YEŞİLDALLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "YUKARI MOLLAALİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "5 NİSAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "ALANKOZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "BUYURANSU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "EKİNCE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "KABAHIDIR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "KAMIŞPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "KARACADAĞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "KARAHANKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "KAYNARTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "KIRKINCIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "KIRKKOYUN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "KÖRHAT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "MURADİYE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "OĞLAKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "ÖVÜNDÜLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "SAKALLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "YİĞİTYOLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "YUKARIAKDİBEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "MEVLANA HALİT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "ORTAÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "SELAHATTİN EYYUBİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "ŞEYH ŞAMİL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BAĞLAR",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AĞILKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AĞILLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AHMETLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AKBAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AKÇAY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AKKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ALINCAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ALİBEY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ALTIOK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ALUÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AMBAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ARALIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ARIKGÖL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ASLANOĞLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AŞAĞIDOLAY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AŞAĞIOBA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "AYGEÇTİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BABAHAKİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BAHARLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BAKACAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BALCILAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BAŞHAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BAŞÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BELLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BOYACI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BOZÇALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "BÖLÜMLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ÇAKALLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ÇAKILLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ÇATALKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ÇAVUŞLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ÇELTİKLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ÇORAPA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ÇÖLAĞAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ÇÖLTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "DERBENT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "DİCLE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "DORUK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ELİAÇIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ERLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "FIRAT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "GEDİKBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "GÜNGEÇTİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "GÜROLUK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "GÜZELKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "HARMANLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "HASANPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "İSALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "İSAPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KAĞITLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KAMBERLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KAMIŞLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KARABÖRK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KARACIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KARAÇÖLYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KARAGÖZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KARATEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KARAYİĞİT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KAVUŞAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KAYIKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KAZANCI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KEBERLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KILAVUZTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KOĞUK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KOPMAZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KOPUZLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KORUKÇU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KOYUNLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KÖPRÜKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KÖSELİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KUMRULU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KURUDEĞİRMEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "MERDAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "MEYDANLIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "MİRZABEY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "OBALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "OFKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "OĞUZLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "SARIKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "SARITOPRAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "SAZLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "SEKİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "SERÇELER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "SEYRANTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "SİNANKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ŞAHİNTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ŞENTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "TATLIÇAYIR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "TEKEL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "TİLKİLİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "TOPRAKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "TÜRKMENHACI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "UĞRAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ULUTÜRK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "UYANIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "ÜÇTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "YAĞMURKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "YAMAÇKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "YASİNCE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "YUKARIDOLAY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "YUKARIHARIM MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "BİSMİL",
+    "Mahalle": "YUKARISALAT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "AĞAÇHAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "AKÇÖRTEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "AKKOYUNLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ALABUĞDAY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ALAKOÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ARABÜK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ARMAĞANTAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ARTUK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ASMALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "AŞAĞIŞEYHLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "AŞAĞITAŞMALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "AYNALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BALIKSIRTI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BAŞARI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BAYAT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BAYIRBAĞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BAYKAL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BAYRAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BİNTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BİRCEMAL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "BULUNDU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "CEYLAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ÇALITEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ÇUKUR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ÇUKURELMA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "DEĞİRMENLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "DİKYOL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "DİLEKPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ELİFUŞAĞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ESKİBAĞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "GENCELİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "GÖKTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "GÖZEREK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "GÜÇLÜTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "GÜNAŞAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "GÜRÜZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "GÜZEL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "HABURMAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "İKİÇELTİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "İNCİLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KALA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KALAÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KALECİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KARACAVİRAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KARAMUSA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KARTALTAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KAYAGEDİĞİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KEKLİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KIRMATEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KONAKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KONUKSEVER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KORUDAĞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KÖKSAL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KÖMÜRCÜLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KUŞLUKÇAYIRI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "KUYU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ÖRENKUYU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "PAMUKLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "PETEKKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "PINARLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "RECEP MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "SALTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "SARIBALTA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "SARICA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "SİNEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "ŞEYHANDEDE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "TOPLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "YABANARDI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "YAYIKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "YİĞİTLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇERMİK",
+    "Mahalle": "YOĞUN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "AĞAÇSEVER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "AKÇOMAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "AKTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ALABAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ALANCIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ALTINAKAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ARAFAT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "AŞAĞI MOLLAALİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "AŞAĞIKONAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "AVDALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "AYVERİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BAĞACIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BALLIBABA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BAŞAKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BAŞALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BAYIRKONAĞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BELENLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BELLİTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BENEKLİTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BEŞPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BİLMECE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BİRA MEHMET AĞA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BOĞAZÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BOZÇALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "BULUTÇEKER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ÇAKIRKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ÇAKIRTUTMAZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ÇATALTARLA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ÇELTİKALTI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ÇINARKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ÇÖMÇELİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ÇUKURBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "DEMİRÖLÇEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "DİKMENCİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "DİŞLİBAŞAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "DÜĞRÜK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "DÜZOVA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "EKİNVEREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ESKİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "FİLİZÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "GÖKTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "GÖRECE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "GÜMÜŞTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "GÜRSES MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "HALIÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "HALKAPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "HARABE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "HASKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "HÖYÜKDİBİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "İNANÖZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "İNCİRTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KARABABA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KARABUDAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KARAÇEVRE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KARASUNGUR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KAZIKTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KILIÇKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KIRKAĞAÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KÖKSALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KUBACIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KURUYAZI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KUTLUK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KUYULUHÖYÜK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "KÜREKLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "LEBLEBİTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "MEYDANKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "MURATCIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ORTAŞAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "OVABAĞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ÖNCÜLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ÖZGİDER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ÖZYAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "PEMBEVİRAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "SELYAZI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "SEVİNDİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "SIRIMKESER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "SOĞANSUYU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "SOLMAZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "SÜRENDAL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ŞEKERÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ŞEYHÇOBAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "ŞÜKÜRLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "TAŞHELVASI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "TEKKAYNAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "TİLVER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "TORAMAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "YAPRAKBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "YARIMKAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "YAZÇİÇEĞİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "YEŞİL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "YEŞİLBAĞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "YEŞİLTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "YILLARCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "YUKARIORTAÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇINAR",
+    "Mahalle": "YUVACIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "AKBAŞAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "ALBAYRAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "ARPADERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "ATALAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "AVUT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "AYDINLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "BALCILAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "CAMİİ KEBİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "CAMİİSUK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "ÇATALDUT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "DEĞİRMENSUYU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "DEVEBOYNU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "ELMADERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "GEÇİTKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "GÖKÇEPELİT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "GÜNEYDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "HANDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "HİNDİBABA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "İBİKKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "İLYAS MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "KAYNAKKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "KELEŞEVLERİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "KOÇÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "NORŞİN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "ORMANÇAYI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "OYUKLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "POLATUŞAĞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "SAĞTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "SEFERUŞAĞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "TÜRKMEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "ÜÇPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "YAYGINKONAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "YAZYAĞMURU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ÇÜNGÜŞ",
+    "Mahalle": "YUKARIŞEYHLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "15 TEMMUZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "ACAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "ALTAYKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "ARIKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BAHÇEDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BAHÇEKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BALTACI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BATURKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BİÇER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BOĞAZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BOĞAZKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "BOZOBA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "ÇAVLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "ÇELEBİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "DEDEKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "DEĞİRMENLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "DÖĞER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "DURABEYLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "GELİNCİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "KAYGISIZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "KAYIKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "KELEKÇİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "KIRKLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "KIRKPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "KOCAALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "KORUKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "KURŞUNLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "PEKMEZCİLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "PINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "SERGENLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "SÜSÜMLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "TAŞAĞIL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "UĞRAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "ULUBAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "ULUÇEŞME MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "ÜZÜMLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "YEŞİLSIRT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "DİCLE",
+    "Mahalle": "YOKUŞLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "AKALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "BABALAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "BAHŞİLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "BALIM MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "BAYSU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "DÖŞEMELER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "DÜZLÜK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "GÜNDOĞURAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "GÜRÜNLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "ILGIN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "KALECİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "KALKAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "KAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "KAZANLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "KIRKKUYU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "MEŞELER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "OYALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "OYALI OSB MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "SAĞLAM MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "SARICA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "SARMAŞIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "SELMAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "TAŞDAM MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "YATIR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "EĞİL",
+    "Mahalle": "YUKARIHAYDAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "AHMETLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "AKÇAKALE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "AKÇOBAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ALİTAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ARMUTOVA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "AŞAĞIBİTİKÇİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "AŞAĞIKUYULU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "AZIKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "BAGÜR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "BAHÇEKAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "BEREKETLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "BOĞAZKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "BONCUKLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "BOZYER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "CAFERAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "CANVEREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "COŞKUN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "CÖMERT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ÇAKARTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ÇAKIRFAKIR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ÇAYIRDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ÇAYKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ÇİMLİHÖYÜK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ÇUKURDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "DAĞARASI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "DALLIDAĞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "DEMİRLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "DEREBOYU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "DERİNGÖZE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "DEVELİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "DEVLETKUŞU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "DİBEKTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "DOĞANKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "GİRAYLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "GÖKİÇİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "GÖZEKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "GÖZLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "GÜLERCE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "GÜNEŞTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "HANÇERLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "HENDEKKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "İNCEHIDIR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KARABURÇAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KARPUZLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KARŞIBAĞLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KAVURMAKÜPÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KAYAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KEMALİYE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KEMERTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KESENTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KIRALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KOCAALİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KORTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KOYUNALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KÖMÜRTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "KUMÇİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "MORKOYUN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "OLGUN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ORTAAĞAÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ORTAYAZI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "OTLUCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ÖZBİLEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "PINARKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "SABIRLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "SALİHLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "SALLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "SALLICA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "SAVAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "SELMANKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "SESVERENPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "SÖKÜNDÜZÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ŞİRİNEVLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ŞÖLEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "TEVEKLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "USLUCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ÜÇKARDEŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ÜZÜMLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YAKACIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YAMAÇLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YAPRAKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YAYVANTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YOLBULAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YOLKÖPRÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YONCALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YUKARIBİTİKÇİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YUKARIKARPUZLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "YUKARIKUYULU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "ERGANİ",
+    "Mahalle": "ZİYARET MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "ABACILAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "AKÇAYURT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "ANIL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "BELEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "ÇARDAKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "ÇUKURKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "DERELİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "GÖMEÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "GÜRBÜZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "KALABA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "KALEDİBİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "KIRIM MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "KUYULAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "OKURKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "SERENKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "SERGEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "SOYLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "SÜSLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "TOPÇULAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "UZUNLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "VEZİRİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "YAYVAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "YUKARITURALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HANİ",
+    "Mahalle": "ZİRVE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "AĞARTI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "BAĞYURDU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "BAYIRDÜZÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "ÇİTLİBAHÇE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "ÇÖKEKSU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "DADAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "ELHUVAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "GEDİKALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "GÖZLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "İNCEKAVAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "İŞKAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "KAVAKLIBOĞAZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "KIRKKAŞIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "KIRMATAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "KOÇBABA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "KULAÇTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "MEŞEBAĞLARI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "MUTLUCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "ORMANKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "REŞİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "SARIÇANAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "SARIERİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "TERDÖKEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "TOPALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "UZUNARGIT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "ÜLGEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "VARINCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "HAZRO",
+    "Mahalle": "YAZGI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "AVCISUYU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "BAYKARA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "BENEKLİTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "CANKATRAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "CÜCÜK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "ÇÖLGÜZELİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "DİCLEKENT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "FIRAT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "GÖZALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "GÖZEGÖL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "GÜLEÇOBA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "HARMANARDI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "HATİPOĞLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "HUZUREVLERİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "KALDIRIM MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "KARAYAKUP MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "KEKLİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "KIRKPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "MEDYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "MEZOPOTAMYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "PETEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "PEYAS MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "SAĞKULAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "SULTANTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "TABAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "TALAYTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "TİŞO MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "TOSUNLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "UYANDIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "YENİÖZERLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KAYAPINAR",
+    "Mahalle": "YOLBOYU PİRİNÇLİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "AMBAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "ARKBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "BOYUNLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "BOZBAĞLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "BOZYER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "ÇAKMAKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "ÇAYIRLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "ÇAYTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "EYÜPLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "GÖKÇEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "GÖZEBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "GÜNALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "HACI REŞİT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "KAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "KOKULUPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "SUÇIKTI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "ŞAKLAT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "ŞERİFOĞULLARI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "ŞEYH ŞERAFETTİN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "YAZIKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KOCAKÖY",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "AĞAÇKORUR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "AĞAÇLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "AĞILLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "AKBULAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "AKÇESİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "AKDORUK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "ALACA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "ARGÜN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "AYGÜN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "AYHAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "BAĞCILAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "BALOĞLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "BARIN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "BAŞBUĞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "BAYIR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "ÇUKURCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "DEMİRLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "DOLUN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "DÜZCE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "GÜLEÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "GÜLLÜK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "HAMZALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "İNKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "İSLAMKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KAMIŞLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KARABULAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KARAORMAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KARPUZLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KAYACIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KAYAHAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KAYNAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KOÇKAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KONUKLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "MERKEZ ESKİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "MERKEZ YENİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "NARLICA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "ÖZBEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "SALKIMLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "SALTUK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "TAŞKÖPRÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "TEMRAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "UYGUR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "UZUNOVA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "ÜÇKUYU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "ÜNAL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "YAKIT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "YAYIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "YAYLAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "YUVACIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "KULP",
+    "Mahalle": "ZEYREK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ABALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "AKÇABUDAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ARIKLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "BAĞLAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "BAHARLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "BAYIRLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "BİRLİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "BUDAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ÇAĞDAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ÇAVUNDUR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ÇEPER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ÇIRALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "DALLICA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "DAMAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "DARALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "DELVAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "DERNEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "DİBEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "DOLUNAY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "DURU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ECEMİŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ERGİN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ESENLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "GÖKÇE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "GÜÇLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "GÜLDİKEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "GÜRBEYLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "HEDİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KABAKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KALİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KARAHASAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KELVAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KILIÇLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KIPÇAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KIRALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KIYI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KÖRTÜK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KUMLUCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "KUTLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "MULLA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "MURADİYE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "MÜMİNAĞA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ORTAÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "OYUKLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ÖRTÜLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "SAVAT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "SAYDAMLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "SERİN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "SIĞINAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ŞAAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ŞENLİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "TÜRELİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "UÇARLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ULUCAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ÜÇDAMLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "YALAZA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "YALIMLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "YAMAÇLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "YAPRAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "YEŞİLBURÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "YOLÇATI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "YORULMAZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "YÜNLÜCE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ZİYARET MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "LİCE",
+    "Mahalle": "ZÜMRÜT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "AKÇAYIR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "AKÇELTİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "AKDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "AKYOL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ALİBEY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ALTINKUM MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ARI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "AŞAĞIKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "AŞAĞIVEYSİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BABAKAYA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BAĞDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BAŞDEĞİRMEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BAŞIBÜYÜK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BAYRAMBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BELLİBAHÇE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BEREKETLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BEYPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "BOYUNLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "CAMİİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ÇAKILTAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ÇALDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ÇARDAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ÇEVRİKSU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ÇİĞDEMLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ÇİĞİL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ÇOBANTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "DAĞCILAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "DARKÖPRÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "DEMİRKUYU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "DOLAPDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "DOLUÇANAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "DURU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "DÜZALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ERİKYAZI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ESKİKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ESKİOCAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "EŞME MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "FERİDUN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "GÖKÇETEVEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "GÖRENTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "GÖRMEZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "GÜÇLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "GÜNDÜZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "GÜRPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "GÜZDERESİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "HEYBELİKONAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "İNCESU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KARACALAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KARAHACI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KARAMUS MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KASIMLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KAYADERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KAZANDAĞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KEKLİKDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KIRAÇTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KIZLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KUMGÖLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KUMLUK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "KUTLUALAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "MALABADİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "MESCİT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "NOHUTTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ONBAŞILAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ORMANDIŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "OTLUK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "SARIBUĞDAY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "SELAHATTİN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "SULAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "SULUBAĞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "SUSUZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ŞANLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "TAŞPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "TEKEL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "TOKLUCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "UMUR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "ÜÇBASAMAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YEŞERDİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YEŞİLBAHÇE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YOLAÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YOLARASI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YUKARIVEYSİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YUVA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SİLVAN",
+    "Mahalle": "YÜKSEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "AĞAÇLIDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ALABAL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ALCIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ALİBARDAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ARPADERESİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "BAĞPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "BAHÇECİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "BAROĞLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "BEYBULAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "BOSTANPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "BOZDEMİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "BÜYÜKAKÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "BÜYÜKKADI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "CEMAL YILMAZ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "CEVAT PAŞA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ÇATAKSU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ÇELİKLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ÇUBUKLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "DERVİŞHASAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "DİCLE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "DOĞANLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "DOĞU ÇANAKÇI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "DUMRUL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ERİMLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ERYOLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ESENBAĞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "FATİHPAŞA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "FİDANLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "GENCAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "GÖLPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "HACIOSMAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "HARMANLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "HASIRLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "HAVACILAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "HIZIR İLYAS MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KABASAKAL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KAPAKLIPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KARABAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KARAÇALI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KARAÇİMEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KARDEŞLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KARPUZLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KARPUZTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KARTALTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KAVAKLIBAĞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KAYAYOLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KENGERLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KERVANPINAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KIRMASIRT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KITILBIL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KONACIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KOYUNGÜDEN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KOZAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KÖŞK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KUMLUÇAT MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KUMRUCAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KUŞBURNU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KUŞLUKBAĞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KÜÇÜKAKÖREN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "KÜÇÜKKADI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "MERMER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "MERMERİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "NEFİRTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ÖZEKLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "PINARDÜZÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SAĞDIÇLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SAPANCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SARIKAMIŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SARILAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SARIYAZMA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SATİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SAVAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SAYARLAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SOĞANLI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SÜNGÜLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "TANOĞLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "TEZGEÇER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "YARIMCA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "YENİEVLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "YEŞİLLİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "YEŞİLVADİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "YİĞİTÇAVUŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "YUKARIKILIÇTAŞI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ZİYARET MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ABDALDEDE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ALİ PAŞA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "CAMİ KEBİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "CAMİ NEBİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "DABANOĞLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "İSKENDERPAŞA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "LALEBEY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "MELİKAHMET MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "SÜLEYMAN NAZİF MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "SUR",
+    "Mahalle": "ZİYA GÖKALP MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GÜRDOĞAN MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ALPU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇİMENLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "DOKUZÇELTİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "DÖKMETAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "DÖNÜMLÜ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ELİDOLU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ESER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GÜVENDERE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GÜVERCİNLİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GÜZELKÖY MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "İLBAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KESİKAĞAÇ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "SANCAR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ŞEHİTLİK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "TANIŞIK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÜÇKUYU MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YOLALTI MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YÜKSEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "AL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ALANGÖR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "BAŞİL MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "BOZEK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇAKMAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇELİKEVLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "DİCLE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "DİKENTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "EKİNCİLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "FABRİKA MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "FERİT KÖŞK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GEYİKTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "HANTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KOOPERATİFLER MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "SARIYATAK MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "SEYRANTEPE SANAYİ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "SİVRİTEPE MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YAYTAŞ MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YUKARI NASIRLAR MAH"
+  }
+]

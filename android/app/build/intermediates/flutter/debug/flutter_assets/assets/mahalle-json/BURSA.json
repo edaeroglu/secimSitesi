@@ -1,0 +1,5362 @@
+[
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "AKÇASAZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "ARMUTÇUK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "BADEMLİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "BURUNCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "ÇAKIRYENİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "ÇERİBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "DANACILAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "DANAÇALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "DEMİRLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "DERECİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "DURHASAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "DÜĞÜNCÜLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "ELEKÇALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "ERİCEK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "GEDİKLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "GEYNİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "HACIAHMETLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "HEMŞERİLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "HOCAHASAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "İSMETİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "KARAAĞIZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "KARAÇUKUR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "KAYAPA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "KINIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "KUŞLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "MAZLUMLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "ORHAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "OSMANLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "ÖZLÜCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "PERÇİN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "PINARKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "PİREBEYLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "SARNIÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "TEKERLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "BÜYÜKORHAN",
+    "Mahalle": "ZAFERİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "ADLİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "ATA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "ATA SB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "BALIKPAZARI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "BÜYÜKKUMLA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "CİHATLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "DEMİRSUBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "DR.ZİYA KAYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "ENGÜRÜCÜK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "EŞREF DİNÇER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "FEYZİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "FINDICAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "GENÇALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "GÜVENLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "HALİTPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "HAMİDİYEKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "HAYDARİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "HİSAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "KARACAALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "KATIRLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "KAYHAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "KUMLA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "KURŞUNLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "KURTUL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "KÜÇÜKKUMLA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "MURATOBA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "NARLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "ŞAHİNYURDU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "ŞÜKRİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "UMURBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GEMLİK",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "ADAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "AĞAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "CAMBAZLARKÖYÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "DIŞKAYAKÖYÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "ERİCEKKÖYÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "HASANKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "İĞDİRKÖYÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "İPEKYOLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "KARAHIDIRKÖYÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "KAZIKLIKÖYÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "KUMLUKALAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "KURTULUŞOSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "YENİDOĞANOSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "GÜRSU",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "ALUTCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "BALATDANİŞMENT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "BALLISARAY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "BEKDEMİRLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "ÇAKMAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "ÇAMOĞLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "ÇATALSÖĞÜT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "DEDEBALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "DELİCEGÜNEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "DUTLUCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "ECE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "GEDİKÖREN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "GÖKÇELER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "GÜLÖZÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "HARMANCIK AKALAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "HOPANDANİŞMENT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "ILICAKSU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "İSHAKLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "KARACA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "KEPEKDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "KILAVUZLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "KIŞMANLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "KOCAPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "KOZLUCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "NALBANT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "OKÇULAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "SAÇAKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "YAYABAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "HARMANCIK",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "AKBAŞLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "AKHİSAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "AKINCILAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ALİBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "AŞAĞIBALLIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "BABAOĞLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "BAHARİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "BAHÇEKAYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "BAYKOCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "BAYRAMŞAH MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "BİLALKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "BOĞAZKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "BURHANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "CEMİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "CERRAH MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "CUMA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ÇAVUŞKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ÇAYLICA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ÇAYYAKA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ÇELTİKÇİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ÇİFTLİKKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ÇİTLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "DEYDİNLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "DİPSİZGÖL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "DOĞANYURDU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "DÖMEZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "EDEBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ELMAÇAYIR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ERTUĞRULGAZİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ESENKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ESKİ BAHÇEKAYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ESKİKARACAKAYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ESKİKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "EYMİR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "FEVZİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "FINDIKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "GAZELLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "GEDİKPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "GÜLBAHÇE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "GÜNDÜZLÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "GÜNEYKESTANE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HACIKARA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HALHALCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HAMAMLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HAMİTABAT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HAMZABEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HAMZABEY OSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HASANPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HAYRİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HİLMİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HOCAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "HUZUR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "İCLALİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "İSAÖREN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KARAGÖLET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KARAHASANLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KARAKADI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KARALAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KAYAPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KESTANEALANI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KINIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KIRAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KOCAKONAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KONURLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KOZLUCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KULACA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KURŞUNLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "KÜÇÜKYENİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "LÜTFİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "MADENKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "MESUDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "MEZİT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "MURATBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "OLUKMAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "OSMANİYEKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ÖZLÜCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "PAŞAÖREN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "RÜŞTİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SAADET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SARIPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SİNANBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SOĞUKDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SULHİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SULTANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SUNGURPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SÜLE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SÜLEYMANİYEOSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SÜLÜKLÜGÖL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "SÜPÜRTÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "ŞİPALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "TAHTAKÖPRÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "TEKKEKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "TOKUŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "TURGUTALP MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "TURGUTALPKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "TÜFEKÇİKONAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "YENİCEKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "YENİYÖRÜK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "YİĞİT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "YUKARIBALLIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İNEGÖL",
+    "Mahalle": "YUNUSEMRE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "BEYLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "BOYALICA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "CANDARLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "ÇAKIRCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "ÇAMDİBİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "ÇAMOLUK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "ÇAMPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "DERBENT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "DIRAZALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "ELBEYLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "EŞREFZADE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "GÖLLÜCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "GÜRMÜZLÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "HACIOSMAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "HİSARDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "HOCAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "İNİKLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "KARATEKİN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "KAYNARCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "KIRINTI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "KUTLUCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "MAHMUT ÇELEBİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "MUSTAFA KEMAL PAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "MUSTAFALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "MÜŞKÜLE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "ÖMERLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "SANSARAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "SARIAĞIL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "SELÇUK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "ŞEREFİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "TACİR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "YENİŞEREFİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "YEŞİL CAMİİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "İZNİK",
+    "Mahalle": "YÜRÜKLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ABDULLAHPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "AKÇAKOYUN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "AKÇASUSURLUK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "AKHİSAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ARIZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "BAKIRKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "BALLIKAYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "BAYRAMDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "BEYLİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "BOĞAZKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "CANBALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "CANBAZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ÇARIKKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ÇAVUŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ÇEŞNİGİR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "DAĞESEMEN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "DAĞKADI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "DANİŞMENT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "DOĞLA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "DRAMA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "EKİNLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "EKMEKÇİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "EMİRSULTAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ESKİKARAAĞAÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ESKİSARIBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "FEVZİPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "GARİPÇE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "GÖLECİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "GÖLKIYI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "GÖNÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "GÜNGÖRMEZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "HARMANLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "HAYIRLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "HOTANLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "HÜDAVENDİGAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "İKİZCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "İNKAYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "KARACAAHMET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "KARAKOCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "KARASU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "KEDİKAYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "KEŞLİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "KIRANLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "KULAKPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "KURŞUNLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "KÜÇÜKKARAAĞAÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "MAMURİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "MURATLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "NASRETTİN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "OKÇULAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ORTASARIBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "OVA HAMİDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "OVAESEMEN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "RUNGUŞPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "SAADET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "SAZLICA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "SEYRAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "SIRABADEMLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "SULTANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ŞAHİNKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ŞAHMELEK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "TABAKLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "TAŞLIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "TAŞPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "TAVŞANLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "TOPHİSAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "ULUABAT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "YARIŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "YENİKARAAĞAÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "YENİSARIBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KARACABEY",
+    "Mahalle": "YOLAĞZI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "AKÇAPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "ALPAĞUT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "AVDAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "BARAKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "BASAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "BELENÖREN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "BIYIKLIALANI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "CUMA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "ÇUKUR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "DAĞ DEMİRCİLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "DAĞDİBİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "DAVUTLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "DEDELER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "DELİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "DENİZLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "DURAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "DÜVENLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "EPÇELER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "ERTUĞRULGAZİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "GELEMİÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "GÖKÖZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "HARMANALANI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "HARMANCIK DEMİRCİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "HAYDAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "HEREKE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "ISSIZÖREN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "KARAARDIÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "KEMALİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "KIRAN IŞIKLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "KİRAZLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "KOCA KOVACIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "KOZBUDAKLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "KÜÇÜK KOVACIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "MENTEŞE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "PINARCIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "SORGUN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "UZUNÖZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "YAĞCILAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "YAZIBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KELES",
+    "Mahalle": "YUNUSLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "AĞLAŞAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "AHMET VEFİK PAŞA OSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "AHMETVEFİKPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "ALAÇAM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "BABASULTAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "BARAKFAKİH MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "BARAKFAKİH OSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "BURHANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "ÇATALTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "DEREKIZIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "DUDAKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "ERDOĞAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "GÖLCÜK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "GÖZEDE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "KAYACIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "KAZANCI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "KOZLUÖREN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "LÜTFİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "NARLIDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "NÜZHETİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "SAİTABAT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "SAYFİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "SERME MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "SEYMEN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "ŞEVKETİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "TURANKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "ÜMİTALAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "VANİMEHMET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "YAĞMURLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "KESTEL",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "AKKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ALTINTAŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "AYDINPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "BALABANCIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ÇAĞRIŞAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ÇAYÖNÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ÇEKRİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ÇEPNİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ÇINARLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "DEDEKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "EĞERCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "EMİRLERYENİCESİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ESENCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "EVCİLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "GÖYNÜKLÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "GÜZELYALI BURGAZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "GÜZELYALI EĞİTİM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "GÜZELYALI SİTELER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "GÜZELYALI YALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "HALİTPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "HANÇERLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "HASANBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "HASKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "IŞIKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "İPEKYAYLA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "KAYMAKOBA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "KUMYAKA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "KÜÇÜKYENİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "MESUDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "MİRZAOBA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "MÜRSEL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "MÜTAREKE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ÖMERBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "SÖĞÜTPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ŞÜKRÜÇAVUŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "TİRİLYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "ÜLKÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "YALIÇİFTLİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "YAMAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "YÖRÜKALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUDANYA",
+    "Mahalle": "YÖRÜKYENİCESİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ADAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ADALET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "AĞAÇLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "AKARCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "AKÇAPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ALACAAT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ALİSEYDİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ALPAĞUT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ARALIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "AŞAĞIBALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ATARİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "AYAZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "BAHARİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "BEHRAM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "BOĞAZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "BOSTANDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "BÜK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "CAMANDAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÇAKALLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÇALTILIBÜK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÇARDAKBELEN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÇAVUŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÇELTİKÇİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÇIRPAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÇİVİLİÇAM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÇÖMLEKÇİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÇÖRDÜK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DALLICA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DEMİRDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DEMİRELİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DERECİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DEREKADI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DEVECİKONAĞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DOĞANALAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DOĞANCI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DORAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DÖLLÜK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "DURUMTAY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ESKİBALÇIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ESKİKIZILELMA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "FEVZİDEDE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "FINDICAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "GARİPÇETEKKE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "GÜLLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "GÜLLÜCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "GÜVEÇDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "GÜVEM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "HACIAHMET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "HACIALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "HAMİDİYEKÖYÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "HAMZABEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "HİSARALTI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "İLYASÇILAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "İNCEALİPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KABULBABA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KADİRÇEŞME MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KAPAKLIOLUK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KARACALAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KARAOĞLAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KARAORMAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KAZANPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KELTAŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KESTELEK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KİLLİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KOCAKORU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KOSOVA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KOŞUBOĞAZI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KÖMÜRCÜKADI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KÖREKEM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KÖSEHOROZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KUMKADI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "KURŞUNLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "LALAŞAHİN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "LÜTFİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "MELİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "MURADİYESARNIÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "OCAKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ONAÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ORMANKADI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "OVAAZATLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÖMERALTI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "PAŞALAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "SARIMUSTAFALAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "SİNCANSARNIÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "SOĞUCAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "SÖĞÜTALAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "SÜNLÜK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ŞAPÇI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ŞEHRİMAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ŞEREFİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ŞEVKETİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ŞEYHMÜFTÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "TAŞKÖPRÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "TAŞPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "TATKAVAKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "TIRNOVA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "UĞURLUPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ÜÇBEYLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "VIRACA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YALINTAŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YAMANLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YAVELLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YAYLAÇAYIR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YENİBALÇIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YENİDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YENİKIZILELMA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YONCAAĞAÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YUKARIBALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YUMURCAKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "YÜZBAŞI SABRİBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "MUSTAFAKEMALPAŞA",
+    "Mahalle": "ZÜFERBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ALAADDİNBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ÜRÜNLÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "19 MAYIS MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "23 NİSAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ALTINŞEHİR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ATAEVLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "FETHİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "AHMET YESEVİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "BALAT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "BALATOSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "BEŞEVLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "GÜMÜŞTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ÇALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "29 EKİM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ERTUĞRUL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ÖZLÜCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "YÜZÜNCÜYIL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "BALKAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "GÖRÜKLE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "30 AĞUSTOS ZAFER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "HASANAĞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "HASANAĞA OSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KAYAPA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KIZILCIKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "TAHTALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KARAMAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "AKÇALAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "BÜYÜKBALIKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "DOĞANKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "GÖKÇE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "GÖLYAZI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "İRFANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KONAKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "YOLÇATI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ODUNLUK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ATLAS MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "AYVAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "BADIRGA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ÇATALAĞIL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ÇAYLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "DAĞYENİCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "FADILLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "GÜNGÖREN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "İNEGAZİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KADRİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KARACAOBA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KORUBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "KURUÇEŞME MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "MAKŞEMPINARI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "UNÇUKURU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ÜÇPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "MİNARELİÇAVUŞ BURSA OSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "MİNARELİÇAVUŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "MİNARELİÇAVUŞOSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "FETHİYEOSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "IŞIKTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "IŞIKTEPEOSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "DEMİRCİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "NİLÜFER",
+    "Mahalle": "ÜÇEVLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "300 EVLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "AĞAÇHİSAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "AKALAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "AKÇABÜK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ALTINTAŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ARGIN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "BALIOĞLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "BELENOLUK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "CELEPLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ÇEKİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ÇINARCIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ÇİVİLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ÇÖRELER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "DAĞGÜNEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "DELİBALLILAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "DEMİRCİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "DÜNDAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "EMİR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ESKİDANİŞMENT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "FADIL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "FEVZİPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "FİROZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "GAZİOLUK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "GAZİPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "GİRENCİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "GÖKTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "GÖYNÜKBELEN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "GÜMÜŞPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "İKİZOLUK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "KABAKLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "KADI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "KARABEKİRPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "KARAOĞLANLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "KARASİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "KARINCALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "KOÇU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "KUSUMLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "KÜÇÜKORHAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "LETAFET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "MAHALLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "NALINLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "OSMANİYEÇATAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "SADAĞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "SEMERCİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "SERÇELER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "SIRIL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "SÖĞÜT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "SÜLEYMANBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "ŞÜKRİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "TOPUK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "YAKUPLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "YENİDANİŞMENT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "YEŞİLLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANELİ",
+    "Mahalle": "YÖRÜKLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "AKHAREM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "ARAPZADE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "BAYIRKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "CAMİİKEBİR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "CİHANKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "ÇAKIRLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "ÇELTİKÇİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "DUTLUCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "FINDIKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "GEDELEK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "GEMİÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "GÖLYAKA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "GÜRLE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "HAMZALI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "HECELER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "KARSAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "KERAMET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "MURADİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "NARLICA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "ÖRNEKKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "PAŞAPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "SÖLÖZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "ÜREĞİL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "YENİGÜRLE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "ORHANGAZİ",
+    "Mahalle": "YENİSÖLÖZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ALEMDAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ARMUTKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ÇELTİKKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ÇUKURCAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "GAZİAKDEMİR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SIRAMEŞELER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SOĞANLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "YENİCEABAT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "AHMETPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "AKTARHÜSSAM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ALTIPARMAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ÇIRPAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "HOCAHASAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "İNTİZAM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KURUÇEŞME MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ŞEHABETTİNPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "YAHŞİBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ATICILAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "BAHAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "GÜLBAHÇE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KEMERÇEŞME MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KOĞUKÇINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SELAMET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ALTINOVA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "BAŞARAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KÜÇÜKBALIKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "VEYSEL KARANİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ALACAMESCİT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "EBU İSHAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "REYHAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ŞEHREKÜSTÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "TUZPAZARI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ÇEKİRGE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KÜKÜRTLÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DEMİRTAŞ BARBAROS MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DEMİRTAŞ CUMHURİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DEMİRTAŞ DUMLUPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DEMİRTAŞ SAKARYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DEMİRTAŞ DUMLUPINAROSB MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "EMEK ADNAN MENDERES MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "EMEK FATİH SULTAN MEHMET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "EMEK ZEKAİ GÜMÜŞDİŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "GEÇİT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "NİLÜFERKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "HAMİTLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "YENİBAĞLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ALAADDİN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ALACAHIRKA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ALİPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DEMİRKAPI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "HAMZABEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "İVAZPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KOCANAİP MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "MOLLAFENARİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "MOLLAGÜRANİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "MURADİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "TAHTAKALE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DİKKALDIRIM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DOBURCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "HÜDAVENDİGAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ADALET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SOĞUKKUYU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "YENİKARAMAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ÇİFTEHAVUZLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ÇİRİŞHANE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KÜPLÜPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SANTRAL GARAJ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "TUNA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "HOCAALİZADE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "İBRAHİMPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KAYIHAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "MAKSEM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "NALBANTOĞLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ORHANBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "AHMETBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "AKSUNGUR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "AVDANCIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "BAĞLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "BÜYÜKDELİLLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DAĞAKÇA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DOĞANCI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DÜRDANE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "GÖKÇEÖREN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "GÜNEYBAYIR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "GÜNEYBUDAKLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "HÜSEYİNALAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "İNKAYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KARABALÇIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KARAİSLAH MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KİRAZLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KÜÇÜKDELİLLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "MÜRSELLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SEÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SEFERIŞIKLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SELÇUKGAZİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "TUZAKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ULUÇAM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "YİĞİTALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "OVAAKÇA ÇEŞMEBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "OVAAKÇA EĞİTİM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "OVAAKÇA MERKEZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "OVAAKÇA SANTRAL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ALAŞARKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DOĞANEVLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "İSMETİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "PANAYIR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DEMİRTAŞPAŞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DOĞANBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ELMASBAHÇELER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "HACI İLYAS MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KIRCAALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "KİREMİTÇİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "TAYAKADIN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "ULU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "DEREÇAVUŞKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "GÜNEŞTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "OSMANGAZİ",
+    "Mahalle": "YUNUSELİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "AFŞAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "AKBIYIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "AKÇAPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "AKDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ALAYLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "AYAZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "AYDOĞDU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "BARCIN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "BEYPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "BURCUN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "CİHADİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇAMÖNÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇARDAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇAYIR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇAYIRLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇELEBİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇELTİKÇİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇİÇEKÖZÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "DEMİRBOĞA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "EBEKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "EĞERCE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "FETHİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GÖKÇESU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GÜNDOĞAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GÜNECE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "HAYRİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "HIDIRBALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "İNCİRLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KARAAMCA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KARABAHADIR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KARACAAHMET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KARACAALİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KARASIL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KIBLEPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KIZILHİSAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KIZILKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KİRAZLIYAYLA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KOYUNHİSAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KOZDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KÖPRÜHİSAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "MARMARACIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "MENTEŞE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "PAPATYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "PAŞAYAYLA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "REŞADİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "SÖYLEMİŞ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "TABAKHANE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "TERZİLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "TOPRAKDERE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "TOPRAKOCAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ULUCAMİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YARHİSAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YAZILI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YENİGÜN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YILDIRIM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YILMAZ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YOLÖREN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "YÜZÜNCÜYIL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ARABAYATAĞI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ÇINARÖNÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "DEMETEVLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "HACİVAT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "İSABEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ŞİRİNEVLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ULUS MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "VAKIF MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "YAVUZSELIM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "152EVLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "BARUTHANE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "BEYAZIT MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "DEĞİRMENLİKIZIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "EĞİTİM MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "MEHMETAKİFERSOY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ŞÜKRANİYE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "YEŞİLYAYLA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "AKÇAĞLAYAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "DAVUTKADI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "MALTEPE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "MUSABABA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "PİREMİR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "SIRACEVİZLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "YEDİSELVİLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ZÜMRÜTEVLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ANADOLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "DUAÇINARI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "MİLLET MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "SAMANLI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "VATAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "YUNUSEMRE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "75.YIL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "BAĞLARALTI MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "CUMALIKIZIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "DEĞİRMENÖNÜ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ERİKLİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ESENEVLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "FİDYEKIZIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "HAMAMLIKIZIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "YİĞİTLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ERTUĞRULGAZİ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "GÜLLÜK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "KAPLIKAYA MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "MİMARSİNAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ORTABAĞLAR MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "SELÇUKBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "SİTELER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "ZEYNİLER MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "EMİRSULTAN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "HOCATAŞKIN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "KARAMAZAK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "KURTOĞLU MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "MEYDANCIK MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "MOLLAARAP MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "NAMAZGAH MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "TEFERRÜÇ MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "UMURBEY MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "YENIMAHALLE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "YEŞİL MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "DAVUTDEDE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "HACISEYFETTİN MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "SELİMZADE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "SİNANDEDE MAH"
+  },
+  {
+    "il": "BURSA",
+    "ilçe": "YILDIRIM",
+    "Mahalle": "YILDIRIM MAH"
+  }
+]

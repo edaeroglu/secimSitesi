@@ -1,0 +1,2442 @@
+[
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "HAVUZLUBAHÇE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "KILIÇARSLAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "ŞEHİTEKREM MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "YEŞİLKENT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "AKSIĞIN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "ALTINKENT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "CAMİDÜZÜ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "DOĞANTEPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "DÖNGEL MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "KAZANDERE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "SAHİL MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "SERİNDERE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "SERVETİYE CAMİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "SERVETİYE KARŞI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "KARADENİZLİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "KULLAR TEPECİK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "KULLAR YAKACIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "MAHMUTPAŞA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "MEHMETAĞA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "VEZİRÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "DAMLAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "KÖRFEZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "SEYMEN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "ATAKENT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "SEPETLİPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "SEPETLİPINAR SB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "YENİKÖY MERKEZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "AYDINKENT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "PAŞADAĞ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "SERDAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "BAŞİSKELE",
+    "Mahalle": "YUVACIK YAKACIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "AKSE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "ÇAYIROVA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "GEBZE OSB2 MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "ÖZGÜRLÜK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "ŞEKERPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "TOSB OTOMOTİV MAH (OSB MAH)"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "ÇAYIROVA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "ABDİ İPEKÇİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "BAYRAMOĞLU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "FEVZİÇAKMAK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "KAZIMKARABEKİR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "NENEHATUN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "PİRİ REİS MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "SIRASÖĞÜTLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DARICA",
+    "Mahalle": "ZİNCİRLİKUYU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "ÇAVUŞLU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "ÇENEDAĞ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "ÇINARLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "DENİZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "FATİH SULTAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "GEREDELİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "İBNİSİNA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "KARAGÖLLÜ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "KAŞIKÇI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "MERSİNCİK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "SIRRIPAŞA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "TAHTALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "TERZİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "TOYLAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "YAVUZ SULTAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DERİNCE",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "ÇERKEŞLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "ÇERKEŞLİOSB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "DEMİRCİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "DEMİRCİLEROSB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "DİLİSKELESİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "DİLOVASIOSB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "KAYAPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "KOCAELİ-GEBZE KÖMÜRCÜLER OSB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "KÖSELER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "TAVŞANCIL MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "DİLOVASI",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "ADEM YAVUZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "AHATLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "ARAPÇEŞME MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "BALÇIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "BARIŞ SB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "BEYLİKBAĞI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "CUMAKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "DENİZLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "DURAKLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "ELBİZLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "ESKİHİSAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "GEBZE DİLOVASI OSB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "GEBZE OSB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "GÜZELLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "HACIHALİL MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "HATİPLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "İNÖNÜ MAH GEBZE PLASTİKÇİLER OSB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "İNÖNÜ MAH.GEBZE GÜZELLER OSB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "KADILLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "KARGALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "KİRAZPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "KÖŞKLÜ ÇEŞME MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "MOLLAFENARİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "MUALLİMKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "MUDARLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "MUSTAFAPAŞA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "OSMAN YILMAZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "PELİTLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "SULTAN ORHAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "TATLIKUYU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "TAVŞANLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "TEPEMANAYIR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "ULUS MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "YAĞCILAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GEBZE",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "DEĞİRMENDERE MERKEZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "DEĞİRMENDERE YALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "HALIDERE YALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "HALIDERE YENİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "KÖRFEZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "TOPÇULAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "ULAŞLI YALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "ULAŞLI YAVUZ SULTAN SELİM MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "YÜZBAŞILAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "AYVAZPINARI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "DENİZ EVLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "DONANMA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "DÜZAĞAÇ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "ESKİFERHADİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "FERHADİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "HASANEYN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "HİSAREYN MERKEZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "İCADİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "İHSANİYE MERKEZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "İPEK YOLU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "İRŞADİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "KARAKÖPRÜ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "LÜTFİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "MAMURİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "MESRURİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "NİMETİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "NÜZHETİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "ÖRCÜN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "PANAYIR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "PİYALEPAŞA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "SARAYLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "SİYRETİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "ŞEVKETİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "ŞİRİNKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "ÜMMİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "YAZLIK MERKEZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "YAZLIK YENİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "GÖLCÜK",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "AKARCA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "AKMEŞE ATATÜRK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "AKMEŞE CUMHURİYET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ALİKAHYA ATATÜRK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ALİKAHYA CUMHURİYET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ALİKAHYA FATİH MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ALİKAHYA MERKEZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ALİKAHYA OSB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ATATÜRK MAH (OSB MAH)"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KARADENİZLİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "CEDİT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ÇUKURBAĞ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ÖMERAĞA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "TERZİBAYIRI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "TOPÇULAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "28 HAZİRAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "AYAZMA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "BEKİRDERE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "MALTA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "TAVŞANTEPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "AMBARCI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ARIZLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ARPALIKİHSANİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "BAĞLICA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "BALÖREN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "BAYRAKTAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "BİBEROĞLU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "BÖĞÜRGEN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "BULDUK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ÇAĞIRGAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ÇAVUŞOĞLU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ÇAYIRKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ÇUBUKLUBALA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ÇUBUKLUOSMANİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "DAĞKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "DURHASAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "DÜĞMECİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "EMİRHAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ESELER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "FETHİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "GEDİKLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "GÖKÇEÖREN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "GÜLBAHÇE KADRİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "GÜVERCİNLİK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "HAKANİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "HASANCIKLAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KABAOĞLU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KARAABDÜLBAKİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KAYNARCA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KISALAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KOZLUCA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KULFALLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KULMAHMUT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KURTDERE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "MECİDİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "NEBİHOCA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ORTABURUN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "SAPAKPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "SARIŞEYH MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "SEKBANLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "SEPETÇİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "SULTANİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "SÜVERLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ŞAHİNLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "YASSIBAĞ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ZEYTİNBURNU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KARABAŞ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KÖRFEZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "AKÇAKOCA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "HACIHASAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "HACIHIZIR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KOZLUK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ORHAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "TURGUT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "VELİAHMET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "DOĞAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "HATİPKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KOCATEPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KURUÇEŞME FATİH MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "SERDAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ŞİRİNTEPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "TÜYSÜZLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "ZABITAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "M.ALİPAŞA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "YAHYAKAPTAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "İZMİT",
+    "Mahalle": "YENİŞEHİR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "AĞAÇAĞIL MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "AHMETHACILAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "AKBAL MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "AKÇABEYLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "AKÇAKESE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "AKÇAOVA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "AKDURAK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "AKINCI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ALEFLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ANTAPLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "AVDAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "AYDINLIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "BABAKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "BABALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "BAĞIRGANLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "BALCI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "BALLAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "BEYCE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "BEYLERBEYİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "BOLU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "BOZBURUN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "CEBECİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÇAKIRCAALİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÇAKMAKLAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÇALCA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÇALKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÇALYER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÇAMKONAK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÇERÇİLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "DALCA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "DELİVELİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "DOĞANCILI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "DÖNGELLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "DURAÇALİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "DURAKLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "EĞERCİLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ELMACIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "FERİZLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "GEBEŞLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "GONCAAYDIN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "HACIMAZLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "HACIŞEYH MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "HEDİYELİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "HIDIRLAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "HÜDAVERDİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "İNCECİK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KABAAĞAÇ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KANATLAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KARADİVAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KARLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KAYMAZ ERİKLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KAYMAZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KEFKEN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KERPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KIRKARMUT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KIZILCAPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KOCAKAYMAS MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KUBUZCU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "KURTYERİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "LOKMANLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "MANCARLAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "MERKEZ ERİKLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "MÜLKÜŞEHSUVAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "NASUHLAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ORHAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÖMERLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÖZBEY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "PELİTPINARI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "PINARDÜZÜ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "PINARLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "PİRCELER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SAFALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SARIAHMETLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SARICAALİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SARIGAZİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SARNIÇLAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SELAMETLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SELİMKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SEPETÇİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SEYİTALİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SİNANLIBİLALLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SUCUALİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "SÜLLÜ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ŞEREFSUNGUR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "TATARAHMET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "TEKSEN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "TERZİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "TOPLUCA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "ÜĞÜMCE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "YAĞCILAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KANDIRA",
+    "Mahalle": "YUSUFÇA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "4 TEMMUZ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "AKÇAT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "AVCIKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "ÇAMÇUKUR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "ÇAMDİBİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "EREĞLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "FULACIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "HAYRİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "İNEBEYLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "KADRİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "KARAAHMETLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "KAYACIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "KIZDERBENT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "OLUKLU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "PAZARKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "SAFİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "SEMETLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "SENAİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "SULUDERE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "TAHTALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARAMÜRSEL",
+    "Mahalle": "YALAKDERE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "ARSLANBEY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "ARSLANBEY OSB MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "ATAŞEHİR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "RAHMİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "SARIMEŞE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "ŞEVKATİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "ACISU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "BALABAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "DERBENT MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "EŞMEAHMEDİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "HAVLUBURUN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "KARATEPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "KETENCİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "NUSRETİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "PAZARÇAYIRI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "SERİNLİK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "SULTANİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "ŞİRİNSULHİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "FATİH SULTAN MEHMET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "KÖSEKÖY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "MAŞUKİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "ÇEPNİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "SUADİYE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "ATAEVLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "EMEKEVLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "ERTUĞRUL GAZİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "UZUNBEY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "UZUNÇİFTLİK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "EŞME MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "İBRİKDERE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KARTEPE",
+    "Mahalle": "UZUNTARLA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "17 AĞUSTOS MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "AGAH ATEŞ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "HACI AKİF MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "KIŞLADÜZÜ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "ŞİRİNYALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "YUKARI HEREKE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "ALİHOCALAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "ATALAR MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "BELEN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "CUMA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "ÇAMLITEPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "ÇIRAKLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "DİKENLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "ELMACIK MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "HACI OSMAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "HİMMETLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "İLİMTEPE MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "KALBURCU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "KARAYAKUPLU MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "KİRAZLIYALI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "KUTLUCA MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "KUZEY MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "NAİP MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "OSMANLI MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "SEVİNDİKLİ MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "SİPAHİLER MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "ŞEMSETTİN MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "YAVUZ SULTAN SELİM MAH"
+  },
+  {
+    "il": "KOCAELİ",
+    "ilçe": "KÖRFEZ",
+    "Mahalle": "YENİYALI MAH"
+  }
+]

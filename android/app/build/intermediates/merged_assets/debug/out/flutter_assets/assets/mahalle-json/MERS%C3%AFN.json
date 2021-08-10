@@ -1,0 +1,4052 @@
+[
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ADANALIOĞLU LİMONLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ADANALIOĞLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "AKDENİZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ANADOLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "KİREMİTHANE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "TURGUTREİS MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "CAMİ ŞERİF MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "MESUDİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ÇANKAYA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "AKDAM MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "BEKİRDE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "CAMİLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "CİVANYAYLAĞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "DEMİRHİSAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "DİKİLİTAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ESENLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "HEBİLLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "IĞDIR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "PARMAKKURDU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "PUĞKARACADAĞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "YANPAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "BAĞCILAR-İHSANİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "BAHÇELİ AŞAĞIBURHAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "BAHÇELİ KÜRKÇÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "BAHÇELİ YUKARIBURHAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "BURHANOSB MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "EVCİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "EVCİOSB MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "SARIİBRAHİMLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "TOROSLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "GÜNEŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "MİTHATPAŞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "SİTELER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "HAL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "MÜFİDE İLHAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ÖZGÜRLÜK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ŞEVKETSÜMER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "BAHŞİŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "KÖSELERLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "KULAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "NACARLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "NACARLIOSB MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ABDULLAH ŞAHUTOĞLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "KARACAİLYAS EMEK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "KARACAİLYAS EVREN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "KARACAİLYAS MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ŞAKİRGÜLMEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ÇİLEK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "KARADUVAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "KARADUVAR SB MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "YEŞİLÇİMEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "KAZANLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "NUSRATİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "ÜÇOCAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AKDENİZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "AKARCA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "AKİNE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ALATAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ANITLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "AŞAĞIKÜKÜR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "BOĞUNTU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "BOZDOĞAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ÇALTIBÜKÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ÇAMLIPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ÇAMLIPINARALANI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ÇARIKLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ÇATALOLUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ÇELTİKÇİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ÇUKURABANOZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "DEMİRÖREN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "EMİRŞAH MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "EVCİLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "GERCEBAHŞİŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "GÜLEÇ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "GÜNEYBAHŞİŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "GÜNGÖREN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "KALINÖREN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "KARAAĞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "KARAÇUKUR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "KARADERE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "KARALARBAHŞİŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "KAŞDİŞLEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "KILIÇ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "KIZILALİLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "KORUCUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "LALE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "MALAKLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ORMANCIK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "OVABAŞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "ÖREN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "SARIAĞAÇ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "SARIDANA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "SUGÖZÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "SULTAN ALAADDİN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "UÇARI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "YILDIRIM BEYAZIT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "YUKARI KÜKÜR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "GÖKTAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "TOROSLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "AKDENİZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "İSKELE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ANAMUR",
+    "Mahalle": "YALIEVLERİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "DURUHAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "ESKİYÜRÜK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "HACIBAHATTİN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "KARADERE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "KARASEKİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "PEMBECİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "TEKNECİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "YENİKAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "YENİYÜRÜK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "AYDINCIK",
+    "Mahalle": "YENİYÜRÜKKAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "ARDIÇLITAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "ELMAKUZU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "AKCAMİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "BAHÇEKOYAĞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "BEYRELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "ÇOPURLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "ÇUBUKKOYAĞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "DENİZCİLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "DEREBAŞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "GÖZCE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "GÖZSÜZCE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "GÜRLEVİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "KALEDİBİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "KARAİSALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "KÖMÜRLÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "KÖTEKLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "LENGER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "NARİNCE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "SICAKYURT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "TEKEDÜZÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "TEKELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "TEKMEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "BOZYAZI",
+    "Mahalle": "USTALAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "CUMAYAKASI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "ÇAYIREKİNLİĞİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "SEBİL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "BAĞÇATAĞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "BELÇINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "DARIPINARI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "FAKILAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "GİDEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "KESECİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "KORUCAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "KÖRMENLİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "SARIKAVAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ÇAMLIYAYLA",
+    "Mahalle": "SARIKOYAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "AKDENİZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ALATA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ALİBEYLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ARPAÇBAHŞİŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ARSLANLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "AYAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "BATISANDAL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ÇAMLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ÇERÇİLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ÇEŞMELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ÇİFTEPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ÇİRİŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "DAĞLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "DOĞUSANDAL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ELBEYLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ELVANLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ESENPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "EVDİLEK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "FAKILI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "GÜCÜŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "GÜNEYLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "GÜZELOLUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "HACIALANI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "HACIHALİLARPAÇ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "HARFİLLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "HÜSAMETLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "İLEMİN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KARAAHMETLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KARAHIDIRLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KARAKEŞLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KARAYAKUP MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KARGICAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KARGIPINARI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KAYACI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KIZILEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KIZKALESİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KOCAHASANLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KORAMŞALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KOYUNCU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KÖSBUCAĞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KÖSERELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KUŞLUCA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "KÜSTÜLÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "LİMONLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "SARIKAYA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "SARIYER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "SIRAÇ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "SİNAP MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "SORGUN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ŞAHNA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "TABİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "TAPURELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "TIRTAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "TOROS MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "TOZLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "TÖMÜK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "TÜRBE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ÜÇTEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "ÜZÜMLÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "VEYSELLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "YAĞDA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "YARENLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "YENİYURT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "ERDEMLİ",
+    "Mahalle": "YÜKSEK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "AKDENİZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "AYVALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "HACIPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "AKOVA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ARDIÇPINARI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ARIKUYUSU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "BEREKET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "BEYDİLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "BOLYARAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "BOZAĞAÇ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "BÜYÜKECELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ÇAVUŞLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ÇUKURASMA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ÇUKURKONAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "DAYICIK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "DEDELER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "DELİKKAYA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "DEMİRÖZÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "EMİRHACI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "GEZENDE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "GÖKTÜRK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "HALİFELER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ILISU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "İSHAKLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "KAVAKOLUĞU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "KAYRAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "KOÇAŞLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "KONUR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "KORUCUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "KÖSEÇOBANLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "KURBAĞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "KUSKAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "MOLLAÖMERLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ÖRENPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ÖRTÜLÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "SARIKAVAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "SİPAHİLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ŞEYHÖMER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "TAŞOLUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "TIRNAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "TOZKOVAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ULUPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ÜÇOLUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "YANIŞLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "YARMASU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "YASSIBAĞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "GÜLNAR",
+    "Mahalle": "ZEYNE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "AKDENİZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "ÇANKAYA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "ESENBAĞLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "ESKİ MEZİTLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "KALEKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "KUYULUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "VİRANŞEHİR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "75.YIL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "ANAYURT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "DAVULTEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "AKARCA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "BOZÖN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "CEMİLLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "ÇEVLİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "DEMİRIŞIK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "DOĞANÇAY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "DOĞLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "FINDIKPINARI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "KOCAYER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "KUZUCU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "KUZUCUBELEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "PELİTKOYAĞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "SARILAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "TAKANLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "TOL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "ZEYBEKLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "DENİZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "SEYMENLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "ŞAHİN TEPESİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MEZİTLİ",
+    "Mahalle": "TECE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ALAÇAM MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "AŞAĞIKÖSELERLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "AYDINOĞLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "BAĞCAĞIZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "BALLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "BARABANLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "BOZDOĞAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "BURUNKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "CERİTLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇAĞLAYANGEDİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇALTILI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇAMPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇATAKBAĞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇATALHARMAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇINARLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇİVİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇORTAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇÖMELEK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÇUKURBAĞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "DAĞPAZARI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "DEMİRKAPI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "DERİNÇAY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "DEVECİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "DİŞTAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "DOĞANCI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ELBEYLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ELMAPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ESENÇAY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "EVREN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "FAKIRCA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "GEÇİMLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "GENÇALİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "GÖCEKLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "GÖKÇETAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "GÜLLÜK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "GÜME MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "GÜZELKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "HACIAHMETLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "HACIİLYASLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "HACINUHLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "HACISAİT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "HAMAM MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "HAYDARKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "HİSARKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "HOCALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "IRMAKLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "İBRAHİMLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KARACAOĞLAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KARADİKEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KAVAKÖZÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KAYAÖNÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KELCEKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KEMENLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KIRKKAVAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KIŞLAKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KIZILALAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KÖSELERLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KUMAÇUKURU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KURTSUYU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "KÜRKÇÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "MİRAHOR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "MUCUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "NARLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "NARLIDERE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÖZKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ÖZLÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "PALANTEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "PAMUKLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "SAKIZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "SARIVELİLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "SELAMLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "SUÇATI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "TEKELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "TOPKAYA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "TOPLUCA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "TUĞRUL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "YALNIZCABAĞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "YAPINTI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "YATIRTAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "YAZALANI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "YILDIZKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "YUKARIKÖSELERLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "MUT",
+    "Mahalle": "ZEYTİNÇUKURU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ATAKENT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ATAYURT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ARKUM MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KABASAKALLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SARICALAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SAYAĞZI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ATİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "BUCAKLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "CAMİİKEBİR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "MUKADDEM MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "PAZARKAŞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SAY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "TOROS MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "AYAŞTÜRKMENLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "BAHÇEDERESİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "BALANDIZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "BOLACALIKOYUNCU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "BURUNUCU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "BÜKDEĞİRMENİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "CANBAZLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "CILBAYIR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ÇADIRLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ÇALTIBOZKIR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ÇAMLIBEL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ÇELTİKÇİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "DEMİRCİLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "EKŞİLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "EVKAFÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "GEDİKPINARI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "GÖKBELEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "GÜLÜMPAŞALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "GÜNDÜZLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "HIRMANLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "HÜSEYİNLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "IŞIKLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "İMAMBEKİRLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "İMAMLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "İMAMUŞAĞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KARAHACILI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KARGICAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KAVAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KEBEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KEPEZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KEŞLİTÜRKMENLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KICA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KIRTIL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KIZILGEÇİT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KOCAOLUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KOCAPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "MAĞARA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "NARLIKUYU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "NASRULLAH MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "NURU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ORTAÖREN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ÖREN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ÖZBOYNUİNCELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ÖZTÜRKMENLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "PELİTPINARI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SABAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SARIAYDIN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SENİR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SEYDİLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SEYRANLIK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SÖKÜN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "SÖMEK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ŞAHMURLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "TOSMURLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "TOSMURLU OSB MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "TÜRKMENUŞAĞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "ULUGÖZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "UŞAKPINARI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "UZUNCABURÇ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "YEĞENLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "YENİBAHÇE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "YENİSU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "AKDERE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "TAŞUCU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "SİLİFKE",
+    "Mahalle": "YEŞİLOVACIK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "82EVLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "AKŞEMSETTİN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KIRKLARSIRTI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ŞEHİTLER TEPESİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ALTAYLILAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ERGENEKON MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ANIT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "GAZİPAŞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "MİTHATPAŞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "AKÇAKOCALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ALADAĞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ALİFAKI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ARIKLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "AVADAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BALLICA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BALTALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BÜYÜKKÖSEBALCI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "CAMİLİMANDA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "CIRBIKLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇAĞBAŞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ESENLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ESKİŞEHİR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "GÜNYURDU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "HACIBOZAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "HELEKE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "İNCİRGEDİĞİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "İNCİRLİKUYU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KANBERHÜYÜĞÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KARAÇERÇİLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KARAYAYLA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KARGILI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KARSAVRAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KOCAKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KONAKLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KÖSEBALCI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KUMDERE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KÜTÜKLÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "MAHMUTAĞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "MURATLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "NEMİROĞLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÖZLÜCE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "SİMİTHACILI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TEKELİÖREN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TEPEÇAYLAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TOPÇU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "VERİMLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YUNUSOĞLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YÜKSEK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "GİRNE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ŞAHİN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YEŞİL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YEŞİLEVLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BEYDEĞİRMENİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "FAHRETTİN PAŞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "FERAHİMŞALVUZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TOZKOPARAN ZAHİT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YARBAY ŞEMSETTİN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "CAMİNUR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ESKİ ÖMERLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "REŞADİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ŞEHİTKERİM MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YENİ ÖMERLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BELEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BEYLİCE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BOZTEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BÖĞRÜEĞRİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "CİN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇAKIRLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇAVDARLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇİRİŞTEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "DEDELER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "DORAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "İBRİŞİM MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KAKLIKTAŞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KALEBURCU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KARADİKEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KARADİRLİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KERİMLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "MEŞELİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "PİRÖMERLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "SARIVELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "SAYKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "SUCULAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TAKBAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TAŞÇILI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TAŞKUYU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TEPETAŞPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TOPAKLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ULAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YALAMIK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ŞEHİTİSHAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "DUATEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "GÖZLÜKULE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KIZILMURAT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÖĞRETMENLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ŞEHİTMUSTAFA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "AĞZIDELİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "AKARSU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ALİAĞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ALİEFENDİOĞLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ATALAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BAHARLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BAHŞİŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇAMTEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇATALCA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇÖPLÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "EGEMEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "HALİTAĞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "HASANAĞA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KEFELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KELAHMET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KÖSELERLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KULAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KURBANLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "MANTAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÖZBEK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "SAĞLIKLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YARAMIŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YENİÇAY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "AKGEDİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ALİBEYLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ARDIÇLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BOĞAZPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "BOLATLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇAMALAN B.M MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇAVUŞLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇEVRELİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇOKAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "ÇUKURBAĞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "DADALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "DAMLAMA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "EMİNLİK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "EMİRLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "GÖÇÜK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "GÖMMECE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "GÜLEK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "HACIHAMZALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "İNKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KABURGEDİĞİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KADELLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KARAKÜTÜK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KEŞLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KIRIT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KIZILÇUKUR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KOÇMARLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KOZOLUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KÖRLÜ BEYİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KURTÇUKURU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "KUŞÇULAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "OLUKKOYAĞI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "SANDAL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "SANLICA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "SIRAKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "TAŞOBASI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YANIKKIŞLA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YAZLIK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TARSUS",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "AKBELEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "YUSUF KILIÇ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ZEKİ AYAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ALADAĞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ALANYALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ARSLANKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "AYVAGEDİĞİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "BEKİRALANI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "BULUKLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ÇAĞLARCA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ÇAMLIDERE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ÇANDIR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ÇELEBİLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ÇOPURLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "DALAKDERE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "DARISEKİSİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "DEĞNEK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "DORUKLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "DÜĞDÜÖREN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "EVRENLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "GÖZNE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "GÜZELYAYLA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "HAMZABEYLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "HOROZLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "IŞIKTEPE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KARAİSALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KAŞLI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KAVAKLIPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KAYRAKKEŞLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KEPİRLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KERİMLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KIZILKAYA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KORUCULAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "MUSALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "RESULKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "SADİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "SOĞUCAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ŞAHİNPINARI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "TIRTAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "YAVCA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "YÜKSEKOLUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ÇAĞDAŞKENT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ÇAVUŞLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ÇUKUROVA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KORUKENT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ALSANCAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "DEMİRTAŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "HÜSEYİN OKAN MERZECİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "MUSTAFA KEMAL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "PORTAKAL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "TURGUT TÜRKALP MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "TURUNÇLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "ARPAÇSAKARLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "GÜNEYKENT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "HALKKENT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "YALINAYAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "MİTHAT TOROĞLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "TOZKOPARAN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "KURDALİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "SELÇUKLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "TOROSLAR",
+    "Mahalle": "TOROSLAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "50. YIL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "DENİZ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "FUATMOREL MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GÖKÇEBELEN MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KOCAVİLAYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KUZEYKENT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "AYDINLIKEVLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "GÜVENEVLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "AKKENT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "BATIKENT MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇİFTLİKKÖY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "EĞRİÇAM MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "MENTEŞ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "LİMONLUK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "PALMİYE MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "PİRİREİS MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇAVAK MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "ÇUKURKEŞLİ MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "DEĞİRMENÇAY MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "EMİRLER MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "İNSU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KARAHACILI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "KOCAHAMZALI MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "TURUNÇLU MAH"
+  },
+  {
+    "il": "MERSİN",
+    "ilçe": "YENİŞEHİR",
+    "Mahalle": "UZUNKAŞ MAH"
+  }
+]

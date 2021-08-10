@@ -1,0 +1,3872 @@
+[
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "AMBARGÜRGEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "CEYHANLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ÇALDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ÇAMALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ÇAVDAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ÇAYIRALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ÇÖKEK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ÇUKURKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "DAĞYOLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "DAMYERİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "DÜĞENCİLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "GEDİKLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "GÖKÇEBAYIR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "GÜRGENLİYATAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "HALİLUŞAĞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "KARAÇAL MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "KARGI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "KEMİKGERİŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "KETENDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "KIZILELMA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "KOÇCUVAZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "KURTBOĞAZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "KUŞÇULU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "KÜLEKÇİLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "MEYVALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "MURATLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ORMANCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ORTABÖLME MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "SALMAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "SEFERLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "ŞAHİNKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "TUZAKKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "YAZLIKBELEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "YEŞİLGÜNEYCİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "YOLBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AKKUŞ",
+    "Mahalle": "YUKARIDÜĞENCİLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "AKYAZI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "BUCAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "DURUGÖL MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KARAPINAROSB MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ŞAHİNCİLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ŞİRİNEVLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "DÜZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "GÜZELYALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KİRAZLİMANI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KUMBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "NİZAMETTİN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ŞARKİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "TAŞBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ZAFERİMİLLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "AKÇATEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "AKKİSE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ALEMBEY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ALINCA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ALİSAYVAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ALTUNYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ARPAKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ARTIKLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "AYDINLIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "BAHARİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "BAYADI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "BAYRAMLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "BOZTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "BURHANETTİNKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "CUMHURİYET MAH (KÖY MAH)"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ÇAVUŞLAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "DEDELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "DELİKKAYA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "DİKENCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "DÜZKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "EMEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ERENLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ESKİPAZAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "EYÜPLÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "GERCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "GÖKÖMER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "GÜMÜŞKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "GÜNÖREN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "GÜZELYALI MAH (UZUNİSA MAH)"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "HATİPLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "IŞIKLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KARACAÖMER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KARAOLUK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KISACIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KIZILHİSAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KOVANCI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KÖKENLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KURTULMUŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "KUYLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "MUBAREK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "OĞMACA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ÖCELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ÖVÜNDÜK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "PELİTLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "SAĞIRLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "SARAYCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ŞENKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ŞENOCAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "TERZİLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "TEYNELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "TOPLUCA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "UZUNİSA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "UZUNMUSA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "YAĞIZLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "YARAŞLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "YEMİŞLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "YILDIZLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "YUKARITEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ALTINORDU",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "ALACALAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "BEŞTAM MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "ÇAKIRLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "ÇUKUR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "ESENLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "HİSARCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "KARAMANLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "KOYUNCULU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "KUTLULAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "KÜÇÜKYAKA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "PELİTÖZÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "SARIYAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "SEFALIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "TOYGAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "UZUNDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "AYBASTI",
+    "Mahalle": "ZAFERİMİLLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "AKKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "BUDAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "BURHAN GÜNEYİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "ÇAVUŞBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "DANIŞMAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "EDİRLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "GİDEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "GÜMÜŞLÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "HİSARBEY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "KEMAL PAŞA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "KESTANEYOKUŞU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "KOCAMAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "ÖRMELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "SAİTLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "SAKARGERİŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "SARIYAKUP MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "SÖKEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "SUCUALİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "TAŞOLUK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "TEPELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "UZUNALİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAMAŞ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "AKKAYA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "ELMAKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "GÖLLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "GÜNEYCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "HAŞAL MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "HATİPLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "İNCİRLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "KARAHAMZA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "KARAHASAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "KAYATEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "KEÇİLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "KIRAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "MADENKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "SAYACATÜRK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "ŞİRİNKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "TERİMLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇATALPINAR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "AKBABA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "AŞIKLI ÇAKILLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "BORAS MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "CEMALLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "CEVİZLİYATAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "ÇANDIR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "ÇAYIR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "EĞRİBEL MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "GÜRCEK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "HACIALİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "İÇERİBÜKÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "İLKÜVEZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "KAPILI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "KARGALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "KÖKLÜK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "KURUDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "KUŞLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "MOLLALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "NAMAZLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "TAŞKESİĞİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÇAYBAŞI",
+    "Mahalle": "YENİCUMA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "AHMETLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "ARPALIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "ASLANCAMİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "AŞAĞIARDIÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "AŞAĞITEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "AŞAĞIYAVAŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "AYAZLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BACANAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BAĞLARCA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BAHÇELER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BEYCELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BOLAMAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BOZDAĞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BUCAKLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BUHARİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BÜLBÜL MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "BÜYÜKKOÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "ÇÖMLEKLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "ÇÖTELÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "DEMİRCİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "DEREYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "DOLUNAY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "DUAYERİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "DÜĞÜNLÜK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "ESKİORDU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "EVKAF MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "FATSA OSB MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "GEYİKÇELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "GÖLKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "GÜVERCİNLİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "HACIKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "HAMLIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "HATİPLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "HIDIRBEYLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "HOYLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "İSLAMDAĞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KABAKDAĞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KALEÖNÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KARGUCAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KAVRAZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KAYACA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KAYAKÖY AKÇAKESE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KILAVUZÖMER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KILIÇLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KONAKBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KÖSEBUCAĞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KULAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KÜÇÜKKOÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "KÜPDÜŞEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "MEHMETAKİF MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "MEŞEBÜKÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "MUSTAFAKEMALPAŞA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "OLUKLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "ÖRENCİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "PALAZLI KÖMÜRLÜK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "SALİHLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "SARAYTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "SAZCILAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "SEFAKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "SUDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "ŞEREFİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "TAHTABAŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "TAŞLICA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "TAYALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "UZUNDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YALIKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YAPRAKLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YASSIBAHÇE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YASSITAŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YAVAŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YENİPAZAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YENİYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YUKARIARDIÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YUKARIBAHÇELER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YUKARITEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "FATSA",
+    "Mahalle": "YUSUFLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "AHMETLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "AKÇALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "ALANYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "AYDOĞAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "BAYIRALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "BULUT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "CİHADİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "ÇETİLLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "DAMARLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "DİREKLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "DÜZYAYLA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "EMİRLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "GÖLKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "GÜZELYAYLA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "HARUNİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "İÇYAKA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "KARAGÖZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "KARAHASAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "KOZÖREN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "KUŞLUVAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "ÖZLÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "PAŞAPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "SARICA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "SÜLEYMANİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÖLKÖY",
+    "Mahalle": "YUVAPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "ALİBEY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "AMBARCILI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "AYRILIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "GÜLİSTAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "HOŞKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "KESTANE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "MUSTAFALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "SAYACA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "TAŞLIÇAY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "TEPEALTI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "TURNASUYU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "ÜRÜMBEY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜLYALI",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "AĞIZLAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "AKMESCİT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "AKÖREN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "AKYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "ALASEHER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "BAHTİYARLAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "ÇATALAĞAÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "DÖŞEK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "ESKİKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "GÖLLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "GÜLBELEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "GÜLTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "HASANCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "IŞIKTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "KİRAZGÜNEYİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "MURATÇIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "OKÇABEL MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "ŞİRİNKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "TİKENLİCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "GÜRGENTEPE",
+    "Mahalle": "YURTSEVEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "AĞCAALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "AŞAĞI KARLITEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "AŞAĞI KAYNARTAŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "BAŞÖNÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "BEYLERCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "BOLLUK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "DEREBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "DEVECİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "DİYEK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "DUMANTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "DÜZMEŞE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "DÜZPELİT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "ENAĞIZLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "KERVANSARAY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "KİRAZTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "KOCAMAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "KURTKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "KURTLUCA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "ÖZPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "SEYMENLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "ŞENTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "TOMBAŞLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "YOĞUNOLUK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "YUKARI KARLITEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "YUKARI KAYNARTAŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "İKİZCE",
+    "Mahalle": "YUNUSKIRIĞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "AKGÜNEY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "DERİNÇAY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "DİŞKAYA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "ESENYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "GELİNKAYA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "GÜLPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "GÜMÜŞDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "HARAMİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "KABADÜZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "KARAKİRAZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "KİRAZDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "MUSAKIRIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "ÖZLÜKENT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "TURNALIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "YEŞİLADA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "YOKUŞDİBİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABADÜZ",
+    "Mahalle": "YUKARI KİRAZDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "ALANBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "ALANKENT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "ARDIÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "BELEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "BEYLERLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "ÇUKURCAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "DÜZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "ECELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "ELBEYİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "HOŞKADEM MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "ILICAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "KABATAŞ YENİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "KAYINCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "KUZKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "ŞİFA SUYU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "YAKACIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KABATAŞ",
+    "Mahalle": "YENİCELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "AŞAĞIKOZPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "AŞAĞIYAYLACIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "BELALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "BEYPINARI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "BÜYÜKAKÇAKESE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "ÇAMLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "ÇAYIRKENT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "ÇİTLİCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "DİP MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "DURALİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "KARAKIŞLA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "KARAKOYUNLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "KOÇCUĞAZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "SARIALIÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "TATARCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "TEPEALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "TERZİLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "YAZICI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "YAZLIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "YENİPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "YEŞİLALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "YUKARIKOZPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KORGAN",
+    "Mahalle": "YUKARIYAYLACIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "AĞCAALANTÜRK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "AKÇADERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "AVDULLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "AYVALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "BALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "BALLIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "ÇATILI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "DEMİRCİLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "DERBENT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "DİVANITÜRK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "DUMAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "ERGENTÜRK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "ERİKÇELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "ESENCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "ESKİÇOKDEĞİRMEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "FİZME MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "GÖKÇELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "GÜNEYCİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "KADINCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "KARACALAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "KARACALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "KONAKLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "KOVANCILI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "KÜÇÜKAKÇAKESE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "ORTACA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "ORTAÇOKDEĞİRMEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "SAMUR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "ŞENYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "TEKKEKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "YALNIZDAM MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "YEMİŞKEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "YENİAKÇAALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "YENİDİVAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "YENİERGEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "KUMRU",
+    "Mahalle": "YUKARIDAMLALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ABDİLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "AKKIRIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ARICILAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ARIKMUSA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ARMUTKOLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ARPAALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "AŞAĞIGÖKÇE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "AŞIKLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "BALIKLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "BAYIRKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "BAYRAKLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "BEŞPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "BEYAĞAÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "BEYSEKİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "BİREBİR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "CELAL MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ÇALTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ÇARDAKLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ÇAVDAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ÇERÇİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ÇİTLİKSARICA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ÇUKURALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "DARICABAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "DAYILI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "DEREBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "DOĞANÇAM MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "DURSUNLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ERİKKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ESATLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "GÖÇBEYİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "GÜLPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "GÜNEYCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "GÜVENLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "GÜZELCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "GÜZLE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "HAMZALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "HERKÖZÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ILIŞAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "KARABAYIR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "KAVAKLIDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "KAYADİBİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "KIŞLACIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "KONACIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "KÖŞE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "MAHMUDİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "MAKSUTALAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "MUSALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "MÜSLÜM SARICA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "PINARLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "SARICA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "SARIYAYLA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "TOPÇAM MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "TÜRKKÖYÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "ÜÇYOL MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "YAĞMURLAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "YARDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "YAVŞAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "YEŞİLCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "YEŞİLÇİT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "YEVELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "YUKARIGÖKÇE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "MESUDİYE",
+    "Mahalle": "YUVALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "ALINCA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "ANAÇ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "BABALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "BEKİRLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "BEYLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "BOĞAZCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "BOLATLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "ÇAMARASI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "ÇANDIR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "ÇAYTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "ÇERLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "ÇINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "DEREİÇİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "DOĞAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "DÜZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "EFİRLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "EKİNCİLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "İMEÇLİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "İSTANBULBOĞAZI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "KACALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "KALEYAKA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "KAZANCILI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "KIRLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "KOVANLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "KOZAĞZI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "KUTLUCA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "KUYLUCA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "MEDRESEÖNÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "MERSİN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "NENELİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "OKÇULU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "ORTATEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "RAMAZAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "SIRAKOVANCI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "ŞENYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "TARLACIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "TÖNGELDÜZÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "YARLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "YAZLIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "YENİÖZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "PERŞEMBE",
+    "Mahalle": "YUMRUTAŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "AKOLUK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "AYDINLAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "BAŞÇARDAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "BELENYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "CEVİZLİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "ÇATALLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "ÇUBUKLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "ÇUKUR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "DOĞLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "DURAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "ELMAÇUKUR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "EYMÜR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "FINDIKLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "GÜNDÜZLÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "GÜVENKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "GÜVENYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "HOCAOĞLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "KADINCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "KALICAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "KARAKOCA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "KARDEŞLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "KIRANYAĞMUR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "KİRAZLIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "KOŞACA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "KUMANLAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "KUMRULU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "OHTAMIŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "OYUMGÜRGEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "ÖREN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "REFAHİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "ŞAHİNKAYA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "ŞEKEROLUK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "ŞIHLAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "UZUNMAHMUT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "YENİSAYACA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "YOLBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ULUBEY",
+    "Mahalle": "YUKARIKIZILEN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "AĞIDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "AYDINTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "BAYRAMCA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "BEYLERCE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "BURUNUCU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "CEVİZDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ÇAKMAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ÇAMURLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ÇATALPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ÇATALTEPE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ÇINARCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ÇINARLIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ÇİĞDEM MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "DENİZBÜKÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "DİZDAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "DÖŞEMEDİBİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "DÜZKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "DÜZSAYLAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ELMALIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ERENYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ESENKALE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ESKİKIZILCAKESE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "GÖBÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "GÖLCÜĞEZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "GÖLEVİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "GÜNPINARI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "GÜRECÜLÜ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "GÜZELKALE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "GÜZELYALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "HANYANI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "HIZABAŞIGÜNLÜK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "HIZARBAŞIKUMARLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "İNKUR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "İPEKYOLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "KADILAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "KALEDERE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "KALEDİBİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "KEŞ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "KİLLİK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "KOCUKLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "KUŞÇULU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "KUŞDOĞAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "LİSELER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "NADIRLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "NURETTİN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "NURİYE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ORTA YILMAZLAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "PELİTLİYATAK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "SAHİLKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "SARAÇLI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "SARAYCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "SARIHALİL MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "SAYLAN MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "SOFUTEPESİ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ŞENYURT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "TAFLANCIK MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "TAŞÇA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "TEKKİRAZ MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "ÜÇPINAR MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YAVI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YAYCI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YAYLALI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YAZKONAĞI MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YENİKIZILCAKESE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YEŞİLADA MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YEŞİLKENT MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YİĞİTLER MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "ORDU",
+    "ilçe": "ÜNYE",
+    "Mahalle": "YÜCELER MAH"
+  }
+]

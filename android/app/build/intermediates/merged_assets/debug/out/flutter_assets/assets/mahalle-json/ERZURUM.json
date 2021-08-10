@@ -1,0 +1,5942 @@
+[
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ABDALCIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "AKÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ALTINTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "BALLITAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "BOZBURUN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "BÜYÜKGEÇİT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "CAHİT AYBAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ÇATALBAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ÇAYKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ÇİFTLİK BUCAĞI ÇATÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "DAĞYURDU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "DALLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "DEMİRKIRAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "DÜZYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "EYÜPOĞLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "GÖKÇEBÜK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "GÜLLÜDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "GÜMÜŞSEREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "GÜNEYÇAM MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "GÜRKAYNAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "HACIBEKİR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "HACIHAMZA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "HACIMAHMUT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "HATUNCUK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "HAYDARHACI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KANDİLLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KAPIKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KARAHASAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KARASU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KAVURMAÇUKURU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KIBRIS MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KOÇBABA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KOŞAPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KURTMAHMUT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KÜÇÜKGEÇİT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KÜÇÜKOVA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "KÜKÜRTLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "MERDİVENKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "MERKEZ BUCAĞI ÇATÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "MERKEZ BUCAĞI GÖLÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "MEZREA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "MUSATANIŞMAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "NAHİYE GÖLÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "OCAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ÖZLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "PIRNAKABAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "SAPTIRAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "SARIBABA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "SAZLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ŞAFAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "TAŞAĞIL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "TAŞLIÇAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "TECER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "TEPSİCİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "TOKÇA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "TOPALÇAVUŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "TOSUNLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "TOZLUCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "TURAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "ÜÇ MART MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "YAYLAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "YAYLAYOLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "YAYLIMLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "YENİKÖY HALİTPAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AŞKALE",
+    "Mahalle": "YUMRUVEREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ADAÇAY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "AĞCAKENT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "AĞÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "AHIRCIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "AKDAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "AKYAZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ALACA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ALAYBEYİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "AŞAĞI YENİCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "AŞAĞICANÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ATLIKONAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "AYNALIKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "BAŞÇAKMAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "BAŞKENT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "BAŞKURTDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "BAŞOVACIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "BEYPINARI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "BİNGÖZE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ÇAVDARLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ÇAVUŞOĞLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ÇIKRIKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ÇİĞDEMLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "DAĞDAGÜL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "DEMİRGEÇİT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "DÜZTOPRAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "EĞERTİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "EMRECİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ESKİPOLAT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "EŞKİNKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "GELİNKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "GEYİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "GEZ KÖYÜOSB MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "GÜLLÜCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "HALİLKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KABAKTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KAHRAMANLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KAPULU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KARAKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KAVAKLIDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KAYAPA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KIZILKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KUMLUYAZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KUŞÇU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KUZGUN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "KUZULUK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "OCAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ÖMERTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ÖZBEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ÖZBİLEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "PAŞAYURDU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "RİZEKENT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "SAKALIKESİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "SALTUKLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "SARIYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "SELÇUKLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "SIRLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "SORKUNLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "SÖĞÜTLÜ MAH (OVACIK MAH)"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "TAŞPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "TEBRİZCİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "TINAZLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "TOPRAKKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "ÜÇKÖŞE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "YARIMCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "YEŞİLVADİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "YONCALIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "AZİZİYE",
+    "Mahalle": "YUKARICANÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "AĞAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "AŞAĞIÇAT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "BABADERESİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "BAĞLICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "BARDAKÇI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "BOZYAZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "BUDAKLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "ÇAYIRTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "ÇİMENÖZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "ÇİRİŞLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "ÇUKURÇAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "DEĞİRMENLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "ELMAPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "GÖBEKÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "GÖKÇEŞEYH MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "GÖLKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "HATUNKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "İŞKİNLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "KAPLICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "KARABEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "KARACA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "KARAŞEYH MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "KÖSELER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "KUMAŞLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "KURBANLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "MOLLAÖMER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "MURATÇAYIRI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "OYUKLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "PARMAKSIZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "SALTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "SARIKAŞIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "SARIKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "SÖBEÇAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "ŞEYHHASAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "TAŞAĞIL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "TUZLATAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "TUZLUCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "YARMAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "YAVİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "YAYLASUYU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ÇAT",
+    "Mahalle": "YUKARIÇAT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ACARKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "AKBAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "AKÇAMELİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "AKGELİN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "AKGÖZE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "AKÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ALACA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ALAGÖZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ALINTERİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ALİKIRI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ALTINPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ARPADERESİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "AŞAĞIKAYABAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "AVCILAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "BAYIRKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "BELLİTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "BEYYURDU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "BURHANKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ÇAKMAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ÇAMURLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ÇİLLİGÖL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "DAĞÇAYIRI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "DEMİRCİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "DERİNCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "DERVİŞALİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "DİBEKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "DİKİLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "DİVANHÜSEYİN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ELMADALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ERBEYLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ERDURAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ERENCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ESENLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "GÖLLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "GÜLİSTAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "GÜLLÜÇİMEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "GÜRÇAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "GÜZELDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "HALİLÇAVUŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "HAYRAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ILICAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "İSMAİL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KALECİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KARABUDAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KARAKULA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KARAMOLLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KAZANCI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KETENCİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KISIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KIZILAHMET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KIZMUSA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KOLHİSAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KONGUR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "MEYDANKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "MEZRA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "MOLLACELİL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "MOLLAKULAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "MUTLUCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "OVAÇEVİRME MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "OVAKOZLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "PARMAKSIZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "PINARKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "SALTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "SARILI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "SILDIZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "SULTANLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "SUVARAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ŞAHABETTİNKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ŞAHVERDİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ŞALGAMKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "TANIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "TAPUKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "TAŞBUDAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "TELLİTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "TİPİDERESİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "TOPRAKKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "TORAMAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ULUÇAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "UYANIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "ÜNLÜCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "YAMANLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "YAYLAKONAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "YELPİZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "YEŞİLBAHÇE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "YEŞİLYAZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "YOLÜSTÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HINIS",
+    "Mahalle": "YUKARIKAYABAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "AĞILLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "AKÇATAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "AKÇATOPRAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ALAGÖZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ALİÇEYREK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ARAS MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ARDI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ARPAÇAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "AŞAĞIAKTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "AŞAĞIBADEMÖZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "AZAP MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "BULGURLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "CAMİİ KEBİR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ÇAMLIKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ÇAMURLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ÇAYIRDÜZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "DALBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "DANİŞMENT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "DEĞİRMENLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "DİKİLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "DÖLLEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "DÖNERTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "EĞERTAŞLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "FATİH SULTAN MEHMET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "GEREK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "GÜNDEĞER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "GÜZELYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "HACIAHMET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "HACIHALİL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "HARÇLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "HASANBABA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "HASANBEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "HAYDARLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "HIZARDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "HIZIRİLYAS MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "IĞIRBIĞIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "İĞDELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "İNCESU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KADICELAL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KALENDER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KARABIYIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KARACAÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KARAÇUHA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KAYNARCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KEMERLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KEPENEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KIRIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KIRKDİKME MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KIRKGÖZELER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KIRKLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KIZLARKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KÜÇÜKKONAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "KÜKÜRTLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "MOLLAAHMET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "MOLLAMELİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "MURATBAĞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "MÜMTAZ TURAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "PINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "PİRALİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "PİRHASAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "RECEP TAYYİP ERDOĞAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "SAÇLIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "SEKMAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ŞEREFİYE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "ŞEYHYUSUF MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "TAHİRHOCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "TAVŞANCIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "TEKNECİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YARBOĞAZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YAZILITAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YEŞİLÖZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YILDIRAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YUKARIBADEMÖZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YUKARIHORUM MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YUKARITAHİRHOCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YÜRÜKATLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "HORASAN",
+    "Mahalle": "YÜZÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "AHLATLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "AKGÜNEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "AKSEKİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ALACABÜK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ARAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ARDIÇLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "AŞAĞI FINDIKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "AŞAĞI ÖZBAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ATÜRKÜTEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "AVCIKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "BADEMLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "BAHÇELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "BAŞÇEŞME MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "BAŞKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "BAŞPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "BOSTANCI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "BOZAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "CANKURTARAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "CİBALİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ÇAKMAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ÇAMLIKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ÇATAKKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ÇAYIRBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ÇAYIRÖZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "DEĞİRMENLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "DEMİRBİLEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "DEMİRKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "DEVEDAĞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "DURUKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "DÜZKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "GEÇİTAĞZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "GÖÇKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "GÖLYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "GÜLHAS MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "GÜLLÜBAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "HALİLPAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "IRMAKKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "İKİSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "İNCESU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "İYİDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KARAHAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KARAKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KARAKAMIŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KARASEYDİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KAYNAKBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KIRIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KIZILHASAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KİRAZLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KOÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KÖPRÜKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "KÜMETAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "LEYLEKKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "MADENKÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "MESCİTLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "MORYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "MÜLKKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "NUMANPAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ORTAÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ÖZLÜCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ÖZTOPRAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "PETEKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "PINARLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "SANDIKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "SIRAKONAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ŞENKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "TAŞBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "TAŞLICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "TEKPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ULUBEL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ULUTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ÜZÜMBAĞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YAĞLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YAYLACIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YEDİGÖL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YEDİGÖZE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YILDIZTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YUKARI FINDIKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YUKARI ÖZBAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "YUNUSKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "İSPİR",
+    "Mahalle": "ZEYREK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "AKKAVAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "BAHÇELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "BİNPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "BOZYAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "BUDAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "BURNAZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "ÇATALGÜL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "DEDEÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "DOĞANBEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "DUMAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "ERHANLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "GÜNDÜZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "KARAGÖZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "KARAKÖPRÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "KARMIŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "KIRIMKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "KOPAL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "KUŞLUCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "MARUF MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "MOLLADAVUT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "OVAYONCALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "SARIVELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAÇOBAN",
+    "Mahalle": "SEYHAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ABDURRAHMANKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "AĞAÇLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "AKARSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ALEMDAĞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ALİKÜLLEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ANITLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "AŞAĞIİNCESU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "AŞAĞISÖYLEMEZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "AYDINSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "BAYRAKTAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "BEZİRHANE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ÇAKMAKÖZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ÇALIŞKAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ÇALTILI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ÇATALÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ÇAVUŞKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ÇAYIRBEYLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ÇELİKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ÇEPİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "DEĞİRMENKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "DORUCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "DÖRTPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "DURUCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "DÜNDAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ELMAAĞAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "GEVENTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "GÖKSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "GÖKTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "GÜLLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "HACIBAYRAM MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "HASANOVA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KAPANLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KARAAĞIL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KARABEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KARAKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KARAKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KARASU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KAYALAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KAZBEL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KIRGINDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KIRIKPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KÖSEHASAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KÖYCEĞİZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "KURUPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "MOLLA OSMAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "MOLLABEKİR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "MURATLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "PAYVEREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "SALYAMAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "SANCAKTAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "SARIÇİÇEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "SELENLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "SUKONAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "SULUTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ŞAKİRKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "TAŞAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "TOSUNLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "TURNAGÖL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "UĞURDALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ULUCANLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "ÜZENGİLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YAHYAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YALINDAL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YİĞİTYOLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YOLGÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YUKARICİHANBEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YUKARIÇIĞILGAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YUKARISÖYLEMEZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KARAYAZI",
+    "Mahalle": "YÜCELİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "AĞCAŞAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "AKÇAM MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "ALACA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "AŞAĞIÇAKMAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "AŞAĞIKIZILKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "BUĞDAYLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "ÇULLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "DEREBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "DİLEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "DUATEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "DUMANKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "EĞİRMEZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "EMRE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "EYÜPLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "GEYİKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "GÖLÇAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "GÜZELHİSAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "ILICASU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "KARATAŞLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "KIYIKONAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "MARİFET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "MESCİTLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "ORTAKLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "ÖRENTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "PEKECİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "SARITAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "SAVATLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "TOPÇU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "YAĞAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "YAPAĞILI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "YEMLİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "YEŞİLÖZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "YILANLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "YUKARIKIZILCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "YUKARIKIZILKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "YUKARISÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "KÖPRÜKÖY",
+    "Mahalle": "ZİYARET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "ALABALIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "ALACAYAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "ARAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "AŞAĞIYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "BAŞKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "BEYLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "BOĞAKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "CAMİİKEBİR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "CAMİİSAĞIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "ÇAMLIYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "ÇİMENLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "DAĞYOLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "DEMİRDAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "ERGAZİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "GÖKDAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "GÖLLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "GÜLLÜDAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "GÜVENLİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "KAMIŞÖZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "KARADAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "KIŞLAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "KİLİMLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "KOÇKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "KOYUNÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "KURUÇALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "MAHMUTÇAVUŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "MERCİMEKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "OTLUTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "PINARYOLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "SAMİKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "SAPANLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "SAVAŞÇILAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "SERİNSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "SEYYİD ALİ BABA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "SÜLÜKLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "SÜTPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "ŞEKERLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "TAŞBURUN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "TELLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "TOYGARLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "YANIKTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "YOLDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "NARMAN",
+    "Mahalle": "YUKARIYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ALATARLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ARITAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ASLANPAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "AŞAĞIÇAMLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "AŞAĞIKUMLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "AYVALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "AYYILDIZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "BAHÇECİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "BAHÇELİKIŞLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "BALLICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "BAŞAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "BAŞBAĞLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ÇAMLIBEL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ÇANAKPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ÇATALSÖĞÜT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ÇAYÜSTÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ÇENGELLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "DAĞDİBİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "DAMARLITAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "DEMİRTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "DEREBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "DOKUZDEĞİRMEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "DURALAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ELMADÜZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ERDOĞMUŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ESENYAMAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "GÖKÇEDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "GÜNLÜCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "GÜRYAPRAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "GÜZELSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "HALİTPAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "İĞDELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "İNANMIŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "İNCİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "İPEKÇAYIRI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "İRİAĞAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "KALEBOĞAZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "KARABEKİR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "KAYAALTI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "KEMERKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "KONUKSEVEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "KÜÇÜKORUCUK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "NÜĞÜRCÜK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "OBAYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ORUCUK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ÖZDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "SAĞLICAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "SARISAZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "SUBATUK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "SÜLEYMANLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "SÜLÜNKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ŞENDURAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "TEKELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "TOKLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "TOPKAYNAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "TOPRAKKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "TUTLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "TUTMAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "ÜNLÜKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "VİŞNELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "YARBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "YASİN HAŞİMOĞLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "YAYLAÇAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "YOLBOYU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "YUKARIÇAMLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "YUKARIKUMLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLTU",
+    "Mahalle": "YUSUF ZİYABEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "AKBAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "AKTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "ALTUNKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "AŞAĞIÇAYIRLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "AŞAĞIKARACASU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "ATLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "BEĞENDİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "BEŞKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "BOĞAZGÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "BOZDOĞAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "COŞKUNLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "ÇATAKSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "EĞLEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "EKİNLİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "FİLİZLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "GÜNGÖRÜNDÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "HÜKKAM MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "ILIKAYNAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "KABAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "KALEDİBİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "KARAKOÇLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "KEÇİLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "KEKİKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "MERKEZ YEŞİLBAĞLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "OĞUZKENT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "OLGUN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "OLURDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "ORMANAĞZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "SARIBAŞAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "SOĞUKGÖZE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "SÜNGÜBAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "ŞALPAZARI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "TAŞGEÇİT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "UZUNHARMAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "ÜRÜNLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "YAYLABAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "YEŞİLBAĞLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "YILDIZKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "YOLGÖZLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "YUKARIÇAYIRLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "OLUR",
+    "Mahalle": "YUKARIKARACASU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "ABDURRAHMAN GAZİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "ADNAN MENDERES MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "ALİ BEZİRGAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "AZİZİYE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "DEREBOĞAZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "HÜSEYİN AVNİ ULAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "NENE HATUN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "TEKKEDERESİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "UZUN AHMET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "YIKILGAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "YUKARIYENİCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "YUNUSEMRE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "BÖREKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "ÇEPERLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "GÜLLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "HANCIĞAZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "KONAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "KÜMBET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "MÜFTÜ SOLAKZADE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "SIĞIRLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "TAŞLIGÜNEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "TEPEKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "TOPARLAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PALANDÖKEN",
+    "Mahalle": "YAĞMURCUK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ACI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "AĞAÇMİNARE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "AĞCALAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ALTINBAŞAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ALVAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ARDIÇLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "AŞITLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "BALDIZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "BAŞÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "BULKASIM MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "BÜYÜKDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "BÜYÜKTÜY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ÇAKIRTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ÇALIYAZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ÇÖĞENDER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "DEMİRDÖVEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "EMİRŞEYH MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "EPSEMCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ERZURUMKAPI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ESENDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "GERDEKKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "GÖLCİĞEZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "HANAHMET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "HASANDEDE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KAPLICALAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KARAKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KARAVELET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KASIMPAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KAVUŞTURAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KETHUDA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KEVENLİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KIZILÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KOTANDÜZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KURBANÇAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "KÜÇÜKTÜY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "OTLUKKAPI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "OVAKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ÖVENLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "PAŞABEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "PELİTLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "PORSUK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "PUSUDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "REŞADİYE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "SAKSI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "SERÇEBOĞAZI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "SİVAS MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "SUNAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ŞEHİT BURAK KARAKOÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "TAŞAĞIL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "TAŞKAYNAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "TAŞLIGÜNEY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "TAŞLIYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "TİMAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "UZUNARK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "ÜĞÜMÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YAMAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YASTIKTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YAVUZLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YAYLADAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YİĞİTPINARI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YİĞİTTAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YUKARIÇAKMAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PASİNLER",
+    "Mahalle": "YUKARIDANİŞMENT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "21 HAZİRAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "AKBULUT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "ALIÇLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "AMBARALAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "AYÇUKURU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "BAYINDIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "BURÇAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "BÜYÜKDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "CENNETPINARI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "CEVİZLİDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "ÇATAKBAHÇE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "ÇAYDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "ÇİFTEPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "DELİKTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "DEMİRGÖZE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "DİKMETAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "ESENYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "GÖLYANI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "GÖZTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "GÜLÇİMEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "GÜNEYSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "KARAKOÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "KILIÇÇI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "KONAKYERİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "KORKUTKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "KOZLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "KÖŞEYOLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "KUMAŞKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "KUYMAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "KÜMBETTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "LALELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "MEŞEBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "PAMUKLUDAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "SADAKA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "SERGENKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "SÜLEYMANBAĞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "ŞEHİTLİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "YAYLALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "YAYLAÖZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "PAZARYOLU",
+    "Mahalle": "YİĞİTBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "AKŞAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "ALICIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "AŞAĞIBAKRAÇLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "ATYOLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "AYDOĞDU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "BALKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "BEREKETLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "BEŞPINARLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "BEYKAYNAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "ÇAMLIALAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "ÇATALELMA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "DEĞİRMENLİDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "DELİKTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "DOĞANKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "DOKUZELMA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "DOLUNAY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "DÖRTYOL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "ESENCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "ESENYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "EVBAKAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "GEZENEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "GÖLLET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "GÖREŞKEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "GÖZALAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "GÖZEBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "GÜLVEREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "HOŞKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "İÇMESU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "İĞDELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "İKİZPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "İNCEÇAY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "KAYALISU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "KAYNAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "KİREÇLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "KÖROĞLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "KÖŞKKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "KÜRKÇÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "NİŞANTAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "ORMANLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "OYUKTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "ÖZYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "PAŞALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "PENEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "SARIKAYALAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "SARIYAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "SINDIRAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "SÖĞÜTLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "SUSUZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "ŞENPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "TAHTKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "TAZEKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "TEKETAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "TİMURKIŞLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "TURNALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "TÜTENOCAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "UĞURLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YANIKKAVAL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YAYMEŞE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YAZILI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YELKIRAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YEŞİLDEMET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YEŞİLKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YOĞURTÇULAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YUKARIBAKRAÇLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YÜNÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "YÜREKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "ŞENKAYA",
+    "Mahalle": "ZÜMRÜT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "AĞCAKOCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "AKDAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "AKDAMAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ALABAYIR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "AŞAĞIHANBEYİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "AŞAĞITEPECİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "AYDINLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "AYDINLIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "BEŞDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "BEYKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "CİHAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ÇAĞLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ÇATAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ÇATKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ÇAYIRDAĞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ÇEVİRME MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ÇİÇEKDAĞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ÇUKURYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "DALSÖĞÜT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "DELİLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "DENGİZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "DÜZYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ERENCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "GEÇİTKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "GÖKOĞLAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "GÖZLÜCE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "GÜLVEREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "GÜMÜŞLÜK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "GÜNDAMI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "GÜNEŞLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "GÜRGÜR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "GÜZELDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "HACIÖMER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "HAMZALAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "HÜSEYİNAĞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ILIGÖZE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "IŞIKLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "İNCESU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KALAYCI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KARATEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KARLICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KATRANLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KAYABOĞAZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KAZANCIK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KIRIKAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KOÇYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KÖRSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KURUCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "KÜLLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "MESCİTLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "MOLLAMEHMET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "SUSUZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "ŞAKŞAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "TAŞKESEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "TOPTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "TURNAGÖL MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "VATAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "YALINCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "YERKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "YEŞİLÖREN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "YİĞİTLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "YONCALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "YUKARIHANBEYİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "YUKARITEPECİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "YUVAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TEKMAN",
+    "Mahalle": "YÜCEPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "AKBABA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ALAPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ALPARSLAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ARILI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "AŞAĞI SERDARLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "BAĞBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "BAHÇELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "BALLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "CİHANLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ÇAKILLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ÇARDAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ÇATALDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ÇAYLICA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ÇİVİLİKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "DEMİRCİLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "DEREKAPI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "DERİNPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "DİKMEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "DORUKLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ESENDURAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "GÖKDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "İNCEDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "KALEBOYNU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "KALEDİBİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "KAPIKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "KARLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "KAZANDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "KEMERKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "KIRMALI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "KİREÇLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "KONAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "MEYDANLAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "PEHLİVANLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "PEYNİRLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "SERDARLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "SUYATAĞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ŞENYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "TAŞBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "TAŞOLUK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "TATLISU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "TİPİLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "TORTUMKALE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "UZUNKAVAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "VİŞNELİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "YAĞCILAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "YAMANKAYA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "YAVUZ SULTAN SELİM MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "YAZYURDU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "YELLİTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "YUKARISİVRİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "YUMAKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "TORTUM",
+    "Mahalle": "ZİYARETLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "ALTINÇANAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "BALIKLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "CEVİZLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "CÖMERTLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "ÇAMLIYAMAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "ÇAYBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "DİKYAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "ERİKLİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "GÖLBAŞI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "KİRAZLI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "MURATEFENDİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "SAPACA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "SEYİTEFENDİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "ULUBAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "UZUNDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "UZUNDERE",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ŞÜKRÜPAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "AKTOPRAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ALTINBULAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ALTINTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "DEĞİRMENLER MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "GÜLPINAR MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "GÜZELOVA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "KIRMIZITAŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "MURATGELDİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ÜNİVERSİTE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "YEŞİLYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "YOLGEÇTİ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "AKDAĞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ARIBAHÇE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ÇAYIRCA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ÇAYIRTEPE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "DADAŞKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "DUMLU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "GÖKÇEYAMAÇ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "GÜNGÖRMEZ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "GÜZELYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "İBRAHİM HAKKI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "KARAGÖBEK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "KAZIM KARABEKİR PAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "KIRKGÖZE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "KÖSE MEHMET MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "KÖŞKKÖY MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "LALAPAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "MURATPAŞA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "MÜLK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ORTA DÜZÜ MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ÖMER NASUHİ BİLMEN MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "RABİA ANA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "SOĞUCAK MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "SÖĞÜTYANI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "ŞENYURT MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "UMUDUM MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "UZUNYAYLA MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "YAZI PINARI MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "YERLİ SU MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "ERZURUM",
+    "ilçe": "YAKUTİYE",
+    "Mahalle": "YEŞİLOVA MAH"
+  }
+]

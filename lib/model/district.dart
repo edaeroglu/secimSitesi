@@ -6,9 +6,9 @@ String districtToJson(List<District> data) => json.encode(List<dynamic>.from(dat
 
 class District {
   District({
-    this.il,
-    this.ilce,
-    this.mahalle,
+    required this.il,
+    required this.ilce,
+    required this.mahalle,
   });
 
   String il;

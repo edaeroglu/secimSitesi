@@ -1,0 +1,5092 @@
+[
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "ÇUKUR MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "HACI CAMİ MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "HAMAMATİK MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "MESCİT MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "AKÇAPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "AKÇAYUNT MAH (AKÇAYUNT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "ALAKUŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "ALÇILI MAH (GEDİKLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "ANIL KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "ARDİGE MAH (ANIL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "ARPADEREN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "AŞAĞI PEYDERE MAH (ULUKALE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "AŞAĞI SAVUK MAH (BÜYÜKÖRENCE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "AŞAĞIBUDAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "AŞAĞIDEMİRBÜK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "BAĞSUYU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "BOZAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "BUĞDAYLI MAH (PAŞACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "BÜYÜKÖRENCE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "CEBE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "CİHANGİR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "ÇİZMELİ MAH (TEKELİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "DEDEBEYLİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "DOĞAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "DOĞANALAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "DORUK MAH (ARPADEREN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "ERGENLER MAH (GEDİKLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "ERKALKAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "GEDİKLER KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "GÖZLÜÇAYIR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "GÜLBAHÇE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "GÜNEYBAŞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "HASTEK MAH (AKÇAPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "KARAGEDİK MAH (TORATLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "KARASAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "KEÇELİ MAH (GEDİKLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "KIRAÇLAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "KIZIL EVLER MAH (ANIL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "KİNELİ MAH (GÖZLÜÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "KOYUNARDI MAH (AKÇAPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "KÖÇEK MAH (PAYAMDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "MÜŞTAK MAH (CEBE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "PAŞACIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "PAYAMDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "SAKYOL KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "SARIBALTA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "TAŞLIK MAH (TEKELİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "TEKELİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "TORATLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "ULUKALE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "UZUNGÖL KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "VARLIKONAK MAH (GEDİKLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "VİŞNELİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "YEMİŞDERE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "YUKARI SAVUK MAH (BÜYÜKÖRENCE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "YUKARIBUDAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "YUKARIDEMİRBÜK MAH (GEDİKLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "ÇEMİŞGEZEK",
+    "Mahalle": "YÜNBÜKEN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "DİYAP AĞA MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "FİKRİPAŞA MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AĞIRBAŞAK MAH (YÜCELDİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AĞMEZRA MAH (KARABAKIR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AKBULUT MAH (DALÖREN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AKÖREN MAH (SARISALTIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AKPINAR MAH (TÜRKTANER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AKSEKİ MAH (SARISALTIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AKVEYSİ MAH (ÇAYTAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ALANCIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ALTINÇEVRE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AMAÇLI MAH (SARISALTIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AŞAĞI BUZLUPINAR MAH (BUZLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "AŞAĞI KARDELEN MAH (KARDELEN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "BALOLAR MAH (BALKAYNAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "BAŞATLI MAH (DOLUÇEŞME MAH) (ÇIĞIRLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "BEŞELMA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "BILANIK MAH (KARACA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "BİLEKLİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "BİLİKAN MAH (KARAÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "BOYALI MAH (TAŞITLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "BOYDAŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "BULGURLU MAH (UZUNDAL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "BUZLUPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ÇAĞLARCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ÇAKMAKLI MAH (DALÖREN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ÇAM YAZI MAH (TAŞITLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ÇAYTAŞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ÇIĞIRLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "DALÖREN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "DARIKOLU MAH (BEŞELMA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "DELİKTAŞ MAH (ÇAYTAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "DERVİŞCEMAL KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ERENLER MAH (ÇAĞLARCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ESENLİ MAH (GEÇİMLİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "FARUKLAR MAH (DALÖREN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "GEÇİMLİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "GÖKÇEN-YEŞİLSEGEDİK MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "GÖZEREK MAH (KARAÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "GÜLENLER MAH (BALKAYNAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "GÜMÜŞSUYU MAH (ALTINÇEVRE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "HADİŞAR-BAYRAM MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "HALİLAĞA MAH (KARABAKIR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "HELLER MAH (BALKAYNAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "HIDIRDAMI MAH (KARABAKIR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "HOPAĞAÇ MAH (ÇAĞLARCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "İBRAHİM TANER MAH (ÇAYTAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "İN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KALANKOZ MAH (YENİDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KALECİK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KARABAKIR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KARACA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KARAÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KARATAŞ MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KARDELEN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KARSEL MAH (KARAÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KAVUKTEPE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KAYABAĞI MAH (ÇIĞIRLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KIZIL KOM MAH (TAŞITLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KORU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KOZLUCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KÖYBAŞI MAH (SARISALTIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KURUKAFALAR MAH (BALKAYNAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KURUKAYMAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KUZULUK MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KÜÇÜK DALÖREN MAH (DALÖREN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "KÜLÜNK MAH (KAVUKTEPE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "MERECİK MAH (TÜRKTANER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "MERK MAH (BALKAYNAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "MEŞEDİBİ MAH (ÇIĞIRLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "MEŞELİ MAH (GEÇİMLİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "NİŞANGAH MAH (ÇIĞIRLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ÖDEMİŞ MAH (TÜRKTANER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "POTİN MAH (YENİDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "SALKIMLI MAH (SARISALTIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "SARISALTIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "SEGEDİK-KARAMANSEGEDİK MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "SEYİT MEMETLER MAH (BALKAYNAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "SORPİYAN MAH (YENİDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "SÜTLÜCE MAH (ÇAĞLARCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "TAŞITLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "TÜRKTANER KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "UZUNÇAYIR MAH (KARABAKIR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "UZUNDAL KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "ÜZÜMLÜ MAH (ÇAĞLARCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "VENK MAH (GEÇİMLİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "YAZI MAH (GEÇİMLİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "YENİDOĞDU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "YEŞİLYURT MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "YOĞUN TOPRAK MAH (ALANCIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "YORGANLI MAH (KAVUKTEPE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "HOZAT",
+    "Mahalle": "YÜCELDİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ÇARŞIBAŞI MAH (AKPAZAR BELDESİ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ELMALIK MAH (AKPAZAR BELDESİ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GÜNEŞDERE MAH (AKPAZAR BELDESİ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GÜNEYHARMAN MAH (AKPAZAR BELDESİ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KARABULUT MAH (AKPAZAR BELDESİ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KEPEKTAŞI MAH (AKPAZAR BELDESİ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KUŞÇU MAH (AKPAZAR BELDESİ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ÖRS MAH (AKPAZAR BELDESİ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ELTİHATUN MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AĞAÇARDI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AKDÜVEN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AKKAVAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AKTARLA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AKYÜNLÜ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ALANYAZI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ALHAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ALİDOST MAH (İBİMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ANITÇINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ASLANYURDU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AŞAĞIÇANAKCI MAH (ASLANYURDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AŞAĞIOYUMCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AŞAĞITARLACIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ATALAY MAH (AKKAVAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AVUNCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AYDINLAR MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AYDINLIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "AYVATLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BAHŞİŞ MAH (ORTADURAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BALKAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BAZINALİ MAH (İBİMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BEROÇ MAH (ANITÇINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BEROÇ MAH (DALLIBEL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BEROÇ MAH (DAYILAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BEŞOLUK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BEYLERMEZRASI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BİÇER MAH (KARAYUSUF KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BİRİK MAH (DAYILAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BULGURCULAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "BÜTÜNLÜ MAH (YAŞAROĞLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "CEFKAN MAH (GEÇİTVEREN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ÇALOSUR MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ÇANGAL MAH (BALKAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ÇATKÖY KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ÇOBANLI MAH (SÖKÜCEK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ÇOBANLI MAH (SÜLÜNTAŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DALAMER MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DALBAHÇE MAH (YAŞAROĞLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DANABURAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DAYILAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DAZKAYA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DEMİRKAZIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DERİK MAH (ATAÇINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DERVİŞAN MAH (İBİMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DOĞANLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DOĞUCAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "DOSTAR MAH (KIZILKALE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "FEVZİ MAH (SÜLÜNTAŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GAZ MAH (DOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GEÇİTVEREN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GEDİK MAH (OBUZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GELİNCİK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GELİNPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GOMİKARAÇ MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GÖKTEPE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GÖLEK MAH (KOYUNUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GÖRCAN MAH (İSMAİLLİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GÜLEÇ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "GÜMÜŞGÜN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "HACI YUSUF MAH (DOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "HIDYAN MAH (SÜLÜNTAŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "HOPİK MAH (ATAÇINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "HÜSEYİN AĞA MAH (KOÇKUYUSU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "İLANLI MAH (DEMİRKAZIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "İSMAİLLİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KALALİ MAH (SARIKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KALAYCI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KALE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KALE MAH (DALLIBEL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KAMIŞLI MAH (ATAÇINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KAMKAMİK MAH (GÜMÜŞGÜN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KARATAŞ MAH (ATAÇINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KARAYAZI MAH (AVUNCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KARAYUSUF KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KARSAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KARŞIKONAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KARTUTAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KAVAKTEPE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KAYACI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KEPUR MAH (ATAÇINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KIZILCIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KIZILKALE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KOÇKUYUSU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KOM MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KOMAN MAH (GÜMÜŞGÜN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KOYUNUŞAĞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KÖPRÜ MAH (ASLANYURDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KÖPRÜ MAH (KARSAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KÖRTELAÇİN MAH (DAYILAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KÖSEOĞLU MAH (AŞAĞIOYUMCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KUŞAKLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KUŞHANE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "KUŞHANE MAH (OTLUKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "LEMPER MAH (OBUZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "LOTO MAH (ORTAHARMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "MERKEZ MAH (İBİMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "MEŞELİK MAH (DALLIBEL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "MEZRA MAH (İBİMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "MUSTAFA UÇAR MAH (KUŞAKLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "MÜRÜT MAH (KARSAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "NİŞANGE MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "OBRUKKAŞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "OBUZBAŞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "OKUL MAH (GELİNCİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ORTADURAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ORTAHARMAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ORUÇ MAH (DALLIBEL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "OTLUKAYA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "OYMADAL KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ÖRENİÇİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ÖZDEK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "PANAN MAH (İBİMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "POLATLAR MAH (GELİNCİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SALARAR MAH (ORTADURAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SAMSOR MAH (GÜMÜŞGÜN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SARIKOÇ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SEDİKAN MAH (GELİNCİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SEVİKAN MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SİVGİLİ MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SİVRİCE MAH (KIZILKALE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SOLHAN MAH (OYMADAL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SÖKÜCEK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SUBAŞI MAH (YAŞAROĞLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "SÜLÜNTAŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ŞÜKÜR KÖM MAH (DEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "TEMÜRTAHT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "TENİ KOMU MAH (KARAYUSUF KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "TURAN MAH (DARIKENT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "TÜTİYAN MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "UĞURLU MAH (DALLIBEL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "UZUNYOL MAH (SÖKÜCEK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "UZUNYOL MAH (SÜLÜNTAŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "VELİŞİH MAH (GELİNPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "VELİYAN MAH (ATAÇINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "YARIŞ MAH (DALLIBEL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "YAŞAROĞLU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "YAZELİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "YELDEĞEN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "YENİBUDAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "YILMAZ MAH (KIZILKALE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "YUKARIÇAKANKCI MAH (ASLANYURDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "YUKARIOYUMCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "YUSUFAĞA MAH (AŞAĞITARLACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MAZGİRT",
+    "Mahalle": "ZİMMAK MAH (AKKAVAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞAÇLI MZ MAH (DOLUKÜP KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKOLUK MZ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALACIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİ DERESİ MZ MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİBABA MZ MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİKARAMAN MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTINYÜZÜK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ANAFATMA MAH (YONCALI MAH)MZ (SUVAT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ANBAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ANDIGAK MAH (YOĞURTLU MAH) MZ (SUVAT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARICIK MAH (KÖKLÜCE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAGI BOR MZ MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI BAŞAKÇI MZ MAH (BAŞAKÇI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI DERE MZ MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI KAVEHEK MZ MAH (ANBAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI TARLACIK MZ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI TEŞNİK MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATADOĞDU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATALAR MZ MAH (GÖMEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATLANTI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATLANTTI MZ MAH (SİNAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AVCILAR MAH (DÜZPELİT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDERESİ MZ MAH (GÖMEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDOĞDU MZ MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYRANLI MZ MAH (SARITAŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BABAOCAĞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLARBAŞI MZ MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALDAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARDAK KALE MZ MAH (ERDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARDAKLI MZ MAH (ERDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞAKÇI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BATMAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYLIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYAZ PINAR MZ MAH (KOPUZLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİLGİLİ MZ MAH (GÖMEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİRMAN MAH (KURULU MAH) MZ (ANBAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZ DERE MZ MAH (ALACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZDERE MAH (TAHT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZDERE MZ MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖĞÜRTLEN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖLMELİ MZ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUĞULU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BURMAGEÇİT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CERME MZ MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CILGA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALKIRAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATDERESİ MZ MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIR MZ MAH (ALTINYÜZÜK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYLI MZ MAH (YEŞİLKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEMÇELİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEVLİK MZ MAH (CILGA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇIRALI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇIRTAN MZ MAH (ALACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKUR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKURBAĞ MZ MAH (ÇİMENLİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞ MZ MAH (CILGA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DALİK MZ MAH (DİKENLİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DALLI MZ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DARLIHAN MZ MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEDEAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DELAP MZ MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRLİBAHÇE MZ MAH (BAYLIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MZ MAH (EĞRİYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MZ MAH (KUYLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREGÖL MZ MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEYİRMEN DERE MZ MAH (EĞRİYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİKENLİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİKİLİTAŞ MZ MAH (ALTINYÜZÜK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİLEK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞANCIK MZ BOŞ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOLUDİZGİN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOLUKÜP KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DURAK MAH (BATMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DUT TEPE MZ MAH (ATLANTI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZPELİT KOM MAH (DÜZPELİT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZPELİT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EĞRİYAMAÇ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKİNCİ MAH (SARITAŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERDEMLİ MZ MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERDOĞDU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERLER MAH (BATMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENYURT MZ MAH (CILGA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FERAN MZ MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GALBASAN MZ MAH (ALACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GALBUSAN MAH (ÇALKIRAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEÇİMLİ MAH (BATMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEÇİT MAH (BATMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEDİZLİ MZ MAH (ATLANTI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GELİNCİK MAH (BAYLIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEYİKSUYU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GİNİ MZ MAH (DOLUKÜP KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇEK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖMEMİŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZ MAH (HACERİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZEN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜÇLÜ MZ MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLEÇ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLLÜ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLÜCE MZ MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞKAPI MZ MAH (BALDAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEŞLİ MZ MAH (ALTINYÜZÜK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEŞLİ MZ MAH (TÜLLÜK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜRBÜZLER KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACERİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACILAR KOM MZ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAGU MZ MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİTPINAR MAH (ÇEMÇELİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAN KOMU MZ MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAYDARİ MAH (BATMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIRSIZDÜZÜ MZ MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOPİK MZ MAH (EĞRİYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HUZAN MZ MAH (KOPUZLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "IŞIKLAR MZ MAH (YEŞİLKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTİRAN MZ BOŞ MAH (PINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALE MZ MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALEMDÜZÜ MZ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALKAR MZ MAH (ÇİMENLİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAMIŞLIK MZ MAH (ATADOĞDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANOĞLU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAPILI MZ MAH (KUYLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAPINAR MZ MAH (BÖĞÜRTLEN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARATAŞ MZ MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAYUSUFAN MZ MAH (BAYLIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞILAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARYEMEZ MZ MAH (KOPUZLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVACIK MZ MAH (GÖMEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKTEPE MZ MAH (TÜLLÜK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYABAŞI MAH (BATMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMER MZ MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMER MZ MAH (TÜLLÜK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRIM MZ MAH (KUYLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRMIZIGÜL MZ MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCAKOÇ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCALAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOM MZ MAH (SİNAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOMOKAR MZ. MAH (DÜZPELİT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAKLI MZ MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOPUZLAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖKLÜ MZ MAH (BAYLIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖKLÜCE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖKLÜCE MZ MAH (ALACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖYALTI MZ MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUR MZ MAH (ALACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURUTLU MZ. MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUYLUCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAMAN MZ MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET MZ MAH (DİKENLİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEŞEYOLU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "METİRİSLER MAH (GEYİKSUYU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZRE MZ MAH (ALACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİRZALİ MZ MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUTLU MZ MAH (KOCALAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKULLU MZ MAH (ATLANTI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKURLAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRENCİK MZ MAH (MEŞEYOLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRTÜLÜ MAH (ÇEMÇELİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİRGİÇ MZ MAH (ÇALKIRAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİRTARLA MAH (TÜLLÜK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PULUÇAYIR MZ MAH (KOPUZLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RAMADAN MZ MAH (ALACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RENGÜL MZ MAH (EĞRİYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAĞ MAH (BATMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAĞLIK MZ MAH (ALACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAMANLI MZ MAH (UZUNTARLA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SANDALDERE MZ MAH (ATLANTI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIÇİÇEK MZ MAH (ATLANTI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARITAŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYİT BEY MZ MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYPERTEK MZ MAH (ATADOĞDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİN MZ. MAH (GEYİKSUYU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİNAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİNAN MZ MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SU BAŞI MZ MAH (ALACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUBAŞI MZ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUVAT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEMİLKAN MZ MAH (ATLANTI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TABYAN MZ MAH (HACERİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAHT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAHTAMEMİŞ MZ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TARLABAŞI MAH (UZUNTARLA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞBURNU MZ MAH (KUYLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞOLUK MZ MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞPINAR MZ MAH (DOLUKÜP KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPECİK MZ MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TİKANLI TARLA MZ MAH (EĞRİYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOSUNCUK MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOSUNLU MZ MAH (YEŞİLKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TURAN TAHT MZ MAH (GÖMEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜLLÜK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNTARLA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VARLIK MZ MAH (KOPUZLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VENK MZ MAH (KARŞILAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YALNIZÇAM MZ MAH (GÜRBÜZLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YANIK KOM MZ MAH (ALACIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAPRAKLI MAH (ŞAĞLAN MAH) MZ (DOLUDİZGİN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAPRAKLI MZ MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAPRAKLI MZ MAH (UZUNTARLA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYALAR MZ MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLCE MAH (ERDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLKAYA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOLKONAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI BOR MZ MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI BÖĞÜRTLEN MZ MAH (BÖĞÜRTLEN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI DERE MZ MAH (GÜLEÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI HACERİ MAH (HACERİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI KAVEHEK MZ MAH (ANBAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MZ MAH (ALTINYÜZÜK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MZ MAH (GÖMEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI SUVAT MZ MAH (SUVAT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI TAHT MZ MAH (GÖMEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI TEŞNİK MAH (KOCAKOÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI TÜLLÜK MZ MAH (BABAOCAĞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARITARLACIK MZ MAH (BUĞULU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUVACIK MZ MAH (KOCALAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZEYNİKAN MAH (DİKENLİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZİME MZ MAH (TÜLLÜK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKTULUK MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİBABA MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSMET İNÖNÜ MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSMET İNÖNÜ OSB MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MOĞULTAY MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "AHURDERE MAH (KILKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "AKÇALI MAH (YAZGELDİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "AKSU MAH (DALLIBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "AKTEPE MAH (GÜNLÜCE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ALACA MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ALİCİK MAH (SAPKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ALMAN MAH (KILKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ALTIN MAH (BOSTANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ASLANLI MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "AŞAĞIDOLUCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "AYRANLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "AYRANLI MAH (YUKARIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BAL MAH (ÇEVRECİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BALIK MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BALLICA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BALLIDERE MAH (BALLICA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BAŞTARLA MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BAYINDIR MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BAYIR MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BAYRAMLI MAH (YAYIKAĞIL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BEŞAĞAÇ MAH (YAZGELDİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BEŞİK MAH (BALLICA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BEYTAŞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BEZİK MAH (DEREOVA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BIÇKILI MAH (TURNAYOLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BONCUK MAH (TURNAYOLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BOSTANLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BOYALI MAH (GÜZELPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BUCAKLI MAH (BOSTANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BULAK MAH (YUKARIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "BÜYÜKYURT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ÇAYAĞZI MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ÇAYIRHATUN MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ÇELİK MAH (DALLIBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ÇETAN MAH (YAYIKAĞIL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ÇEVRECİK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ÇIĞILI MAH (YAYIKAĞIL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DAĞDİBİ MAH (YAYIKAĞIL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DAL MAH (YUKARIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DALİK MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DALLIBAHÇE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DAYLAN MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DEĞİRMENDERE MAH (SAPKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DEM MAH (AYRANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DEMİRCE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DEMİRCİ MAH (AYRANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DEREOVA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DİKİLİTAŞ MAH (BÜYÜKYURT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DİLEK MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DOĞANCIK MAH (BÜYÜKYURT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DOĞANTAŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "DUTAĞACI MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "EĞRİBELEN MAH (DEREOVA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "EKİNBAŞI MAH (SAPKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "EKİNLİ MAH (GÜZELPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ELMACIK MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ESENLİ MAH (GÜZELPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GEÇİTLİ MAH (GÜZELPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GERİŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GERİŞ MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GEYREK MAH (RAMAZAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GOLAN MAH (GÜNEYCİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GÖLÜKHAN MAH (YAYIKAĞIL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GÜLBUDAK MAH (AYRANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GÜLEK MAH (YUKARIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GÜLLÜCE MAH (DALLIBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GÜNEYCİK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GÜNLÜCE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "GÜZELPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "HAN MAH (BÜYÜKYURT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ILISU MAH (DALLIBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KABAKLI MAH (KILKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KALE MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KAPIBAŞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KARACA MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KARAKAYA MAH (BEYTAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KARGILI MAH (YAZGELDİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KAYALI MAH (RAMAZAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KILKÖY KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KIRMIZI MAH (GÜNLÜCE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KOÇ MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KOÇLAR MAH (SAPKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KONAK MAH (BEYTAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KONUKSEVER MAH (BALLICA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KOYUNCU MAH (DEREOVA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KÖPRÜLÜ MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KURNA MAH (KILKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KUŞKONDU MAH (YAZGELDİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KUYUCUK MAH (YAZGELDİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KUYULU MAH (YAYIKAĞIL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KUZUKONAK MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "KÜREKLİ MAH (YUKARIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "MALKOÇ MAH (BÜYÜKYURT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "MÜRER MAH (KILKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "OĞLAKCIK MAH (DEREOVA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "OĞLAKÇI MAH (AYRANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "OĞULLAR MAH (BÜYÜKYURT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "OLGUNLAR MAH (DALLIBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "RAMAZAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SAKAM MAH (KILKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SAPKÖY KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SARHOŞ MAH (GÜNEYCİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SARICA MAH (ÇEVRECİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SARIYAYLA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SEYBAN MAH (DEMİRCE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SEYİTGAZİ MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SOĞUKMEŞE MAH (DEMİRCE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SÖGÜTLÜK MAH (DALLIBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SULT MAH (YİĞİTLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SÜLEYMAN KOM MAH (KILKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "SÜLEYMAN MAH (YİĞİTLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "ŞİRİN MAH (YAYIKAĞIL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "TAHT MAH (AYRANLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "TAHT MAH (DEREOVA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "TAHT MAH (YUKARIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "TANRIVERDİ MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "TAVUKÇU MAH (DEMİRCE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "TEKECİK MAH (GÜZELPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "TOKAÇLI MAH (YUKARIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "TORUK MAH (KILKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "TURNAYOLU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "USAN MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "USTALAR MAH (AŞAĞIDOLUCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "VAROŞ MAH (GÜNEYCİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "YAKACIK MAH (BÜYÜKYURT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "YAYIKAĞIL KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "YAYLACIK MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "YAZGELDİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "YENİ MEZRA MAH (RAMAZAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "YİĞİTLER KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "YONCALI MAH (TURNAYOLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "YUKARIDOLUCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "NAZIMİYE",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ADA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "AĞAÇPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "AKTAŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "AKYAYIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ARSLANDOĞMUŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ARZULAR MAH (HAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "AŞAĞI MEŞEDİBİ MAH (ÇAKMAKLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "AŞAĞI ULUÇA MAH (ÇAKMAKLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "AŞAĞITORUNOBA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "AŞLICA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "AYDINLAR MAH (TOPUZLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "BABULAR MAH (YAZIÖREN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "BALVEREN MAH (ÇAMBULAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "BEŞEVLER MAH (AKYAYIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "BİLGEÇ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "BOZKIRA MAH (EĞRİPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "BURNAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "BUVARLILAR MAH (MOLLAALİLER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "BUZLUTEPE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "BÜK MAH (SARITOSUN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "BÜYÜKKÖY KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "CEVİZLİ MAH (YENİKONAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "CEVİZLİDERE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇAKMAKLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇAMBULAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇAT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇAVUŞLU MAH (YAYLAGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇAYIR MAH (GÖZELER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇAYIRDÜZÜ MAH (YAYLAGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇAYÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇEMBERLİTAŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÇÖĞÜRLÜK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "DAĞGEÇE MAH (ADA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "DEĞİRMENDERE MAH (YENİSÖĞÜT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "DEREİÇİ MAH (TEM MAH) (OTLUBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "DOLUDİBEK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "DUMANTEPE MAH (AŞAĞITORUNOBA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "EĞİMLİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "EĞRİKAVAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "EĞRİPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ELGAZİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ESENLER MAH (HANUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ESKİGEDİK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "GARİPUŞAĞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "GÖZELER KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "GÜNEŞLİ MAH (EĞRİPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "GÜNEYKONAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "HALİLLER MAH (YENİKONAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "HALİTPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "HANUŞAĞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "HAVUZLU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "HOPİK MAH (SARITOSUN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ISITMA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "IŞIKVURAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "İKİZLER MAH (AKYAYIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KARAOĞLAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KARATAŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KARAYONCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KAZANÇ MAH (YAYLAGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KEL HASAN MAH (YAYLAGÜNÜ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KIZIK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KIZILÖREN MAH (HANUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KONAKLAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KOYUNGÖLÜ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KOZLUCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KÖSELER KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KUŞLUCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KÜREDERESİ MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "MAHMUTLAR MAH (YENİKONAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "MARTELİ MAH (GÜNEYKONAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "MEŞEDİBİ MAH (ÇAKMAKLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "MOLLAALİLER KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "OTLUBAHÇE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÖĞÜTLÜ MAH (ÇEMBERLİTAŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ÖVEÇLER KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "PAŞADÜZÜ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ROMİKLER MAH (HANUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "SAÇAKLI MAH (ZİYARET KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "SAĞLIK MAH (AŞAĞITORUNOBA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "SARITOSUN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "SÖĞÜT MAH (AŞAĞITORUNOBA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "SUAĞZI MAH (YENİKONAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ŞAHVERDİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "TAĞTACİ MAH (TATUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "TANZİ MAH (KÖSELER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "TAP MAH (BURNAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "TATUŞAĞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "TEPSİLİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "TOPUZLU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "TORİŞİ MAH (BURNAK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "TUMARDI MAH (KOYUNGÖLÜ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "TUZLUCA MAH (TOPUZLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YAĞIŞLI MAH (AŞLICA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YAĞMURLU MAH (ÇEMBERLİTAŞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YAKATARLA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YALMANLAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YARIMKAYA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YAYLAGÜNÜ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YAZIÖREN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YENİKONAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YENİKÖY MAH (GÖZELER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YENİSÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YEŞİLYAZI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YILANLI MAH (GÖZELER KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YOĞUNÇAM KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YONCALI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "YUKARI ULUÇA MAH (ÇAKMAKLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "ZİYARET KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "94 MAHALLESİ MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "KANDOLAR MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "OVACIK",
+    "Mahalle": "PULUR MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "AKBAYIR MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "AKDARI MAH (ARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "AKDEMİR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "AKMEZRA MAH (KOÇPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ALTIN KÜP MAH (DEMİRSABAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ARDIÇ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ARPALI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "AŞAĞI KACAR MAH (KAÇARLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "AŞAĞIGÜLBAHÇE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "AŞAĞIYAKABAŞI MAH (ÇATAKSU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "AYAZPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BAĞÖREN MAH (KOLANKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BAKIRLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BALAN MAH (GEÇİTYAKA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BALLIDUT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BALTAGİRMEZ MAH (PINARLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BAYIRLI MAH (YUKARIGÜLBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BEYDAMI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BİÇMEKAYA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BOZDOĞAN MAH (KAYABAĞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BÖLMELİ MAH (YUKARIYAKABAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "BULGURTEPE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "CAYİRAN MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ÇAKIRBAHÇE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ÇALIÖZÜ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ÇAMURLUK MAH (YALINKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ÇATAKSU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ÇEVİRME MAH (GÜNBOĞAZI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ÇIKINLI MAH (SAĞMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ÇUKUR MAH (YAMAÇOBA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DALIVARTI MAH (ARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DALİK MAH (PİRİNÇÇİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DAMLAPINAR MAH (KOLANKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DEMİRSABAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DEMÜREK MAH (GEÇİTYAKA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DERE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DERELİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DİLLİCE MAH (SAĞMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DOLAMAÇ MAH (ÇALIÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DORUTAY KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "EDİNCİK MAH (KOLANKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ELECİK MAH (KAYABAĞ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ELMAKAŞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "EŞELER MAH (ARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "FINDIKLI MAH (ARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "GEÇİTYAKA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "GÖLBAŞI MAH (DORUTAY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "GÖVDELİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "GÖZTEPE MAH (PINARLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "GÜNBOĞAZI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "GÜNYÜZÜ MAH (ÇATAKSU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "GÜZELTEPE MAH (PINARLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "HASİR MAH (GEÇİTYAKA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "HAVUZ MAH (YAMAÇOBA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "HIDOLAR MAH (MERCİMEK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "HOPLAR MAH (AKDEMİR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "HÜSEYİN BABA MAH (ULUPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "IŞIKLAR MAH (KOLANKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KABALLI MAH (SAĞMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KABASAKAL MAH (KOLANKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KAÇARLAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KALENDER MAH (KARAGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KARABULUT MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KARADERE MAH (ÇAKIRBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KARAGÜNEY KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KARAKUŞ MAH (DERELİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KARAMAN MAH (KONURAT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KARAVELU MAH (YALINKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KARŞIKİBAĞ MAH (ARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KAYABAĞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KAZILI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KESMETAŞ MAH (ULUPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KOÇPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KOLANKAYA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KOMLAR MAH (DORUTAY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KOMŞULUK MAH (KOÇPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KONAKLAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KONAKLAR MAH (PINARLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KONURAT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KORLUCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KÖÇEKLER MAH (ÇATAKSU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KÖYİÇİ MAH (PINARLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "MERCİMEK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "MERKEZ MAH (SAĞMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "MUNZURLAR MAH (YUKARIGÜLBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "NACAR MAH (BAKIRLI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "OZSOLAR MAH (DERELİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "PEŞPINAR MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "PİRİNÇÇİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "SALİMKER MAH (BİÇMEKAYA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "SORHUMBAĞI MAH (SAĞMAN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "SÖĞÜTLÜTEPE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "SUMAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "SÜRGÜÇ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ŞAMLI MAH (KARAGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "TAHT MAH (YAMAÇOBA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "TEZİKAN MAH (KONURAT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "TOZKOPARAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ULUPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "YALINKAYA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "YAMAÇOBA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "YAYCILAR MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "YAYLA MAH (YAMAÇOBA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "YEŞİLYURT MAH (ELMAKAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "YUKARI ÇAY MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "YUKARIGÜLBAHÇE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "YUKARIYAKABAŞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "ZEYNONUN MAH (MERCİMEK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "DEREBAŞI MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "KALEDİBİ MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PERTEK",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "AĞAŞENLİK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "AKDİK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "AKTEKİN MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ALGILI MAH (SÜLEYMANUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ALLAHVERDİ MAH (SALKIMÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ALTINHÜSEYİN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ARDIÇLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ARMAĞAN MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ARMUT DÜZÜ MAH (BOZAĞAKARADERBENT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ARMUTLU MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "AŞAĞI BOSTAN YURDU MAH (KIRDIM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "AŞAĞIKAYIR MAH (KAYIRLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "AYDINLAR MAH (ÇOBANYILDIZI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "AYRANLI MAH (ALTINHÜSEYİN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BAHÇE MAH (ALTINHÜSEYİN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BARDAKÇI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BARIŞLI MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BAŞEĞMEZ MAH (ALTINHÜSEYİN KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BAŞKALECİK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BAYRAKLI MAH (HASANGAZİ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BEĞENDİK MAH (MEZRAA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BEYAZ PINAR MAH (KIRDIM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BOĞALI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BOZAĞAKARADERBENT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BULUT MAH (BOĞALI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BÜK MAH (DOĞANPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "BÜVÜK MAH (KIRDIM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇAĞLAYAN MAH (BOZAĞAKARADERBENT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇAKIRKAYA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇALGAN MAH (SÜLEYMANUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇARDAK MAH (SENEK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇATALYAKA MAH (MEZRAA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇAY MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇAY MAH (KUZULCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇAY MAH (ÜÇDAM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇELİK MEZRASI MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇEVLİK MAH (TAŞLIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÇOBANYILDIZI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "DAĞBEK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "DAĞYOLU MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "DEĞİRMENDERE MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "DEĞİRMENDERE MAH (KUZULCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "DEREBOYU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "DERİNDERE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "DEVRİŞ DERE MEZRASI MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "DOĞANPINAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "EFEAĞILI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "EĞRİBÜK MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ELİF HATUN MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ELMALI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "EVCİK MAH (TAŞLIK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "GEVRİK MAH (ÜÇDAM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "GÖCENEK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "GÖĞEBAKAN MAH (KIRDIM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "GÖKÇEKONAK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "GÖL MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "GÖNELİ MAH (BAŞKALECİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "GULLER MEZRASI MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "HACILI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "HAÇAN MAH (BOZAĞAKARADERBENT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "HARABA MAH (KUZULCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "HASANGAZİ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "HEYBELİ MAH (SÜLEYMANUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "HIRAVA MAH (ÜÇDAM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KABADAL KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KAMIŞLAR MAH (KABADAL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KANGALLI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KARAGÖZ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KARKAN MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KAYMAZTEPE MERKEZ MAH (KAYMAZTEPE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KEÇİ KIRAN MAH (SÜLEYMANUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KERİKAN MAH (BAŞKALECİK KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KIRDIM DERESİ MAH (KIRDIM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KIRDIM KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KIRKLAR KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KIRKMEŞE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KIZILBEL MAH (KIRDIM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KOCATEPE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KOVUKLU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KÖL MAH (SALKIMÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KÖRTEMT MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KÖZLÜCE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KUŞHANE MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KUZULCA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "KÜLLÜ MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "MEZRAA KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "MUHTAR KOMU MAH (KIRDIM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "MUTU MAH (DOĞANPINAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "MÜROVA MAH (KIRDIM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "NOHUTLU KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ORTA DEREKÖY KELEŞ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ORTAKAYIR MAH (KAYIRLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "SAĞLAMTAŞ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "SAHNEZER MAH (BARDAKÇI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "SALKIMÖZÜ KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "SALÖRDEK MAH (MEZRAA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "SARIGÜL KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "SENEK KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "SÜLEYMANUŞAĞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ŞAMPAŞAKARADERBENT KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "TANRIVERDİ MAH (KIZILMESCİT KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "TAŞYUVA MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "TURNADERE KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "UZUNEVLER MAH (MEZRAA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÜÇDAM KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ÜNVEREN KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "YARBAŞI KÖYÜ"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "YAYLA MAH (KABADAL KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "YİBO MAH (TURNADERE KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "YONCADERE MAH (KUZULCA KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "YUKARI BOSTAN YURDU MAH (KIRDIM KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "YUKARIKAYIR MAH (KAYIRLAR KÖYÜ)"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "ECEVİT MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "HİVER MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "TUNCELİ",
+    "ilçe": "PÜLÜMÜR",
+    "Mahalle": "MEYDANLAR MAH"
+  }
+]

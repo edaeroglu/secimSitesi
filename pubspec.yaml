@@ -18,15 +18,23 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
+  animated_image_list: ^1.0.0
+  vertical_card_pager: ^1.5.0
   flutter:
     sdk: flutter
-  simple_animations: ^1.3.3
+  simple_animations: ^2.5.0
   tutorial_coach_mark: ^1.0.3
   introduction_screen: ^2.1.0
   flutter_svg: ^0.22.0
+  animations: ^2.0.1
+  line_awesome_flutter: ^1.0.1
+  flutter_screenutil: ^1.0.2
+  animated_theme_switcher: ^1.0.5
+  polls: ^1.0.1
+  provider: ^5.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -37,6 +45,13 @@ dependencies:
   district_picker_turkey_map: ^0.0.7
   sizer: ^2.0.13
   http: ^0.13.3
+  flutter_bloc: ^7.0.1
+  equatable: ^2.0.3
+  get_it: ^7.1.3
+  shared_preferences: ^2.0.6
+  dart_jsonwebtoken: ^2.3.0
+  pointycastle: ^3.0.1
+  
 
 dev_dependencies:
   flutter_test:
@@ -55,29 +70,13 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/background.png
-    - assets/illustration.png
-    - assets/vote.png
-    - assets/oy-veren.png
-    - assets/seçmeniletişimi.png
-    - assets/haber.png
-    - assets/adaylarınimkanı.png
-    - assets/güncelanket.png
-    - assets/konumanket.png
-    - assets/secim.png
-    - assets/denem.png
-    - assets/2sayfa.png
-    - assets/3sayfa.png
-    - assets/4sayfa.png
-    - assets/5sayfa.png
-    - assets/6sayfa.png
-    - assets/zsecim.png
-    - assets/vote16.png
+    - assets/
     - assets/images/
     - assets/city.json
     - assets/county.json
     - assets/mahalle-json/
-
+    - assets/icons/
+    - assets/indir.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

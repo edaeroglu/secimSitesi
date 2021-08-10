@@ -1,0 +1,5127 @@
+[
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "BOZTEPE MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KALEİÇİ MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KALEŞAH MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KUM MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ABBAS MAH (MAKARACI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "AFEREN MAH (KOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "AĞ MAH (GÖÇKÜN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "AHMETLER MAH (ÇANAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "AKKONAK KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ANKULAR MAH (ÇANAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "AŞAĞI MAH (AHATLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "AŞAĞI MAH (SARAYDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "AŞAĞI MEYDAN MAH (GÖMÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "AZİMLER MAH (İNCİĞEZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "BALDIRAN MAH (GÖÇKÜNDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "BEŞİRLER MAH (ACARLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "BOSTANLAR KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "CAMİ ÖNÜ MAH (İNCİĞEZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "CAVCAV MAH (GÖMÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ÇAMCI MAH (YAHYAYAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ÇAPAK MEVKİİ MAH (GÖMÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ÇINAR YOLU MAH (GÖMÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "DADA MAH (ESENLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "DAĞ MAH (YUKARISAL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "DEDE MAH (GÖÇKÜNDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "DEMİRCİLER MAH (KAZPINARI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "DEMİRCİLER MAH (YUKARISAL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "DEREDİBİ MAH (KOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "DEREMESCİT MAH (KOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "DİNDAR MAH (HATİPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "DOĞANCI MAH (CUMAYANI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "DÜZ MAH (MAKARACI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ESKİLER MAH (GÖMÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "FER MAH (ESENLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "GÖYNÜK MAH (ALİOBASI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "İNPİRİ KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KADI MAH (KALAYCI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KARA YUSUFLAR MAH (KAZPINARI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KARŞI MAH (ŞENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KAYRAN BAŞI MAH (GÖMÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KECİNLER MAH (ACARLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KESTANELİK MAH (ÇANAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KONAKLAR MAH (CUMAYANI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KONUKLAR MAH (KARAKAÇAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KÖKYOL MAH (MAKARACI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KÖKYOL MAH (SARAYDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KÖPRÜBAŞI MAH (ŞENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KÖY ORTASI MAH (GÖMÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KÖY ORTASI MAH (SARAYDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KUYUPINAR MAH (ÇAKRAZBOZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "KÜÇÜKÖREN MAH (TOPALLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (ACARLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (ALİOBASI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (CUMAYANI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (ÇAKRAZBOZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (ÇAKRAZOVA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (ÇAKRAZŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (ÇANAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (ESENLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (GÖÇKÜN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (GÖÇKÜNDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (HATİPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (KALAYCI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (KARAKAÇAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (KAZPINARI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (KOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (MAKARACI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (TOPALLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (YAHYAYAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MERKEZ MAH (YUKARISAL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MEŞELİ MAH (ÇANAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MEYDAN MAH (İNCİĞEZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MEYDAN MAH (KOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "MEYDAN2 MAH (KOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "OKULLAR MAH (ÇAKRAZŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ORTA KÖYÜ MAH (İNCİĞEZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ORTA MAH (ÇAKRAZŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ORTA MAH (ŞENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "OVACIK MAH (KARAKAÇAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ÖTEKÖY MAH (SARAYDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "SARI AHMETLER MAH (KAZPINARI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "SAZAKLAR MAH (İNCİĞEZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "SERENLİ MAH (MAKARACI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ŞÜKÜRLER KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "TARLAAĞZI KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "TAŞLIK MAH (SARAYDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "TOPDERESİ KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "YERKÖY MAH (ÇAKRAZOVA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "YESİRLER MAH (KOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "YÖRÜKLER MAH (YAHYAYAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "YUKARI MAH (AHATLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "YUKARI MAH (GÖMÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "YUKARI MAH (SARAYDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "YUKARI MAH (ŞENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "AMASRA",
+    "Mahalle": "ZİCA MAH (YAHYAYAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "KARGACAK MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "LİMAN MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ÖMERLER MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ŞİLE MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "AKÇABELEN MAH (SARIDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ALAPINAR KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ATAKDİBİ MAH (KÖMEÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "CURUNLU KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ÇAYALTI KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ÇAYIRLI MAH (ELVANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ÇENGELLİ MAH (MEYDAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ÇUKURKÖY MAH (SARIDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "DATÇA MAH (DİZLERMEZECİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "DEMİRCİ KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "DERE MAH (AYDOĞMUŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "DİP MAH (İLYASGEÇİDİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "DİZLER MAH (DİZLERMEZECİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ESENTEPE MAH (PAŞALILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "GÜRGENLİK MAH (PAŞALILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "GÜRGENLİK MAH (SARIDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "HACIKÖY KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "HASANLAR MAH (KARAMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "HİSARKÖY KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "HÜSEYİN PAŞA MAH (PAŞALILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "KALEKÖY KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "KANATLI KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "KAPISUYU KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "KARŞIGEÇE MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "KAŞALTI MAH (KARAMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "KAVAKLI KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "KAYALI MAH (KÖMEÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "KİRLİKMÜSLİMHOCA KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "MERKEZ MAH (AYDOĞMUŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "MERKEZ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "MERKEZ MAH (ELVANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "MERKEZ MAH (İLYASGEÇİDİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "MERKEZ MAH (KARAMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "MERKEZ MAH (KÖMEÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "MERKEZ MAH (MEYDAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "MERKEZ MAH (ZİYARETKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "MERYEMLER MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "MEZECİ MAH (DİZLERMEZECİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "OVATEKKEÖNÜ KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ÖMERLER KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "SARIDERESİ KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ŞABANLAR MAH (PAŞALILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ŞEYHLER KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "ŞİMŞİRDERE MAH (ZİYARETKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "UĞURLU KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "YAKACI MAH (DİZLERMEZECİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "YALI MAH (KARAMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "YAYLACIK MAH (PAŞALILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "YENİCE MAH (MEYDAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "KURUCAŞİLE",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞDACI MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİLER MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GECEN MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLBUCAĞI MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÇAY MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMER KÖPRÜ MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRTEPE MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖYORTASI MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKULAK MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORDUYERİ MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞİREMİRÇAVUŞ MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TUNA MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GERİŞLİ MAH (HASANKADI BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HASANKADI BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞABANKADI MAH (HASANKADI BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜLOĞLU MAH (HASANKADI BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ABDULLAHOĞLU MAH (KÖYYERİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ABDULLAHOĞLU MAH (MAMAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞBAŞI MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (AKAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (AŞAĞIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (KARACAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (SÜLEK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (YEĞENLİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞIKLAR MAH (USTAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEZİRCİLER MAH (AKINCILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BODRA MAH (BARKAÇBOZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞAZ MAH (ŞARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖREKÇİ MAH (ÇAYBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CANLAR MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CIDDIMOĞLU MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKILALTI MAH (ÖZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKIRLAR MAH (ELLİBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKMACIK MAH (BARKAÇBOZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAPRUZLAR MAH (ESKİEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (HOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (KÖYYERİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (ÖZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIRLARDİBİ MAH (HOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYLIK MAH (HASANEFENDİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇELİKLER MAH (CELİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİFTÇİLER MAH (ELLİBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİMKEOĞLU MAH (ESKİEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİT MAH (YEĞENLİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOBANOĞLU MAH (SÜLEK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOLAKLAR MAH (SÜLEK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOLAKOĞLU MAH (HIDIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOLUKLAR MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖMLEKLER MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUBUKÇU DERESİ MAH (HANYERİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAVUTLAR MAH (ÇAYBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENCİ MAH (KOZCAĞIZ BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DELİKTAŞ MAH (EYÜPOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİ AHMETLER MAH (KOZCAĞIZ BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİ MAH (TASMACI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DIRAZLAR MAH (DIRAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOROĞLU MAH (HANYERİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZ MAH (AKINCILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMACI MAH (ESKİEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMİROĞLU MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESELER MAH (CELİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESELER MAH (DIRAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENLER MAH (KARŞIYAKA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH (DIRAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FIRDAN MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GARTOSMANLAR MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GECİKSUYU MAH (HASANEFENDİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GOFUROĞLU MAH (TASMACI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖCÜ MAH (AKAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖÇMENLER MAH (ESKİEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMMELLER MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI HASAN DERE MAH (YENİHAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI İBRAHİM MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACILAR MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIRASUL MAH (AKÇAMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATİPLER MAH (KARŞIYAKA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEPLER MAH (ÖZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAHYA MAH (AKINCILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAPUCUOĞLU MAH (ŞARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMANLAR MAH (AKINCILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAOTLU MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARGA MAH (AKÇAMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞI MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞI MAH (YEĞENLİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIBAKRAÇ MAH (BAKİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVLAKLIK MAH (KOZCAĞIZ BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYIMLAR MAH (AKÇAMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KERİMOĞLU MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KERPİÇLİK MAH (MAMAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KESMÜKLÜ MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRAN MAH (ESKİEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRAN MAH (USTAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRANPAZARI MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRANPAZARI MAH (USTAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIŞLA MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİREMLİ MAH (ÖZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCAOĞLU MAH (KARAYAKUP KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖSELER MAH (KARACAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖSTEKÇİOĞLU MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KULAKLAR MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZYAKA MAH (AKINCILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LAZLAR MAH (AKAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LAZLAR MAH (BAKİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LAZOĞLU MAH (MAMAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MASKARLAR MAH (ELLİBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AKINCILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AVGÖLÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BAKİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BAŞOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (CELİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇAYBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ESKİHAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (EYÜPOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HANYERİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HASANEFENDİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HIDIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAYAKUP KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARŞIYAKA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KOZCAĞIZ BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KÖYYERİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (MAMAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ŞABANKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TASMACI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YEĞENLİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YENİHAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERYEMOĞLU MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSAOĞLU MAH (HASANEFENDİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUZAFFERLER MAH (HOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NEZİROĞLU MAH (HASANEFENDİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (AŞAĞIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (ÇAYBÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (ŞABANKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAÇAY MAH (HASANEFENDİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORUÇLAR MAH (BAKİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMANBEYOĞLU MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖLÇEKOĞLU MAH (TASMACI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖMERLER MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZCANLAR MAH (HOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAÇLAR MAH (CELİLBEYOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SATILMIŞOĞLU MAH (BAKİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAZLIK MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOLGANLAR MAH (DIRAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUBAŞI MAH (HOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞANLILAR MAH (HOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞIVGILAR MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞİRİNKÖY KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEKKE MAH (AKÇAMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPEYANI MAH (HIDIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEREZOĞLU MAH (BAKİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TIRA MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOKLUOĞLU MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPAL ALİ MAH (AKÇAMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPALLAR MAH (KARŞIYAKA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPALLAR MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOROĞLU MAH (ECİKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TURUPLAR MAH (USTAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "USLULAR MAH (AKAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (USTAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİŞAR MAH (KOZCAĞIZ BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILMAZLAR MAH (HOCAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI ALİ OSMANLAR MAH (ÖZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (AKAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (AŞAĞIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (ELLİBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (KARACAOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (ÖZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (SÜLEK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAHELLE MERKEZ TOSYANI MAH (ÖZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI YABALAR MAH (ÖZBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZOROĞLU MAH (BEDİL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHATLAR MAH (BAYIRYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHATLI MAH (ULUGEÇİTKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHCIOĞLU MAH (BEŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMETLER MAH (KAYADİBİKAVLAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇAKÖY MAH (ŞAHNE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKGÖZ KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAÇAM MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALDIRAK MAH (KIŞLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİBAŞ KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİEFENDİ MAH (ÇEŞTEPE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARABACI MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI 1 MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI 2 MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI KIŞLA MAH (KIŞLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (EPÇİLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (GERİŞKATIRCI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (KARAHÜSEYİNLİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (KARAMAZAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYAZLAR MAH (KAYACILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDINLAR MAH (BEŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDINLAR MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYGIROĞLU MAH (ARIÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BACAKLAR MAH (TERKEHATİPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAKACAK MAH (GÜZELCEHİSAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAKLA MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAKLACIOĞLU MAH (ÇİFTLİKKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALAT KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYRAMOĞLU MAH (BAYIRYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEKİRLER MAH (BÜYÜKKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BERBEROĞLU MAH (KARAMAZAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYOĞLU MAH (KÜÇÜKKIZILKUM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİLALLAR MAH (ESENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BODURLAR MAH (ŞAHİN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞAZ MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞAZ MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZACIOĞLU MAH (KÜÇÜKKIZILKUM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CANKÖYÜ MAH (EPÇİLERKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEBECİ MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CONDUR MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CONKURLAR MAH (SERDAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CÖCÜ KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMAYANI MAH (KAŞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKIRLAR MAH (DALLICA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALIKOĞLU MAH (BUDAKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALIKOĞLU MAH (KUTLUBEYDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIK MAH (ÇAMLIK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIK MAH (UĞURLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAPKINLAR MAH (SARAYLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAVUŞ MAH (ULUGEÇİTAMBARCI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAVUŞLAR MAH (SERDAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIR MAH (BEŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇELEBİOĞLU MAH (ÇAKIRDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇETME MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇIVGINLAR MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİMKE MAH (DERBENT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİTOĞLU MAH (AKBABA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİVAKLAR MAH (KÜMESLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOBANLAR MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇORAK MAH (KUMAÇORAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖMLEKÇİ MAH (EPÇİLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖPBEY KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞDİBİ MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞLI MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİLER MAH (ÇİFTLİKKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (GÖKÇEKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREDİBİ MAH (GÖKÇEKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEVECİLER MAH (KIŞLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEVŞEYLİ MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DIRAZLAR MAH (HACIHATİPOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİBEKTAŞ MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİREKLER MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOLAŞIKLAR MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÖRTKOL MAH (TUZCULAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜRÜKLER MAH (ÇUKURBÜK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZMEVKİ MAH (BÜYÜKKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EBİŞLER MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EBZEN MAH (ÇUKURBÜK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ECİKLER MAH (KIŞLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EDEY MAH (EPÇİLERKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELA MAH (HATİPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMALIK MAH (KIŞLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMRİ MAH (TABANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERSANLAR MAH (KUTLUBEYYAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENLER MAH (ULUGEÇİTAMBARCI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENPINAR MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FERMÜT MAH (DALLICA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FIRINLI KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAFFAR MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAFFAR MAH (KAŞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAGİLLER MAH (KOCAREİS KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GALAYGÖZ MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GANGAHU MAH (YANAZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GENEVİR MAH (KABAGÖZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇE MUSA MAH (KUTLUBEYDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKLER MAH (KIŞLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKMENLER MAH (ŞAHİN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEYDAĞI MAH (KARAKÖYŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜRCÜLER MAH (KÜÇÜKKIZILKUM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜRGENPINARI KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI GÜLLÜ MAH (ÇAKIRÖMERAĞA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI MAH (İMAMLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI MAH (KAYADİBİKAVLAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIÇAVUŞLAR MAH (SERDAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIKADI MAH (BÜYÜKKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIKIRAMOĞLU MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIOĞLU MAH (BÜYÜKKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIOĞLU MAH (ÇAKIRKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIOSMANOĞLU MAH (SERDAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİLLER MAH (TERKEHALİLLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİLLER MAH (YILDIZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİLPAŞA MAH (YEŞİLKAYA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİM MAH (KAYADİBİÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMAMCI MAH (BUDAKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMZA MAH (İMAMLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HANCILAR MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAS MAH (KABAGÖZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANÇAVUŞ MAH (HATİPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANLAR MAH (HASANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANLAR MAH (SERDAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASAŞLAR MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATİPLER MAH (ÇUKURBÜK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATİPLER MAH (HATİPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATİPLER MAH (KUMAÇORAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATİPLER MAH (MEKEÇLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAYDELİ MAH (ESBEY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEYELLİ MAH (DOĞAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HİSAR MAH (GÜZELCEHİSAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOCA MAH (YEŞİLKAYA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HORNA MAH (TABANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOROZ MAH (YEŞİLKAYA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOŞKÖY MAH (KUMAÇORAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜSEYİNPAŞAOĞLU MAH (ÇAKIRKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ICAK MAH (DOĞAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "IHLAMUR MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ISPALA MAH (ŞİREMİRTABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İBRAMBEYOĞLU MAH (BÜYÜKKIZILKUM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İLYASLAR MAH (KURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMLAR MAH (ESENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMOĞLU MAH (KARAMAZAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNKUM İSKELE MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNKUM YENİ MAH (GÜZELCEHİSAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KABAŞLAR MAH (BAYIRYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADI MAH (EPÇİLERKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADI MAH (GÖKÇEKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADI MAH (KUTLUBEYDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADIKÖY MAH (KAYACILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADIOĞLU MAH (ÇAKIRKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALAFATOĞLU MAH (ARIÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALAYCI MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALAYCIOĞLU MAH (ESENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALDIRIM MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANBERLER MAH (KUMAÇORAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANBUR MAH (YEŞİLKAYA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANIÇ MAH (KAYADİBİKAVLAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAALİOĞLU MAH (AHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACAOĞLU MAH (HATİPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÇAY MAH (UZUNÖZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARADAĞLIOĞLU MAH (KÜÇÜKKIZILKUM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARADUT MAH (KARAİNLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAHASAN MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAHÜSEYİNLER MAH (EPÇİLERKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKADI MAH (AHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKIZ MAH (KARAMAZAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARALAR BURGUCU MAH (KÜMESLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMUSTAFA MAH (GAZİLER MAH) (ÇEŞTEPE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞI KÖY MAH (KARAMAZAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞI MAH (KIŞLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARTELİ MAH (KARAHÜSEYİNLİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KASAPOĞLU MAH (KUTLUBEYDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAŞIKÇI MAH (ÇUKURBÜK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVLAK MAH (KAYADİBİKAVLAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVLAK MAH (KOCAREİS KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYA ARKASI MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYA ARKASI MAH (KAYADİBİKAVLAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYADİBİ MERKEZ MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYPAKLAR MAH (KURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KELLER MAH (BAYIRYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KINALIOĞLU MAH (AHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRAÇ MAH (BÜYÜKKIZILKUM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRMA MAH (KAYADİBİKAVLAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRENCİLER MAH (MEKEÇLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "K-KIRAN MAH (AHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCABEYOĞLU MAH (KUTLUBEYTABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCİKUZU MAH (KAYADİBİKAVLAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOLÇAKLAR MAH (ÇİFTLİKKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖSEOĞLU MAH (KUTLUBEYDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖYORTASI MAH (SERDAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KULA MAH (DERBENT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KULAKSIZ MAH (SARAYLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURT MAH (KAYADİBİÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUTLUBEY MAH (TUZCULAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUYU MAH (TERKEHALİLLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUYUMCU MAH (TUZCULAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLCÜLER MAH (MURATBEY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLÜKOĞLU MAH (TERKEHALİLLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LAZLAR MAH (ESENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LAZLAR MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MACIRLAR MAH (BÜYÜKKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MADEN MAH (OKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAHMUTOĞLU MAH (TERKEHALİLLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MANAÇ MAH (SERDAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MANOĞLU MAH (TUZCULAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MARUZLAR MAH (HASANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAZMOĞLU MAH (AKBABA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMETBEYOĞLU MAH (ESENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEKEÇ MAH (MEKEÇLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MELLİOĞLU MAH (TUZCULAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEMOĞLU MAH (BAYIRYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MENCİ MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MENTEŞLER MAH (HACIHATİPOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MENTEŞPİRİ MAH (ARIT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAPAKLI MAH) (GÜZELCEHİSAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AHMETPAŞA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AKBABA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ARIÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BEŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BUDAKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BÜYÜKKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BÜYÜKKIZILKUM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇAMALTI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇEŞTEPE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇİFTLİKKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇUKURBÜK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DERBENT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DOĞAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (EPÇİLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ESBEY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖKÇEKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖZPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HACIHATİPOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HACIOSMANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (İMAMLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KABAGÖZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAİNLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAKÖYŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAŞBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAYACILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KAYADİBİÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KOCAREİS KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KUTLUBEYTABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KÜMESLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (MURATBEY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (OKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SARAYLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ŞAHNE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TERKEHATİPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TUZCULAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (UĞURLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ULUGEÇİTAMBARCI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ULUGEÇİTKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (UZUNÖZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YANAZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YEŞİLKAYA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YILDIZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEYDAN MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEYDAN MAH (DOĞAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEYDAN MAH (ŞAHİN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MOLLA MAH (ULUGEÇİTAMBARCI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MOLLA OSMAN MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MOLLABEKİR MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUGADA MAH (ARIÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUGADA SAHİL MAH (ARIÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUHACİRLER MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSAKALFAOGLU MAH (ULUGEÇİTKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUTAF MAH (TERKEHALİLLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NANE MAH (ÇEŞTEPE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NASUH MAH (TABANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ODAMEHMETOĞLU MAH (ÇAKIRDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKÇULAR MAH (KAYACILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH (YANAZ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORMANOĞLU MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (GERİŞKATIRCI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (GÖKÇEKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (KÜMESLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (MEKEÇLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAKÖY MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMAN MAH (AKBABA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMAN MAH (KAYADİBİKAVLAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMANBAŞOĞLU MAH (HACIOSMANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVAZLAR MAH (KARAKÖYŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖMERKÖY MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖMERLER MAH (KARAMAZAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRENCİK MAH (KAYADİBİKAVLAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖTEYÜZ MAH (BÜYÜKKIZILKUM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİRNALLAR MAH (BAYIRYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "POSTAL MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RECEPOĞLU MAH (ÇAKIRDEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RECEPPAŞA MAH (KURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAKAOĞLU MAH (ÇAKIRKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAKAOĞLU MAH (ULUGEÇİTKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIMSAKÇIOĞLU MAH (KÜÇÜKKIZILKUM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEFERLER MAH (AKMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRALI MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİNOPLU MAH (ŞİREMİRTABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİPAHİLER KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOFULAR MAH (KUTLUBEYYAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUCUOĞLU MAH (KARAMAZAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞABANLAR MAH (KUTLUBEYYAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAHİN MAH (ŞAHİN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAHİN PAŞA MAH (MEKEÇLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAHNE MAH (DOĞAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞIPBEN MAH (ÇAMALTI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞİŞMAN MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TABAKLAR MAH (ULUGEÇİTKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TABAKLI MAH (ÇAKIRÖMERAĞA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TABAKOĞLU MAH (KUTLUBEYTABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞ KÖPRÜ MAH (UĞURLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TATAROĞLU MAH (ESENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEKKE MAH (AKBABA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TELLİOĞLU MAH (KUTLUBEYYAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TERKE MAH (TERKEHALİLLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TERKELİ MAH (OKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOMAÇ MAH (DALLICA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPALCIOĞLU MAH (KARAHÜSEYİNLİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPALLAR MAH (ULUGEÇİTAMBARCI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPSAKAL MAH (ARIÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TURANLAR KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜFENKÇİOĞLU MAH (ESENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜRBECİ MAH (EPÇİLERKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜRDÜ MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UÇARI MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNLAR MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNLAR MAH (ULUGEÇİTKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇKURNALI MAH (KAMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAĞCI MAH (TERKEHATİPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YANIK MAH (KAMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYALAR MAH (GERİŞKATIRCI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLACIK MAH (GÜZELCEHİSAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZICILAR MAH (KUTLUBEYYAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZICILAR MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEMENİCİ MAH (ŞİREMİRTABAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (GÖKÇEKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (KUTLUBEYYAZICILAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (MEKEÇLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİEV MAH (BÜYÜKKIZILKUM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILANCILAR MAH (BAYIRYÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (ÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (EPÇİLERKADI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (KARAHÜSEYİNLİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIKÖY MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIŞEYHLER KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUMUŞAKLAR MAH (KURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUSUFBAŞOGLU MAH (HACIOSMANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUSUFOĞLU MAH (ARIÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZEYBEKLER MAH (ESENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZOTLAR MAH (ESENYURT KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALADAĞ MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYDÜZÜ MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DERECİK MAH (ABDİPAŞA BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KADIOĞLU MAH (ABDİPAŞA BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARADİKEN MAH (ABDİPAŞA BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ULUPINAR MAH (ABDİPAŞA BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YEŞİLPAZAR MAH (ABDİPAŞA BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ABDALOĞLU MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AHMET SOFUOĞLU MAH (KONAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AKSARAY MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ALAKÖY MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ALAOĞLU MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ALİ EFENDİOĞLU MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ALİ KADIOĞLU MAH (HİSARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞI MAH (KIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞI MAH (KİRSİNLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AZGIN MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BAYIRLAR MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BAYISLAR MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BAYRAKTAROĞLU MAH (YILANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BAYRAMOĞLU MAH (CEYÜPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BOĞAZ MAH (KİRSİNLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "CAMUŞOĞLU MAH (DOĞANKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "CEYÜPLER MAH (CEYÜPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "CUMADÜZÜ MAH (KIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÇANDIRLAR MAH (HİSARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÇAYTARLA MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÇENGELLİ MAH (KIZILLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÇUKURTARLA MAH (YENİKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DAĞLAR MAH (DÖNGELLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEDEOĞLU MAH (CEYÜPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEĞİRMENYANI MAH (HİSARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEĞİRMENYANI MAH (YENİKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEĞİRMENYANI MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DENGEZLER MAH (DÖNGELLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DERE MAH (YILANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DERECAMİ MAH (KONAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DOĞANKIZI MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DÜZAĞAÇ MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DÜZYER MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "EKMEKÇİOĞLU MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ESEOĞLU MAH (YILANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ESMİR MAH (ÜÇSARAY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "FABRİKAYANI MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "FAZLIOĞLU MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "FURUNCUOĞLU MAH (CEYÜPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "GALLEŞOĞLU MAH (HİSARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "GERİŞ MAH (CEYÜPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "GÖKDERE MAH (YILANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "GÖKMENOĞLU MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "GÜVENDİK MAH (KONUKLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HACIKADIOĞLU MAH (HİSARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HAPLIOĞLU MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HIZARCIOĞLU MAH (DOĞANKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HİSAR MAH (HİSARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HOCAOĞLU MAH (HİSARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HOCAOĞLU MAH (ÖNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "İMAMLAR MAH (ÜÇSARAY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "İNCİRLER MAH (KEÇİDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "İNEBEY MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KABASAKALOĞLU MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KADIOĞLU MAH (BAĞDATLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KADIOĞLU MAH (ÜÇSARAY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KAHYAOĞLU MAH (DÖNGELLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KANATOĞLU MAH (KIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARABACAK MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARAKAŞOĞLU MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARAVELİOĞLU MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KAVAKLIKALDIRIM MAH (KUMLUCA BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KAZASKEROĞLU MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KELOĞLU MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KIZILOVAZ MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KOCAKAHYA MAH (KIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KONUTEVLER MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KÖHÜNLER MAH (KONAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KÖSE MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KÖSEOĞLU MAH (YILANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KULAKLAR MAH (ÖNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KULAKSIZOĞLU MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KÜTÜKOĞLU MAH (HİSARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MAKSADOĞLU MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MARAZOĞLU MAH (DOĞANKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (BAĞDATLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (DİBEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (DÖNGELLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KEÇİDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KIZILLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KONAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KONUKLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KUMLUCA BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (YENİKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (YILANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MİLNE MAH (ÜÇSARAY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MÜYESSEROĞLU MAH (HİSARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ORTA MAH (YENİKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÖMERAĞA MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÖREN MAH (KIZILLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SEFEROĞLU MAH (DOĞANKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SERDAROĞLU MAH (KONUKLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SOFUOĞLU MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SÖKÜLER MAH (AKÖRENSÖKÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ŞAHABETTİN MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "TABAKLAR MAH (ÖNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ULU MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÜÇPINAR MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YAMAKLAR MAH (KIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YENİ MAH (CEYÜPLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YENİ MAH (KUMLUCA BELDESİ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YENİ MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YENİ MAH (YILANLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YİRMİBEŞOĞLU MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YUKARI MAH (KİRSİNLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ZAROĞLU MAH (HİSARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AHMET MAH (AŞAĞIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AHMETÇELEBİ MAH (KOZANLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AKTAŞ MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AKTOPRAK MAH (HASANÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ALAOĞLU MAH (GÜNEYÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ALİ MAH (AĞAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ALİÇELEBİ MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ALNEK MAH (KARAKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ANDIZ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ARAÇLAR MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ASLANCI MAH (DODURGA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞI MAH (AŞAĞIÇERÇİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞI MAH (BALICAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞI MAH (ÇERDE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞI MAH (ÇUBUKBELİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞI MAH (KARAHASAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞI MAH (SARNIÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞIAVLU MAH (ŞİRİNLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞIDERE MAH (AŞAĞIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AŞAĞIDORUCA MAH (DORUCAŞAHİNCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "AYAKLI MAH (ELDEŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BAKIŞOĞLU MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BALDERESİ MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BARAKA MAH (GÜNEYÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BAYRAMBAŞOĞLU MAH (İĞNECİLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BEKİR MAH (AŞAĞIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BELENSARNIÇ MAH (GÜNEYÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BIYIKLI MAH (AĞAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BÖREKÇİLER MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "BUDAMIŞ MAH (ULUKAYA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "CAMİYANI MERKEZ MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "CEBECİ MAH (BALICAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "CEBECİ MAH (ESELER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "CÜCEOĞLU MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÇAMÇI MAH (BALICAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÇAMDİBİ MAH (ALIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÇAVUŞOĞLU MAH (ÇAVUŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÇAYIRLIOĞLU MAH (DORUCAŞAHİNCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÇIRAKLAR MAH (ALIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÇİTOĞLU MAH (ABDURRAHMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DANAGÖLÜ MAH (ŞİRİNLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DAVUTLAR MAH (DODURGA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEĞİRMENCİK MAH (ELMACIK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEĞİRMENÖNÜ MAH (BALICAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEĞİRMENYANI MAH (ELDEŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEĞİRMENYANI MAH (İNCEÇAM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEMİRCİ MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEMİRCİ MAH (İNCEÇAM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEMİRCİ MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEMİRCİLER MAH (ABDURRAHMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEMİRCİLER MAH (SARNIÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DEMİREN MAH (DORUCAŞAHİNCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DERE MAH (ARPACIK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DERE MAH (GÜNEYÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DERE MAH (KİRAZCIK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DERELİ MAH (SARIFASIL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DORUK MAH (İBRAHİMDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DUTLU MAH (KÖKLÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DÜZ MAH (AŞAĞIEMİRCE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DÜZ MAH (BUĞURLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DÜZ MAH (ÇUBUKBELİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "DÜZ MAH (ELDEŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "EDİLER MAH (DODURGA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ELMALIK MAH (ESELER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "EMİR MAH (AŞAĞIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "EMİRTAŞ MAH (ELDEŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ESE MAH (ESELER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ESKİOĞLU MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ESKÖY MAH (SARNIÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "FIŞKIN MAH (KÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "GEDİKLER MAH (ESELER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "GEGEN MAH (ÇERDE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "GÖKSU MAH (YUKARIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "GÜRGENCAMİ MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HACI MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HACI MAH (KÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HATİPLER MAH (ÇUBUKBELİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HENDEK MAH (SARIFASIL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HIRADÜZÜ MAH (AŞAĞIEMİRCE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HİMMETOĞLU MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HOCA MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "HÜSEYİN MAH (AŞAĞIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ILAVIÇ MAH (ARPACIK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ISIRGANLI KÖYÜ"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "İMAMOĞLU MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "İNCİLLER MAH (DÖREKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "İSLAMLAR MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "İSMAİLAĞA MAH (İNCEÇAM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KABAOĞLU MAH (İĞNECİLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KADI MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KADI MAH (İNCEÇAM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KADİRAĞA MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KALFALAR MAH (DERELİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KANAVAKA MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KANBUROĞLU MAH (DERELİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARABOYUNOĞLU MAH (ABDURRAHMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARADAYILAR MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARAGÖL MAH (AŞAĞIEMİRCE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARAKAÇOĞLU MAH (ABDURRAHMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARAKUZ MAH (GÜNEYÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARAMADANOĞLU MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARASA MAH (DÜZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KARGACAK MAH (ELDEŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KAŞALTI MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KAVLAKDİBİ MAH (BAHÇECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KAYACILAR MAH (İĞNECİLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KAYICILAR MAH (KARAKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KAYRALTI MAH (BUĞURLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KAYRANÇI MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KEMERLİ MAH (AŞAĞIÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KERPİÇLİ MAH (YUKARIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KESTANE MAH (ELDEŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KINAKAYASI MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KIRAHARMANI MAH (İĞNECİLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KIRANÜZERİ MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KIZILELMA MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KOÇAK MAH (AŞAĞIÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KOÇALİ MAH (ÇUBUKBELİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KURUOĞLU MAH (DÜZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KUZÖREN MAH (BUĞURLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KÜRTOĞLU MAH (GÜNEYÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "LAFAZANLAR MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MADENOĞLU MAH (ESELER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (AĞAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (ALPI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (ARPACIK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (AŞAĞIÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (AŞAĞIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (AŞAĞIEMİRCE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (BAHÇECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (BUĞURLAR KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (DERELİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (DODURGA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (DÖREKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (DÜZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (ELMACIK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (GÜNEYÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (HASANÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (İBRAHİMDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KARAKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KİRAZCIK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KOZANLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KÖKLÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (KÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (SARIFASIL KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (ŞİRİNLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (ULUKAYA KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MERKEZ MAH (YUKARIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MOLLA MAH (İNCEÇAM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "OCAKLI MAH (AĞAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ONAÇ MAH (BAHÇECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ORTA MAH (AŞAĞIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ORTA MAH (ÇAVUŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ORTA MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ORTA MAH (KARAHASAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ORTA MAH (SARNIÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "OYRAK MAH (ESELER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "OZAN MAH (ELDEŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÖMEROĞLU MAH (ALIÇLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÖMEROĞLU MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÖREN MAH (BAHÇECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÖREN MAH (ELDEŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "PAŞALI MAH (AŞAĞIÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "PAZAR MAH (ELDEŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "PAZAR MAH (KOZANLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "PINARÖNÜ MAH (ELDEŞ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "RUMLUOĞLU MAH (GÜNEYÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SAMATLI MAH (KOZANLI KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SAP MAH (DÖREKLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SARICAAĞAÇ MAH (KÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SEFERLER MAH (İNCEÇAM KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SOFULAR MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SOMULLU MAH (ELMACIK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SORGUNCUK MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ŞAHİNOĞLU MAH (AĞAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ŞÜKRÜOĞLU MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "TAHTABAŞOĞLU MAH (ABDURRAHMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "TANIŞMAN MAH (ESELER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "TAŞÇIOĞLU MAH (DÜZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "TEKMENOĞLU MAH (KADIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "TOMBOOĞLU MAH (ÇAVUŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ÜÇPINAR MAH (BALICAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "VİLDANLAR MAH (ESELER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YALVAÇ MAH (HOCAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YENİ MAH (BAHÇECİK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YENİ MAH (DERELİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YENİ MAH (HASANÖREN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YENİ MAH (SARNIÇ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YENİCE MAH (AŞAĞIDERE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YUKARI MAH (AŞAĞIÇERÇİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YUKARI MAH (AŞAĞIEMİRCE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YUKARI MAH (AŞAĞIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YUKARI MAH (BALICAK KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YUKARI MAH (ÇERDE KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YUKARI MAH (ÇUBUKBELİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YUKARI MAH (KARAHASAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YUKARIAVLU MAH (ŞİRİNLER KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "YUKARIDORUCA MAH (DORUCAŞAHİNCİ KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "ZOPUNOĞLU MAH (ABDURRAHMAN KÖYÜ)"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KALDIRIM MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "KASIMLAR MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "MEZGELLER MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SAMAT MAH"
+  },
+  {
+    "il": "BARTIN",
+    "ilçe": "ULUS",
+    "Mahalle": "SAZ MAH"
+  }
+]

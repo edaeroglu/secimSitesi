@@ -1,12 +1,41 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:introduction_screen/introduction_screen.dart';
-import 'package:login_page_day_23/hosgeldiniz.dart';
+import 'package:login_page_day_23/bloc/login_bloc/loginBloc.dart';
+import 'package:login_page_day_23/helpers/locator.dart';
+import 'package:login_page_day_23/screens/hosgeldiniz.dart';
+import 'package:login_page_day_23/screens/profilEkran%C4%B1.dart';
+import 'package:login_page_day_23/views/votePage.dart';
 
-import 'animation/FadeAnimation.dart';
+Future<void> main() async {
+  setupLocator();
+  runApp(darkMode());
 
-void main() => runApp(App());
+  runApp(App());
+}
+
+class darkMode extends StatelessWidget {
+  static final ValueNotifier<ThemeMode> themeNotifier =
+      ValueNotifier(ThemeMode.light);
+
+  @override
+  Widget build(BuildContext context) {
+    return ValueListenableBuilder<ThemeMode>(
+        valueListenable: themeNotifier,
+        builder: (_, ThemeMode currentMode, __) {
+          return MaterialApp(
+            // Remove the debug banner
+            debugShowCheckedModeBanner: false,
+            theme: ThemeData(primarySwatch: Colors.amber),
+            darkTheme: ThemeData.dark(),
+            themeMode: currentMode,
+            home: profilEkrani(),
+          );
+        });
+  }
+}
 
 class App extends StatelessWidget {
   @override
@@ -15,11 +44,29 @@ class App extends StatelessWidget {
       SystemUiOverlayStyle.dark.copyWith(statusBarColor: Colors.transparent),
     );
 
-    return MaterialApp(
-      title: 'Giriş Ekranı',
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(primarySwatch: Colors.yellow),
-      home: OnBoardingPage(),
+    return BlocProvider<LoginBloc>(
+      create: (context) => LoginBloc()..add(LoginEventFetch()),
+      child: MaterialApp(
+        title: 'Seçim Sitesi',
+        debugShowCheckedModeBanner: false,
+        theme: ThemeData(primarySwatch: Colors.yellow),
+        home: BlocBuilder<LoginBloc, LoginState>(
+          builder: (context, state) {
+            if (state is LoginStateLoading) {
+              // uygulama ilk acıldıgında (oturum kaydı sorgulanırken) bu widget calışacak
+              return Center(child: CircularProgressIndicator());
+            } else if (state is LoginStateClosedSession) {
+              // henuz giriş yapan kullanıcı yoksa burası calışacak
+              return OnBoardingPage();
+            } else if (state is LoginStateOpenedSession) {
+              // kullanıcı daha once uygulamaya giriş yaptıysa burası çalışacak
+              return VotePage();
+            } else {
+              return CircularProgressIndicator();
+            }
+          },
+        ), //OnBoardingPage(),
+      ),
     );
   }
 }
@@ -34,7 +81,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
 
   void _onIntroEnd(context) {
     Navigator.of(context).push(
-      MaterialPageRoute(builder: (_) => TanitimSayfasi()),
+      MaterialPageRoute(builder: (_) => tanitimSayfasi()),
     );
   }
 
@@ -88,7 +135,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
         PageViewModel(
           title: "Adayların Kendini Tanıtma İmkanı",
           body:
-          "Adaylar video yoluyla kendilerini tanıtıp,vaatlerini sunabilir.",
+              "Adaylar video yoluyla kendilerini tanıtıp,vaatlerini sunabilir.",
           image: _buildImage('2sayfa.png'),
           decoration: pageDecoration,
         ),
@@ -101,14 +148,14 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
         PageViewModel(
           title: "Güncel Siyasi Anketlerle Seçmenin Nabzı",
           body:
-          "Farklı konularda anketler ile halkın fikirleri alınır ve sonuçlar açıklanır.",
+              "Farklı konularda anketler ile halkın fikirleri alınır ve sonuçlar açıklanır.",
           image: _buildImage('4sayfa.png'),
           decoration: pageDecoration,
         ),
         PageViewModel(
           title: "Konuma Dayalı Oy Verme ve Anket İşlemleri",
           body:
-          "Konum seçilerek o konumda mevcut olan seçimlerde oy verme imkanı sağlar.",
+              "Konum seçilerek o konumda mevcut olan seçimlerde oy verme imkanı sağlar.",
           image: _buildImage('5sayfa.png'),
           /*footer: ElevatedButton(
             onPressed: () {
@@ -130,7 +177,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
         PageViewModel(
           title: "Siyasi Gündem İle İlgili Haberler",
           body:
-          "Siyasi gündem ve seçimlerle ilgili haberler sürekli yenilenir. ",
+              "Siyasi gündem ve seçimlerle ilgili haberler sürekli yenilenir. ",
           image: _buildImage('6sayfa.png'),
           decoration: pageDecoration,
         ),
@@ -167,7 +214,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
   }
 }
 
-class TanitimSayfasi extends StatelessWidget {
+class tanitimSayfasi extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -185,30 +232,26 @@ class TanitimSayfasi extends StatelessWidget {
                   SizedBox(
                     height: 40,
                   ),
-                  FadeAnimation(
-                      1,
-                      Text(
-                        "Z' SEÇİM",
-                        style: TextStyle(
-                          color: Colors.black,
-                          fontFamily: 'Merienda',
-                          fontSize: 50,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      )),
+                  Text(
+                    "Z' SEÇİM",
+                    style: TextStyle(
+                      color: Colors.black,
+                      fontFamily: 'Merienda',
+                      fontSize: 50,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
                   SizedBox(
                     height: 20,
                   ),
-                  FadeAnimation(
-                      1.2,
-                      Text(
-                        "Yeni Nesil Seçim Platformu",
-                        style: TextStyle(
-                          fontFamily: 'Caveat',
-                          fontSize: 30,
-                          color: Colors.black,
-                        ),
-                      )),
+                  Text(
+                    "Yeni Nesil Seçim Platformu",
+                    style: TextStyle(
+                      fontFamily: 'Caveat',
+                      fontSize: 30,
+                      color: Colors.black,
+                    ),
+                  ),
                 ],
               ),
               Container(
@@ -221,163 +264,111 @@ class TanitimSayfasi extends StatelessWidget {
               ),
               Column(
                 children: <Widget>[
-                  FadeAnimation(
-                    1.5,
-                    Container(
-                      padding: EdgeInsets.only(top: 3, left: 3),
-                      decoration: BoxDecoration(
-                          borderRadius: BorderRadius.circular(50),
-                          border: Border(
-                            bottom: BorderSide(color: Colors.black),
-                            top: BorderSide(color: Colors.black),
-                            left: BorderSide(color: Colors.black),
-                            right: BorderSide(color: Colors.black),
-                          )),
-                      child: MaterialButton(
-                        minWidth: double.infinity,
-                        height: 60,
-                        onPressed: () {
-                          Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                  builder: (context) => Hosgeldiniz()));
-                        },
-                        elevation: 0,
-                        shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(50)),
-                        padding: EdgeInsets.all(0.0),
-                        child: Ink(
-                          decoration: BoxDecoration(
-                              gradient: LinearGradient(
-                                colors: <Color>[
-                                  Colors.orange[100],
-                                  Colors.orange[800]
-                                ],
-                                begin: Alignment.centerLeft,
-                                end: Alignment.centerRight,
-                              ),
-                              borderRadius: BorderRadius.circular(30.0)),
-                          child: Container(
-                            constraints: BoxConstraints(
-                                maxWidth: 320.0, minHeight: 60.0),
-                            alignment: Alignment.center,
-                            child: Text(
-                              "Oy Ver",
-                              textAlign: TextAlign.center,
-                              style:
-                              TextStyle(color: Colors.black, fontSize: 18),
-                            ),
-                          ),
-                        ),
+                  Container(
+                    padding: EdgeInsets.only(top: 3, left: 3),
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(50),
+                      /*border: Border(
+                                  bottom: BorderSide(color: Colors.black),
+                                  top: BorderSide(color: Colors.black),
+                                  left: BorderSide(color: Colors.black),
+                                  right: BorderSide(color: Colors.black),
+                                )*/
+                    ),
+                    child: MaterialButton(
+                      minWidth: double.infinity,
+                      height: 60,
+                      onPressed: () {
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => Hosgeldiniz()));
+                      },
+                      color: Colors.blueGrey[600],
+                      elevation: 0,
+                      shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(50)),
+                      child: Text(
+                        "Oy Ver",
+                        style: TextStyle(
+                            fontWeight: FontWeight.w600,
+                            fontSize: 18,
+                            color: Colors.white),
                       ),
                     ),
                   ),
                   SizedBox(
                     height: 20,
                   ),
-                  FadeAnimation(
-                      1.5,
-                      Container(
-                        padding: EdgeInsets.only(top: 3, left: 3),
-                        decoration: BoxDecoration(
-                            borderRadius: BorderRadius.circular(50),
-                            border: Border(
-                              bottom: BorderSide(color: Colors.black),
-                              top: BorderSide(color: Colors.black),
-                              left: BorderSide(color: Colors.black),
-                              right: BorderSide(color: Colors.black),
-                            )),
-                        child: MaterialButton(
-                          minWidth: double.infinity,
-                          height: 60,
-                          onPressed: () {
-                            Navigator.push(
-                                context,
-                                MaterialPageRoute(
-                                    builder: (context) => Hosgeldiniz()));
-                          },
-                          elevation: 0,
-                          shape: RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(50)),
-                          padding: EdgeInsets.all(0.0),
-                          child: Ink(
-                            decoration: BoxDecoration(
-                                gradient: LinearGradient(
-                                  colors: <Color>[
-                                    Colors.orange[800],
-                                    Colors.orange[100]
-                                  ],
-                                  begin: Alignment.centerLeft,
-                                  end: Alignment.centerRight,
-                                ),
-                                borderRadius: BorderRadius.circular(30.0)),
-                            child: Container(
-                              constraints: BoxConstraints(
-                                  maxWidth: 320.0, minHeight: 60.0),
-                              alignment: Alignment.center,
-                              child: Text(
-                                "Anketlere Katıl",
-                                textAlign: TextAlign.center,
-                                style: TextStyle(
-                                    color: Colors.black, fontSize: 18),
-                              ),
-                            ),
-                          ),
-                        ),
-                      )),
+                  Container(
+                    padding: EdgeInsets.only(top: 3, left: 3),
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(50),
+                      /*border: Border(
+                                  bottom: BorderSide(color: Colors.black),
+                                  top: BorderSide(color: Colors.black),
+                                  left: BorderSide(color: Colors.black),
+                                  right: BorderSide(color: Colors.black),
+                                )*/
+                    ),
+                    child: MaterialButton(
+                      minWidth: double.infinity,
+                      height: 60,
+                      onPressed: () {
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => Hosgeldiniz()));
+                      },
+                      color: Colors.blueGrey[600],
+                      elevation: 0,
+                      shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(50)),
+                      child: Text(
+                        "Anketlere Katıl",
+                        style: TextStyle(
+                            fontWeight: FontWeight.w600,
+                            fontSize: 18,
+                            color: Colors.white),
+                      ),
+                    ),
+                  ),
                   SizedBox(
                     height: 20,
                   ),
-                  FadeAnimation(
-                      1.5,
-                      Container(
-                        padding: EdgeInsets.only(top: 3, left: 3),
-                        decoration: BoxDecoration(
-                            borderRadius: BorderRadius.circular(50),
-                            border: Border(
-                              bottom: BorderSide(color: Colors.black),
-                              top: BorderSide(color: Colors.black),
-                              left: BorderSide(color: Colors.black),
-                              right: BorderSide(color: Colors.black),
-                            )),
-                        child: MaterialButton(
-                          minWidth: double.infinity,
-                          height: 60,
-                          onPressed: () {
-                            Navigator.push(
-                                context,
-                                MaterialPageRoute(
-                                    builder: (context) => Hosgeldiniz()));
-                          },
-                          elevation: 0,
-                          shape: RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(50)),
-                          padding: EdgeInsets.all(0.0),
-                          child: Ink(
-                            decoration: BoxDecoration(
-                                gradient: LinearGradient(
-                                  colors: <Color>[
-                                    Colors.orange[100],
-                                    Colors.orange[800]
-                                  ],
-                                  begin: Alignment.centerLeft,
-                                  end: Alignment.centerRight,
-                                ),
-                                borderRadius: BorderRadius.circular(30.0)),
-                            child: Container(
-                              constraints: BoxConstraints(
-                                  maxWidth: 320.0, minHeight: 60.0),
-                              alignment: Alignment.center,
-                              child: Text(
-                                "Gündemde Ne Var?",
-                                textAlign: TextAlign.center,
-                                style: TextStyle(
-                                    color: Colors.black, fontSize: 18),
-                              ),
-                            ),
-                          ),
-                        ),
-                      ))
+                  Container(
+                    padding: EdgeInsets.only(top: 3, left: 3),
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(50),
+                      /*border: Border(
+                                  bottom: BorderSide(color: Colors.black),
+                                  top: BorderSide(color: Colors.black),
+                                  left: BorderSide(color: Colors.black),
+                                  right: BorderSide(color: Colors.black),
+                                )*/
+                    ),
+                    child: MaterialButton(
+                      minWidth: double.infinity,
+                      height: 60,
+                      onPressed: () {
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => Hosgeldiniz()));
+                      },
+                      color: Colors.blueGrey[600],
+                      elevation: 0,
+                      shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(50)),
+                      child: Text(
+                        "Gündemde Ne Var?",
+                        style: TextStyle(
+                            fontWeight: FontWeight.w600,
+                            fontSize: 18,
+                            color: Colors.white),
+                      ),
+                    ),
+                  ),
                 ],
               ),
             ],
@@ -404,9 +395,10 @@ class TanitimSayfasi extends StatelessWidget {
           decoration: InputDecoration(
             contentPadding: EdgeInsets.symmetric(vertical: 0, horizontal: 10),
             enabledBorder: OutlineInputBorder(
-                borderSide: BorderSide(color: Colors.grey[400])),
-            border: OutlineInputBorder(
-                borderSide: BorderSide(color: Colors.grey[400])),
+                //grey 400
+                borderSide: BorderSide(color: Colors.grey)),
+            border:
+                OutlineInputBorder(borderSide: BorderSide(color: Colors.grey)),
           ),
         ),
         SizedBox(

@@ -1,0 +1,6787 @@
+[
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "BAHAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "BAŞ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ÇİFTEKAVAK MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DENİZ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DÜZ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ELMALIK MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "FIRTINA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KAHVECİLER MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KAVAKLIDERE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KUZEY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MÜFTÜ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ŞENTEPE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "TAŞBAŞI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "AÇIKMEŞE MAH (ÇIRAKLAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "AKARSU MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "AKPINAR MAH (AKDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ALİ EFENDİ MAH (ORTAALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ALT MAH (MANGANEZ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ALT MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ARICILAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ARKA MAH (ŞENYURT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "AŞAĞI MAH (ORTAALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "AŞAĞI MAH (ŞENDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "AŞIKLAR MAH (ARMAĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "BAĞUKUÇHE MAH (ORTAALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "BAHAR MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "BAHAR MAH (YAVUZ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "BAŞ MAH (SESLİKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "BAŞ MAH (ŞENYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "BERHA MAH (GÜNDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "BÜYÜK MAH (YUKARIDURAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ ALTI MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ MAH (BAYIRCIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ MAH (DUYGULU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ MAH (SESLİKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ MAH (ŞENYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ MAH (YAMAÇDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ MAH (YAVUZ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ ÜSTÜ MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CAMİ VE ÇEVRE MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CANCA MAH (YAMAÇDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CENNET MAH (ORTAALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "CİNİZENİ MAH (ÖZGÜR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ÇAMLIK MAH (YURTSEVER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ÇELİKLER MAH (GÜNDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ÇIRAKLAR MAH (ÇIRAKLAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ÇIRAKLAR MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ÇİRİHİNCİ MAH (AŞAĞIDURAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ÇUKURLAR MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DEMİRATA MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DENİZ MAH (YENİYOL KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DENİZLİ MAH (ÇIRAKLAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DERE MAH (BAYIRCIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DERE MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DERE MAH (ŞENYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DERE MAH (YAVUZ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DERE YEŞİL MAH (SİNAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DEREİÇİ MAH (KAÇKAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DOBİRA MAH (BAYIRCIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DUATEPE-ALTINTEPE MAH (ARMAĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DÜZ MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DÜZ MAH (AŞAĞIDURAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DÜZ MAH (BEYAZKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DÜZ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DÜZ MAH (MANGANEZ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DÜZ MAH (PİRİNÇLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DÜZ MAH (SESLİKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DÜZ MAH (YAMAÇDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ESENTEPE MAH (ORTAALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ESKİARMUTLUK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "GENÇLER MAH (GÜNDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "GULİVAT MAH (KÖPRÜKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "GÜNELİ MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "GÜNEY MAH (YURTSEVER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "HAŞİMOĞLU MAH (PİRİNÇLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "HOŞDERE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ILICA MAH (ESKİARMUTLUK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "IŞIKLI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "İNCİRDİP MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "İSİNA MAH (ÖZGÜR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "İSLAMOĞLU MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "İSMAİLOĞLU MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KAÇKAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KALAYİZENİ MAH (KÖPRÜKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KANOĞLU MAH (GÜNDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KARŞI MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KARŞIYAKA MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KAYABAŞI MAH (ÖNDER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KIRAZLIK MAH (ESKİARMUTLUK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KİBAROĞLU MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KİRAZLIK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KOÇOĞLU MAH (ARMAĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KODA MAH (PİRİNÇLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KONAKTEPE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KORZATİ MAH (ORTAALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KÖPRÜBAŞI MAH (KÖPRÜKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KULABERLER MAH (PİRİNÇLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KULECİLER MAH (GÜNDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KURTGÖZLÜ MAH (YAMAÇDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KURTULUŞ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (AKDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (ARMAĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (AŞAĞIDURAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (KÖPRÜKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (ORTAALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (ÖZGÜR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (SESLİKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (SİNAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (ŞENYURT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (YURTSEVER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MEZRA MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "NAVDARLAR MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "NIZAMOĞLU MAH (ÖZGÜR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "OĞUZLAR MAH (GÜNDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "OKUMUŞLAR MAH (YURTSEVER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ORTA MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ORTA MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ORTA MAH (SESLİKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ORTA MAH (ŞENDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ORTA MAH (YAMAÇDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ORTA MAH (YAVUZ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ORTA MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ORTAMAHALLE MAH (ARMAĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "SAHİL MAH (ŞENYURT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "SERİNDERE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "SHEMRONA MAH (ORTAALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "SIRT MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "SIRT MAH (AŞAĞIDURAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "SIRT MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "SIRT MAH (ÖZGÜR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "SIRT MAH (PİRİNÇLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "SULUZENİ MAH (ORTAALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ŞEFKİBEY MAH (YENİYOL KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "TAŞ KAPI MAH (ARMAĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "TERCÜMANLAR MAH (DUYGULU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "TOPALOĞLU MAH (DUYGULU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "TRAMBONA MAH (BAYIRCIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "TUTAN MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "TÜRBE MAH (SESLİKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ÜST MAH (MANGANEZ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ÜST MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ÜST MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YENİ MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YENİ MAH (ŞENYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YEŞİLYURT MAH (ARMAĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YILDIZLAR MAH (GÜNDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YUKARI CAMİ MAH (BEYAZKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YUKARI MAH (AKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YUKARI MAH (ORTAALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YUKARI MAH (ŞENDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YUKARKİ MAH (YENİYOL KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "YÜKSEK MAH (AKDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ZEYTİNLİK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ZUMADİ MAH (GÜNDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ADA MAH (TUNCA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "DÜZ MAH (TUNCA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ESENTEPE MAH (TUNCA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "KONAK MAH (TUNCA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "MERKEZ MAH (TUNCA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ORTA MAH (TUNCA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ARDEŞEN",
+    "Mahalle": "ŞENYUVA MAH (TUNCA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "AŞAĞIÇAMLICA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "AŞAĞIŞİMŞİRLİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KADIKÖY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KAPLICA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KAVAK MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KONAKLAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "SIRT MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "YAĞMURLU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "YUKARIÇAMLICA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ARMAĞAN MAH (MEYDANKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "AŞAĞI MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "AŞAĞI MAH (YOLKIYI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "AYDINOĞLU MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "BAŞÇAYIR MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "BAŞYAYLA MAH (YAZLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "BEHİCE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "BELSU MAH (MOLLAVEYİS KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "BEŞEVLER MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "BÜYÜKDÜZ MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "CAMİ MAH (MOLLAVEYİS KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ÇAT MERKEZ MAH (ÇATKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ÇATDÜZÜ MAH (ÇATKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ÇAY MAH (DİKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ÇAYIRDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ÇİÇEKLİ MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "DERVİŞLİ MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "DOĞANCI MAH (MOLLAVEYİS KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "DÜZ MAH (DİKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "DÜZ MAH (MEYDANKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "DÜZ MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ELMACIK MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ENGİNLER MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ESENTEPE MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ESKİOKUL MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "FAİKLI MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "GEYİK MAH (DİKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "GÜLLÜKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "GÜROLUK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "HAÇİNÇUR MAH (SIRAKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "HOCVA MAH (DİKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KALE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KALE MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KARŞI MAH (MOLLAVEYİS KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KAVAK DİBİ MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KESTİOĞLU MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KIBRIS MAH (KOMİLO KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KİNYA MAH (DİKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KOVANLIK MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "KUZEY BAYIR MAH (KOMİLO KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "LAKUBAR MAH (ÇATKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MADEN MAH (KOMİLO KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MADEN MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MASELEVAT MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MERKEZ MAH (DİKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MERKEZ MAH (KOMİLO KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MERKEZ MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MERKEZ MAH (MEYDANKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MERKEZ MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MERKEZ MAH (YOLKIYI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "MÜFTÜOĞLU MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ORTA MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ORTAKLAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ORTANKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ORTASIRT MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ORTAYAYLA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "OVAKLI MAH (BOĞAZİÇİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "POGİNA MAH (BOĞAZİÇİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "PUL MAH (MEYDANKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "SIRAKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ŞENKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ŞENYUVA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "TAŞKIRAN MAH (TOPLUCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "TEPECİK MAH (KOMİLO KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "TOMASLI MAH (BOĞAZİÇİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ÜSKÜRT MAH (MOLLAVEYİS KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ÜZÜMLÜ MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "VAROŞ MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "YAYLA KÖŞK MAH (MEYDANKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "YAYLAKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "YAZLIK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "YEMİŞLİ MAH (YOLKIYI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "YILDIZ MAH (DİKKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "YUKARIŞİMŞİRLİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAMLIHEMŞİN",
+    "Mahalle": "ZİLKALE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALOĞLU MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALTINTAŞ MAH (BÜYÜKKÖY BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ARICILAR MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ARKADERE MAH (BÜYÜKKÖY BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AŞAĞI SIRT MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AYDINLAR MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BALCILAR MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BALCIOĞLU MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BEKİRLİ MAH (YILDIZELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BEKİROĞLU MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BOĞAZLAR MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CUMHURİYET MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇAVUŞLU MAH (BÜYÜKKÖY BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇAYCILAR MAH (BÜYÜKKÖY BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇAYDAHOR MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇUKURLU MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DALAKLI MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DEMİRCİLER MAH (BÜYÜKKÖY BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DEMİRCİLER MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DERE MAH (YILDIZELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DİKİLİTAŞ MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "EHKARTEPE MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GÜMÜŞTAŞ MAH (BÜYÜKKÖY BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GÜNEŞLİ MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GÜNEŞLİ MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GÜNEŞTEPE MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HANLAR MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HASTAŞ MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HOŞARLI MAH (BEŞİKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HÜŞÜTLER MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "İMRUT MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "İNİŞ MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "İSTİKLAL MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KAKŞİLİ MAH (BEŞİKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KALYONCULAR MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KALYONCULAR MAH (YILDIZELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KARAOĞLU MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KAYADİBİ MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KİRAZLI MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "LEVENTLİ MAH (BEŞİKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MALİPOS MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ KAKŞİOĞLU MAH (BEŞİKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (ARMUTLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (BÜYÜKKÖY BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MİLOK MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MOMİŞLİ MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MORGÜLLER MAH (ARMUTLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MUHLİ MAH (YILDIZELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MÜRELİ MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "OKULLAR MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTAKÖY MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÖKSÜZLER MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "PEHLİVANLI MAH (ARMUTLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SALADOP MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SERİNIRMAK MAH (YILDIZELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SEYRANTEPE MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SOĞUKSU MAH (BÜYÜKKÖY BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ŞEHİT MUHAMMET YÜCE MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TEPE MAH (ARMUTLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TEPE MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TEPELER MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TEPELİ MAH (ÇEŞMELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TOHUMLUK MAH (BEŞİKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TOPALOĞLU MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TOPÇULAR MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "VERİPOS MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YENİ MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YILDIRIMLAR MAH (ARMUTLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ADALAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BÜYÜKCAFERPAŞA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BÜYÜKTAŞHANE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇATAKLIHOCA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ESKİPAZAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HASSADIKLAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KESMETAŞ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KÜÇÜKCAFERPAŞA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KÜÇÜKTAŞHANE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "LİMANKÖY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SABUNCULAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ŞAİRLER MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TAŞHANE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YAKA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YALI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YENİCAMİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YENİPAZAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALOĞLU MAH (MADENLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇAMLICA MAH (MADENLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GÜRÇAM MAH (MADENLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HABİBOĞLU MAH (MADENLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KAZANCILAR MAH (MADENLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MADEN MAH (MADENLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (MADENLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TOPKAYA MAH (MADENLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YAZICILAR MAH (MADENLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YENİ MAH (MADENLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALICANLAR MAH (BEYAZSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALT MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALT MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALT MAH (LATİFLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALT MAH (UZUNDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALT MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALT MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ALTVEİS MAH (HAREMTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AREKNER MAH (ÇUKURLUHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AŞAĞI CORDANLAR MAH (HAREMTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AŞAĞI MAH (AŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AŞAĞI MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AYANI MAH (SELİMİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AYDINLAR MAH (ÇATALDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AYDOĞDU MAH (ÇUKURLUHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AYIŞIĞI MAH (ÇUKURLUHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AYKIRI FİLİZTEPE MAH (HAREMTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AYVALIK MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "AZARLI MAH (ÇATALDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BALIKÇI MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BALIKÇIOĞLU MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BAŞARAN MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BAŞKÖY MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BAYRAKTARLAR MAH (GÜZELTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BEKİROĞLU MAH (BEYAZSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BİLGİNLER MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BİLGİNLER MEZRA MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BOĞAZİÇİ MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BOŞNAKLI MAH (SESLİDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BOZKURTLAR MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BOZTEPE MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BUCAK MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "BÜYÜĞÜN EV VE ÇOBANLAR MAH (UZUNDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CAFEROĞLU MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CAĞAK MAH (UZUNDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CAMİ MAH (KESTANELİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CAMİ MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CAMİ YANI MAH (YAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CAMİALTI MAH (DEMİRHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CANIBEYAZ MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CEMAK MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CEVİTLİ MAH (ÇATALDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CİMOROÇ MAH (İNCESU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "CUMHURİYET MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇAHÇURİ MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇAKIRLI MAH (YENİTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇAKIROĞLU MAH (SARISU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇELİKLER VE SANDIKÇILAR MAH (LATİFLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇEVRE MAH (MALTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇINARTEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇİL MAH (ABDULLAHHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÇOLAKLI MAH (GÜZELTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DARBOĞAZ MAH (BEYAZSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DEMİRCİLER MAH (ÇİLİNGİR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DERE MAH (BEYAZSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DERE MAH (KAÇKAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DERE MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DEREİÇİ MAH (GÜZELTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DÜZ MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "DÜZGEÇİT KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ENESOĞLU MAH (BEYAZSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ERDEMLİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ESENDAĞ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "EYUPOĞLU MAH (ABDULLAHHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "FENAÇİ MAH (YANIKDAĞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GAGAUZLAR MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GELİNCİK 1 MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GELİNCİK 2 MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GEMİCİLER KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GEYİKLİ MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GOBOCİT MAH (UZUNDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GÖLCÜK MAH (DEMİRHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GÜLOVA MAH (SELİMİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GÜMÜŞLER MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GÜMÜŞPINAR MAH (BUZLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "GÜNELİ MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HANİFLİ MAH (GÜZELTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HASANÇAVUŞ MAH (YAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HAŞAFI MAH (SESLİDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HERVENİK MAH (YANIKDAĞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "HÜRREMLİ MAH (SIRTKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "İNCELER MAH (GÜZELTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "İNCESIRT KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "İNCESU KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "İRFANOĞULLARI MAH (BEYAZSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "İSTAPONOZ MAH (BUZLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KADIOĞLU MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KALENDERLİ MAH (YAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KAMİLLİ MAH (SIRTKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KAMİLOĞLU MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KARAKAŞLI MAH (ÇATALDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KARALİ VE GÜNEŞTEPE MAH (ABDULLAHHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KARALOĞLU MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KARANLIK MAH (YANIKDAĞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KARŞI MAH (KESTANELİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KARŞIYAKA MAH (MALTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KASAPOĞLU MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KATILYA MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KAVALA MAH (SELİMİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KAYMAKLI MAH (ÇATALDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KAYNA MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KESTANELİK MAH (HAREMTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KISIRLAR MAH (SEFALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KİREÇHANE MAH (MALTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KODANA MAH (DEMİRHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KOLAĞASI MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KORKAPOS MAH (UZUNDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KÖMÜRCÜLER VE APTİEFENDİLER MAH (ABDULLAHHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KÖPRÜBAŞI MAH (KAÇKAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KÖSE MAH (UZUNDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KÖSELER MAH (BEYAZSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KÖSEOĞLU MAH (YANIKDAĞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KUREMELİ MAH (GÜZELTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KURTULUŞ MAH (DEMİRHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KURULAR MAH (KAÇKAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KUYUBAŞI MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "KÜÇÜKMUSTAFALI MAH (YAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MADEN MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MAHMUTOĞLU MAH (ORMANCIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MAKRAŞ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MALOZA MAH (GÜZELTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MAŞALAR MAH (GÜZELTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MEHELLE MAH (SARISU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERGOLAR MAH (GÜZELTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ 1 MAH (SEFALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ 2 MAH (SEFALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (AŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (BEYAZSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (ÇATALDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (ÇUKURLUHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (HAREMTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (KESTANELİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (MALTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (ORMANCIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (SESLİDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MERKEZ MAH (YAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MESAVLİ MAH (YANIKDAĞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MEYDANLI MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MEZRA MAH (ÇİLİNGİR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MEZRA MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MUSADAĞI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "MUTİDÜZÜ MAH (HAREMTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "OKUMUŞ ÇAY MAH (ABDULLAHHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (AŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (BEYAZSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (ÇİLİNGİR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (SEFALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (SESLİDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (UZUNDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (YAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTA MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ORTASIRT MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÖZDEMİRLER MAH (SEFALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "PAŞANA MAH (BEYAZSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "PERİKOMA MAH (GÜZELTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "PUŞULİ MAH (YANIKDAĞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "REYHANLI MAH (ÇATALDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SARALI MAH (SIRTKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SARBENİ MAH (SESLİDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SARIAHMETLER MAH (SARISU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SARILAR MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SASTAN MAH (SESLİDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SAZLIKLAR MAH (SARISU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SIRT MAH (AŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SIRT MAH (ÇATALDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SIRT MAH (ÇİLİNGİR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SIRT MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SIRT MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SIRT MAH (ZAFER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SİRANLIK MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SOĞUKSU MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SONGURLER MAH (KAÇKAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SUİÇMEZLER MAH (LATİFLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "SUİÇMEZLER MAH (SARISU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ŞALAMBARLI MAH (HAREMTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ŞEN MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ŞİMŞİRLİ MAH (BUZLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ŞİRİNKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TAŞ MAH (HAREMTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TAŞDEMİRLER MAH (YANIKDAĞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TAŞLIK MAH (DEMİRHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TEPE MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TEPE MAH (YENİTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TEPEBOYU MAH (SELİMİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TEPELER MAH (LATİFLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TEPELER MAH (SARISU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TEPELİ MAH (UZUNDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "TÜRKGELDİ MAH (DEMİRHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ULAŞ MAH (ORMANCIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÜST MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÜST MAH (SESLİDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÜST MAH (UZUNDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "ÜSTVEİS MAH (HAREMTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "VERİPOS MAH (SESLİDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "VERİTAĞ MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "VERÜT MAH (SESLİDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "VOYNA MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YALÇINLAR MAH (BUZLUPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YAVUZLAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YENİHİSAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YEŞİLIRMAK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YILMAYANLAR MAH (KEMERKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YUKARI CORDANLAR MAH (HAREMTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "ÇAYELİ",
+    "Mahalle": "YÜKSELEN MAH (KAPTANPAŞA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "ÇALIŞKANLAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "ERİKLİMANI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "FIÇICILAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "SARIYER MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "SUBAŞI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "TERSANE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "BAHATTİNPAŞA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "BÜRÜCEK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "ÇAKMAKÇILAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "ÇEŞME KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "ÇUKURLU KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "ESENTEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "KİRAZDAĞI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "MALTEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "SANDIKTAŞ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "UZUNKAYA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "DEREPAZARI",
+    "Mahalle": "YANIKTAŞ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "LİMAN MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "SAHİL MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "TATLISU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ABDOĞLU MAH (CENNET KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "AİLE MAH (MEYVALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "AKINCILAR MAH (GÜRSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ARMAĞAN MAH (ÇINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ARMONİ MAH (DERBENT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "AYDINLIK MAH (YAYLACILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "AYLE MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "BAHAR MAH (SAATKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "BALABAN MAH (ÇAĞLAYAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "BAŞ MAH (ASLANDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "BAŞ MAH (IHLAMURLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "BAŞKÖY MAH (GÜRSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "BEYAZSU MAH (MEYVALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "BULAK MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "BULUTLU MAH (BEYDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "CENGİZLER MAH (HARA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "CEVİZLİK MAH (MEYVALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ÇAVUŞLU MAH (SULAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ÇEŞMELİ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ÇİÇEKLİ MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DERBENT 1 MAH (DERBENT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DERE MAH (IHLAMURLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DERE MAH (YAYLACILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DEREİÇİ MAH (ÇINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DEVRAN MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DÖRTYOL MAH (IHLAMURLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DÜZ MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DÜZ MAH (CENNET KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DÜZ MAH (HARA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DÜZ MAH (IHLAMURLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DÜZ MAH (TEPECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "DÜZKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "EMİNOĞLU MAH (ÇAĞLAYAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ESENTEPE MAH (BEYDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "GÖKÇETAŞ MAH (AVCILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "GURUPİT MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "GÜLBAHAR MAH (SULAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "GÜLTEPE MAH (SULAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "GÜNEŞLİ MAH (MEYVALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "GÜNGÖREN MAH (SÜMER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "GÜRGENİ MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "GÜRKANLAR MAH (ÇAĞLAYAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "GÜZELYALI MAH (KIYICIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "GÜZELYALI-ÜST MAH (KIYICIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "HACILAR MAH (IHLAMURLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "HAZARA MAH (SÜMER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "HEMŞİN MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "HÜRRİYET MAH (DERBENT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KALINLAR MAH (ÇINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KALKANCILAR MAH (IHLAMURLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KANCA MAH (GÜRSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KARAALİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KARŞIYAKA MAH (ASLANDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KARŞIYAKA MAH (BEYDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KİLİTTEPE MAH (AVCILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KİRAZLIK MAH (ÇINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KOZMAĞA MAH (HARA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KÖPRÜBAŞI MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KÖPRÜBAŞI MAH (MEYVALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KÖSEOĞLU MAH (HARA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "KVAKÇE MAH (TEPECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ MAH (BEYDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ MAH (CENNET KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ MAH (ÇAĞLAYAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ MAH (DERBENT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ MAH (IHLAMURLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ MAH (KIYICIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ MAH (SAATKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ MAH (SÜMER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MERKEZ-LAVAŞA MAH (ÇAĞLAYAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MEŞEDÜZÜ MAH (ASLANDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "MUHTAR CAVİT CİVELEK MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "NANE MAH (ÇAĞLAYAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "NECİPPAŞA MAH (ASLANDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "NOMAİKİ MAH (SÜMER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "OKUL MAH (YAYLACILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "OKURA MAH (IHLAMURLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ORTA MAH (ASLANDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ORTA MAH (ÇAĞLAYAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ORTA MAH (DERBENT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ORTA MAH (MEYVALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ORTA MAH (SÜMER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "OSMANLI MAH (YENİŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ÖZERLER MAH (ÇAĞLAYAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ÖZGÜVENLER MAH (ÇINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "PAZİNE MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "SARIKAVAK MAH (IHLAMURLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "SARIKAYA MAH (ÇINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "SAVAŞ MAH (ASLANDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "SIRT MAH (YAYLACILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "SIRT MAH (YENİŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "SÜMER YALI MAH (SÜMER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ŞENOCAK MAH (IHLAMURLU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ŞENTEPE MAH (SULAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ŞENYURT MAH (BEYDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "TAŞKESİK MAH (ÇAĞLAYAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "TAŞKÖPRÜ MAH (ÇAĞLAYAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "TAŞKÖPRÜ MAH (DERBENT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "TEPE MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "TOHUMLU MAH (SAATKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "TÜFEKÇİLER MAH (HARA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ÜST MAH (ÇINARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ÜST MAH (DOĞANAY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "YAZICILAR MAH (SÜMER KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "YEŞİLAY MAH (SULAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "YILDIZLAR MAH (CENNET KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "YUKARIDERBENT MAH (DERBENT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ZANNA MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "FINDIKLI",
+    "Mahalle": "ZEBELİT MAH (TEPECİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ADACAMİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "AŞAĞI KİREMİT MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "BAŞARAN MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "BİRLİK MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ESKİCAMİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "KÜÇÜKCAMİİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ULUCAMİİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ADA MAH (İSLAHİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ALİCİK MAH (1 MAH) (GÜRGEN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ALİCİK MAH (2 MAH) (GÜRGEN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ALİKİCA MEVKİİ MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ALTINKAYA 1 MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ALTINKAYA MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ASMALIIRMAK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "BALLIDERE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "BULUTLU KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ÇAMLIK MAH (GÜRGEN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "DEREBAŞI MAH (YUKARIİSLAHİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "DUMANKAYA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ESENTEPE MAH (YENİCAMİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ESENTEPE MAH (YUKARIİSLAHİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "GÜNELİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "HALKOLİM MAH (GÜRGEN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ILICA MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "İSLAHİYE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "KANGELDİBİ MAH (GÜRGEN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "KIRLANGIÇ MAH (KIBLEDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "KİREÇLİ MAH (GÜRGEN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "KİREMİT KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "MAĞARA MEVKİ MAH (SELAMET KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "MERKEZ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "MERKEZ MAH (KIBLEDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "MERKEZ MAH (YENİCAMİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "MISIRLI MAH (KIBLEDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "OMEREVA MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ORTA MEŞE MAH (BALLIDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ORTAKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "ÖRNEK MEVKİİ MAH (SELAMET KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "SELAMET KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "SIRT MAH (KIBLEDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "TAŞKÖPRÜ MEVKİİ MAH (İSLAHİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "TATLISU MAH (BALLIDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "TOPÇULAR MAH (SELAMET KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "TUĞLA MEVKİ MAH (SELAMET KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YARIMADA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YENİCAMİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YENİMESCİT MAH (KIBLEDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YEŞİLYAPRAK MAH (GÜRGEN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YILDIZ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YUKARIİSLAHİYE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YUSUF HOCA MAH (KIBLEDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "GÜNEYSU",
+    "Mahalle": "YÜKSEKKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "BAHAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "MUTLU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "ORTAKÖY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "AKYAMAÇ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "BİLENKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "ÇAMLITEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "HİLAL KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "KANTARLI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "LEVENTKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "NURLUCA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "HEMŞİN",
+    "Mahalle": "YALTKAYA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ÇAĞRANKAYA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "GÜNEY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KİRAZLI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "AHMETLİ MAH (DİKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "APROJLİ MAH (BALLIKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ARKANET MAH (DİKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "AŞAĞI MAH (GÜRDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "AŞAĞI MAH (ŞİMŞİRLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "AYLAÇ MAH (TOZKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "AYVALIK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "AYVAZLI MAH (DİKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "BAŞKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "BAYIRKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "BÜYÜK CAMİ MAH (ILICAKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "CEVİZLİK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ÇAKAT MAH (DİKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ÇAMÇAVUŞ MAH (BAYIRKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ÇAMLIKKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ÇARŞI MAH (GÜNEYCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ÇATALTEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ÇİFTEKÖPRÜ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "DEMİRLİ MAH (DİKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "DİKMETAŞ MAH (DİKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ESKİCE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "GÖLYAYLA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "GUDURLU MAH (ÇİÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "GÜVENKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "HAMURLU MAH (BALLIKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "HIÇA MAH (TOZKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "HINDRAKOL MAH (BALLIKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "IHLAMUR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ILICAKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ILICALAR MAH (ILICAKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "İMAMLAR MAH (ILICAKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "İŞKENCEDERE MAH (GÜRDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KAMA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KAMADİBİ MAH (TOZKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KANCALI MAH (DİKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KARAGÖZLÜ MAH (BALLIKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KARALİ MAH (BALLIKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KASTAMONU MAH (TOZKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KESTANE MAH (ŞİMŞİRLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KIZILTEPE MAH (GÜNEYCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KÖPRÜBAŞI MAH (GÜNEYCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KÖSELİ MAH (ÇİÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KUMLUK MAH (GÜRDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KURDOĞLU MAH (BALLIKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KURTULUŞ MAH (GÜNEYCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "KUTURLU MAH (BALLIKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "MAHİLLER MAH (ÇİFTEKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "MEHMETALİ MAH (DİKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "MEŞEKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "MUÇOLAR MAH (ILICAKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ORTA MAH (GÜRDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ORTA MAH (ŞİMŞİRLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ORTAKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "OTEL MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "PAZARALTI MAH (ÇİÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "PENDAZLI MAH (DİKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "RÜZGARLI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "SAKANDOZ MAH (TOZKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "SARAY MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "SARMANLI MAH (BALLIKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "SAVAYILLAR MAH (GÜRDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "SIRT MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "SIRT MAH (TOZKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "SIRTLAR MAH (GÜRDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "SIRTLAR MAH (ILICAKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "SİVRİKAYA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "TULUMPINAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "TURAHLI MAH (TOZKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "YENİ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "YERELMA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "YEŞİLTEPE MAH (GÜNEYCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "YUKARI MAH (GÜRDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "YUKARI MAH (ŞİMŞİRLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İKİZDERE",
+    "Mahalle": "ZANETLİ MAH (ÇİÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "ÇANAKÇEŞME MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "FETHİYE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "FIÇITAŞI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "HAZAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "SARAYKÖY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "ÜSTÜPİLER MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "YALIKÖY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "YAPRAKLAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "BÜYÜKÇİFTLİKKÖYÜ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "DENİZGÖREN KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "KALECİK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "KÖŞKLÜ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "TAŞHANE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "İYİDERE",
+    "Mahalle": "YAYLACILAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "ADALAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "AŞAĞI TATLISU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "CEVİZLİK MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "DAĞDİBİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "KIZILTOPRAK MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "KURUKÖY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "MEDRESE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "TAŞÇILAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YUKARI TATLISU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "AKSU OSB MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "ARMUTLU MAH (YOLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "AŞAĞI MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "BABADAĞI MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "BAYRAKTARLAR MAH (ÜNALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "BİNAMLAR MAH (ÜNALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "CAMİİ MAH (YOLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "CUMHURİYET MAH (YOLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "ÇAĞLAYAN KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "ÇAYIRLI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "DEREİÇİ MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "DURMUŞLAR MAH (ÜNALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "DÜLGERLİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "DÜZ MAH (YOLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "ESENDERE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "ESENTEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "HURMALIK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "HÜSEYİNHOCA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "İNCİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "KAYALIK MAH (ÜNALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "KOFOLAR MAH (ÜNALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "MERKEZ MAH (ÜNALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "MERKEZ MAH (YOLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "MUSLUOĞLU MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "ORMANLI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "ORTA MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "PINARKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "REŞİTLER MAH (ÜNALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "SANDIKÇIOĞLU MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "SEYRANTEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "SIRT MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "SIRT MAH (YOLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "SOĞUKSU KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "ŞENDERE MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "VOYUNTA MAH (ÜNALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YAMAÇ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YENİGEÇİTLİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YEŞİLDERE MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YILDIRIMLAR MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YOKUŞLU KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YUKARI MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YUMURTATEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "KALKANDERE",
+    "Mahalle": "YUSUFLAR ORTA MAH (ÜNALAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKARSU KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKARSU MAH (AKARSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARDINA MAH (BALIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (BALIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (PEKMEZLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (YENİKALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AZİNA MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALCILAR MAH (ŞAFAKLAR MAH) (KETENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇELİKLER MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞ DERESİ MAH (BALIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZ MAH (YENİKALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMİNOĞULLARI MAH (BALIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH (TAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİ MAH (BOĞAZ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLTEPE MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAZAVİTE MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSLAMOĞLU MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAALİLER MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAROĞULLARI MAH (KETENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOŞKOŞLAR MAH (KETENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURTULUŞ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERALLER MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZRA MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MOLLAAHMETOĞLU MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORSİDİ MAH (KETENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (BALIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (PEKMEZLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (TAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PANDIRLAR MAH (BALIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRT MAH (YENİKALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAİRLER MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAİRTEPE MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞENTEPE MAH (TAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞLIK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TİMENA MAH (YENİKALE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜST MAH (BOĞAZ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZICILAR MAH (MERKEZ MAH) (KETENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZICILAR MAH (KETENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLIRMAK MAH (TAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI KARŞI MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (BALIKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ASMALIK MAH (KENDİRLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZ MAH (KENDİRLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALASLAR MAH (KENDİRLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (KENDİRLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRT MAH (KENDİRLİ BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKINCILAR MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKTEPE MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİK MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİŞÖR MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALT MAH (KÜÇÜKÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALT MAH (TUĞLALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARDİN MAH (TAŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARNAULT MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ASGOROZ MAH (KÜÇÜKÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (TOPKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYANE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYVALI MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AZAKLILAR MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞ MAH (TAŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYINDIRLAR MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞTEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BIÇAKCILAR MAH (ÜÇKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BILDIRCINKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİÖNÜ-GÜNEŞLİ-MERKEZ GÜZELYURT MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEVİZLİK MAH (CAMİDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CİNGÖZ MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALIKLAR MAH (MELEK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAPLAR MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAVUŞOĞLU MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYCILAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇELİKLER MAH (ÜÇKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇETİNKAYALAR MAH (ÜÇKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİYANDA MAH (ÇAYBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DELALLAR MAH (KÜÇÜKÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİOĞLU ALT MAH (ÇİMENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİOĞLU ÜST MAH (ÇİMENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE BAŞI MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE BOYU MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (KÜÇÜKÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (TAŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEVRANLAR MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÖRTYOL KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMİNOĞLU MAH (EMİNUKA MAH) (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERENKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERENLER MAH (KARAYEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENDERE-GÜVEN-YEŞİLOVA MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENYURT MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESER MAH (MELEK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FINDIKLAR MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GODOL MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLGELİ-1 MAH (GÖLGELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLGELİ-2 MAH (GÖLGELİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLTEPE MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNELİ MAH (ZİNCİRLİKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEYLER MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVEN MAH (KARAYEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZELTEPE MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZELYURT MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZELYURT MAH (KÖPRÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMÇAYIR MAH (CAMİDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMÇAYIR MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAVGER MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEV MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HUR MAH (CAMİDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İÇMELER MAH (KÜÇÜKÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSMAİLOĞLU MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTANOZ MAH (YEMİŞLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İŞYARLAR MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADIBAŞLAR MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALAMARİ MAH (YEMİŞLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAMARAŞ MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAIRMAK MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞI MAH (KÖPRÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARTALTEPE MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KATILA MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYADİBİ MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYALIK MAH (KARAYEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRAZLIK MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCATEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOÇALLAR MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOÇLAR MAH (YEMİŞLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAKLAR MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOP MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KORUTÜRK MAH (KIRKLARTEPESİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOSELER MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOSTANLAR MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOTOS MAH (KARAYEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖSELER MAH (CAMİDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖSELER MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURS'TAN İTİBAREN MAH (GÜZELKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUTLULAR MAH (AZAKLIHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MANAVLAR MAH (YENİKASARCILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MENDERES MAH (KARAYEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇAYBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAYEMİŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KIRKLARTEPESİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KÖPRÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (MELEK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TAŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YENİKASARCILAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ-AŞAĞI MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZRA MAH (ÜÇKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (AZAKLIHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (CAMİDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (ÇAYBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (KIRKLARTEPESİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (TAŞKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (ÜÇKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (YEMİŞLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAPAZAR KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖKSÜZLER MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRNEK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SADIKLAR MAH (CAMİDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SELİMİYE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYRANTEPE MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRT MAH (ÇAYBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRT MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRT MAH (KARASU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİLYANLI MAH (GÜZELKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKÇEŞME KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKSU MAH (MELEK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUKAS MAH (ÇİMENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAHİNTEPE MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞÖZ MAH (ZİNCİRLİKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞEREK MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEKKE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPE ÜSTÜ MAH (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPÇULAR MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜRÜTLER MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜST MAH (KÜÇÜKÇAYIR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜST MAH (TOPKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜST MAH (TUĞLALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜST MAH (ÜÇKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAĞLITAŞ MAH (MELEK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MELEK MAH (MELEK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİGÜZELKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİKÖY MAH (AZAKLIHOCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİSELİMİYE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYURT MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILDIZTEPE MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILDIZTEPE-GÜZELDERE MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOLVEREN KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (TOPKAYA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (YEMİŞLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖMÜRCÜLER MAH (MURADİYE BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖPRÜBAŞI MAH (MURADİYE BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MESUDİYE MAH (MURADİYE BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MURADİYE MAH (MURADİYE BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKSU MAH (MURADİYE BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLDERE MAH (MURADİYE BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİPAŞA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATMEYDANI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞDATLI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALCILAR MAH (YENİDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALSU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞAZ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZKALE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİÖNÜ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CANPOLAT MAH (AMBARLIK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIBEL MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİFTEKAVAK MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇORAPÇILAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞINIKSU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞSU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREÜSTÜ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKMEKÇİLER MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKREM ORHON MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMİNETTİN MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ENGİNDERE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ENGİNDERE SB MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FENER MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLBAHAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞLER MAH (YENİDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIALİOĞLU MAH (YENİDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALATÇILAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMZABEY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAYRAT MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSLAMPAŞA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANBURSIRT MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAPLICA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKLI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERMERDELEN MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZRA MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜFTÜ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞAKUYU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PEHLİVAN MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PEHLİVANTAŞI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİLAVDAĞI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİRİÇELEBİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PORTAKALLIK MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "REŞADİYE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞLIDERE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPHANE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAĞLITAŞ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEŞLİ MAH (SALARHA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEŞTEPE MAH (SALARHA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KASARCILAR MAH (SALARHA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİREÇHANE MAH (SALARHA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOKULUKAYA MAH (SALARHA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜDERRİSLER MAH (SALARHA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRT KASARCILAR MAH (SALARHA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜZÜMLÜ MAH (SALARHA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLILICA MAH (SALARHA BELDESİ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "AKBUCAK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "AKMESCİT KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "AKTEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ALIM YERİ VE OKUMUŞLAR MEVKİ MAH (HAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ALT MEVKİ MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ANA YOL ALTI MEVKİ MAH (KUZAYCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ARKA DERE MEVKİ MAH (YÜCEHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "AŞAĞI MEVKİ MAH (SAHİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "AVCILAR MEVKİİ MAH (ÖRNEK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "AYGÜNEŞ-YILDIZ-ALTUN MEVKİ MAH (HANDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BABUÇOĞLU-DEVRİŞOĞLU MEVKİ MAH (HANDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BADİALVA MEVKİ MAH (ALÇILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BALABAN MEVKİ MAH (MERDİVENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BAŞ MEVKİ MAH (SAHİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BAŞKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BİLALOĞLU MEVKİ MAH (HANDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BİLİCİLER MEVKİ MAH (HİSARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BİRİNCİLER MEVKİ MAH (HİSARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BOĞAZLI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BÜYÜK CAMİ MEVKİ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "CAMİ MEVKİ MAH (BUCAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "CAMİ MEVKİ MAH (ORTAYOL KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "CAMİ MEVKİ MAH (SİVRİTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "CAMİ MEVKİ MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "CAMİ MEVKİ MAH (YEMİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "CEVHERLER MAH (HANDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "CİHANLI MEVKİ MAH (UĞRAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ÇİÇEKÖREN MEVKİ MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DAĞDİBİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DARILI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DERE MEVKİ MAH (ALÇILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DERE MEVKİ MAH (BUCAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DERE MEVKİ MAH (UĞRAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DERE MEVKİİ MAH (ORTAYOL KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DEREBAŞI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DERNEK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DIŞKAPI MEVKİ MAH (SUÇATI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DUMİNA MEVKİ MAH (BALIKÇI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "DÜZLER MEVKİ MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ELMALIK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "GEÇİTLER MEVKİ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "HABERAL MEVKİ MAH (SUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "HAMİDİYE MAH (HAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "HARVAT MEVKİİ MAH (ORTAYOL KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "HASKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "HAŞIOĞLU MEVKİİ MAH (ORTAYOL KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "HAZİNE MEVKİ MAH (SUÇATI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "HOÇOTİ MEVKİ MAH (DERİNSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "HOPA MEVKİ MAH (ORTAYOL KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "HUKANOĞLU MEVKİ MAH (HANDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "IRMAK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "IRMAKYENİKÖY KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "İNCE MEVKİ MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "İSKELE MEVKİ MAH (SUÇATI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KALE MEVKİ MAH (YEMİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KANLI MEVKİ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KARŞI MEVKİ MAH (SİVRİTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KARŞI MEVKİ MAH (YEMİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KASAPOĞLU MEVKİ MAH (SAHİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KAYAĞANTAŞ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KESİKKÖPRÜ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KESİMAL MEVKİ MAH (HANDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KOCAKÖPRÜ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KOÇANLI MEVKİ MAH (UĞRAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KOÇOĞLU VE ÇEBİLER MEVKİ MAH (HAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KORKMAZLAR MEVKİ MAH (TEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KÖSOĞLU VE KOLSUZOĞLU MEVKİ MAH (TEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KÜÇÜK CAMİ MEVKİ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "LİMAN MEVKİ MAH (BALIKÇI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "MEMOĞLU MEVKİ MAH (SAHİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "MERDİVENLİ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "MERKEZ CAMİ ESKİ PAZARYOLU MEVKİ MAH (HAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "MERKEZ CAMİ MEVKİ MAH (ALÇILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "MERKEZ MEVKİ MAH (BALIKÇI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "MERKEZ MEVKİ MAH (DERİNSU KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "MORÇUT MEVKİ MAH (UĞRAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "OCAK MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "OCAOZON MEVKİ MAH (BUCAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "OKUL MEVKİ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "OKUL MEVKİ MAH (YEMİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "OKUL MEVKİİ MAH (ALÇILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "OKUL VE CAMİ MEVKİİ MAH (ÖRNEK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "OMOHALE VE MEZRALAR MEVKİ MAH (KUZAYCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ORTA MAH. YOLU VE İSLAMOĞLU MEVKİ MAH (HAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ORTA MAH.YOLU VE AYTEMİZLER MEVKİ MAH (HAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ORTA MEVKİ MAH (YEMİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ORTA MEVKİ MAH (YÜCEHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ORTA MEVKİİ MAH (SİVRİTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ORTAIRMAK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ORTAYOL MEVKİ MAH (YÜCEHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "PAPATYA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "PAŞAKİNALAR MEVKİ MAH (ORTAYOL KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "PEHLİVANLAR MEVKİ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "PİRİMOĞLU MAH (ORTAYOL KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "PİYASTONİ MEVKİ MAH (KUZAYCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "RADAR MEVKİ MAH (HİSARLI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SAĞLIK OCAĞI YOLU VE ÇEVRESİ MEVKİ MAH (HAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SAHİL MEVKİ MAH (BALIKÇI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SAHİLKÖY MAH (SAHİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SAPANCA MEVKİ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SARIŞI MEVKİ MAH (ÖRNEK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SATOĞLU MEVKİ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SEMTET MEVKİ MAH (SUÇATI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SESSİZDERE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SIRT MEVKİ MAH (SİVRİTEPE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SIRT MEVKİ MAH (SUÇATI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SIRT MEVKİ MAH (YEMİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SİVRİKALE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SİVRİTEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SOĞUKSU MEVKİ MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SUBAŞI KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SULAK KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ŞABANOĞLU MEVKİ MAH (TEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ŞENDERE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ŞENTEPE KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ŞENTEPE MEVKİ MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "TAPSİHON YOL ÜSTÜ VE KÖYİÇİ MEVKİ MAH (KUZAYCA KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "TASU MEVKİ MAH (BUCAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "TEPE MEVKİ MAH (MERDİVENLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "TOPLUCA KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "TUNA MEVKİ MAH (ALÇILI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "TUTOĞLU MEVKİ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "TÜTÜNCÜLER KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "UÇANOĞLU MEVKİ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ÜRÜNLÜ DORO MEVKİ MAH (YÜCEHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ÜRÜNLÜ MEVKİ MAH (YÜCEHİSAR KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ÜST MEVKİ MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "Y.KARŞI MEVKİ MAH (SUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "YARBAŞI VE KIZILHANLAR MEVKİ MAH (HAMİDİYE KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "YAVUZ KÖYÜ"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "YENİ MEVKİ MAH (GÜNEY KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "YENİ MEVKİ MAH (TEKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "YILDIZLAR MEVKİ MAH (HANDAĞI KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "YUKARI MEVKİ MAH (BUCAK KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "YUKARI MEVKİ MAH (YEMİŞLİ KÖYÜ)"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "BEYAZTAŞ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "GÜZELYALI MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "İKİZTEPE MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "KİRAZLIK MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "SOĞUKSU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "YUKARI SOĞUKSU MAH"
+  },
+  {
+    "il": "RİZE",
+    "ilçe": "PAZAR",
+    "Mahalle": "ZAFER MAH"
+  }
+]

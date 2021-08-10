@@ -1,0 +1,8137 @@
+[
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ADAKINIK MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "BAYRAMLAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇAVUŞLAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇİTLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "DEVECİLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "HACETLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KADILAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KARGIBAYRAMLAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ADAKÖY MERKEZ MAH (ADAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ALADAĞ MAH (SORKUN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ALADAĞ MAH (YUKARIDÜĞER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞI MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞI MAH (SORKUN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞI MAH (YUKARIDÜĞER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞI MANDIRA MAH (SORKUN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞI YAYLA MAH (GÖBÜLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞI YAYLA MAH (ÖMERPAŞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞI YAYLA MAH (YUKARIDÜĞER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞIDÜĞER MERKEZ MAH (AŞAĞIDÜĞER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞIDÜĞER YAYLASI MAH (AŞAĞIDÜĞER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞIDÜLGER MAH (DÜLGER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AŞAĞISAYIK MERKEZ MAH (AŞAĞISAYIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "AZAPLAR MAH (ÖMERPAŞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "BATI MAH (BÜNÜŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "BAYIR MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "BIÇKI YAYLASI MAH (SORKUN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "BÜNÜŞ ALADAĞI MAH (BÜNÜŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "BÜNÜŞ MANDIRASI MAH (BÜNÜŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "BÜNÜŞ MERKEZ MAH (BÜNÜŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "CEMALLER ÇİÇEKLİ YAYLASI MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "CEMALLER HOKAK YAYLASI MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "CEMALLER KARAGÖZ YAYLASI MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "CEMALLER KİRAZLI YAYLASI MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "CEMALLER MERKEZ MAH (CEMALLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇALKÖY BEYDÜŞLÜH MAH.YAYLASI MAH (ÇALKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇALKÖY KÖROĞLU YAYLASI MAH (ÇALKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇALKÖY MERKEZ MAH (ÇALKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇARDAK KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇARDAK YAYLASI MAH (ÇARDAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇETİKÖREN ALADAĞ YAYLASI MAH (ÇETİKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇETİKÖREN KİRAZLI YAYLASI MAH (ÇETİKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇETİKÖREN MANDIRALARI MAH (ÇETİKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇİMENCİK YAYLASI MAH (ÖMERPAŞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇUKURCA ALADAĞI MAH (AŞAĞISAYIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÇUKURCA YAYLASI MAH (YUKARISAYIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "DÜLGER MERKEZ MAH (DÜLGER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "GEREDE YOLU MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "GÖBÜLER MERKEZ MAH (GÖBÜLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "GÖL YAYLA MAH (BÜNÜŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "GÖLLÜ YAYLA MAH (SORKUN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "GÜCÜKLER MERKEZ MAH (GÜCÜKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "GÜCÜKLER YAYLASI MAH (GÜCÜKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "HASİNLER MAH (AŞAĞISAYIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "İMAMLAR MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KABAKLAR MAH (YAĞBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KABAKLAR YAYLASI MAH (YAĞBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KADİRLER MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KARAÇAYIR YAYLASI MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KARSLAR MAH (GÜCÜKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KILIÇLAR MERKEZ MAH (KILIÇLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KILIÇLAR YAYLASI MAH (KILIÇLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KİRAZLI YAYLA MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KONAKLAR MAH (ÇETİKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KURUCA KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "KUZKÖY MAH (KILIÇLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "MANDIRA MAH (AŞAĞISAYIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "MURSALLAR YAYLASI MAH (YAĞBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "MURSALLAR MAH (YAĞBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "NAHÇIVAN MAH (ADAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ORTAKÖY MERKEZ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ÖMERPAŞALAR MERKEZ MAH (ÖMERPAŞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "SEYİTALİLER MERKEZ MAH (SEYİTALİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "SOFTALAR MAH (GÖBÜLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "SÜLELER MERKEZ MAH (SÜLELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "ŞAHALLAR MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "TABAKLAR MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "TEPECİK MAH (ÇETİKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "UZUNLAR MAH (DOĞANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YAĞBAŞLAR MERKEZ MAH (YAĞBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YAĞBAŞLAR YAYLASI MAH (YAĞBAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YALACIK KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YALACIK YAYLASI MAH (YALACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YASLICALI YAYLASI MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YAYALAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YAYLA MAH (AŞAĞISAYIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YENİ MAH (ÖMERPAŞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YENİ MAH (SORKUN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YENİ MAH (YUKARIDÜĞER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YUKARI MAH (SORKUN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YUKARI MAH (YUKARIDÜĞER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YUKARI MANDIRA MAH (SORKUN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YUKARI YAYLA MAH (GÖBÜLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "DÖRTDİVAN",
+    "Mahalle": "YUKARISAYIK MERKEZ MAH (YUKARISAYIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DAYIOĞLU MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DEMİRCİLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DEMİRCİLEROSB MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KABİLLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KİTİRLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SEVİLLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AFATLAR MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AFATLAR YAYLA MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AĞAGİL MAH (KARACADAĞDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AKÇAGİL MAH (ÇAĞIŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AKKADİM MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AKTAŞ MAH (AKTAŞKURTLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "APSARI MAH (YEŞİLVADİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AŞAĞI MAH (BALCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AŞAĞI MAH (BÜNÜŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AŞAĞI MAH (NUHÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AŞAĞI YAYLA MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AVCILAR MAH (YUKARIÖRENBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AVLASIZGİL MAH (KARACADAĞDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "AYVATLAR MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "BALTACILAR MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "BATTALLAR MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "BIÇAKCILAR MAH (GÜNEYDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "BIÇAKCILAR YAYLA MAH (GÜNEYDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "BİRİNCİAFŞAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "BOZKUŞ MAH (AKTAŞKURTLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "BOZUKLAR MAH (DAVUTBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "BURGUCU MAH (EYMÜR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ÇAĞIŞ MAH (ÇAĞIŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ÇAĞIŞ YAYLASI MAH (ÇAĞIŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ÇALCA MAH (ASMACA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ÇENGELLER MAH (MURATFAKILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ÇENGELLER YAYLA MAH (MURATFAKILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ÇOBANLAR MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ÇONGALLAR MAH (MACARLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ÇUKUR MAH (YUNUSLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DEMİRCİ MAH (KÜLEF KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DEMİRCİ MAH (YUKARIÖRENBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DEMİRCİLER MAH (MERKEZ MAH) (GÜNEYDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DERE MAH (MERKEZ MAH) (ÇAYÖRENGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DERE MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DERE MAH (KARACADAĞDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DEREKÖY MAH (KARACADAĞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DEVEYATAĞI YAYLASI MAH (KARAPAZAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DEYİŞLER MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DEYİŞLER YAYLASI MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DOĞANCILAR MAH (AKÇABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DURSUNLAR MAH (YAKAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DÜMENLER MAH (GEÇİTLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "DÜMENLER YAYLA MAH (GEÇİTLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ECİNLİOĞLU MAH (MACARLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "EKMENLER MAH (BAHÇEDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "EMİNAĞA MAH (BEŞKONAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "EMİRLER MAH (SUNGURLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "EVRENLER MAH (YAKAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "FADILLAR MAH (BEŞKONAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "GAZİLER MAH (GÜNEYDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "GAZİLER YAYLA MAH (GÜNEYDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "GÖKÇELER MAH (BAHÇEDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "GÖLCÜK MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "GÖZÜMLER MAH (DEMİRCİSOPRAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "GÜNEY MAH (ÇAYÖRENGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "HACI İPEKLER MAH (GÜNEYDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "HACI MUSLAR MAH (DEMİRCİSOPRAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "HATIPLAR MAH (ENSELİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ISPAHLAR MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "IŞIKLI MAH (ULAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "İMAMLAR MAH (KARACADAĞDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "İMANLAR MAH (BAHÇEDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "İMREŞE MAH (MANGALLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KABAKLAR MAH (GÜNEYDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KADİMLER MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KANDAK MAH (DAVUTBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KAPÇI EVİ MAH (ÇAĞIŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KARAKUZ MAH (ERTUĞRULKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KARŞI MAH (BEŞKONAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KARŞI YAYLA MAH (ÇOĞULLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KATIRCIOĞLU MAH (AKÇABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KAYABAŞI MAH (KARACADAĞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KINCALLAR MAH (KOÇUMLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KINCALLAR YAYLASI MAH (KOÇUMLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KIRBIZLAR MAH (YUKARIÖRENBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KOÇLAR MAH (TATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KOÇLAR YAYLASI MAH (TATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KÖSELER MAH (AKÇABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KÖY YAYLASI MAH (BAHÇEDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KURTÇA MAH (YAĞDAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KURTLAR MAH (AKTAŞKURTLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KURTLAR MAH (ZEYNELLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "KÜLLÜ YAYLA MAH (KARAPAZAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MACARLAR MAH (MACARLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MANDIRA MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MANDIRALAR MAH (SAMAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MARKUŞA YAYLASI MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MEHMET BEYLİK MAH (HAVULLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MEHMET BEYLİK YAYLASI MAH (HAVULLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (AFŞARTARAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (AĞIZÖRENGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (AKÇABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (AKÇAŞEHİR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ASMACA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (AŞAĞIOVACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (AŞAĞIÖRENBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (BAHÇEDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (BALCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (BÜNÜŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ÇALAMAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ÇALIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ÇAYÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ÇOĞULLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (DAĞKARA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (DANİŞMENTLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (DAVUTBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (DEMİRCİSOPRAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (DEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (DİKMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (DURSUNFAKI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ELÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ENSELİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ERTUĞRULKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (EYMÜR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (GEÇİTLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (GÖYNÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (HALAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (HASANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (HAVULLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (IBRICAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (İKİNCİAFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (İMAMLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (İNKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KALAÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KARACADAĞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KARACADAĞDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KARAPAZAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KAVACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KAYIKİRAZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KAYISOPRAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KAZANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KOÇUMLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KÖSRELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (KÜRKÇÜLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (MACARLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (MANGALLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (MİRCEKİRAZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (MUKAMLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (MURATFAKILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (MÜRDÜKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (NUHÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (SALUR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (SAMAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (SAPANLIURGANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (SARIOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (SUNGURLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (TATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ULAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ÜMİTKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YAĞDAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YAKABOY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YAZIKARA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YELKENLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YENECİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YENİYAPAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YEŞİLVADİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YUKARIOVACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YUKARIÖRENBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (YUNUSLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ MAH (ZEYNELLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (ÇALAMAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (DAĞKARA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (GEÇİTLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (KARACADAĞDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (KÖSRELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (MURATFAKILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (SAPANLIURGANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (TATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (ULAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLA MAH (YUNUSLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLASI MAH (HASANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLASI MAH (HAVULLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLASI MAH (KALAÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLASI MAH (KOÇUMLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "MERKEZ YAYLASI MAH (YUKARIOVACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ORTA MAH (ASMACA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ORTA MAH (IBRICAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SAĞLIK MAH (HALAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SEYFE MAH (KÜLEF KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SEYİTLER MAH (ULAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SEYİTLER YAYLASI MAH (ULAŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SİNANLAR MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SİYAMLAR MAH (IBRICAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SOFULAR YAYLASI MAH (SOFULAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SÖMERCİLER MAH (KARACADAĞDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SÖMERCİLER YAYLA MAH (KARACADAĞDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SÜLLER MAH (SÜLLERTOKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "SÜLLER YAYLASI MAH (SÜLLERTOKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ŞAHALLAR MAH (ÇOĞULLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ŞÜKÜRLER MAH (DEMİRCİSOPRAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "TATAROĞLU MAH (BEŞKONAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "TEÇÇEBEL YAYLASI MAH (KARAPAZAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "TEKFUR MAH (ERTUĞRULKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "TEPE MAH (YAKAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "TOKLAR MAH (SÜLLERTOKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "TOKLAR YAYLASI MAH (SÜLLERTOKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "TOZAKLAR MAH (KARACADAĞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ÜÇPINAR MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ÜÇPINAR YAYLA MAH (YAZIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAMAN MAH (ÇALAMAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAMAN YAYLASI MAH (ÇALAMAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YANIKLAR MAH (YELKENLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YANŞABA MAH (DAĞKARA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YANŞABA YAYLASI MAH (DAĞKARA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (AFŞARTARAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (AĞIZÖRENGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (AKBAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (AKÇABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (AKÇAŞEHİR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (AKTAŞKURTLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ASMACA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (AŞAĞIOVACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (AŞAĞIÖRENBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (BAHÇEDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (BALCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (BEŞKONAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (BÜNÜŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ÇALIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ÇAYÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ÇAYÖRENGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (DANİŞMENTLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (DAVUTBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (DEMİRCİSOPRAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (DEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (DİKMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (DURSUNFAKI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ELÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ENSELİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ERTUĞRULKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (EYMÜR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (HALAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (İKİNCİAFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (İMAMLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (İNKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (KAPAKLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (KARACADAĞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (KAYIKİRAZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (KAYISOPRAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (KAZANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (KÜLEF KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (KÜRKÇÜLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (MACARLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (MANGALLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (MİRCEKİRAZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (MUKAMLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (MÜRDÜKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (NUHÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (SALUR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (SAMAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (SUNGURLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ÜMİTKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (YAĞDAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (YAKABOY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (YAKAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (YELKENLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (YENECİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (YENİYAPAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YAYLA MAH (ZEYNELLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YENİ MAH (IBRICAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YUKARI MAH (HALAÇLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YUKARI MAH (ORTACA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "YUNUSLAR MAH (YAKAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GEREDE",
+    "Mahalle": "ZADATLAR MAH (ENSELİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "CUMA MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇEŞME MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HACI ABDİ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KEPKEBİR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SOFU ALİ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AHMETBEYLER KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AKÇAALAN MERKEZ MAH (AKÇAALAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AKSAKLAR MERKEZ MAH (AKSAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AKTAŞ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ALAN MERKEZ MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ALAN YAYLASI MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ALANCIK MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ALTINCILAR MAH (ÇAYLAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ARABACILAR MAH (GÖKÇESARAY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ARIKÇAYIRI MERKEZ MAH (ARIKÇAYIRI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ARIZLAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AŞAĞI MAH (HİMMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AŞAĞIKINIK MERKEZ MAH (ÇATACIK MAH) (AŞAĞIKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AŞAĞIKOZCAĞIZ MAH (KOZCAĞIZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AŞAĞISAFRANLAR MAH (İBRAHİMÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AYDINLAR MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AYVATLAR MAH (BEKİRFAKILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "AYVATLAR MAH (HİSARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "BAYINDIR MERKEZ MAH (BAYINDIR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "BEKİRFAKILAR MERKEZ MAH (BEKİRFAKILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "BEKİRLER MAH (KAŞIKÇIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "BOYACILAR MERKEZ MAH (BOYACILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "BOYALICA MAH (İBRAHİMÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "BOZCAARMUT KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "BÖLÜCEKOVA MERKEZ MAH (BÖLÜCEKOVA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "BULANIK MERKEZ MAH (BULANIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "CAFERLER MAH (KIZILKUYU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "CEYLANLI KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "CONLAR MAH (YEŞİLYAZI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇALICA MAH (GÜNEYÇALICA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇAMLICA MERKEZ MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇAPAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇATACIK MERKEZ MAH (ÇATACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇATAK MAH (BÖLÜCEKOVA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇAYKOL MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇAYKÖY KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇAYLAK MERKEZ MAH (ÇAYLAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇİFTLİK MAH (ÇATACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇİFTLİK MAH (HACIMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇİFTLİK MAH.YAYLASI MAH (HACIMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÇUBUK MERKEZ MAH (ÇUBUKKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "DAĞHACILAR MERKEZ MAH (DAĞHACILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "DAĞŞEYHLERİ KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "DEDELER KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "DEĞİRMENÖZÜ KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "DEMİRHANLAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "DEPO MAH (İBRAHİMÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "DERE MAH (ARIKÇAYIRI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "DOĞRUK MAH (EKİNCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "EKİNCİLER MERKEZ MAH (EKİNCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ELMACILAR MAH (YUKARIKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "FAKILAR MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "FINDICAK MAH (SÜNNET KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "GAVURLAR PINARI MAH (HİSARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "GERİŞLER KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "GÖBELLER MAH (KIZILKUYU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "GÖKÇESARAY MERKEZ MAH (GÖKÇESARAY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "GÖKÇESARAY YAYLA EVLERİ MAH (GÖKÇESARAY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "GÖLBAŞI MAH (ÇUBUKKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "GÖLÖZÜ MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "GÖZLER MAH (MEMECELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "GÜNEYÇALICA MERKEZ MAH (GÜNEYÇALICA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "GÜRPINAR MERKEZ MAH (GÜRPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HACIAHMETLER MAH (YEŞİLYAZI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HACIMAHMUT MERKEZ MAH (HACIMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HACIMAHMUT MERKEZ MAH.YAYLASI MAH (HACIMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HALLAR MAH (AŞAĞIKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HAPŞANLAR MAH (HİSARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HASANLAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HEBİLLER MAH (KARAARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HİLALLER KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HİMMETOĞLU MERKEZ MAH (HİMMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "HİSARÖZÜ MERKEZ MAH (HİSARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ILICA MAH (BAYINDIR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KABAKULAK MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KABAKULAKALTI MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KABALAR MAH (DAĞHACILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KARAALİLER MERKEZ MAH (KARAALİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KARAARDIÇ MERKEZ MAH (KARAARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KARACALAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KARAFAKILAR MAH (BAYINDIR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KARISIKLAR MAH (HİMMETOĞLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KAŞIKÇIŞEYHLER MERKEZ MAH (KAŞIKÇIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KAVACIK MAH (AKÇAALAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KAYALIDERE MERKEZ MAH (KAYALIDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KILAVUZLAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KILAVUZLAR YAYLASI MAH (KILAVUZLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KIZILKUYU MERKEZ MAH (KIZILKUYU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KİLCİLER KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KİLLER MAH (MUSTANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KOZCAĞIZ MERKEZ MAH (KOZCAĞIZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KOZDERE MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KÖROĞLU MAH (AŞAĞIKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KÖSTEK MAH (KOZCAĞIZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KÖSTEKLER MAH (KIZILKUYU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KÖYBAŞI KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KUMARLAR MAH (BULANIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KUMCUK MERKEZ MAH (KUMCUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KURTULUŞ MAH (KUMCUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KUYUPINAR MERKEZ MAH (KUYUPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "KÜRNÜÇ KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "MADEN AKSA MAH (ÇAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "MANTARLAR MAH (KARAALİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "MEMECELER MERKEZ MAH (MEMECELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "MEMECELER YAYLASI MAH (MEMECELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "MERKEZ MAH (İBRAHİMÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "MEŞELİ MAH (HİSARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "MURATLAR MAH (SÜNNET KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "MUSTANLAR MERKEZ MAH (MUSTANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "NARZANLAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "NASUHLAR MAH (GÖKÇESARAY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "NİĞİT MAH (BOYACILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "OKÇULAR MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ORTA MAH (BULANIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "OVABOYU MAH (KUYUPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÖRENCİK MERKEZ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ÖRENCİK YAYLASI MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "PELİTCİK KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SAFALAR MAH (AŞAĞIKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SAFRANLAR MAH (İBRAHİMÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SARICALAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SARILAR MERKEZ MAH (SARILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SEFERLER MAH (ÇAYLAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SEKİ MAH (ÇUBUKKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SEKİ MAH (KUMCUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SİFYANLAR MAH (SARILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SOĞUKÇAM KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SUSUZ KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "SÜNNET MERKEZ MAH (SÜNNET KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "ŞABANLAR MAH (HİSARÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "TEKİRLER MERKEZ MAH (TEKİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "TEMBELLER MAH (KOZCAĞIZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "TURGUTLAR MAH (AKSAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "TURGUTLAR MAH (KAYALIDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "UMURLAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "UMUTDERE MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YAĞCILAR MAH (KAŞIKÇIŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YAHYALAR MAH (KARAALİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YAPRAKLI MAH (SÜNNET KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YENİ MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YENİ MAH (EKİNCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YENİKÖY MERKEZ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YEŞİLOVA MAHALLESİ (BÖLÜCEKOVA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YEŞİLYAZI MERKEZ MAH (YEŞİLYAZI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YÖRÜKLER MAH (TEKİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "GÖYNÜK",
+    "Mahalle": "YUKARIKINIK MERKEZ MAH (YUKARIKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "KARADOĞAN MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "KÖROĞLU MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "AKPINAR MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ALANHİMMETLER KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ALEMDAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ALPAĞUT MAH (TAŞLIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ARDALAN MAH (DEVEÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "AŞAĞI ALADAĞ YAYLASI MAH (ÇÖKELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "BAĞIŞLAR MAH (KÖKEZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "BALI KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "BATAKLIK MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "BEDESTE MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "BEDESTEN MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "BORUCAK KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "BÖLÜCEKKAYA KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "BÖLÜCEKKAYA MAH (BÖLÜCEKKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "BULKAZ MAH (DEVECİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "BULKAZ YAYLASI MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ÇALKARA MAH (KUZCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ÇARIKLAR MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ÇORLUK YAYLASI MAH (ÇÖKELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ÇÖKELER KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ÇUKUR MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ÇUKUR YAYLASI MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "DEVECİ KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "DEVEÖREN KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "DOKUMACILAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ELMALI MAH (KILKARA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ERİKLİ MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "GERİŞ KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "GERİŞ MAH (GERİŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "GÜNEYOLUK MAH (ALEMDAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "KILKARA KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "KIZIK MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "KIZIK YAYLASI MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "KÖSDENLİK MAH (KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "KÖSELER KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "MERKEZ MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "MERKEZ MAH (KARAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "MERKEZ MAH (KÖKEZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "MERKEZ MAH (KUZCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "MERKEZ MAH (NADAS KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "MONDU MAH (TAŞLIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "ÖRENCİK MAH (KILKARA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "PEÇENEK MAH (NADAS KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "SARAYCIK MAH (KARAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "SARIBASIM YAYLASI MAH (YAZICA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "SARIKAYA MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "SARIKAYA YAYLASI MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "SERKE YAYLASI MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "SİNNECİK MAH (KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "SİNNECİK YAYLASI MAH (KARACAÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "SOĞUKSU MAH (TAŞLIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "SOLACA HATBOL TARLASI YAYLASI MAH (ÇÖKELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "SORUDAK YAYLASI MAH (YAZICA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "TAŞLIK MAH (TAŞLIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "TEMBEL MAH (DEVEÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "YAYLA BÖLGESİ MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "YAZICA KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "YUKARI ALADAĞ YAYLASI MAH (ÇÖKELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "KIBRISCIK",
+    "Mahalle": "YUKARI BEDESTEN MAH (BELEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ADASAL MAH (GÖKÇESU BELDESİ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AKMEHMETOĞLU MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ALİOĞLU MAH (ÇORAKKADİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AŞAĞI EMİRLER MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ATATÜRK MAH (GÖKÇESU BELDESİ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AVLANLAR MAH (KÜÇÜKKUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BALATOĞLU MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BIYIKLAR MAH (KÜÇÜKKUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BÖKRÜ MAH (KAYIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "CAMİYANI MAH (ELEMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "CİVCİLER MAH (KAYIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÇAKIRLAR MAH (GÖKÇESU BELDESİ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÇAMLI KÖY MAH (TURNA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DEĞİRMENCİLER MAH (KÜÇÜKKUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DEMİRCİLER MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DEMİRCİLER MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DEMİRCİOĞLU MAH (ELEMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DERE MAH (ŞAHBAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DOPLAR MAH (ÇORAKKADİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DÖMBEKÇİOĞLU MAH (ELEMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DURALLAR MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DURAN BAHÇESİ MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ELEMEN YAYLASI MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ELLEZLER MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ESENLER MAH (MAMATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GÖÇLER MAH (GÜNEYGÖKÇESU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GÖNCÜ MAH (KAYIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GURLAR MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GÜCÜKLER MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HACIGÜZEL MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HACIMEHMETOĞLU MAH (ELEMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HACIOĞLU MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HALİLOĞLU MAH (ELEMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HAMZALAR MAH (KÜÇÜKKUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HATİPOĞLU MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HOŞCANLAR MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HÜRRİYET MAH (GÖKÇESU BELDESİ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "İSLAMLAR MAH (KAYIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "İSMAİLLER MAH (ÇORAKMITIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "İYİSAN MAH (KÜÇÜKKUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KADIKÖY MAH (MAMATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KADİRLER MAH (ÇORAKKADİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KALAYCILAR MAH (KAYIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KANTAROĞLU MAH (ELEMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARABACAKLAR MAH (KAYIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARAGEYİKLER MAH (KÜÇÜKKUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARAHÜSEYİNLER MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARAPINAR MAH (ŞAHBAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KASIMLAR MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KAVŞAKLAR MAH (KÜÇÜKKUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KAYAALTI MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KESEROĞLU MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KEYFANOĞLU MAH (KAYABÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KULAKSIZOĞLU MAH (TURNA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KULEŞLER MAH (KAYIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KURUHALİLLER MAH (ÇORAKMITIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KUŞLAR MAH (ÇORAKMITIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KÜRTOĞLU MAH (ŞAHBAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (ELEMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (GÜNEYGÖKÇESU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (HAYRANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (KAYIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (MAMATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (ŞAHBAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (TURNA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MISIRLI MAH (ÇORAKKADİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MUHARREMOĞLU MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MUSLUOĞLU MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "NOKTALAR MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "OLUCAK MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ORTA MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ORUÇOĞLU MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "OTLAK MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "PAŞAKÖYÜ MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SEFERLER MAH (MAMATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SEPETCİ MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SOMUNCUOĞLU MAH (KAYABÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ŞABANLAR MAH (TURNA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ŞEMBELEK MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ŞEVKİOĞLU MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ŞIHLAR MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TAŞCAMİ MAH (KAYIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TAVUKCUOĞLU MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TEKEOĞLU MAH (ÇORAKKADİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TERZİLER MAH (MAMATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TİLKİOĞLU MAH (KAYABÜKÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TOKATLI DEĞİRMENİ MAH (GÜNEYGÖKÇESU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TOMASOĞLU MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TÜRDÜOĞLU MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "VELİLER MAH (KÜÇÜKKUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YENİ MAH (ÇORAKMITIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YEŞİLLER MAH (ÇORAKMITIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YİRMİALTIOĞLU MAH (ELEMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YİRMİBEŞOĞLU MAH (ELEMEN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YUKARI EMİRLER MAH (EMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YUKARI MAH (KÜÇÜKKUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YUNUSLAR MAH (HAYRANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BEŞLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TABAKLAR YAZIYAKA MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TÜRKBEYLİ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AHMETLER MAH (BABAHIZIR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AHMETOĞLU MAH (KARAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AKBÜK MAH (BABAHIZIR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AKÇAOĞLU MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AKKAYA YAYLASI MAH (KARAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ALAGERİŞ MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ALİÇELEBİLER MAH (AKÇAKOCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ALİEFENDİLER MAH (NAZIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "APTİ MAH (KADISUSUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ARAK MAH (ARAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ARSLANLAR MAH (KARAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ASTI MAH (KADISUSUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AŞAĞI KARŞI MAH (ÇUBUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AŞAĞI MAH (AĞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AŞAĞI MAH (ÇUBUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AŞAĞI MAH (HACIAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AŞAĞI MAH (KAVACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AŞAĞI MAH (TEBERİKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "AŞIKOĞLU MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BALLAR MAH (ARAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BARAJ ALANI MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BARAKLAR MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BAYRAKTARLAR MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BAYRAMBEYLER MAH (GÖZECİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BAYRAMOĞLU MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BEKİRLER MAH (NAZIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BELENGÖLCÜK MAH (BAŞYELLİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "BEŞEVLER MAH (ÇAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "CAZLAR MAH (KONAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "CURUR YAYLA MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "CÜNÜTLER MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÇAY OBA MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÇAYBOYU MAH (HACIAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÇELEBİLER MAH (AKTEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÇENGELLER MAH (KADISUSUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÇIRAKLAR MAH (BÖLÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÇIRALIKÖPRÜ MAH (KIYASLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DEĞİRMENBÜKÜ MAH (BABAHIZIR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DEĞİRMENYANI MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DELİAHMETLER MAH (KARACALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DEMİRCİLER MAH (KARACALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DERE MAH (BÖLÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DEREKÖY MAH (YELLİCEDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DERELER MAH (ARAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DOĞANLAR MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DORUK MAH (AĞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DORUK MAH (İLYASLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DOST MAH (DÜZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DÖRTYOL MAH (AĞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DUMANLAR MAH (KADISUSUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "DURANLAR MAH (YELLİCEDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ELLEZLER MAH (ÇAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ELLEZOĞLU MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ESATLAR MAH (GÖZECİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ESKİ MAH (TEBERİKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "EVCİK MAH (BAŞYELLİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "EYNEBEYLER MAH (BÖLÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GEBEŞOĞLU MAH (KIYASLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GERİŞ MAH (YELLİCEDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GÖKMENOĞLU MAH (KAVACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GÖL MAH (NAZIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GÖLCÜK MAH (BABAHIZIR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GÜLİSTAN MAH (BANAZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "GÜNEYHİSAR MAH (DÜZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "H.ÇELEBİLER MAH (DÜZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HACCELLER MAH (BABAHIZIR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HACIOĞLU MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HALİLOĞLU MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HARCIGÖLÜ MAH (ÇUBUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HASANBEYLER MAH (SAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HATIPLAR MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HATİPLER MAH (SARIKADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HAYRANLAR MAH (RÜKNETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "HOCALAR MAH (ÇIRDAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "İMAMOĞLU MAH (BAŞYELLİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "İSMAİL BEYLER MAH (KUZGÖL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "K.YAYLASI MAH (AKÇAKOCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KADI MAH (KADISUSUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KADIOĞLU MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KADİRLER MAH (AĞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KAHYALAR MAH (AKÇAKOCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KAHYAOĞLU MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KALEMLER MAH (AKÇAKOCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KALEMLER MAH (KARAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KANCILAR MAH (SARIKADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARACAAĞAÇ MAH (BAŞYELLİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARAEYÜPLER MAH (RÜKNETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARAHACILAR MAH (ALİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARAKAŞLAR MAH (TEBERİKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARAKUZ MAH (AĞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARAMAN MAH (KARAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARANDU MAH (AKÇAKOCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARAŞEYHLER YAYLASA MAH (KARAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARATAŞ MAH (YUMRUTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARGALAR MAH (RÜKNETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARŞI MAH (ÇUBUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KARŞIYAKA MAH (TEBERİKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KATIRCIOĞLU MAH (YELLİCEDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KAYILAR MAH (ARAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KAYNARCA MAH (KIYASLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KEDİLER MAH (HACIAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KELEŞLER MAH (DÜZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KELLER MAH (İLYASLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KEMALLER MAH (RÜKNETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KEMİKLER MAH (DÜZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KERTİL MAH (YUMRUTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KILAVUZLAR MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KİREMİTLİK MAH (SAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KOCABEYLER MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KOCAOĞLU MAH (BÖLÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KORKUTLAR MAH (SARIKADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KÖKEM MAH (KAVACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KÖSEKADILAR MAH (ALİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "KÜLTÜR MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MARAZLAR MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MEKEZ MAH (AKTEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (AĞACALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (ALİBEYLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (BABAHIZIR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (BANAZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (BAŞYELLİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (ÇAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (ÇIRDAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (ÇUBUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (DÜZKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (GÖZECİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (KARACALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (KARAİSHAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (KIYASLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (KONAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (KÖPRÜBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (KUZGÖL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (SARIKADILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (SAZLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (YELLİCEDEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MERKEZ MAH (YUMRUTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MESLER MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MESUTLAR MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MUTİOĞLU MAH (BAŞYELLİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MÜRSEL MAH (RÜKNETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "MÜŞÜRLER MAH (DÜZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "OKULYANI MAH (HACIAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ON EVLER MAH (TEBERİKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ORTA MAH (AĞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ORTA MAH (AKÇAKOCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ORTA MAH (BÖLÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ORTA MAH (KUZGÖL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ORTA MAH (TEBERİKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ORTA-SÜLEYMAN KADILAR MAH (KAVACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "OSMANKADILAR MAH (RÜKNETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "OSMANOĞLU MAH (KIYASLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÖMER SİPAHİ MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÖREM MAH (GÖZECİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ÖTEKEÇE MAH (İLYASLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "PAZARBAŞI MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SAĞIRKAYA MAH (YUMRUTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SARAY MAH (AĞACALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SARIKIZLAR MAH (AĞACALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SELAMOĞLU MAH (KAVACIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SELDİREN MAH (İLYASLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SEYİTLER MAH (NAZIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SEYREK MAH (BAŞYELLİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SOFTALAR MAH (ÇAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "SUSUZ MAH (KADISUSUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ŞAHİNLER MAH (NAZIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ŞEMBELEK MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ŞIHLAR MAH (AKTEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TAŞAN MAH (BAŞYELLİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "TÜRKMENLER MAH (KARACALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "VELİLER MAH (ÇUKURCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YAĞLAR MAH (AĞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YAKA MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YAYLA EVLERİ MAH (AKÇAKOCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YAZICILAR MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YENİ MAH (AĞALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YILDIZ MAH (KUZGÖL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YONSAKLAR MAH (TEBERİKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YÖRÜKLER MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YÖRÜKLER MAH (KUZGÖL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YUKARI MAH (AKÇAKOCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YUKARI MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YUKARI MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YUKARI MAH (HACIAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "YUKARI MAH (TEBERİKLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ZAYIMLAR MAH (KARAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ZEBUNLAR MAH (KARAŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MENGEN",
+    "Mahalle": "ZİLFEROĞLU MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALPAĞUT MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALPAĞUTBEY MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞISOKU MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞKAVAKLAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKMAKLAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİVRİL MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞKENT MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DODURGA MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İZZET BAYSAL MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACAAĞAÇ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILIÇARSLAN MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURUÇAY MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜRKÇÜLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAĞLIK MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALIBEYLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARICALAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UMUTKENT MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAŞAMKENT MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARISOKU MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKTAŞ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKCAMİ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇIKINLAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLYÜZÜ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÇAYIR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖROĞLU MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKBERK MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVADÜZÜ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEMERKANT MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞALAN MAH (TAŞOLUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMPINAR GÜZLEME MAH (ÇAMPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMPINAR MAH (ÇAMPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMPINAR MERKEZ MAH (ÇAMPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMEN MAH (MESCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIDIRŞEYHLER GÜZLEME MAH (HIDIRŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIDIRŞEYHLER MAH (HIDIRŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACASU FATİH MAH (KARACASU BELDESİ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MESCİLER MAH (MESCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞOLUK MAH (TAŞOLUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞOLUK MERKEZ MAH (TAŞOLUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BORAZANLAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKÖY MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMANLI MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KASAPLAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞAKÖY MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SANDALLAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYİT MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜMER MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TABAKLAR MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPECİK MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AFTALLAR MAH (ULUMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇALAR MAH (KUZÖRENDAĞLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAGÖZLER MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALIÇÖREN MERKEZ MAH (ALIÇÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "APALAR MAH (YAKABAYAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARAP MAH (DEĞİRMENBELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARDIÇ YAYLASI MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARIKLAR MAH (KINDIRA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI ÇANDIR MAH (BANAZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (AYDINCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (ERİCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (GÜNEYFELEKETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (HAMZABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (SEBENARDI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (SULTAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (YENİSEFA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI YAYLA MAH (SEBENARDI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI YAYLASI MAH (AYDINCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI YAYLASI MAH (HAMZABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIÇAMLI YAYLASI MAH (AŞAĞIÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIKUZÖREN YAYLASI MAH (AŞAĞIKUZÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞÇILAR MAH (SAZAKKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDINLAR MAH (TOPARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇEKÖY MEZRASI MAH (BAHÇEKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇEKÖY YAYLASI MAH (BAHÇEKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAKIRLI MAH (BAKIRLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALTALI YAYLASI MAH (BALTALI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYAT MAH (YAKABAYAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYRAMLAR MAH (BAĞIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYRAMLAR MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELKARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZCAARMUT MAH (BALTALI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BULUTLAR MAH (YAKABAYAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜRNÜK MERKEZ MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜRNÜK YAYLASI MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİ YANI MAH (TOPARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİLİBÖLÜK MAH (GÖVEM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKILDERE MAH (MERKEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMYAYLA MAH (ÇAMYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMYAYLA YAYLASI MAH (ÇAMYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATAK MAH (KIZILAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATAK MAH (YENİSEFA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATAKÖREN YAYLASI MAH (ÇATAKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYGÖKPINAR YAYLASI MAH (ÇAYGÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇENGELLER MAH (YUKARIÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEPNİ YAYLASI MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇITAKLAR MAH (ERİCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİLİNGİRLER MAH (DEĞİRMENBELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKUR MAH (PİROĞLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAĞDELEN MAH (TETEMEÇELE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENÖZÜ MAH (ÇAMYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENÖZÜ YAYLASI MAH (ÇAMYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENYANI MAH (GÜNEYFELEKETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİLER MAH (PİRAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİLER YAYLASI MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEPO SANAYİ MAH (TOPARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (MERKEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREKARŞI MAH (VAKIFGEÇİTVEREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEVREN MAH (TEKKEDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DUMANOĞLU MAH (MERKEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜVENLİK MAH (ÇAYGÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ECİRLER MAH (KINDIRA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EDİLLER MAH (MURATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMACIK MAH (DEĞİRMENBELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMALIK MAH (ELMALIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERCEK MAH (KINDIRA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESELER MAH (YENİSEFA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EVRİL MAH (DEĞİRMENDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FAKILAR MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FAKILAR YAYLASI MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FERDİNLER MAH (TARAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FINDICAK MAH (MUSLUKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FIRINLIK MAH (YENİPELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GİDİRİŞ MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GİDİRİŞ YAYLASI MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKLEMEZLER MAH (MESCİÇELE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKPINAR YAYLASI MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖL MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLCÜK MAH (AŞAĞIKUZÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜÇÖMERLER MAH (TARAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜDÜKLER MAH (KINDIRA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVEM YAYLASI MAH (GÖVEM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACILAR MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACILAR MAH (MERKEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACILAR MAH (ULUMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALLAR MAH (KOZLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAN MAH (MERKEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASAN KÖYÜ MAH (TOPARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANLAR MAH (TOPARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HORBACI MAH (TETEMEÇELE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜMMETLER MAH (TATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "IĞDIR MAH (SAÇÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMLAR MAH (BANAZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMLAR MAH (GÜNEYFELEKETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMLAR MAH (KOZLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İZELER MAH (MERKEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADILAR MAH (BAĞIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÂHYALAR MAH (BAHÇEKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALENDEROĞLU MAH (MERKEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARABOZLAR MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACALAR MAH (ERİCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAGÖZLER MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAGÖZLER MAH (SAZAKKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKAYA YAYLASI MAH (MUSLUKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARALAR MAH (ÇAYGÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARALAR YAYLASI MAH (ÇAYGÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMANLAR ÇATAK MAH (KIZILAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMANLAR MAH (KIZILAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMANYAKA MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARASEFERLER MAH (TETEMEÇELE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (MUSLUKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARTALLAR MAH (KUZÖRENEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYI MAH (YENİGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYSELLER MAH (ÇOBANKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KENDİGELENLER MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KINDIRA YAYLASI MAH (KINDIRA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRAN MAH (KARCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRHA YAYLASI MAH (KIRHA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRIK YAYLASI MAH (MUSLUKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOLCA MAH (KUZÖRENDAĞLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOLKÖY YAYLASI MAH (KOLKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOVALAKLAR MAH (SEMERCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖROĞLU MAH (KUZÖRENEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖSELER MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZFINDIK YAYLASI MAH (KUZFINDIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZÖRENDAĞLI YAYLASI MAH (KUZÖRENDAĞLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZÖRENEMİRLER YAYLASI MAH (KUZÖRENEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜTÜKÇÜLER MAH (BALTALI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEŞLER YAYLASI MAH (MERKEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AĞAÇCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AHMETLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AKÇAALAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AŞAĞIÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AŞAĞIKUZÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AVDAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BAĞIŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BAHÇEKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BAKIRLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BALTALI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BANAZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BERK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BOZARMUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BÜNÜŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇAMYAYLA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇANAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇATAKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇAYGÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇAYIRKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇÖMLEKÇİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇUKURÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DEĞİRMENBELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DEĞİRMENDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DEMİRCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DERECEÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DOĞANCI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ERİCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (FASIL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖLKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÖVEM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÜNEYFELEKETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ILICAKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (IŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KANDAMIŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KETENLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KINDIRA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KIRHA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KIZILAĞIL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KOLKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KÖPRÜCÜLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KUZFINDIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KUZÖRENDAĞLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KUZÖRENEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (MURATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (MUSLUKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (MÜSTAKİMLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (NUHLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (OKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (PİRAHMETLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (PİROĞLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (RÜZGARLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SAÇÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SAZAKŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SEBENARDI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SEMERCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SULTAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SULTANBEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SUSUZKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TARAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TAŞÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TEKKEDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TETEMEÇELE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TOKMAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ULUMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YAKUPLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YAYLADINLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YAZIÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YENİCEPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YENİGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YENİPELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YENİSEFA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YEŞİLÇELE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YOLÇATI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YUKARIÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YUMRUKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ YAYLA MAH (SEBENARDI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ YAYLASI MAH (AFŞAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEŞECİ MAH (NUHLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSA MAH (KUZÖRENEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSLAR MAH (GÜNEYFELEKETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSTAFA VEHBİ KOÇ MAH (GÖVEM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAKIBLAR MAH (GÜNEYFELEKETTİN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NUHLAR YAYLASI MAH (NUHLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OCUKLAR MAH (TATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OCUKLAR YAYLASI MAH (TATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OĞULDURUK MAH (OĞULDURUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OĞULDURUK MERKEZ MAH (OĞULDURUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (KOZLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (RÜZGARLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (ULUMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖMERLER MERKEZ MAH (ÖMERLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRENCİK MAH (KARCA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PELİTÇİK YAYLASI MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "POYRAZLAR MAH (ULUMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RIFATLAR MAH (ÇAYGÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RÜZGARLAR YAYLASI MAH (RÜZGARLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAÇCILAR YAYLASI MAH (SAÇÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SADIKLAR MAH (MESCİÇELE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAÇ MAH (ERİCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAYCIK MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAYCIK YAYLASI MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIAHMETLER MAH (ÇOBANKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIĞINDI MAH (ULUMESCİT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİNİR MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİYAMOĞLU MAH (TAŞÇILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOFTALAR MAH (PİROĞLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUSUZKINIK YAYLASI MAH (SUSUZKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUSUZKINIKOSB MAH (SUSUZKINIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞABANLAR MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEREMETLER MAH (RÜZGARLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TARAKÇI YAYLASI MAH (TARAKÇI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TATARLAR MAH (GÖVEM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TATAROĞLU MAH (MERKEŞLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TATLAR YAYLASI MAH (TATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEKELER MAH (PİROĞLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEKNELER MAH (ÇAYGÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TİLKİCEK MAH (MURATLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜRKMENLER MAH (PELİTCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "URAN MAH (FASIL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇKÜNER MEVKİİ MAH (MUSLUKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VAKIFGEÇİTVEREN MERKEZ MAH (VAKIFGEÇİTVEREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VAYISLAR MAH (ÇOBANKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAKA MAH (KARAMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YANIKLAR MAH (TOPARDIÇ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA EVLERİ MAH (YENİSEFA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA MAH (FASIL KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZIÖREN MAH (YAZIÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (ERİCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİAKÇAKAVAK MERKEZ MAH (YENİAKÇAKAVAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİÇAYDURT MERKEZ MAH (YENİÇAYDURT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİGEÇİTVEREN MERKEZ MAH (YENİGEÇİTVEREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİGÜNEY YAYLASI MAH (YENİGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİKÖY MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLÇELE YAYLASI MAH (YEŞİLÇELE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (AYDINCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (BALTALI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (BANAZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (HAMZABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (SAZAKŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (YENİSEFA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI YAYLASI MAH (AYDINCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI YAYLASI MAH (HAMZABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARIÇAMLI YAYLASI MAH (YUKARIÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUVA AŞAĞI MAH (YUVA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUVA MERKEZ MAH (YUVA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUVA MERKEZ MAH (YUVA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUVALCA MAH (KUZÖRENEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZAHMANLAR MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZAHMANLAR YAYLASI MAH (BÜRNÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MAH (HAYALLAR MAH)YAYLA EVLERİ (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "100.YIL MAH (BOSTANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "100.YIL MAH (KURTLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ABAZALAR MAH (HÜSAMETTİNDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ABDULLAR MAH (ELMACIKDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ACEMLER MAH (ÇAĞŞAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AKBAŞLAR MAH (DOLAYÜZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AKÇAALAN MAH (BEKDEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ALAÇAM MAH (KARAMURAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ALANBAŞI MAH (BEYDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ALASİNİR MAH (YAZILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ALASİNİR YAYLA EVİ MAH (YAZILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ALBALAR MAH (ÇAMURLUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ALIÇ MAH (GELİNÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ASARLIK MAH (KARŞIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ASMA MAH (BULANIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AŞAĞI ANAYOL MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AŞAĞI DEDEKAN MAH (GÖKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AŞAĞI MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AŞAĞI MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AŞAĞI MAH (ELMACIKDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AŞAĞI MAH (KARAPINARKAVAĞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AŞAĞI MAH (OVA MAH) (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AŞAĞI MAH (SARPINCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AŞAĞI MAH (YAYAL EVLERİ MAH) (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "AVDULLAR MAH (AVDULLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "BABALAR MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "BABALAR MAH (YAYLA EVLERİ MAH) (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "BAYRAMLI MAH (DELİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "BEĞENDİK MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "BEŞLİ MAH (KOVUCAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "BEYDERESİ MAH (BEYDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "BÜRÜCEK MAH (KOVUCAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "BÜYÜK MAH (GÖNCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "CAFERLER MAH (YAZILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "CAMİ YANI MAH (GÖNCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ÇAMYURDU MAH (ÇAMYURDU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ÇAYIRALTI MAH (SÜRMELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ÇAYKÖY MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ÇOBANLAR MAH (KEÇİKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DAVUTLAR MAH (GÜVEYTEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DEDELER MAH (SAMSAÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DELİCELER MAH (FERÜZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DEMİRCİLER MAH (GÖNCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DERE MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DERE MAH (DEREÇETİNÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DERE MAH (DOLAYÜZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DERE MAH (KOVUCAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DERE MAH (MANGIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DERE MAH (SAMAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DERECEÖREN MAH (KARAPINARKAVAĞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DİBEKTAŞI MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DİBEKTAŞI-ESELER-KANELLER-MUSTANLAR-YAYLA EVLERİ MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DODORAZ MAH (ORMANPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DODURGA MAH (DODURGA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "DOLAYÜZ MAH (DOLAYÜZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "EKİNCİK MAH (SARPINCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ELMACILAR MAH (ÇAMURLUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ENCEVEZ-KAYABOĞAZI MAH (BEYDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ERCEŞLER MAH (SIRÇALI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ESELER MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "FINDICAK MAH (FINDICAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "GEBEM MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "GEDİKLER MAH (PELİTÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "GELİNÖZÜ MAH (GELİNÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "GEMBERUZ MAH (GÜVEYTEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "GÖLDERESİ MAH (GÖNCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "GÜNEY MAH (GELİNÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "GÜNEY MAH (İĞNECİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HACI MAH (ELMACIKDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HACIALİLER MAH (CUMA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HACIMUSALAR MAH (HACIMUSALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HALA MAH (KOVUCAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HAN MAH (HACIHALİMLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HANİCEBİLER MAH (SARPINCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HARMANSEKİ MAH (GÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HATİPLER MAH (KOVUCAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HAYALLAR MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HAYRETTİNLER MAH (SAMSAÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HÜSEYİNPAŞALAR MAH (HACIHALİMLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "İDRİSLER MAH (KARŞIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "İLEÇİN MAH (ÇAVUŞDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "İMAMLAR MAH (VAKIFAKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KABALAR MAH (KARAPINARKAVAĞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KACIK KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KAHYALAR MAH (TIMARAKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KANELLER MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KARAAĞAÇ MAH (YAYLABELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KARAAHMETLER MAH (GÜRÇAM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KARAPINAR MAH (PELİTÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KAYA MAH (HACIHALİMLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KAYABAŞI MAH (FINDICAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KAYAPINAR MAH (GÖKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KEPEZ MAH (KARATAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KINGILAR MAH (GÜRÇAM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KIZILCIKLI MAH (SAMAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KÖSELER MAH (AKYOKUŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KÖSELER MAH (GÜRÇAM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KUZALIÇ MAH (SAMSAÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KUZÖREN MAH (SAMSAÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KUZYAKA MAH (ÇAĞŞAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KÜSEM MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (AKYOKUŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (BEKDEMİRLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (BOSTANCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (CUMA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (ÇAMURLUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (ÇAVUŞDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (DEDELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (DELİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (DEREÇETİNÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (EKİNÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (ESENKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (FERÜZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (GÖKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (GÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (GÖLLÜÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (GÖNCEK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (GÜRÇAM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (HACIHALİMLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (HACIMUSALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (HÜSAMETTİNDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (İĞNECİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (KARAMURAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (KARATAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (KARŞIKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (KAVALLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (KEÇİKIRAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (KİLÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (KURTLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (MANGIRLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (ORDULAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (SAMSAÇAVUŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (SARIYAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (SARPINCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (SIRÇALI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (SÜRMELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (TIMARAKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (UZUNÇAM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (VAKIFAKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (YAYLABELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (YAZILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (YENİCEŞEYHLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ ÖTE MAH (GÖKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ YAYLA MAH (SIRÇALI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MEŞE YAYLASI MAH (YAZILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MONGOŞLAR MAH (ÇAMURLUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MUNDUŞLAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MURATLAR MAH (SARPINCIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MUSTANLAR MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "OKUŞLAR MAH (BEYDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ORMAN İŞLETME MAH (KİLÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ORMANPINAR MAH (ORMANPINAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ORTA MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ORTA MAH (KARAPINARKAVAĞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ORTA-YUKARI YAYLA EVLERİ MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "OSMANÇAVUŞLAR MAH (BEYDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "OVA MAH (AVDULLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "OVA MAH (ÇAMYURDU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "OVA MAH (KARAPINARKAVAĞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ÖKÜZ OVA MAH (AVDULLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ÖKÜZ OVA MAH (ÇAMYURDU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "PİRLER MAH (PELİTÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "SALMANLAR MAH (MUNDUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "SAMUTLAR MAH (GÜVEYTEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "SARICALAR MAH (FINDICAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "SEYİTALLER MAH (GÖKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "SÜVEYKÖY MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ŞEMSİ MAH (KOVUCAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ŞUAYİPLER MAH (GÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "TAŞÇILAR MAH (TAŞCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "TATARLAR MAH (KARAMURAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "TAVŞANSUYU MAH (TAVŞANSUYU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "TEKİRLER MAH (GÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "TEPE MAH (DAĞYOLU KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "TOPALLAR MAH (YAZILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "TOPYERİ MAH (ELMACIKDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "TORAMAN MAH (KOVUCAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "UĞURLUALAN MAH (UĞURLUALAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "ULUÇAY MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YALAMALAR MAH (UZUNÇAM KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YARBAŞI MAH (KARAMURAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YAYLA EVİ MAH (ALANBAŞI MAH) (BEYDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YAYLA EVİ MAH (BEYDERESİ MAH) (BEYDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YAYLA EVLERİ MAH (BAYRAMLI MAH) (DELİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YAYLA EVLERİ MAH (MERKEZ MAH) (DELİCE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YAYLA EVLERİ MAH (OSMANÇAVUŞLAR MAH) (BEYDERESİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YAYLA MAH (ELMACIKDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YAZILAR YAYLASI MAH (YAZILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YENİ MAH (ABANT SAPAĞI MAH) (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YENİ MAH (GÜVEYTEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YENİ MAH (KOVUCAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YENİ MAH (SAMAT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YENİ YERLEŞİM YERİ MAH (HÜSAMETTİNDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YENİMAHALLE MAH (ESENKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YUKARI DEDEKAN MAH (GÖKÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YUKARI GÜNEY MAH (İĞNECİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YUKARI MAH (BULANIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YUKARI MAH (ÇAĞŞAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YUKARI MAH (ÇEPNİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YUKARI MAH (ELMACIKDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YUKARI MAH (MERKEZ MAH) (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YUKARI MAH (ÖRENCİK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YUKARI MAH (PELİTÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "BÜYÜKCAMİ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "HIZIRFAKI MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KARACAKAYA MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KAYGANA MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MUSALLA MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "SEYRANCIK MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YILDIRIM BAYAZID MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KARACASU MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KARACASUMANDIRA MAH (TAŞKESTİ BELDESİ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "KARAÇOMAK MAH (TAŞKESTİ BELDESİ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "MERKEZ MAH (TAŞKESTİ BELDESİ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "TOSUNLAR MAH (TAŞKESTİ BELDESİ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "MUDURNU",
+    "Mahalle": "YEĞENDERESİ MAH (TAŞKESTİ BELDESİ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ALPAGUT KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "AŞAĞI MAH (DEĞİRMENKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "AŞAĞI MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "AŞAĞI MAH (KORUCUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "AŞAĞI MAH (KUZGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "AŞAĞI YAYLA MAH (KUZGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "AVDAN MAH (DEDELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "AVUDAN ÇAVUŞLAR YAYLA MAH (KOZYAKA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "AVUDAN DEMİRCİLER YAYLA MAH (KOZYAKA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "AVUDAN YAYLA MAH (NİMETLİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "BAĞ EVLERİ MAH (SUSUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "BAKIRLI KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "BEKİRFAKILAR MAH (NİMETLİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "BEYLİK MAH (HACCAĞIZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "BIYIKLAR MAH (KAŞBIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "BIYIKLAR YAYLA MAH (KAŞBIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ÇATAK MAH (BOZYER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ÇATAK MAH (SUSUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ÇAVUŞLAR MAH (KOZYAKA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ÇAVUŞLAR YAYLA MAH (KOZYAKA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ÇİRKİNLER MAH (DEREBOY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ÇİRKİNLER YAYLA MAH (DEREBOY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DAĞ YAYLA MAH (BAKIRLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DEDELER MAH (DEDELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DEMİRCİLER MAH (KOZYAKA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DEMİRCİLER YAYLA MAH (KOZYAKA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DENİZLER MAH (NİMETLİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DENİZLER YAYLA MAH (NİMETLİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DEREBOY YAYLA MAH (DEREBOY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DERECEVİRAN MAH (KUZGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DİKENLİ MAH (TEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DİKENLİ YAYLA MAH (GÖKHALİLLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "DİKMEN MAH (GERENÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "EKİCİLER KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "EYVAZLAR MAH (KOZYAKA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "GÖKHALİLLER KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "GÖLCÜK MAH (KABAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "GÜNEŞLER MAH (DEDELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "GÜNEY MAH (DEREBOY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "GÜNEY MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "GÜNEYCE KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "HACCAĞIZ YAYLA MAH (HACCAĞIZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "HACCAĞIZ MAH (HACCAĞIZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "HAYDAR YAYLA MAH (HACCAĞIZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "HIDIRLAR MAH (YAĞMA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "HOÇAŞ KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "HOÇAŞ YAYLA MAH (HOÇAŞ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "İNEKLİKURUK MAH (TEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KABAK YAYLA MAH (KABAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KALINCAK MAH (TEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KALINCAK YAYLA MAH (GÖKHALİLLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KANDUZLA YAYLA MAH (GÖKHALİLLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KARABUNAR MAH (GERENÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KARACAÖREN MAH (GERENÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KAŞ MAH (KAŞBIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KAVAKLIDAĞ YAYLA MAH (KAŞBIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KESENÖZÜ KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KINIKÇI MAH (ÇELTİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KIVRI MAH (KOZYAKA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KIZIK YAYLA MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KOÇCEVAZ YAYLASI MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KORUCUK YAYLA MAH (KORUCUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KUZ MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MANDIR MAH (DEĞİRMENKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MERKEZ MAH (BOZYER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MERKEZ MAH (DEREBOY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MERKEZ MAH (NİMETLİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MERKEZ MAH (SOLAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MERKEZ MAH (SUSUZ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MERKEZ MAH (TEPE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MERKEZ MAH (YAĞMA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MUSASOFULAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MUSASOFULAR YAYLA MAH (MUSASOFULAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "MUSLAR MAH (KAŞBIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "NİMETLİ YAYLA MAH (NİMETLİ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ORTA MAH (DEĞİRMENKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ORTA MAH (GERENÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ORTA MAH (KABAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ORTA MAH (KORUCUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ORTA MAH (KUZGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ORTA YAYLA MAH (BAKIRLI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "SOLAKLAR YAYLA MAH (SOLAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "SÖĞÜT MAH (YAĞMA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ŞAHMANLAR MAH (GERENÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ŞIHLAR MAH (DEDELER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "TAŞOLUK MAH (SOLAKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "TAZILAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "TEPECİK MAH (ÇELTİKDERE KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YAYLA MAH (EKİCİLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YAYLA MAH (TAZILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YENİ MAH (KAŞBIYIKLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YUKARI KUCAK MAH (GERENÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YUKARI MAH (BOZYER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YUKARI MAH (DEĞİRMENKAYA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YUKARI MAH (GERENÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YUKARI MAH (KABAK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YUKARI MAH (KORUCUK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YUKARI MAH (KUZGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YUKARI YAYLA MAH (ALPAGUT KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YUKARI YAYLA MAH (KUZGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "YUVA KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "SEBEN",
+    "Mahalle": "KESKİNLİ MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "ACISU MAH (AŞAĞIKULDAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "AHMETLER MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "AKINCILAR KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "AŞAĞI MAH (DOĞANCI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "AŞAĞI MAH (ŞAHNALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "BEY MAH (KINDIRA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "CEVEKELLER MAH (KEMALLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "ÇAKIRLAR MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "ÇAMLIK KÖYÜ"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "ÇAMURCUK MAH (ADAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "ÇAY MAH (ŞAHNALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "DEREKÖY MAH (ŞAHNALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "DUMANLAR MAH (HAMZABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "ELA MAH (GÖLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "EROĞLU MAH (SARAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "GIGALAR MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "HAMZALAR MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "HASANAĞALAR MAH (KINDIRA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "İZMİRLİ MAH (SARAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "KARABEYLER MAH (HAMZABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "KARAMANLAR MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "KARŞI MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MERKEZ MAH (ADAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MERKEZ MAH (AŞAĞIKULDAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MERKEZ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MERKEZ MAH (DOĞANCI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MERKEZ MAH (ESKİÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MERKEZ MAH (GÖLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MERKEZ MAH (KEMALLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MERKEZ MAH (KINDIRA KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MERKEZ MAH (YAMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MERKEZ MAH (YUKARIKULDAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MİTATLAR MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "MÜEZZİNLER MAH (KEMALLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "NALLAR MAH (KEMALLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "ORTA MAH (YAMANLAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "OSMAN AĞALAR MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "SAĞIRLAR MAH (HAMZABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "SARAY MAH (SARAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "SÜLEYMANLAR MAH (SARAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "TAVŞALLAR MAH (KEMALLER KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "TEPE MAH (ŞAHNALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "ÜÇ EVLER MAH (ŞAHNALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YAYALAR MAH (HAMZABEY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YAYLA EVLERİ MAH (GÖLBAŞI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YAYLA EVLERİ MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YAYLA EVLERİ MAH (YUKARIKULDAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YAYLA MAH (ADAKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YAYLA MAH (AKINCILAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YAYLA MAH (ÇAMLIK KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YAYLA MAH (DOĞANCI KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YAYLA MAH (SARAYKÖY KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YAYLA MAH (ŞAHNALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YUKARI MAH (AŞAĞIKULDAN KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "YUKARI MAH (ŞAHNALAR KÖYÜ)"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "ASİL BEY MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "CAMİATİK MAH"
+  },
+  {
+    "il": "BOLU",
+    "ilçe": "YENİÇAĞA",
+    "Mahalle": "GÖLYÜZÜ MAH"
+  }
+]

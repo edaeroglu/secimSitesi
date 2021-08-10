@@ -1,0 +1,7267 @@
+[
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AKARÇAY ARMUTALAN MAH (AKARÇAY GÖRÜMLÜ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AKARÇAY İSTİKLAL MAH (AKARÇAY GÖRÜMLÜ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AKARÇAY ŞEHİT TURAN YILDIZ MAH (AKARÇAY GÖRÜMLÜ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AKARÇAY ŞENYURT MAH (AKARÇAY GÖRÜMLÜ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ATATÜRK MAH (AKARÇAY GÖRÜMLÜ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "CUMHURİYET MAH (AKARÇAY GÖRÜMLÜ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "İNÖNÜ MAH (AKARÇAY GÖRÜMLÜ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ŞEHİT TUNCAY ÇOBAN MAH (AKARÇAY GÖRÜMLÜ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "EREK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÖTÜKENT MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "SİTELER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ATA MAH (ATAKÖY BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BAHÇEKÖY MAH (ATAKÖY BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇAMBULAK MAH (ATAKÖY BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KATRANLIK MAH (ATAKÖY BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KURUSEKİ MAH (ATAKÖY BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "SAĞIRLAR MAH (ATAKÖY BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YENİ MAH (ATAKÖY BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AYDINLAR MAH (ÇEVRELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BİRLİK MAH (ÇEVRELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "HÜRRİYET MAH (ÇEVRELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ATATÜRK MAH (GÖLGELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "CUMHURİYET MAH (GÖLGELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "HÜRRİYET MAH (GÖLGELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "SALKAVAK MAH (GÖLGELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "CUMHURİYET MAH (KINIK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "GEVREK MAH (KINIK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "HÜRRİYET MAH (KINIK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KURTULUŞ MAH (KINIK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YUVAKÖY MAH (KINIK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AFET EVLER MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AHMET KAHYAGİL MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ALİBEĞGİL MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ALTITAM MAHLESİ MAH (ARISU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AŞAGI ALAN KOLU MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AŞAĞI ALAN MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AŞAĞI BAHTUMAN MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AŞAĞI KAMIŞÇIK MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AŞAĞI MAH (MESCİTKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "AYNACILAR MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BABAKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BAĞLICA MAH (ÇAMKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BAKIMLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BARBAROS MAH (ORMANDİBİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BAŞAKLAR MAH (CİHET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BAŞALAN MAH (BABAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BAYRAMGAZİ MAH (BABAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BEKÜLÜ MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BENTALTI MAH (BAĞTAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "BUDAKLI MAH (ÇAMKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "CENNET MAH (ÇAMDALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇAMDALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇATAK MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇATAK MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇAVUŞGİLLER MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇAYIRLI MAHLESİ MAH (ARISU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇAYKAYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇAYKIYI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇAYKIYI MAH (ÇAYKIYI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇAYKIYI YAYLASI MAH (ÇAYKIYI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÇİLEHANE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "DEĞERYER KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "DELİ AHMETGİL MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "DEREBAŞI MAH (CİHET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "DERVİŞALİ MAH (CİHET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "DURUDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "FATİH MAH (ORMANDİBİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "GARİBGİL-EMİCEGİL MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "GEBELİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "GEBELİ YAYLA EVLERİ MAH (GEBELİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "GÖLTEPE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "GÜMELEÖNÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "GÜNGÖRMEZ MAH (BABAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "GÜVEN MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "HACIGİL MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "HAMZALAR MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "HASANGİL MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "HOKURDAK YAYLASI MAH (KAPICI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "HUBYAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "HÜSNÜGİL MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KAMIŞCEK MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KANLIDERE MAH (BABAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KAPICI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KARAAHMETOĞLU MAH (CİHET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KARADERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KARAGÖZGİL MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KARŞIYAKA MAH (DİKİLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KAYALI MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KENDİRLİK MAH (BABAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KIZIL ARMUT MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KOL MAH (BAĞTAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KOLKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KORE MAH (BABAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KORUÇOLUK MEVKİİ MAH (ÇAMDALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KÖROĞLU MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KURBAN SUYU MAH (BABAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "KÜRTLER MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "MERKEZ MAH (ÇAMKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "MERKEZ MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "MEZRA MAH (ÇAMDALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "MÜRSEL MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "OĞULBEY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ORTA MAH (MESCİTKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "PELİTLİ BURUN MAH (BABAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "SAHİLKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "SARIÖREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "SARIÖREN YAYLASI MAH (SARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "SERİNCE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "SORKUN MAH (BABAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ŞHT.MUSTAFA YETER MAH (DİKİLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "TAŞLITARLA MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "TEKE TAMI MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "TEKKELİOĞLU MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "TEKNECİK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "TEPE MAH (ÇAYKIYI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "TEPE MEZRASI MAH (ÇAYKIYI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "UĞURLU MAH (ÇAMKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÜÇGÖL KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "ÜSİKGİL MAH (KIZILELMA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YAVUZ MAH (DİKİLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YAVUZ MAH (ORMANDİBİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YAYLA EVLERİ MAH (BAKIMLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YAYLA EVLERİ MAH (DEĞERYER KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YAYLA EVLERİ MAH (DURUDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YAYLA EVLERİ MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YAYLA KÖY DERNEK EVİ MAH (ÇAMDALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YAYLA MAH (ARISU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YAYLA MAH (KOLKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YENİ MAH (BAĞTAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YENİ MAH (HUBYAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YUKARI ALAN MAH (ALANKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YUKARI BAHTUMA MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YUKARI KAMIŞCIK MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ALMUS",
+    "Mahalle": "YUKARI MAH (MESCİTKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "ALPASLAN MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "ALTINOVA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "A.DANIŞMENT MEZRA MAH (AHMETDANİŞMENT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "AĞMUSA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "AHMETDANİŞMENT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "AKTAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "AKTAŞ MEZRA MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "AŞAĞIGÜÇLÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "BAYIRLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "BEBEKDERESİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "BOYUNPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "ÇELİKLİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "DEVECİKARGIN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "EVLİDERESİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "GAZİPINARI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "GÜMÜŞYURT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "GÜRARDIÇ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "İĞDİR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "KARAKUŞ YAYLASI MAH (YUKARIGÜÇLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "KAYAÖNÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "KUNDUZ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "KUNDUZAĞILI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "MERTEKLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "POYRAZALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "SAĞLICA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "SALUR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "SÖĞÜTLÜ YAYLASI MAH (YUKARIGÜÇLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "TANYELİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "TAŞPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "TUZLA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "ULUSULU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "YAĞCIMUSA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ARTOVA",
+    "Mahalle": "YUKARIGÜÇLÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "GENÇOSMAN MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "KARACAÖREN ALİBABA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "KARACAÖREN AŞIROĞLU MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "KARACAÖREN GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "SİNANPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "CUMHURİYET MAH (HATİPLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "FATİH MAH (HATİPLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "GENÇOSMAN MAH (HATİPLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "ALAN MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "ALAN YAYLASI MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "AYDOĞMUŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "BÜRÜCEK YAYLASI MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "DAĞÜSTÜ MAH (DAĞÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "DÜDEN MAH (DAĞÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "ERİKÇAYIRI MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "ERİKÇAYIRI YAYLASI MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "KARŞIBAĞLAR MAH (ERİKBELEN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "KAYNAR MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "KUŞTANLAR MAH (ERİKBELEN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "ORTA MAH (ERİKBELEN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "SARIAĞIL KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "ŞAHNAALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "ŞAHNAALAN YAYLASI MAH (ŞAHNAALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "TEKNEPINAR MAH (ERİKBELEN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "YENİ MAH (ERİKBELEN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "BAŞÇİFTLİK",
+    "Mahalle": "YUKARI MAH (ERİKBELEN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AHMET YESEVİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ALACABAL MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "EREK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ERTUĞRULGAZİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "EVYABA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "FATİHSULTANMEHMET MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "FEVZİPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "FEVZİPAŞA MAH (DEĞİRMENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "FEVZİPAŞA MAH (KOÇAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GAZİPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GAZİPAŞA MAH (DEĞİRMENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "İSMETPAŞA MAH (DEĞİRMENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "İSMETPAŞA MAH (KOÇAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KELKİT MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KELKİT OSB MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KURUÇAY MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MİMARSİNAN MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YAVUZSULTANSELİM MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YEŞİLYURT MAH (KOÇAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YILDIRIMBEYAZIT MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YUNUSEMRE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ZİYAGÖKALP MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ALPARSLAN MAH (GÖKAL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇERMİK KAPLICA MAH (GÖKAL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "FATİH SULTAN MEHMET MAH (GÖKAL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH (GÖKAL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÜLDERE MAH (GÖKAL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KARŞIYAKA MAH (GÖKAL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "SÜTLÜCE MAH (GÖKAL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YAVUZ SULTAN SELİM MAH (GÖKAL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YEŞİLYURT MAH (GÖKAL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AĞACALAN MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AKSEKİ MAH (NARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ALAN MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ALÇAKBEL MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ASLANLAR MAH (ÇATALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ATATÜRK MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BAHÇELİEVLER MAH (KARAYAKA BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BALLIBAĞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BATAK MAH (DOKUZÇAM KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BİLLOR MAH (ÇATALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BÜYRAN MAH (ŞÜKÜR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇAMLIGENİŞ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇAMPINARI MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇERÇE MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇOĞŞUR MAH (BEYKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DARILIK MAH (BEYKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DEĞİRMENCEBÜK MAH (BEYKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DERE MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ESENTEPE MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "FARKLAR MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "FATİH SULTAN MEHMET MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GEDİRGEN MAH (KIRIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GEMİBAŞI MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GERİŞ YAZI MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÖLAĞIL MAH (BEYKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÖLBELEN MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÜLTEPE MAH (ÇATALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÜNEY MAH (ŞÜKÜR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "HASAN ALAN MAH (KIRIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "HAYAT DERESİ MAH (ŞÜKÜR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "HÜRMÜZLÜ MAH (KARAYAKA BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "İFSİ MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "İMBOLU MAH (KIRIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KABAKLIBELEN MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KALE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KARESİ MAH (NARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KARIMCA MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KARŞI MAH (DOKUZÇAM KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KAVLAĞANDERE MAH (DOKUZÇAM KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KAVLAĞANDERE YAYLA EVLERİ MAH (DOKUZÇAM KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KAVLANDERE MAH (ÇATALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KAYAARDI MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KAYABAŞI MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KESTANE MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KIRIK MAH (KIRIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KISIKTAŞ MAH (ŞÜKÜR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KISIRANIZ MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KIŞLA MAH (NARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KIŞLA MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KIŞLA MAH (ŞÜKÜR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KIZILCAALAN MAH (ÇATALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KIZILÇUKUR MAH (ŞÜKÜR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KIZILOTLU MAH (ÇATALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KİRAZDERE MAH (NARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KUŞÇU MAH (BEYKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KUZ ALAN MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KUZALAN MAH (ÇATALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KUZKÖY MAH (ŞÜKÜR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KUZYATAK MAH (KIRIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "LALE MAH (KIRIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERCİMEK MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (ÇATALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (DOKUZÇAM KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (KIRIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (NARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (ŞÜKÜR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MEŞELİK MAH (BEYKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ORTA MAH (KARAYAKA BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "OTLUCAK MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "SALKIMÖREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "SEKİYAZI MAH (BALLIBAĞ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "SELE MAH (NARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "SIRT MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "TAŞLIMAN MAH (BALLIBAĞ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "TEPE MAH (KARAYAKA BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "TOMBULDÜZ MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "TOPDORUK MAH (KIRIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "TÜRKFINDICAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ULUÇUKUR MAH (ALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÜÇ SAMANLIK MAH (ERDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÜÇYÜZ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YABALI MAH (BEYKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YATAK MAH (NARLIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YAYLA MAH (ÇATALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YAYLA MAH (DOKUZÇAM KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YAYLA MAH (KIRIKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YAYLA MAH (SALKIMÖREN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YAYLACIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YEŞİLYURT MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YUKARI MAH (KARAYAKA BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AĞCAALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AĞCAKEÇİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AHRET MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ALAN MAH (PINARBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ALPASLAN MAH (AKÇA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AŞAĞIÇANDIR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AŞAĞIKÖY MAH (USTAMEHMET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AYAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AYDINSOFU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AYYERİ MAH (İKİZCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BAĞPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BARAK MAH (MADENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BENEVÜ MAH (ENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BENLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BEŞEVLER MAH (İKİZCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "CANBOLAT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "CEVİZLİK MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "CİBRİL KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇAKIR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇAKIRLAR MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇALKARA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇAMDİBİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇAYIR MAH (USTAMEHMET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇERKEZFINDICAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇEŞMELİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇEVRESU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇINARLI MAH (KUZ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇINDIRLI MAH (ENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇİDDİBİ MAH (ERYABA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇİRPİ DAĞ MAH (USTAMEHMET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇİZENE MAH (TANDIRLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DEĞİRMEN YANI MAH (USTAMEHMET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DEMİRTAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DERE TARLA MAH (BENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DEREÇİFLİK MAH (ENDİKPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DİBEK MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DİLDOS MAH (ENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DOĞANYURT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DOMUZDAMI MAH (KUZ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "DUR YAYLA MAH (BENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ENDİKPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ERİKLİK MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ERMEYDANI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "EVCİLER KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "EZEBAĞI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GERİŞ MAH (MADENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÖÇAHMET MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÖÇAHMETLER MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÖLLÜ GERİŞ MAH (MADENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÖLÖNÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÜMÜŞALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÜNİSE MAH (DOĞANYURT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "HACIALİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "HACIBÜKÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "HACIPAZAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "HATUN PINARI MAH (BENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "HAYDARLI MAH (KUZ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "HIDIRLI MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "HÖNGEZLİ MAH (ENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "IRMAK KENARI MAH (ENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "İBİLO MAH (ENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "İMAMGİL MAH (İKİZCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "İVAZA MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "İVERÖNÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KAĞNIKDÜZÜ MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KALEBOYNU MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KALEYAZISI MAH (GÜVEÇLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KAMIŞLI MAH (CİBRİL KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KARAKİŞİ MAH (ENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KARAVU MAH (USTAMEHMET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KARTOSMAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KAVALCIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KEÇECİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KELKAYA MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KERVESEVİ MAH (ENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KESTANELİK MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KILIÇALAN MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KIZILBÜK MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KIZILÇUBUK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KOCATARLA MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KOZLU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KÖROĞLU MAH (GÜVEÇLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KÖYYERİ MAH (USTAMEHMET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KUNDAKÇIGİL MAH (İKİZCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KURTULUŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "KÜPLÜCE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MENDERES MAH (AKÇA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (ERYABA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (İKİZCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (KUZ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (TANDIRLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MERKEZ MAH (TEPEKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MEYDANDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "MUNDAR YAZI MAH (MADENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "OCAKBAŞI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "OĞLAKÇI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ORTA MAH (GÜVEÇLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÖMERPAŞA MAH (AKÇA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÖTEGEÇE MAH (ERYABA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÖTEKÖY MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "PINARBEYLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "SAKARÇAL MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "SANCAR MAH (İKİZCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "SOKUTAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "SÜLÜK GÖLÜ MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ŞAHİNBAŞI MAH (KUZ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ŞİMŞİRLİK MAH (ENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ŞÜKÜREVİ MAH (AKGÜN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "TEVEKLAL MAH (USTAMEHMET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "TOMBAŞLAR MAH (YURDALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "TOSUNLAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YAYLALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YAZARBAŞI MAH (ENGELLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YENİ MAH (TEPEKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YEŞİLYURT MAH (AKÇA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YOLAĞACI MAH (MADENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YOLDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YUKARIÇANDIR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "YUKARIKÖY MAH (USTAMEHMET KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ZOĞALLIÇUKUR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "AKKOÇ MAH (TANOBA BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "BAHÇELİEVLER MAH (TANOBA BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "ÇANKAYA MAH (TANOBA BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "FEVZİPAŞA MAH (TANOBA BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ERBAA",
+    "Mahalle": "GÜRPINAR MAH (TANOBA BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKIN MAH (ÇAMLIBEL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKTEPE MAH (ÇAMLIBEL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEHRAM MAH (ÇAMLIBEL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEKEREK MAH (ÇAMLIBEL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARASU MAH (ÇAMLIBEL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUSEMRE MAH (ÇAMLIBEL BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (ÇAT BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (ÇAT BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇAT BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (EMİRSEYİT BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZATALAN MAH (EMİRSEYİT BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEŞLİ MAH (EMİRSEYİT BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKDEĞİRMEN MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTIYÜZEVLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEDESTENLİOĞLU MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEDESTENLİOĞLUOSB MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜK BEYBAĞI MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİİKEBİR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEMALETTİN MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERBENT MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEVEGÖRMEZ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞANCIBAĞLARI MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞUKENT MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEYRAS MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEZİRLİK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLBAHARHATUN MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEŞLİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOCAAHMET MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KABE-İ MESCİD MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALEARDI MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAŞIKCIBAĞLARI MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKBEY BAĞI MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜMBET MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAHMUTPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMETPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OĞULBEY MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRTMELİÖNÜ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PERAKENDE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEMERKANT MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYİTNECMETTİN MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPÇAM MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPÇUBAĞI MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YARAHMET MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİYURT MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLIRMAK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ACIPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİNECEK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOYALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (YAĞMURLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMAĞZI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖKELİKKIŞLA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MEVKİ MAH (YAKACIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREKIŞLA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EFE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKİNCİLİK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EZE MAH (EZE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH (AKBELEN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇEYOL MAH (GÖKÇEYOL KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLCÜK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZOVA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KABAKBOĞAZI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKAYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (YAĞMURLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURTULUŞ MAH (YAĞMURLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YAKACIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSALLA MAH (AKBELEN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSULLU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜLK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORMANBEYLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (AVLUNLAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİTLER KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLAEVLERİ MAH (YAKACIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZIBAŞI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (AKBELEN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİ YÜCEL MAH (GÜRYILDIZ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (GÜRYILDIZ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANALALTI MAH (GÜRYILDIZ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKYILDIZ MAH (GÜRYILDIZ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞHT.ABDULLAH ÖZER MAH (GÜRYILDIZ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMETALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYAMAÇ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYURT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAYBEY ÇİFTLİĞİ MAH (DEREYAKA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTUNTAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALUÇ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIFIRINDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (KEMALPAŞA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AVŞARAĞZI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDINCA MAH (AYDINCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDOĞDU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDOĞDU MAH (GÜZELCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞBAŞI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (BÜYÜKYILDIZ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAKIŞLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAKIŞLI MAH (BAKIŞLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALIBEY YAYLASI MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALLIDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BATMANTAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEDİRKALE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞÖREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BULA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKBAĞLAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (KEMALPAŞA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMALTI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAPUTSUYU MAH (TAHTUBA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATALKAYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYÖREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇERÇİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇERDİĞİN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖRDÜK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖREĞİBÜYÜK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUBUKLU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAYLIHACI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEDELİ MERKEZ MAH (DEDELİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREAĞZI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DODURGA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÖLLÜK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİ KÖY MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİOSMANPAŞA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİOSMANPAŞA ÜNİVERSİTESİ KAMPÜSÜ MAH (TAŞLIÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜĞÜMLÜ MERKEZ MAH (GÜĞÜNLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLTEPE MAH (BÜYÜKYILDIZ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMENEK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEVİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEVİ MAH (GÜNEVİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HANPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANBABA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANBABA MAH (HASANBABA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İHSANİYE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNANLI MAH (KÜÇÜKBAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNÖNÜ MAH (KEMALPAŞA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADIVAKFI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAHVEPINARI MAH (TAHTUBA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARKIN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARKINCIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KERVANSARAY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEŞLİK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILIÇLI MAH (GÜMENEK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIŞLA MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILKAYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILÖZ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILYAZI MAH (TAHTUBA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİLLİK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCACIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOCAPINAR MAH (TAHTUBA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖMEÇ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖYÜNKENDİSİ MAH (HALİLALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MADAS KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AYDINCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DEREYAKA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÜNÇALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (GÜZELCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KÜÇÜKBAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TAHTUBA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TAŞLIÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YELPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NEBİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAÖREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALTIK MAH (ÇÖRDÜK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARITARLA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEMERCİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEVİNDİK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRÇALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÖNGÜT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜNDÜS ÇİFTLİĞİ MAH (DEREYAKA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞENKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAYYAR ŞAHİN ÇİFTLİĞİ MAH (DEREYAKA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEKNELİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UĞRAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULAŞ MAH (ULAŞ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YATMIŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA EVLERİ MAH (AYDINCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA EVLERİ MAH (DEDELİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA EVLERİ MAH (YELPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLADALI MAH (YAYLADALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLADALI MERKEZ MAH (YAYLADALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLADALI YAYLASI MAH (YAYLADALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLAEVLERİ MAH (GÜNÇALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLIRMAK MAH (BÜYÜKYILDIZ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI ÇİFTLİK MAH (GÜĞÜNLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BAHÇELİEVLER MAH (GÖKÇELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BALLICA MAH (GÖKÇELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BAYRAKTEPE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GÖZPINAR MAH (GÖKÇELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GÜNLÜCE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "İNCİRLİ MAH (KÜMBETLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KAVAKLI MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KÖMÜŞLÜK MAH (SORHUN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KÜMBETLİ MAH (KÜMBETLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (ERYABA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "OLUKLU MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "SORHUN MAH (SORHUN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "TEKNEALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "TEPEYATAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YAKINCA MAH (GÖKÇELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YAYLACIK MAH (SORHUN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YENİ MAH (GÖKÇELİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YUKARI MAH (ERYABA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BUZ MAH (GÜRÇEŞME BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ESKİDİR MAH (GÜRÇEŞME BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH (GÜRÇEŞME BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "NİKSAR OSB MAH (GÜRÇEŞME BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YAPRAKLI MAH (GÜRÇEŞME BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AĞDIRKOLU MAH (YEŞİLHİSAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AĞIL MAH (AKINCI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ARAKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ARIPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ARMAĞANLI MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ASAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ASİ GÖZÜ MAH (AYVALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AŞAĞI MAH (ARPAÖREN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AŞAĞI MAH (ŞIHLAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ATATÜRK MAH (KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AVCIOĞLU MAH (KAPIAĞZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AYVALI MAH (AYVALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AYVAZ MAH (GÜVENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BASROĞUL MAH (ÇALCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BEYÇAYIRI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BOYLUCA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BOZCAARMUT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BUDAKLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BÜK MAH (ARPAÖREN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "CAMİDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "CUMHURİYET MAH (KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÇAKIRLAR MAH (PELİTLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÇAKMAK MAH (KAPIAĞZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÇAKMAK MAH (ÖZVEREN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÇATAK MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÇİÇEKLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÇİMENÖZÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÇOLAKLAR MAH (GÖKÇEOLUK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "DALKAYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "DEĞİRMEN MAH (KÖKLÜCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "DERİNDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "DERLEN MAH (KAPIAĞZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "DÖNEKSE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "EDİLLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "EFKERİT MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ELMABÜKÜ MAH (ÇALCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ESENCE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ESKİKÖY MAH (KAPIAĞZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "EYNEAĞZI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "FAKİR DAMI MAH (GÜLEBİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH (ÖZALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GERİT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GEYİKGÖLÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GÖL ARKASI MAH (GÜLEBİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GÜDÜKLÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GÜLBAYIR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GÜLTEPE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GÜZELYAYLA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "HACILI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "HASANKÖY MAH (HANYERİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "HAYDERBEY MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "HÜSEYİNGAZİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ILICAK MAH (GÖKÇEOLUK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ILICAK MAH (TERZİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "IRMAK MAH (BÜYÜKYURT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "IRMAK MAH (KAŞIKCI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KARAAĞAÇ MAH (AKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KARABAYIR MAH (IŞIKLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KARABODUR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KARAKAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KARAKESE MAH (BİLGİLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KEÇİYATAĞI MAH (ÇALCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KİLİSE MAH (ARDIÇLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KİRACI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KOÇGAN MAH (KAPIAĞZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KOÇU MAH (CERKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KORULU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KÖKLÜCE MAH (KÖKLÜCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KUMÇİFTLİK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KURUDERE MAH (KÖKLÜCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KÜRTLERDERESİ MAH (IŞIKLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MADİLLER MAH (KAPIAĞZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MAHMUDİYE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MECİRİF MAH (ÇAY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERCİMEKDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (AKGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (AKINCI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (ARDIÇLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (BİLGİLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (BÜYÜKYURT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (CERKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (ÇALCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (ÇAY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (GÖKÇEOLUK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (GÜVENLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (HANYERİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (KAPIAĞZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (KAŞIKCI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (TERZİOĞLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (YEŞİLHİSAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MEZRA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MUHTARDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MUSAPINARI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MUTLUCA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "OLUKALAN MAH (ÖZALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ORMANCIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "OSMANİYE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÖRENLER KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÖZDEMİR MAH (GÜLEBİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÖZVEREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "PELİTLİK MAH (ÇİÇEKLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "PELİTLİK MAH (PELİTLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "PORSUK MAH (KAPIAĞZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "RECEPDERE MAH (AKINCI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "SARIYAZI MAH (SARIYAZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "SULUGÖL KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ŞAHİNLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "TAHTALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "TENEVLİ MAH (IŞIKLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "TOPKARA MAH (YEŞİLHİSAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ULUSULUK MAH (ÇALCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ULUSULUK MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "UMURLU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "USTAHASAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "UZUNOĞLU MAH (KAPIAĞZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YAĞAN MAH (SARIYAZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YALIKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YARBAŞI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YELMÜK MAH (ÇATAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YEŞİLKAYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YETİMOĞLU MAH (KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YUKARI MAH (ARPAÖREN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YUKARI MAH (ŞIHLAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "50.YIL MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AKPINAR MAH (GÜNEBAKAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AYDINLIKEVLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AYVAZ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BENGİLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "CEDİT MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "CEPNİBEY MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ÇENGELLİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "FATİH MAH (GÜNEBAKAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "G.OSMANPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GAZİAHMET MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "İSMETPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KAYAPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KILIÇARSLAN MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KIRKKIZLAR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KÜLTÜR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MELİKGAZİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ŞAİR EMRAH MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YENİ MAH (GÜNEBAKAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YUSUFŞAH MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "AYVAKÖY MAH (SERENLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "BEYAZIT MAH (SERENLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "FATİH MAH (SERENLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH (SERENLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "TAMLAR MAH (SERENLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KÜLTÜR MAH (YAZICIK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "ŞAFAK MAH (YAZICIK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YENİ MAH (YAZICIK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YEŞİLÇAM MAH (YAZICIK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "HASYER MAH (YOLKONAK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "KATİPGÖLÜ MAH (YOLKONAK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "MERKEZ MAH (YOLKONAK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "NİKSAR",
+    "Mahalle": "YEŞİLYURT MAH (YOLKONAK BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "BALLICA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "BEŞEVLER KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "ÇAYKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "ÇAYLAK MAH (BAĞLARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "ÇİFTLİKKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "DEREÇAYLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "DOĞANCALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "KALEDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "MANASTIR MAH (KALEDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "MENTEŞE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "MERKEZ MAH (BAĞLARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "MERKEZ MAH (DEREKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "OCAKLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "OVACIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "OVAYURT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "TAŞLIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "TATARKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "TEPEÇAYLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "YUKARI MAH (TEPEÇAYLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "ERKİLET MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "SEYİTALİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "SİNANPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "FATİH MAH (ÜZÜMÖREN BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH (ÜZÜMÖREN BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "KAZOVA MAH (ÜZÜMÖREN BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "MEHMET AKİF ERSOY MAH (ÜZÜMÖREN BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "MRŞ.FEVZİ ÇAKMAK MAH (ÜZÜMÖREN BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "PAZAR",
+    "Mahalle": "YEŞİLDERE MAH (ÜZÜMÖREN BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÖKCESÜLEYMANLI MAH (BAYDARLI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜNDOĞDU MAH (BAYDARLI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MEDRESE MAH (BAYDARLI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (BAYDARLI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YÜKSELİŞ MAH (BAYDARLI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇAKRAZ MAH (BEREKETLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ELMACIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ELMACIK MAH (ELMACIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ESKİTURAÇ MAH (BEREKETLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜZELDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜZELDERE YAYLASI MAH (GÜZELDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HEBÜLLÜ MAH (BEREKETLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KADILI MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KAYALIK MAH (BEREKETLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ORTA MAH (BEREKETLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "TAŞLICA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "TOKLAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YAYLASI MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YENİ MAH (BEREKETLİ BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GERDENGEÇ MAH (BOZÇALI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HACI ABİDİN MAH (BOZÇALI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "IŞIKLAR MAH (BOZÇALI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "NİZAM MAH (BOZÇALI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ORTA MAH (BOZÇALI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ZAFER MAH (BOZÇALI BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ALPLER MAH (CİMİTEKKE BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "CİMİSADİ MAH (CİMİTEKKE BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇAMLIK MAH (CİMİTEKKE BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ERENLER MAH (CİMİTEKKE BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HALAÇLI MAH (CİMİTEKKE BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KAVAKLIDERE MAH (CİMİTEKKE BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KETENİĞİ MAH (CİMİTEKKE BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜNDOĞAN MAH (HASANŞEYH BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜRPINAR MAH (HASANŞEYH BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HASANGAZİ MAH (HASANŞEYH BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KEÇİKÖY MAH (HASANŞEYH BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ŞEYHLİOĞLU MAH (HASANŞEYH BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "TAHİRBEY MAH (HASANŞEYH BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ULUKÖY MAH (HASANŞEYH BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ABDURRAHMANLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ACEMLİ MAH (TOZANLIFINDICAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ADATEPE MAH (ÇAYIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "AĞCALAR MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "AĞILYANI MAH (KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "AKDOĞMUŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "AKKAYA MAH (DALPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "AKPINAR MEVKİ YAYLASI MAH (AKDOĞMUŞ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "AKSU MAH (UMURCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ALICIK MAH (SARAYKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ALİBEY MAH (GÜNEYGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ALTIPARMAK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ANNAKKAYA MAH (GÜNEYGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ARZALAN MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ARZUPINAR MAH (DEMİRCİLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ASKERAĞA MAH (DARIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ATATÜRK MAH (ÇEVRECİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ATATÜRK MAH (KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "AYDINLAR MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "BAĞDATLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "BATMIŞ MAH (ÇAMLIKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "BAYIRBAŞI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "BAYRAMALTI MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "BAYRAMALTI MAH (KARŞIKENT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "BOSTANKOLU DERESİ MAH (BOSTANKOLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "BULOĞLU MAH (GÖLLÜKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "BÜK MAH (ÇAYIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "BÜYÜKBEŞDERE MAH (BEŞDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "BÜYÜKBÜK MAH (KÖKLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "CAFAROĞLU MAH (NEBİŞEYH KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "CEMEL MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "COŞKUNLAR MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "CUMHURİYET MAH (BÜŞÜRÜM KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "CUMHURİYET MAH (ÇEVRECİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "CUMHURİYET MAH (KIZILCAÖREN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "CUMHURİYET MAH (SOĞUKPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇAKIR MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇAKIRLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇAKIRLI YAYLASI MAH (ÇAKIRLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇAKMAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇAMBALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇAT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇATAK MAH (DALPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇAVUŞBEYLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇİDEMLİK MAH (KARACAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇUKUR MAH (GÜLBURNU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "DAMATLAR MAH (DALPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "DANİŞMENT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "DEVECİLER MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "DİP MAH (ESENKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "DİP MAH (KARACAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "DOĞANTEPE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "DOLAY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "DONBEY MAH (TOZANLIFINDICAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "DUTDİBİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ELMADİBİ MAH (GÜNEYGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "EMİRŞEYH MAH (NEBİŞEYH KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ERDEMLER MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ERDEMLER YAYLASI MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "EYMÜR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "EYÜP KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GEDİK MAH (ÇAMLIKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÖKÇE PINAR MAH (UMURCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÖLAYAĞI MAH (ÇAYIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GURBETLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜLEBİLİ MAH (GÜNEYGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜLKONAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜLKONAK YAYLASI MAH (GÜLKONAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜLLÜCE MAH (GÜLLÜCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜVENDİK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "GÜVENDİK YAYLASI MAH (GÜVENDİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HACI MURAT MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HALAÇ MAH (DARIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HAMZALI MAH (ÇINARCIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HASANLI MAH (BEŞDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HAYDARLAR MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HÜNDÜLLÜ MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HÜRRİYET MAH (NEBİŞEYH KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "HÜRRİYET MAH (SOĞUKPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "IRMAK MAH (ÇAVUŞBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "IRMAK MAH (KABALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "IRMAK MAH (KARLIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "İBRAHİMŞEYH KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "İBRAHİMŞEYH YAYLASI MAH (İBRAHİMŞEYH KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "İDİRİN BÜKÜ MAH (KÖKLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "İDRİS MAH (DARIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "İNEK ALAN YAYLASI MAH (EYMÜR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "İNÖNÜ MAH (ÇEVRECİK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "İSLAMLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KALE MAH (KUZBAĞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KALE MAH (YOLÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KAMIŞLIK MAH (TOZANLIFINDICAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KAPAKLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KARAALİ MAH (GÜNEYGÖLCÜK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KARATAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KARGI DERESİ MAH (BOSTANKOLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KARGI MAH (BOSTANKOLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KARLIYAYLA MAH (KARLIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KASIMLAR MAH (YOĞUNPELİT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KAŞPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KATI YAYLASI MAH (İSLAMLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KATIRCIOĞLU MAH (DARIDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KAYABAŞI MAH (ÇAMLIKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KEÇELİ MAH (ÖZLÜCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KELTEKNE MAH (KARACAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KENDİRLİK MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KEŞLİK MAH (GÖKKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KETİ MAH (GÖLLÜKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KETİ MAH (KABALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KETİ MAH (SARIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KETİ YAYLASI MAH (ÇAMBALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KETİ YAYLASI MAH (MURATKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KILIÇLI MAH (YENİTURAÇ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KIRIK MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KIŞLAOĞLU MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KİRAZ ALANI YAYLASI MAH (ÇAMBALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KİREN PARASI MAH (KARŞIKENT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KONAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KÖSAMAR MAH (AKDOĞMUŞ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KÖSELER MAH (GÜLBURNU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KÖY DERESİ MAH (KARŞIKENT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KURTULUŞ MAH (DEMİRCİLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KUSTAM MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KUYUCAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KUZGÖLCÜK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KÜÇÜKBEŞDERE MAH (BEŞDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KÜÇÜKBÜK MAH (KÖKLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MAHMUTLU MAH (MURATKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MANDALLI ÖNÜ MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERE MAH (ÇAYIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (BOSTANKOLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (BÜŞÜRÜM KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (ÇAMLIKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (ÇINARCIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (DALPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (DÖLLÜK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (ESENKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (GÖKKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (GÖLLÜKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (GÜLBURNU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (KABALI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (KARLIYAYLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (KARŞIKENT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (KÖKLÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (MURATKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (SARAYKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (SOĞUKPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (UMURCA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (YOĞUNPELİT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (YOLÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MERKEZ MAH (YUVACIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MOLLAOĞLU MAH (ÖZLÜCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "MÜRSELOĞLU MAH (DÖLLÜK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÖMER PAŞA MAH (KUZBAĞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÖZEN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÖZLÜCE MAH (ÖZLÜCE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "SARIYAYLA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "SERGÜTEPESİ MAH (KARACAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ŞİFLİ KIRIK MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "TAHTA MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "TEMİRAĞA MAH (GÖLLÜKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "TEPE MAH (MURATKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "TEPEBAŞI MAH (ESENKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "TOSUNLU MAH (KARACAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "UÇARLAR MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "UĞURLU YAYLASI MAH (UĞURLU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YAĞSİYAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YAVUZSELİM MAH (DEMİRCİLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YAYLASI MAH (SARAYKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YAZI MAH (TOZANLIFINDICAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YENİ DARIDERESİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YENİ MAH (ÇAYIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YENİKENT MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YENİKÖY MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YENİTURAÇ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YERLİCE MAH (SAZAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YEŞİLVADİ MAH (BÜŞÜRÜM KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YOĞURTLUCA MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YOLBİLEN MAH (ÇINARCIK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YOLYAKA MAH (ÇAYIRPINAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YUMURCAKTAŞ MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "YÜCELER MAH (İSMAİLİYE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ZİNAV MAH (YOLÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "AKÇAKOLAY MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "ÇERMİK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "EMİRŞEYHYAKUP MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KAYALIK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "REŞADİYE",
+    "Mahalle": "OSMANİYE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "ALANYURT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "ALPUDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "ARPACIKARAÇAY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "BALIKHİSAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "BALLIKAYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "BAYAZIT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "BELPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "BUĞDAYLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "ÇİME KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "ILICAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "MALUM SEYİT TEKKE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "MERKEZ MAH (SARIYAPRAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "SELİMİYE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "TEKKEYENİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "UYLUBAĞI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "SULUSARAY",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "AĞCAŞAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "AĞLAMIŞ MAH (ÇİVRİL KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "AKBUĞDAY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "AKÇATARLA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ARAPÖREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ARZUPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "AŞAĞI MAH (BAHÇEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "AŞAĞI MAH (TATLICAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ATAKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ATATÜRK MAH (YENİSU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "AYRANPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "BAĞLARPINARI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "BAYAT YERİ MAH (AKÇATARLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "BEŞEVLER MAH (NECİP KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "BİLİM MAH (ULUTEPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "BUZLUK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "BÜYÜKÇAYLI MAH (ÇAYLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "CİFTLİK MAH (KIZKAYASI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "CUMHURİYET MAH (KAT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "CUMHURİYET MAH (YAZITEPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "CUMHURİYET MAH (YENİSU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÇALILIK MAH (KAT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÇARIKSIZ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÇAY MAH (KAT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÇAY MAH (YAZITEPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÇAYIRALTI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÇAYLAR MEVKİ MAH (HASANLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÇEVLİKLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÇİFLİK MAH (KIZKAYASI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÇUBUKLU MAH (AKÇATARLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "DALMIŞLAR MAH (GÖKDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "DAZYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "DEĞİRMEN MAH (ERİKLİTEKKE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "DEMİRKALE MAH (AKÇATARLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "DERBENTÇİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "DEREYAYLA MAH (ERİKLİTEKKE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "DOĞANLI MAH (NECİP KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "DOLAPLAR MEVKİİ MAH (SAMURÇAY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "DÖKMETEPE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "DUMLU MAH (ÜÇYOL KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ELALMIŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ERENLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ERİKLİTEKKE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ESKIKOY MAH (YENİCELER KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "GÜZELYURT MAH (YAZITEPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "HAMİDE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "HARMANLI MAH (ORMANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "HASANLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "İĞDELİ MAH (KAZANCI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "İNÖNÜ MAH (YENİSU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KALAYCIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KAMALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KARATAŞ DERESİ MAH (ORMANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KARATAŞ MAH (ERİKLİTEKKE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KARKIN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KARŞI MAH (GÖKDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KAZANCI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KAZOVA MAH (ÇAYLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KIMIZA MAH (AKÇATARLA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KIŞLA MAH (HASANLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KIZKAYASI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KMAH MAH (DAZYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KORULUK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KUŞOTURAĞI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KUŞPINAR MAH (ORMANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KUYTUL KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KUZALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KÜLTÜR MAH (ULUTEPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KÜPÇEŞME MAH (ÇAYLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KÜTÜKLÜĞÜN DERE MAH (SAMURÇAY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "MERKEZ MAH (ORMANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "MEYDAN MAH (YAZITEPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ORTA MAH (ÇİVRİL KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ORTA MAH (GÖKDERE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ORTAKÖY MAH (HASANLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "PAZARYERİ MAH (NECİP KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "PAZLI MAH (ÜÇYOL KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "SAMURÇAY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "SANAT MAH (ULUTEPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "SARI MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "SARIÇİÇEK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "SOĞULCAK MAH (HASANLI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "SULUDEDE MAH (ÇİVRİL KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ŞATROBA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "TAŞLIHÖYÜK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ULUÖZ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "UZUNYURT MAH (KAT KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YAĞLIALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YAYLA EVLERİ MAH (ÇİVRİL KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YAZI MAH (ORMANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YENİCELER KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YEŞİLALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YUKARI MAH (BAHÇEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YUKARI MAH (ÇİVRİL KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YUKARI MAH (TATLICAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YUKARITEKE MAH (ERİKLİTEKKE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ZONTU MAH (KIZKAYASI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ASARCIK MAH (ŞENYURT BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KARAEVLİ MAH (ŞENYURT BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ORTAKÖY MAH (ŞENYURT BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ÜÇGÖZEN MAH (ŞENYURT BELDESİ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "BAHAR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "BORSA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "BOYACILAR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "CELAL MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "EMEK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "GAZİ OSMAN PAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "GÜNEŞ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "GÜRSEL MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "HAMAM MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KAYACIK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "KOVA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "MARAŞAL FEVZİ ÇAKMAK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "MEYDAN MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "MÜFTÜ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "NURKAVAK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "OSMANGAZİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "RAY MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "VARVARA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YEŞİLIRMAK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "TURHAL",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "BAHÇEBAŞI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "BÜĞET KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÇERKEZ DANİŞMENT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÇIKRIK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ÇIRDAK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "DAMLALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "DOĞLACIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "EKİNLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "GÜNDOĞAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KARADERE MAH (KARAGÖZGÖLLÜALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KARAGÖZGÖLLÜALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KARAOLUK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KARŞIYAKA MAH (KUŞÇU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "KAVUNLUK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SEKÜCEK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "SİVRİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ŞEHİTLER MAH (KUŞÇU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "YAĞMUR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "YENİ MAH (KUŞÇU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "100. YIL MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "YEŞİLYURT",
+    "Mahalle": "TÜRKMENLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ACIPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AĞCAKEÇİLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AĞILCIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AKAĞAÇ MAH (KUZALAN KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AKDOĞAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AKGÜLLER KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AKKILIÇ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ALAYURT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ALIÇÖZÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ALİBAĞI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ALİHOCA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ALPARSLAN MAH (EVRENKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ARMUTALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AŞAĞI MAH (ACISU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AŞAĞI MAH (BELKAYA KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AŞAĞI MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AŞAĞI MAH (KERVANSARAY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AYDINLAR MAH (YALINYAZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "AYVALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "BAHÇELİEVLER MAH (GÜZELBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "BAYIR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "BELPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "BİNBAŞIOĞLU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "BOLDACI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "BÜYÜKAKÖZ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "BÜYÜKKARAYÜN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "BÜYÜKKOZLUCA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "BÜYÜKÖZLÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "CUMHURİYET MAH (YALINYAZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÇAKIRCALI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÇAMDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÇAPAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÇAYIR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÇAYIROLUĞU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÇELTEK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÇİÇEKPINARI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "DEREDİBİ MEZRASI MAH (SARAÇ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "DONAŞA MAH (KİREÇLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "EDE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ELMACIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "EMİRÖREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ESERTEPE MAH (ACISU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ESKİDAĞİÇİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ESKİDERBENT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "FATİH KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "FIRTIMAN MEZRASI MAH (SARAÇ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "GÖÇENLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "GÖLCÜK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "GÜBLÜCE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "GÜMÜŞKAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "GÜNGÖRMEZ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "HARAMİKIŞLA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "HASANAĞA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "HATİPPINARI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "HÜRRİYET MAH (YALINYAZI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "İĞDİR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "İMİRTOLU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "İSMETPAŞA MAH (GÜZELBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KAMUÇYÜK MAH (KİREÇLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KARA DEVE MEZRASI MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KARABALÇIK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KARAKAYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KARAKUZU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KARAŞEYH KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KARŞI MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KARŞIPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KARŞIYAKA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KAZIKLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KEH MAH (KİREÇLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KEPEZ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KIRLAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KIZILCA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KIZILÜZÜM MAH (EDE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KİREÇLİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KOÇAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KORUCUK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KOZDERE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KÖYLÜÜNÜRÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KURŞUNLU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KURUÇAY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KURUPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KUZALAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KÜÇÜKAKÖZ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KÜÇÜKKARAYÜN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KÜÇÜKKOZLUCA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KÜÇÜKÖZLÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "NARLIKIŞLA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "OLUKMAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ORTA MAH (KERVANSARAY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "OSMANPINARI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÖZYURT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "PALANLI KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "REŞADİYE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "SALUR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "SARAÇ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "SARAY MAH (YILDIZTEPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "SAVCU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "SEKİKIŞLA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "SELAMET KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "SİLİS MAH (GÜZELBEYLİ KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "SOFULAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "SÖĞÜTÖZÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "SÜLEYMANİYE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ŞEYHKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ŞEYHNUSRETTİN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "TAŞKIRAN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "TEMECÜK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "TURGUTALP KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "UĞURLUÖREN KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "UZUNKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "UZUNÖZ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÜÇKAYA KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÜÇKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÜTÜK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ÜYÜK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YALNIZKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YAPALAK KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YARAŞ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YAYLA EVLERİ MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YAYLAKENT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YAYLAYOLU KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YENİ MAH (YILDIZTEPE KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YENİDAĞİÇİ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YENİDERBENT KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YEŞİLCE KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YEŞİLYURT MAH (EVRENKÖY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YUKARI MAH (ACISU KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YUKARI MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YUKARI MAH (KERVANSARAY KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YUKARI MAH (YAPALAK KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YÜCEPINAR KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YÜNLÜ KÖYÜ"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ZİLE OSB MAH (HACILAR KÖYÜ)"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ALACAMESCİTZİR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ALAMESCİTBALA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ALİKADI MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "CEDİT MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "DİNÇERLER MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "DUTLUPINAR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "HACIMEHMET MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KAHYA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "KİSLİK MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "MİNAREİKEBİR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "MİNAREİSAĞIR MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "NAKKAŞ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ŞEYHALİ MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ŞEYHKOLU MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "YUNUSEMRE MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ZİNCİRLİ ÜLYA MAH"
+  },
+  {
+    "il": "TOKAT",
+    "ilçe": "ZİLE",
+    "Mahalle": "ZİNCİRLİSÜFLA MAH"
+  }
+]

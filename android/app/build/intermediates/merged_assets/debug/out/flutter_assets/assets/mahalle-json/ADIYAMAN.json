@@ -1,0 +1,5682 @@
+[
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "15 TEMMUZ ŞEHİTLER MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AŞAĞISARHAN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "CİRİT MEYDANI MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇAT MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ERDEMOĞLU MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KAYMAKAM HASAN TÜTÜN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KORUPINAR MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "OYALI MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "PINARBAŞIOSB MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YENİ BESNİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YUKARI SARHAN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ABIMISTIK MAH (ÇAKIRHÜYÜK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AKDURAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AKKUYU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AKTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ALIÇLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BOYBEYPINARI MAH (ÇAKIRHÜYÜK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "CAMUŞÇU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇAKMAK MAH (AKDURAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇOMAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "GÖNDERME MAH (KONUKLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "HASANLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "HÖYÜK MAH (ÇOMAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "İZNİK MAH (KONUKLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "İZOLLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KARGALI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KARNAÇIK MAH (KUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KONUKLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KÖPRÜBAŞI MAH (ÇAKIRHÜYÜK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KUTLUCA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "LEVZİN MAH (ÇAKIRHÜYÜK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "SARIÇİÇEK MAH (KONUKLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "TİLEYLİ MAH (YAZIBEYDİLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YAZIBEYDİLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YENİKURUGÖL MAH (AKDURAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YEŞİLOVA MAH (ÇAKIRHÜYÜK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YOLDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YUKARISÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YUSUFAĞA MAH (AKKUYU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ATATÜRK MAH (KESMETEPE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇAKMAK MAH (KESMETEPE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "FATİH MAH (KESMETEPE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "İNCE MAH (KESMETEPE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "İNÖNÜ MAH (KESMETEPE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "TURGUT ÖZAL MAH (KESMETEPE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AŞAĞISÖĞÜTLÜ MAH (KÖSECELİ BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "CUMHURİYET MAH (KÖSECELİ BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "HÜRRİYET MAH (KÖSECELİ BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "TETİRLİ MAH (KÖSECELİ BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AHURİ MAH (SARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AKDOĞANLAR MAH (BERETE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AKYAZI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ALİ ERDEMOĞLU MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AŞAĞIÇÖPLÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ATATÜRK MAH (SUGÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ATATÜRK MAH (ÜÇGÖZ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BAHRİ MAH (BAHRİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BALKA MAH (BEŞYOL KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BEREKETLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BEŞKOZ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BEŞYOL KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BONCUK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BURUNÇAYIR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "CUMHURİYET MAH (SARIYAPRAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "CUMHURRİYET MAH (ÜÇGÖZ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇAYKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇİLBOĞAZ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇORMAN MAH (TOKAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇÖPLÜKIŞLA MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "DELİSEKİ MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "DİKİLİTAŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "DÖRTYOL KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "EĞERLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "FATİH MAH (SARIYAPRAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "GÜNEYKAŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "HACIHALİL KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "HARMANARDI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "HÖYÜK MAH (BEŞYOL KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "İNÖNÜ MAH (SUGÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "İNÖNÜ MAH (ÜÇGÖZ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KARAAĞAÇ MAH (YELBASTI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KARAGEÇİ MAH (BEŞYOL KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KARAGÜVEÇ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KEPİRCE MAH (YAZIKARAKUYU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KESECİK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KIZILHİSAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KIZILİN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KIZILKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KIZILPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KOCAPİRLİ MAH (EĞERLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KURUGÖL KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KUZEVLERİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "NOHUDANLI MAH (HACIHALİL KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "OYRATLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÖREN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "SATILUŞAĞI MAH (OYRATLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "SAYÖREN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "SUMAKLI GÜZELEVLER MAH (KURUGÖL KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "TAŞLIYAZI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "TOKAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "TOKLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "TOPKAPI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÜRECİK MAH (YELBASTI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YAYIKLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YAZIBADEMCE MAH (YAZIKARAKUYU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YAZIKARAKUYU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YAZIYURDU MAH (BERETE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YELBASTI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YEMLİCE MAH (KESECİK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YEŞİLOVA MAH (ÖREN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YUKARI HOZGİŞİ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ZORMAĞARA MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ADALET MAH (SUVARLI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BÜYÜKOBA MAH (KARALAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "CUMHURİYET MAH (SUVARLI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇAKALLI MAH (ÇORAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇAKALLI MAH (KARALAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇAYIROBASI MAH (KARALAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÇORAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "HÜRRİYET MAH (SUVARLI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KARALAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KIRAÇHAYMA MAH (PINARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KÖRTANLI MAH (PINARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "TUTLUPINAR MAH (PINARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "UZUNKUYU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AKDERE MAH (BAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "AKKUYU MAH (ATMALI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ALİŞAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ATMALI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BAŞLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BAYAT MAH (ŞAMBAYAT BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BEŞİR MAH (TEKAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "BOSTANCIK MAH (TEKAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "CUMHURİYET MAH (ŞAMBAYAT BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "DOĞANKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "FATİH MAH (ŞAMBAYAT BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "GÜMÜŞLÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "İNÖNÜ MAH (ŞAMBAYAT BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KARAHALİL MAH (BAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KILIÇLI MAH (BAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "KIZILCAMUSTAFA MAH (BAŞLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "MENDERES MAH (ŞAMBAYAT BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "ÖZBAĞLAR MAH (ATMALI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "TEKAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YAZIYALANGOZ MAH (TEKAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "BESNİ",
+    "Mahalle": "YENİ MAH (ŞAMBAYAT BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "BAHÇELİ EVLER MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "BAŞPINAR MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "MAHMUT NEDİM ÖKMEN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "AKSU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ALİGÜR MAH (GÖLBAĞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ALİSAHA KÜMESİ MAH (MUTLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ASKERHAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "BAHÇE KÜMESİ MAH (MUTLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "BOZGEDİK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "CEMOLAR MAH (KALECİK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ÇAMPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ÇAT MAH (ŞEREFHAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "DEĞİRMEN BAŞI MAH (ÇAMPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "DEVEBOYNU MAH (AKSU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "DÜZAĞAÇ MAH (BOZGEDİK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ESENLİ MAH (ŞEREFHAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ESKİKÖY MAH (RECEP KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ESKİKÖY MAH (YEŞİLYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "FATİH KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "GÖLBAĞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "HAMİK MAH (KÖSEUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "HOVİRGE YAYLASI MAH (MUTLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "İNCİRLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KALE MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KALECİK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KARAÇAYIR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KARAGÖL KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KARŞI KÜME EVLERİ MAH (MUTLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KIŞIKAN YAYLASI MAH (MUTLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KORUCAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KOYUNCULAR MAH (GÖLBAĞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KÖSEUŞAĞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "MERKEZ KÜMESİ MAH (MUTLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "RECEP KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "SOĞUKPINAR MAH (KORUCAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ŞAHVERDİ ESKİKÖY MAH (RECEP KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ŞAHVERDİ MAH (RECEP KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ŞAHVERDİ YAYLAEVLERİ MAH (RECEP KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ŞEREFHAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "YAĞIZATLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "YAĞMURLU MAH (KÖSEUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "YAYLA EVLERİ MAH (ÇAMPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "YAYLAEVLERİ MAH (ASKERHAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "AKTAŞ MAH (PINARBAŞI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "BALIKBURUN MAH (PINARBAŞI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "CAMİ MAH (PINARBAŞI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "ÇAMLIYAYLA MAH (PINARBAŞI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "HACILAR MAH (PINARBAŞI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "İNÖNÜ MAH (PINARBAŞI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KAYA MAH (PINARBAŞI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "ÇELİKHAN",
+    "Mahalle": "KURUDERE MAH (PINARBAŞI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KELEŞAN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "AÇMA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "AĞAÇLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "AKSAN MAH (YAYLADALI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ALDUŞ MAH (KONACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ARTİLAN MAH (DAĞDEVİREN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "AŞAĞI CİMİK MAH (GÜZELSU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "AŞAĞIDAĞLICA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "AYDINLIK MAH (ZUĞUR MAH) (DALLARCA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BAĞLAR MAH (GEÇİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BAYİK MAH (OYMAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BAZİK MAH (YAYLADALI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BEKİRAN MAH (KILIÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BEMİRGO MAH (KONACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BEŞGÖZE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BEYBOSTAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BİLDEŞ MAH (DEMİRTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BİRCAN MAH (GÜNGÖRMÜŞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BODİN MAH (GÜNDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "BUDAKLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "CEVİZPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇAMİÇİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇAMİK MAH (SEYİTMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇAVGÜR MAH (ÇOBANPINARI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇAVUŞ MAH (SİVER MAH) (SUTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇEMAN MAH (DAĞDEVİREN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇET MAH (ÇAMİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇETİN MAH (KÜTÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇINARIK MAH (YUKARIDAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇINARLIK MAH (GÜMÜŞKAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇİFTHİSAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇOBANPINARI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÇUKURCA MAH (AÇMA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "DAĞDEVİREN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "DALLARCA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "DEMİRTAŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "DESPAL MAH (YAĞMURLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "DEYRO MAH (KONACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "DOLORİZAN MAH (GÖLYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "DÖŞNİK MAH (KAŞYAZI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ERDOĞMUŞ MAH (BALEYREK MAH) (DALLARCA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ESKİKENT KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GELEBAZ MAH (KILIÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÖLANİ MAH (ONEVLER KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÖLYURT KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÖME-İ MASUR MAH (GÖLYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÖMÜK MAH (AĞAÇLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÖNAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÖZPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÜDAYİK MAH (GÖNAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÜMÜŞKAŞIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÜNDOĞDU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÜNEYPINAR MAH (YENİBARDAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÜNGÖRMÜŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÜRGENLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "GÜZELSU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "HANBERTİ MAH (BURÇAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "HARMUZAN MAH (GÖZPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "HELEZİN MAH (GÖLYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "HEVENK MAH (ESKİKENT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "HIRCIK MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "HİLİM MAH (GÖNAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "HORSAİK MAH (DAĞDEVİREN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "HÜSÜKAN MAH (GÖLYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KAF MAH (GEÇİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KAĞINDAK MAH (GÖZPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KALECİK MAH (KILIÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KARACAVİRAN MAH (GÜZELSU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KARDİGİN MAH (YAYLADALI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KARUK MAH (KAŞYAZI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KAŞYAZI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KEFERGE MAH (KORULU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KELAZİN MAH (YAĞMURLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KERZEL MAH (OYMAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KERZEL MAH (YAĞMURLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KESERTAŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KEVİRSOR MAH (BURÇAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KILIÇ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KIRINGÖL MAH (YENİBARDAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KIRMIZITARLA MAH (YENİBARDAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KIZZIK MAH (BURÇAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KİŞİK MAH (KILIÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KONACIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KORULU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KOŞARLAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KOZAĞAÇI MAH (ONEVLER KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KÖKLÜCE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KÖRTİGİN MAH (BURÇAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "KÜTÜKLÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "MARONİ MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "MERKEZ MAH (BURÇAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "MEZRA MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "MIRZA MAH (DALLARCA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "NAKIŞLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "NİNYAT MAH (GÖZPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ONEVLER KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ORTACA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "OYMAKLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÖMERAN MAH (GÜNGÖRMÜŞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÖZKURAN MAH (NAKIŞLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "PAMULUK MAH (GÜMÜŞKAŞIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "PANKİN MAH (BEYBOSTAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "PEMİCE MAH (YENİBARDAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "PINARBAŞI MAH (GÖLYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "PİYAMLİ MAH (SUTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "PUPAR MAH (OYMAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "SALAVAT MAH (BEŞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "SAMAK MAH (ÇAMİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "SANKOSİ MAH (KORULU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "SENGETO MAH (CEVİZPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "SEYİTMAHMUT KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "SOFYAN MAH (KOŞARLAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "SORİK MAH (DEMİRTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "SUTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ŞAKOL MAH (YENİBARDAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ŞAMANİ MAH (GÜZELSU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ŞAVİ MAH (GÖLYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ŞENGÜL MAH (ÇAMİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "TANKÜL MAH (GÖLYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "TARAKSU MAH (ÜÇKAYA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "TIRKIDİN MAH (GÜRGENLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "TIRŞİK MAH (SEYİTMAHMUT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "TİLLAK MAH (BEŞGÖZE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "ÜÇKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "VANKÖK MAH (GÖLYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "YAĞMURLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "YAYLADALI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "YENİBARDAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "YUKARIDAĞLICA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GERGER",
+    "Mahalle": "YUVACIK MAH (AÇMA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ASFALT MAH (BALKAR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "CUMHURİYET MAH (BALKAR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "CUMHURİYET MAH (BELÖREN BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "MERKEZ MAH (BELÖREN BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ASFALT MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KURUGEÇİT MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "CUMHURİYET MAH (HARMANLI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÇAKMAK MAH (HARMANLI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KALEMKAS MAH (HARMANLI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YENİ MAH (HARMANLI BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "AKÇABEL KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "AKÇAKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "AKTOPRAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ALİKAYA MAH (AKÇAKAYA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ARPATARLASI MAH (KARABAHŞILI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "AŞAĞIAZAPLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "AŞAĞIKARAKUYU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "AŞAĞINASIRLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "BAĞLARBAŞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "BALLIK MAH (SAVRAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "BEŞEVLER MAH (HAYDARLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "BEŞEVLER MAH (KARABAHŞILI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "CANKARA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "CERRAHOBASI MAH (HAYDARLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "CİVKUR MAH (KÖSÜKLÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÇATALAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÇATALTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÇAYIR MAH (KARABAHŞILI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÇELİKKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÇELİKKÖYOSB MAH (ÇELİKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "DURAK MAH (ÇATALAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "DURAK MAH (ÇELİKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "GEDİKLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "HAMZALAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "HASANLAR MAH (HAMZALAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "HAYDARLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "İSTASYON MAH (ÇELİKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KANDİL MAH (HAMZALAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARABAHŞILI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARABURUN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARAÇUKUR MAH (KARABAHŞILI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KARAHASAN MAH (ÇATALTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KEÇİBAŞI MAH (MEYDAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KERALMAZ MAH (ÇATALAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KEZBİ MAH (SAVRAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KÖRPINARI MAH (MEYDAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KÖSÜKLÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KÖTEL MAH (KARABAHŞILI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KUMLU MEZRASI MAH (AKTOPRAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KURUCUOVA MAH (SAVRAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "KÜÇÜKÖREN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "MEYDAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "MIÇOLAR MAH (ÇATALTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "OZAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "ÖRENLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "SAVRAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "SERPENOLAR MAH (HAYDARLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "SIRIKLI MAH (HAMZALAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "SORKUN MAH (HAYDARLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "SÖĞÜTLÜ MAH (KÜÇÜKÖREN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "TECİRLİ MAH (ÇATALTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "UÇARLAR MAH (HAMZALAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YARBAŞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YAYLACIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YENİKENT MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YIKICAK MAH (MEYDAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YOLBAĞI MAH (ÇATALTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YUKARIÇÖPLÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YUKARIKARAKUYU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "GÖLBAŞI",
+    "Mahalle": "YUKARINASIRLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ACOĞLU MAH (GELDİBULDU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ADALI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKALIN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKÇAKENT MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKÇAVEREN MAH (İKİZCE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKINCILAR ATATÜRK MAH (AKINCILAR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKTAŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKYILDIZ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AŞAĞI TUĞLU MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ATAKÖY MAH (ULUPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BAHÇE MAH (GELDİBULDU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BAKACAK MAH (ULUPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BERBANOS MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BEŞİKLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BUHARA MAH (GÖÇERİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BÜYÜKGÖZ MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "CUMHURİYET KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇAMLICA MAH (AKINCILAR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DAMÜSTÜ MAH (ESKİTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DARDAĞAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DİKENLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DOĞANTEPE MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ELBEYİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ELMALI TUĞLU MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ESENTEPE MAH (DARDAĞAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ESKİTAŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GELDİBULDU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GEVAZİ MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÖÇERİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÜDÜLGE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÜLAHMET MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HASKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HİNİÇ MAH (ADALI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HÜSEYİNLİ MAH (YENİKUŞAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "İKİZCE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARAMAĞARA MAH (GÜDÜLGE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARATAŞ MAH (KARATAŞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARMİTLİ MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KILAVUZ MAH (AKINCILAR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KÜÇÜK TOMAK MAH (İKİZCE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "MAHMUDİYE MAH (DARDAĞAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "MENZİL KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "MUSTAFAÇAYIR MAH (ULUPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "NERGİZTEPE MAH (HASKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "OLUKLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "PINARYOLU MAH (İKİZCE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SIRATUT MAH (ADALI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SOFYA MAH (DARDAĞAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SOĞUKSU MAH (AKINCILAR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SÜSÜK MAH (GÜDÜLGE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TERİYAN MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TETA MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TİLBE MAH (GELDİBULDU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TUĞLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TÜREŞİK MAH (GÜDÜLGE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ULUPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YENİKUŞAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YEŞİLKAYA MAH (YEŞİLKAYA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YEŞİLTEPE MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YOLÇATI MAH (OLUKLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ATATÜRK MAH (BÖLÜKYAYLA BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "CUMHURİYET MAH (BÖLÜKYAYLA BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "FATİH MAH (BÖLÜKYAYLA BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KANGÜLÜ MAH (BÖLÜKYAYLA BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BAYRAKTAR MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇOBANLI MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "FIRAT MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GİRNE MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ŞEYHBABA MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TURGUT ÖZAL MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ABDULLAH BEY MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKÇA MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKÇALI MAH (AKKUŞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKDAMAR MAH (BOZPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKDOĞAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKKAVAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKKUŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKPINAR MAH (KAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AKTOPRAK MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ALİDAM KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ARILI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ASKERAN MAH (YOLALTI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ATLI MAH (GÖLGELİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AVNİK MAH (GÖKÇE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AYDINLAR MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "AYDINPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BAĞBAŞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BAĞÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BAHÇE MAH (BELÖREN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BAHIM MAH (KOZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BALLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BELENLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BELÖREN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BEŞEVLER MAH (DUT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BEYPINAR MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BIRBIR MAH (ÇIRALIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BOĞAZKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BOSTANLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BOZPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BOZTARLA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BURMAPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BÜYÜKBAĞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BÜYÜKBEJYAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BÜYÜKBEY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "BÜYÜTME MAH (TURANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇAKIREŞME KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇALTILI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇARDAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇATALTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇAYBAŞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇEM MAH (ESKİ KAHTA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇIRALIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇİÇEK MAH (ZEYTİN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇÖRTENEK MAH (ESKİ KAHTA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÇUKURTAŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DALİNCE MAH (SIRACA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DAMLACIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DAMLI MAH (ECELER KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DARBERİ MAH (BURMAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DEREBAŞI MAH (ÇUKURTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DİKMETAŞ MAH (YAPRAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DİVAN MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DOLUCA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DUMANLI MAH (ÇAYBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DUMLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "DUT KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ECELER KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "EKİNCİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ERİKDERE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ERİKLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ESENDERE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ESKİ KAHTA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "FISTIKLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GEDİK MAH (ALİDAM KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÖKÇE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÖLGELİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÖLLÜK MAH (KOZAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÖMLEK MAH (ESKİ KAHTA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÜLVEREN MAH (KARADUT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÜMÜŞKAYA MAH (DAMLACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÜZELÇAY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "GÜZELKENT MAH (BÜYÜKBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HABİPLER KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HACERİ MAH (ÇAYBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HACIYUSUF KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HALİCE MAH (NARİNCE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HALİFAN MAH (BOSTANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HAMZALAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HASANDİĞİN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "HİSAR MAH (BURMAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "IŞIKTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "İNGİRCE MAH (TURANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "İSLAMKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KAHTA OSB MAH (SALKIMBAĞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KAMIŞLI MAH (ÇAYBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KANBOĞAZI MAH (KARADUT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARABAĞ MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARADUT KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARAGÜL MAH (NARİNCE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARAKUŞ MAH (BAĞÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARAMAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARANFİL MAH (DAMLACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARAPINAR MAH (TÜTENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KARATUT MAH (ÇALTILI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KAVAKLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KEKLİK MAH (GÜZELÇAY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KEKLİK MAH (TEĞMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KELPINAR MAH (ESKİ KAHTA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KERKAH MAH (EKİNCİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KINIK MAH (HACIYUSUF KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KİLİSİK MAH (ÇIRALIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KOÇTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KOSA MAH (ÇAKIREŞME KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KOZAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KÖPRÜBAŞI MAH (ESENDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KÖRGÜDAN MAH (YAPRAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KÖSELER KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KUBİLAY MAH (ORTANCA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "KÜÇÜK ECELER MAH (ECELER KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "MENDERES MAH (DUT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "MÜLK MAH (ÇIRALIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "MÜLKKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "NARİNCE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "NARLI MAH (HASANDİĞİN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "NARLIDERE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "NARSIRTI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ORTANCA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "OSMANPINAR MAH (KOÇTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "OVACIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ÖZELEVLER MAH (BOĞAZKAYA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SAKO MAH (ERİKDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SALİK MAH (KARADUT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SALKIMBAĞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SAMANLI MAH (ECELER KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SARISU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SEKÜK MAH (TURANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SIRACA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SIRAKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SİNKE MAH (BOĞAZKAYA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SULTANMAĞARA MAH (KÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "SUSUZ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ŞAHİNTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ŞAHİNTEPE MAH (KARADUT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ŞENKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ŞİRİNEVLER MAH (KARADUT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TABAKLI MAH (BELENLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TAŞLICA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TAŞLIÇAY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TEĞMENLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TEKNECİK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TEPEBAŞI MAH (HAMZALAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TERZİYAN MAH (NARİNCE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TİBİL MAH (TURANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "TÜTENOCAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ULUBEY MAH (GÖLGELİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YAPRAKLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YASSIKAYA MAH (DOLUCA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YELKOVAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YENİCE MAH (KOÇTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YOLALTI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "YÜKSEKYAYLA MAH (BELENLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ZEYNAN MAH (BOSTANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ZEYTİN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "KAHTA",
+    "Mahalle": "ZİYARET KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİSARAY MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOCAÖMER MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAPCAMİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSALLA MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRATUT MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VARLIK MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİPINAR MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇECİK MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMAĞA MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYALIK MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MALAZGİRT MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRENLİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİTELER MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TURGUT REİS MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (KÖMÜR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (KÖMÜR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENCE MAH (KÖMÜR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİ MAH (KÖMÜR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANKAN MAH (KÖMÜR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRRİYET MAH (KÖMÜR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSTAFA YÜCEL ÖZBİLGİN MAH (KÖMÜR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SERİNTEPE MAH (KÖMÜR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAKACIK MAH (KÖMÜR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYURT MAH (KÖMÜR BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "100. YIL MAH (100.YIL KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ACEMPINARI MAH (KAYACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AFETEVLERİ MAH (KAYAÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞAÇKONAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞCİN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞİKAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞVEREN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMETHOCA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇALI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKÇİK MAH (LOKMAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKDERE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKHİSAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKIN MAH (SERHATLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKINCILAR MAH (ÇERÇİYAN MAH) (AKDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKSU MAH (KIR MAH) (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYAZI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYURT MAH (ULUDAM KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALBET KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİBEY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTINTOP MAH (BÜYÜKKAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTUN MAH (KUYULU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARMUTLU MAH (HOZİK MAH) (KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ASLANOĞLU MAH (HACIHALİL KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ASMALI MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATAKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (ATAKENT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (HASANCIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDINLAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "B.AYRANLI MAH (UZUNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞDERE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLICA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞPINAR KUYUCAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞTEPE MAH (YEDİOLUK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇE MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇE MAH (PINARYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALABAN MAH (ATAKENT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARDAKÇI MAH (BOZHÜYÜK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BATTALHÜYÜK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEBEK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BENAV MAH (DARICA MAH) (İNCEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYLER MAH (ULUDAM KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZATLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZHÜYÜK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖRKENEK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BULAM MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BURÇ MAH (DURAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜKLÜM KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜK BOYALI MAH (ATAKENT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKKAVAKLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKKIRIKLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (ATAKENT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKMAKLAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMGAZİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMYURDU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATALAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIRLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYLI MAH (DÜDERE MAH) (HASANKENDİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEMBERLİTAŞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇINAR MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇINARİK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİÇEK-1 MAH (BAĞPINAR KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİÇEK-2 MAH (BAĞPINAR KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİTLİCE MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOBANDEDE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOKPINAR MAH (KINDIRALİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DALUCA MAH (BATTALHÜYÜK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAMDIRMAZ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAMLICA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DARBELİK MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DARDAĞAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAVUTHAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERİNSU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİŞBUDAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞANLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOYRAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DURAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DURUKAYNAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZAĞAÇ MAH (UZUNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZCE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKİNCİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMACIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENCE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİHÜSNÜMANSUR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİVİRAN MAH (DİŞBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİHAN MAH (BAĞPINAR KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEDİK MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GISRİK MAH (DERİNSU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GİRİK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇAY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKTAŞ MAH (KÖRİSTAN MAH) (UĞURCA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKTEPE MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖMLÜTEPE MAH (UZUNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZEBAŞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZECİK MAH (KÇ. ÇARKEZİ MAH) (UZUNPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLTEPE MAH (BAĞDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜVENLİ MAH (KOÇALİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZELEVLER MAH (BAĞDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZELYURT KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIHALİL KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HARABA MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASANKENDİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ILICAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "IŞIKLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNCEBAĞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNCELER KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNÖNÜ MAH (HASANCIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İPEKLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALBURCU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAMIŞLI MAH (AKYAZI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAMIŞLI MAH (YAZLIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANİKÜRK MAH (KAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARABURÇ MAH (BATTALHÜYÜK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAGÖL KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAHÖYÜK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKOÇ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKÖPRÜ MAH (BÜYÜKKAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAMAN MAH (KOVUK DERESİ MAH) (PINARYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARRUZ MAH (LOKMAN KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARTİ MAH (GÖZEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAŞIKLI MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAŞKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAK MAH (PINARYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYABAŞI MAH (KAZNİ MAH) (KAYAÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYACIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYALI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYAÖNÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMALIK MAH (ZİYARETPAYAMLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMERKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KERÖMER MAH (UZUNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILIÇLAR MAH (BEBEK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KINDIRALİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIŞLA MAH (YAZLIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIVIRCIK MAH (HACIHALİL KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILCAHÖYÜK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILCAPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİLİSİK MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOÇALİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAKDERE MAH (GÖKÇAY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KORUKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KORULU MAH (MERMERE MAH) (YAZLIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOTUR MAH (AKÇALI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOTUR MAH (DOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOZAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖKLÜ MAH (BOZTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUMUŞDERESİ MAH (KOÇALİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUŞAKKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUŞTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUYUCAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUYULU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜK BOYALI MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜK HACIVERT MAH (ZEY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜK KAVAKLI MAH (BÜYÜKKAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜK KIRGI MAH (EKİNCİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜK KIRIKLI MAH (BÜYÜKKIRIKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKHASANCIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKKIRKLI MAH (BÜYÜKKIRIKLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜLAFHÜYÜK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜRK MAH (GİRİK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LOKMAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MADUN MAH (GÖZEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAHMUT EL ENSARİ ZİYARETİ MAH (İPEKLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAHMUTLU MAH (ALİBEY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MALOĞLU MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MALPINARI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MALTEPE MAH (ZEY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAZLIK MAH (BEBEK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MESTAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİLLİK MAH (DÜZCE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİROĞLU MAH (AYDINLAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSTAFABEYLİ MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUTLUCA MAH (GÖKÇAY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜRSEL MAH (BÜKLÜM KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NARLIK MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OLGUNLAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OLUKLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORDU MAH (GÜNEŞLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORMANİÇİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRÜMCE MAH (YARMAKAYA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZELEVLER MAH (BAĞDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAÇIK MAH (BEBEK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PALANLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞAMEZRASI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAYAMLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARBAŞI MAH (DURAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARYAYLA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "REŞATLI MAH (KUYULU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "REZİP KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAKALLI MAH (AĞAÇKONAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIHARMAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SERHATLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYİTEVLER MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SINCIK MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEMİKAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEREFLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞİFRAK MAH (SERİNCE MAH) (İNCEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞİRAZİ MAH (BEBEK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAKLAR MAH (SERHATLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞAR MAH (SERHATLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞGEDİK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞOLUK MAH (TETİKAN MAH) (DERİNSU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAŞPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TECİR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEKPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPEBAŞI MAH (HASANCIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPEÖNÜ MAH (UZUNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TERMAN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TUNÇLAR MAH (SERHATLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TUTLUCA MAH (DİŞBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UĞURCA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UĞURLU MAH (KAYAÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULUBEY MAH (KAYAÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULUDAM KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNÖMER MAH (BAĞDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇDİREK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜRGÜÇ MAH (ATAKENT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VALİ HALİL IŞIK MAH (ATAKENT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VARLIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VARTANA MAH (TAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAĞLICA MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YARMAKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YASSIHÖYÜK MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLACIK MAH (UZUNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLADAMI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZIBAŞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZICA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZLIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEDİOLUK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİGÜVEN KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİMAH. (ÇEMBERLİTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİNACAR MAH (AKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLKÖY MAH (ŞEREFLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLOVA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILDIZLI MAH (BATTALHÜYÜK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOĞURTLU MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUVACIK MAH (BELİKAN MAH) (AKDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZEY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZİYARET MAH (ZİYARETPAYAMLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZİYARETPAYAMLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZORKÖY MAH (GÖZEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİTAŞI MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MARA MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜMEREVLER MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULUCAMİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATDERESİ MAH (YAYLAKONAK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİMENKE MAH (YAYLAKONAK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNCEKOZ MAH (YAYLAKONAK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÇALI MAH (YAYLAKONAK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YAYLAKONAK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZİVAR MAH (YAYLAKONAK BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTINŞEHİR MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARBAROS HAYRETTİN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PETROLOSB MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜRKİYE PETROLLERİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ SANAYİ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "AĞAKÖY MAH (UZUNTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "AKDAMAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "ALTINTEPE MAH (KIRMACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "BAĞARASI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "BAKACAK MAH (KIRMACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "BAŞAKLI MAH (BAYIRLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "BAYIRLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "BEKÇİLER MAH (TEPEÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "BEKİRCİK MAH (ÇİÇEK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "ÇEŞMEBAŞI MAH (KIRMACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "ÇİÇEK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "ÇİLLE MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "DASINCA MAH (TAŞKUYU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "DOĞANCA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "DOĞANLAR MAH (ÇİÇEK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "GÖLPINAR KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "GÖLTARLA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "GÜMÜŞSUYU MAH (ÇİÇEK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "İNCEALİ MAH (YARIMBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "KEÇİÖREN MAH (GÖLTARLA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "KERGEKUŞU MAH (YARIMBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "KIRAÇ MAH (KIRMACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "KIRMACIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "KIZILÖZ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "KOVANOLUK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "KUŞTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "OVACIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "SARIKÖK MAH (GÖLTARLA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "SEFVANKÖY MAH (TEPEÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "TAŞKUYU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "TEPEÖNÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "TOKAÇLI MAH (BAYIRLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "UYANIK MAH (DOĞANCA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "UZUNTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "YARIMBAĞ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "YEŞİLBAĞ MAH (KIRMACIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "BARAJ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "ÖRENTAŞ MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SAMSAT",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÇINAR MAH (İNLİCE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÇÜKAN MAH (İNLİCE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "FIRAT MAH (İNLİCE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KARADAĞ MAH (İNLİCE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÖZBİLGİN MAH (İNLİCE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "TAŞLICA MAH (İNLİCE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "TUNA MAH (İNLİCE BELDESİ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ADAKLAR MAH (ŞAHİNBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "AKSU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ALANCIK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ARIKONAK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "AYDIN MAH (SÖĞÜTLÜBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "BALKAYA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "BİRİMAN MAH (ŞAHKOLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÇAĞLAYAN MAH (HÜSEYİNLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÇALILIK MAH (HÜSEYİNLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÇAMDERE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÇARHANEK MAH (ÇATBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÇAT KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÇAT MAH (GEÇİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÇATBAHÇE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ÇAVÇÜK MAH (ÇATBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "DAMLI MERKEZ MAH (TAŞKALE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "DERECİK MEZRASI MAH (SAKIZ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "DERVİŞAN MAH (ŞAHKOLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "DİLEKTEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "DÜDAN MAH (ÇAT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "EKİNCİ KUTAN MAH (TAŞKALE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ELMIRTAN MAH (ÇAMDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ESKİKÖY KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "FIRIN MAH (BALKAYA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "GEÇİTLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "GER MAH (ALANCIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "GEVRİK YAĞMURLU MAH (AKSU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "GEVROL MAH (ARIKONAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "GOLLUSOR MAH (SERİNCE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "GÖV MAH (ARIKONAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "GÜMÜKHAN MAH (HÜSEYİNLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "GÜZELSU MAH (HASANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "HASANLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "HAYIRLI MAH (SAKIZ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "HAZAZ MAH (ÇAMDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "HESİKAN MAH (ÇAMDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "HİJİK MAH (ÇAMDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "HODRİ MAH (YARPUZLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "HÜRMER MAH (AKSU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "HÜSEYİNLİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KARAKAYA MAH (HASANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KARAKÖSE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KASKANLI MAH (DİLEKTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KOCAGAZİ MEZRASI MAH (SAKIZ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KÜÇÜK EVLER MAH (SAKIZ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KÜÇÜKÇAY MAH (DİLEKTEPE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KÜPLÜCE MAH (ŞAHİNBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KÜRELİFAN MAH (ŞAHİNBEYLER KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KÜSRAN MAH (ALANCIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "MENGİL MAH (ARIKONAK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "NARLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "PINARBAŞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "REZAN SAĞLAM MAH (TAŞKALE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "SAKIZ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "SERBENT MAH (ÇAMDERE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "SERİNCE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "SOĞANLI MAH (SERİNCE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "SORUT MAH (KARAKÖSE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "SÖĞÜTLÜBAHÇE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "SUBAŞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ŞAHİNBEYLER KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ŞAHİNTEPE MAH (YARPUZLU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ŞAHKOLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ŞAMLÜK KALIMLI MAH (TAŞKALE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "TAŞKALE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "TEPEBAŞI MAH (ÇATBAHÇE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "TİŞİK MAH (ALANCIK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "TOKLUCA MAH (BALKAYA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "TURMUŞAN MAH (AKSU KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "TUZİK MAH (GEÇİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "UĞURLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "YANIKKAYA MAH (HASANLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "YARPUZLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "YASSIKAYA MAH (SERİNCE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "YAYLA EVLERİ MAH (SAKIZ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "YAYLABAŞI MAH (BALKAYA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "YÜKSEKOVA MAH (HÜSEYİNLİ KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ZEVİSİMİLAN MAH (TAŞKALE KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "AYENGİN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "KARAMAN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "MAHMUTOĞLU MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ONUR MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "SİNCİK",
+    "Mahalle": "ZEYNEL ASLAN MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "AKBEL MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "AKÇATEPE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "BOYUNDERE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "ELÇİLER KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "HAVUTLU KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "KAŞLICA KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "KILLILI MAH (YAYLIMLI KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "KÖSELİ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "MERYEMUŞAĞI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "ÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "PAMUKLU MAH (KAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "PINARLI MAH (YEŞİLYURT KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "SÜLMEN MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "TEPECİK KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "ÜNLÜCE KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "YALANKOZ KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "YAYLIMLI KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "YEŞİLYAMAÇ MAH (TEPECİK KÖYÜ)"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "AYNİYE MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "BULANIK MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "FETHİYE MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "REŞADİYE MAH"
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilçe": "TUT",
+    "Mahalle": "SALAH MAH"
+  }
+]

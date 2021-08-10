@@ -1,0 +1,9157 @@
+[
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AFET EVLERİ MAH (BALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AFET EVLERİ MAH (MÜEZZİNLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AĞAGİL MAH (GÜMÜŞHANE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AĞAGİLİN MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AHMET KAYAGİL MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ALİAĞAGİL MAH (GÜMÜŞHANE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ALİGİL MAH (İNCİLLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ANAÇLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ARKİM MAH (AVCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AŞAĞI CAMİ MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AŞAĞI MAĞNAR MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AŞAĞI MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AŞAĞI MAH (HAMURLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AŞAĞI MAH (KARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AŞAĞI MAH (KIZILCIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AŞAĞI MAH (ÖRTÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AŞAĞI ŞUVAT MAH (AŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AŞAĞI YAYLA MEVKİİ MAH (GÜLEŞ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "AYVAZLAR MAH (AŞAĞIIRMAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BADEMLİ MAH (İNCİLLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BAĞLAR MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BAĞLAR MAH (FERHATLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BAĞLAR MAH (KUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BAHÇELİEVLER MAH (KAPIKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BANTALUĞ MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BAŞAKLAR MAH (KIZILCIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BAŞYİĞİTGİL MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BATAK MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BAYRAMGİL MAH (BEREKET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BEKİRGİL MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BERATLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BORGAMA MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BÜYÜK DÜZ MAH (GÜLEŞ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "BÜYÜK YAYLA MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMANDAR MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMANDAR MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMANGELET MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMİ MAH (AKARSU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMİ MAH (ÇAKILLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMİ MAH (GEÇİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMİ MAH (İNCİLLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMİ MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMİ MAH (KUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMİ MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CAMİLİ MAH (AŞAĞIIRMAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CUĞO MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "CUMHURİYET MAH (KUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ÇAKIZAR MAH (ÇAKILLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ÇATMALIK YAYLASI MAH (KIZILCIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ÇAVUŞ ALİGİL MAH (OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ÇAYAĞZI MAH (TEPEDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ÇEVRELİK MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ÇINARDİBİ MAH (GÜMÜŞHANE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "DALAHET YAYLASI MAH (BEREKET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "DEMİRCİ MAH (YOLAĞZI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "DERE MAH (AKARSU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "DEREBAĞLAR MAH (NALDÖKEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "DİKMEN YAYLASI MAH (BALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "DORİK MAH (ÇAKILLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "DÜZ MAH (ÇAKILLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "EFEKÖY MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "EKŞİNAR KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "EMİN AĞAGİL MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "GARABAN MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "GARBELET MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "GİZELT MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "GOMOZOR YAYLASI MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "GONARA MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "GORPOTA MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "GOZİROT MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "GÖLBAŞI MAH (OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "GÜLÇAYIR MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HACİGİL MAH (GÜMÜŞHANE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HAMİTGİL MAH (GÖKÇE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HARKBAŞI MAH (AKARSU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HARMANLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HAS MAH (OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HASBAHÇE MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HASMENLAT MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HİSARLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HORHOT MAH (KIZILCIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HOŞATGİL MAH (İNCİLLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "HÜRRİYET MAH (KUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "İMEDEGİL MAH (GÜMÜŞHANE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "İSOT MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KADIGİL MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KADIGİL MAH (İNCİLLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KADİRAĞAGİL MAH (OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KALTDESE MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KANALT MEZRASI MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KANSALİYA MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KARAGÖL YAYLASI MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KAVLAKLI MAH (GÜLEŞ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KAYADIBI MAH (SAKARYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KAYAGİL MAH (KUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KIŞLA MAH (AVCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KİLLİT MEZRASI MAH (KIZILCIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KİRAZLI MAH (BULANIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KOCAGET MAH (BEREKET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KOLBAŞI MAH (OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KONAKLI YAYLASI MAH (AKARSU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KONAKLI YAYLASI MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KÖPRÜBAŞI MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KURUDAT MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KUTUL MAH (BULANIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KUZEY MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KÜNYE MAH (SAKARYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KÜRDEVAN YAYLASI MAH (AŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "KÜRDEVEN İNCİLLİ MAH (İNCİLLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "LANPUVAR MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "LOMAT MAH (İNCİLLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "LORİ MAH (BULANIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MAHMUTLAR MAH (KUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MAZMAN MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (AKARSU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (AŞAĞIIRMAKLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (AŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (BALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (BULANIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (ÇIRALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (FERHATLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (GEÇİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (GÜLEŞ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (KAPIKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (KAŞIKÇI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (MÜEZZİNLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (ÖRTÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (SAKARYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (TEPEDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MERKEZ MAH (TORBALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MEŞEKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MEZRA EVLERİ MAH (KAPIKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MEZRA EVLERİ MAH (KARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MEZRA EVLERİ MAH (TÜTÜNLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "MEZRA MAH (YOLAĞZI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "NALDÖKEN KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "NANKAR MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "OGEÇE MAH (GÜLEŞ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ORTA MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ORTA MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ORTA MAH (ÇAKILLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ORTA MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "OZANLI MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "PAŞAAĞAGİLİN MAH (KAŞIKÇI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "PAŞALIK YAYLASI MAH (KIZILCIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "PİNTİGİL MAH (İNCİLLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "SAKATGİL MAH (İNCİLLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "SALİHAĞA MAH (BEREKET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "SANABET MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "SARSOLOT MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "SEDESTPİLİN MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "SIK MAH (OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "SIKA MAH (KIZILCIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "SÖĞÜTLÜK MAH (GÜLEŞ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ŞATIRGİL MAH (BEREKET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TABZOR MAH (ÇIRALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TAŞPINAR YAYLASI MAH (BALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TATLISU MAH (KIZILCIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TATURGİL MAH (BEREKET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TAYÇALA MAH (GÖKÇE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TEKNOVET İNŞAAT MAH (SOĞANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TİKMANET MAH (BEREKET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TOPÇULAR MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TOSUNLU KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TUZLUCA MAH (GÜMÜŞHANE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "TÜTÜNLÜ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "USTALAR KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "UZUN ÇAYIR YAYLASI MAH (HAMURLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ÜZÜMLÜ MAH (AKARSU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "VARKENET MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "VARZELİ MAH (AVCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YANIK MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YANIKLAR MAH (GEÇİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YAPRAKLI MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YAYLA MAH (GEÇİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YAYLA MAH (MÜEZZİNLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YAYLA MAH (OVACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YAYLA MAH (TOSUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YAYLA MAH (ZEKERİYAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YAYLACIK KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YAYLALAR MAH (BULANIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YILDIZELİ MAH (GÜMÜŞHANE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YOBAT MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YOLAĞZI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YUKARI CAMİ MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YUKARI MAĞNAR MAH (AYDINKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YUKARI MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YUKARI MAH (BEREKET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YUKARI MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YUKARI MAH (HAMURLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YUKARI MAH (KARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YUKARI MAH (PEYNİRLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YUKARI ŞUVAT MAH (AŞIKLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "YUKARIIRMAKLAR KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARDANUÇ",
+    "Mahalle": "ZEKERİYAKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "AŞAĞI HACILAR MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "BOĞAZİÇİ MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MUSAZADE MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YEMİŞLİK MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YUKARI HACILAR MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "AKINCILAR MAH (DİKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ALTILAR MAH (ÜÇLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ASLANLAR MAH (SIRTOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "AŞAĞI MAH (DEREÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "AŞAĞI MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "AŞAĞI MERKEZ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "AŞAĞI ÜÇLER MAH (ÜÇLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "AŞAĞIŞAHİNLER KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "AYDOĞDU MAH (YUKARIŞAHİNLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "BERZENE MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "BIYIKLIOĞLU MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "BOYUNCUK KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "BÜYÜK MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "CENEVİZLER MAH (DÜLGERLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ÇAMLICA MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "DEĞİRMENDERE MAH (ULUKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "DEMİRCİLER MAH (DÜLGERLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "DERE İÇİ MAH (ÜÇIRMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "DEREİÇİ 1 MAH (YUKARIŞAHİNLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "DEREİÇİ 2 MAH (YUKARIŞAHİNLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ESKUAT MAH (ÜÇIRMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ESKUVAT MAH (DÜLGERLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "GÜLLAVAT MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "GÜLTEPE MAH (BALIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "GÜNAYDIN MAH (DEREÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "GÜNDOĞDU MAH (YUKARIŞAHİNLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "GÜNEYCE MAH (BALIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "GÜRGENCİK KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "HACILAR MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "HATİNOĞLU MAH (ÜÇIRMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "HÜRRİYET MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ISINALİ MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "İSMAİL ÇAĞ MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KAMİLET MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KAMİLET MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KEMERKÖPRÜ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KESTANEALAN KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KİREÇLİK KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KOZLUCA MAH (BALIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KÖROĞLU BÜYÜKLÜ MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KÖSEOĞLU MAH (TEPEYURT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KÖYİÇİ MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KÖYİÇİ MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KURTULUŞ MAH (ÜÇLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KUSLETA MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KUZEY MAH (ÜÇIRMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "KÜÇÜK MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MASTAKA MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MERKEZ MAH (DERECİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MERKEZ MAH (DİKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MERKEZ MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MERKEZ MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MERKEZ MAH (ORTACALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MERKEZ MAH (SIRTOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MERKEZ MAH (TEPEYURT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MERKEZ MAH (ÜÇIRMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MERKEZ MAH (ÜÇLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MERKEZ MAH (YOLGEÇEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MEZRA MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MEZRA MAH (DİKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "MEZRA MAH (ORTACALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "NAPLAT MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "NOPİNARE MAH (YOLGEÇEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "OMJORE MAH (DÜLGERLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ORTA MAH (DEREÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ORTA MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ORTA MAH (KÜÇÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ORTA MAH (ÜÇIRMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "OYMALI MAH (ORTACALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ÖRNEK MAH (ARILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "PEPERDİHA MAH (DÜLGERLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "SARIBAŞ MAH (DEREÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "SOĞUKSU MAH (DİKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "SUCUNA MAH (DÜLGERLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ŞAHİNLER MAH (DÜLGERLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ŞENKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "TAŞLIK MAH (SIRTOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "TAŞPINAR MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "TÜRKMENE MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "TÜRKMENE MAH (YOLGEÇEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "ULAŞ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YENİ MAH (SOĞUCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YENİYOL MAH (YUKARIŞAHİNLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YEŞİLLİK MAH (ULUKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YILDIZLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YILMAZLAR MAH (ÜÇLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YUKARI MAH (DEREÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YUKARI MAH (KAVAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YUKARI MAH (KONAKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YUKARI MERKEZ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ARHAVİ",
+    "Mahalle": "YUKARI ULUKENT MAH (ULUKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "KÜÇÜK KÖY MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "YENİYOL MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ADAGÜL KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ADAGÜL MAH (ADAGÜL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "AKDİLEK MAH (BOĞAZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "AMBARLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ARALIK KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ARALIK MAH (ARALIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ARALIK MEZRA MAH (ARALIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ARKAKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ARKAKÖY MAH (ARKAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ATANOĞLU KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ATANOĞLU MAH (ATANOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "AVCILAR KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "BALCI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "BAŞKÖY MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "BOĞAZKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "CAMİLİ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "CAMİLİ MAH (CAMİLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "CİVAN KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "CİVAN MAH (CİVAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ÇARMAKİT MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ÇAVUŞLU KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ÇAYLIKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ÇİFTEKÖPRÜ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "DEMİRCİLER KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "DÜZENLİ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "DÜZENLİ MAH (DÜZENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "DÜZHANLAR MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "DÜZKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "EFELER KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ESENTEPE MAH (İBRİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "FINDIKLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "GÜREŞEN KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "IŞIKLI MAH (ALACA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "İBRİKLİ MAH (İBRİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "KARŞIKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "KAYADİBİ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "KAYALAR KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "KAYALAR MAH (KAYALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "KAYNARCA KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "KAYNARCA MAH (KAYNARCA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "KAZANAKAPI MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "LONGANA MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "MARAL KÖY MAH (MARALKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "MARALKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "MERKEZ MAH (ALACA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "MERKEZ MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "MERKEZ MAH (İBRİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "MEZRA MAH (EFELER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "MURATLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ORHAN MAH (ALACA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ORTADERE MAH (ALACA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ÖRÜCÜLER KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ÖRÜCÜLER MAH (ÖRÜCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "PETROL MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ŞEREFİYE KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "TARAKLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "TOPÇULAR MAH (KALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "UĞUR MAH (UĞURKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "UĞURKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "UZUNLAR MAH (GÜZELYURT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "YANGIN MAH (ALACA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "YAYLA MAH (ARKAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "YAYLA MAH (EFELER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ZEDOBAN KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ZORLU KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "BORÇKA",
+    "Mahalle": "ZORLU MAH (ZORLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "BUCAK MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "MERKEZ KULEDİBİ MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "ORTAHOPA MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "SUGÖREN MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "SUNDURA MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "YUKARI KULEDİBİ MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "AŞAĞI YOLDERE MAH (YOLDERE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "BALIK KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "BAŞKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "BAŞOBA KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "ÇARŞI MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "ÇAVUŞLU KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "EŞMEKAYA KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "GÜNEŞLİ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "GÜVERCİNLİ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "HACILAR MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "HENDEK KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "KARŞI MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "KOPMUŞ MAH (ESENKIYI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "KOYUNCULAR KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "MADENLİ MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "MERKEZ MAH (ESENKIYI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "MISILLET MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "ORTA MAH (ÇAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "PINARLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "SUBAŞI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "HOPA",
+    "Mahalle": "YUKARI YOLDERE MAH (YOLDERE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "UZUNYALI MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "AKDERE KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ÇAMURLU KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "DEREİÇİ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "GÜMÜŞDERE KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "KARAOSMANİYE KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "KARŞI MAH (OSMANİYE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "KAYA KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "KAZİMİYE KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "KÖPRÜCÜ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "LİMAN KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "MERKEZ MAH (OSMANİYE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "SARP KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "KEMALPAŞA",
+    "Mahalle": "ÜÇKARDEŞ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALCIOĞLU MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYAĞZI MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AGORA MAH (BEŞAĞIL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AGUSET MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHARŞEN MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHLAT MAH (AHLAT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKBUDAK MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKTAŞ MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALABALIK MAH (ALABALIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALTUNBAĞ MAH (SÜMBÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ANÇELOĞLU MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARIPINAR MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARİF ÇAVUŞ MAH (BAKIRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI BAĞLAR MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MADEN MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (DİKMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (HAMAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (TÜTÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI TOLGUM MAH (SALKIMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞIBAĞLIK MAH (DOKUZOĞUL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATABEYLAR MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATANASUR MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AVAZA MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AVAZAN MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDOĞAN MAH (SEYİTLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AZİZAĞAOĞLU MAH (BAKIRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BABANOĞLU MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BADEMLİK MAH (DERİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLAR MAH (SAKALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLIK MAH (AĞILLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLIK MAH (OKUMUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİ MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALLI MAH (ALABALIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALLI ÜZÜM MAH (BALLIÜZÜM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARDAKLI MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BASILAVUR MAH (VEZİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BASOT MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYRAMLI MAH (DOKUZOĞUL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BERZELER MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞAĞAÇ MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞAĞIL MAH (BEŞAĞIL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYCUR MAH (DİKMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİKİLİLER MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOLUKLU MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖREKET MAH (DERİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜK YAYLA MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİ MAH (AHLAT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİ MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİ MAH (HAMAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİ MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAMİ MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CANCAĞ MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CANOĞLU MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CARTİYET MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CARTİYET YAYLASI MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CENNET MAH (KALBURLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEVİZLİ MAH (ALABALIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CİCOTHEV MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CİMAK MAH (DİKMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CİNEGARA MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAĞRAKAN MAH (DİKMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKMAKLI MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALANT MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALIKEU MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇALIŞKANLAR MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAM MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIK MAH (KALBURLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAMLIKAYA MAH (DOKUZOĞUL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇARBİYET MAH (SEYİTLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATALCA MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAVUŞLAR MAH (PIRNALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYAĞZI MAH (ORMANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYIRLI MAH (HOZABİR MAH) (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇELİKLER MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇERMİK MAH (DERİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇEŞMELİ MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇISĞILIEV MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİĞİYET MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİMENLİ MAH (ALABALIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİMENLİ MAH (ÇİMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİTLİK MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇORASA MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÖMLEKÇİ MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAGRAK MAH (ZEYTİNLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DALAVUT MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DALİZELER MAH (AHLAT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DANAYAYIMI MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DANZOTLU MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAVTAVUR MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRCİ MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERELER MAH (ALABALIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERELER MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİDVAKE MAH (AHLAT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİDVAKE MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİDVANAK MAH (KÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİNDAROĞLU MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞANLI MAH (DOKUZOĞUL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞANLI MAH (FISTIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOLİŞGİL MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DUBE MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DUGANALA MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZ MAH (SÜMBÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DÜZENLİ MAH (ALABALIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELİKLER MAH (PIRNALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMALI MAH (SALKIMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERDEMLİ MAH (BAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERENLER MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERİCEK MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERİKLİ MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENBİGİL MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FELENGAUR MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FİDANLIK MAH (SEYİTLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GORAZUL MAH (VEZİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GORGOT MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GORĞON MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKÇEYURT MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLEHURA MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZELER MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GURDAZE MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GURGANET MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GUVERTA BAĞLIĞI MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLDİBİ MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLTEPE MAH (ALABALIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNDOĞDU MAH (FISTIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEYCE MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜZELKÖY MAH (ÇİMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ĞOYNAR MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACİGİL MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAFIZAĞAOĞLU MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMAMLI MAH (HAMAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HANS MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HARKALTI MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAROT MAH (PIRNALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAŞUT MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAVNAGARA MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEKİMOĞULLARI MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIRHAN MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOKMELA MAH (ZEYTİNLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOZEGARA MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İHTİYAROĞLU MAH (VEZİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMAMGİL MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMNİYET MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNEK YAYLASI MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İRGUT MAH (ZEYTİNLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAKACAVUR MAH (AHLAT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAKIABAR MAH (VEZİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALKANLI MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KANATLI MAH (BAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARACA MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KASIKAPI MAH (DOKUZOĞUL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAŞIKLİ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KATNAGARA MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKLI MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYMAKLI MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEÇENET MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KENAHT MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEŞOĞULLARI MAH (AHLAT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILIÇLI MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOÇOĞLU MAH (BAKIRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOLBET MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOMASAGORA MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOYTARLAR MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖPRÜ BAŞI MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖPRÜBAŞI MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖSELER MAH (KÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖY İÇİ MAH (DERİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖYİÇİ MAH (AĞILLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURDİGET MAH (FISTIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUSLU MAH (KALBURLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUŞLUCA MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUVAP MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "LOT MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAMARNE MAH (ZEYTİNLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEDRESAKO MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (BAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ÇİMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (FISTIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KÖSELER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (OKUMUŞLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ORMANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (PIRNALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (SAKALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (TÜTÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (VEZİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (ZEYTİNLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEYDAN MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZRA MAH (ÇİMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEZRA MAH (ORMANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MISIRLI MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİNYATÜR MAH (BAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİRZİGİL MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MOLAS MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUĞA MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSKOLU MAH (DOKUZOĞUL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAĞMUR MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAKOREV MAH (ALABALIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAPETUR MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NATENGELAV MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NAZİGİL MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NIPALA MAH (SEYİTLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NUHSAĞARA MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OCAKBAŞI MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORMANLI MAH (ORMANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (DİKMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (HAMAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTABAĞLAR MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSUT MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖRENLİ MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PARMAKLI MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PETRİGİL MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PIRNALLI YAYLASI MAH (PIRNALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RAHTEVANOĞLU MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "REM MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "REŞİTOĞLU MAH (BAKIRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "RUHİGİL MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SABUR MAH (PIRNALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAÇINKA MAH (SALKIMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAĞRİYETUL MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALAT MAH (DOKUZOĞUL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALİCOR MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALİHOĞLU MAH (ERENLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIDANA MAH (PIRNALLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARSIHEV MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SATİBO MAH (BEŞAĞIL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAYGILI MAH (AĞILLAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SELVAGET MAH (HIZARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEVAİL MAH (BEŞAĞIL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRALAN MAH (HAMAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRT MAH (DERİNKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRT MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİKAŞAR MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOBAR MAH (SALKIMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKPINAR MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOLMAZ MAH (DOKUZOĞUL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOTİBAR MAH (SEYİTLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOYLU MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SUMBATUR MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜMETAĞARA MAH (VARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞANLİYET MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAVKAF MAH (SAKALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TALGUM MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TANRIVERDİ MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TANZEK MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPEBAŞI MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPECİK MAH (YESİRGİL MAH) (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPECİK MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TIHNARA MAH (ORMANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TIRAŞGİL MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOPLUCA MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TOSUNLU MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TUSAKLAR MAH (DOKUZOĞUL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UĞUR MAH (AŞAĞIMAH MAH) (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UĞUR MAH (HEKİMOĞLUMAH MAH) (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UĞUR MAH (MİJNABARA MAH) (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UĞUR MAH (YUKARIMAH MAH) (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "USKUP MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "USLUFENT MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UYANIK MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "UZUNDERE MAH (ORMANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇDUT MAH (ORUÇLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇPINAR MAH (KALBURLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇPINAR MAH (ORUÇLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇPINAR MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VAKE MAH (SÜMBÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VANAT MAH (AHLAT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VEHNAT MAH (TAŞLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VEZİRKÖYYAYLASI MAH (VEZİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VEZİROĞLU MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAMAÇLI MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAMAÇLI YAYLASI MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YANIKLI MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLALAR MAH (YANIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİCE MAH (ORTAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİGÜN MAH (SARIBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİŞLİ MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (DİKMENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (FISTIKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (HAMAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (TÜTÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI SADRO MAH (ZEYTİNLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI ŞEHİTLİK MAH (ŞEHİTLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI TOLGUM MAH (SALKIMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZEGONİ MAH (TÜTÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZOM MAH (AŞAĞIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZORLU MAH (YUKARIMADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZUVAR MAH (HAMAMLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "KÜRE MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "A.BALABAN MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "AKANTAŞ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "ARDIÇLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "ARSLANLI MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "BUDİYET MAH (KABACA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "ÇİMENLİ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "DAMAR ÇARŞI MAH (DAMAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "EĞRİ SU YAYLASI MAH (KABACA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "ERENKÖY KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "GÖNÜLLÜ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "KARŞIYAKA MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "KORUCULAR KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "KURUÇAY MAH (KABACA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "KÜRE KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "MERKEZ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "OSMANLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "PETEK KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "SALKAYA MAH (KABACA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "MURGUL",
+    "Mahalle": "Y.BALABAN MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "A.ŞİNDOBAN MAH (DALKIRMAZ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ABDULGİL MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ABDULOĞLU MAH (KOCABEY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AGAGİL MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AGARA MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AGARA MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AGARA MEZRASI MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AĞAGİL MAH (AKDAMLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AHALDABALILAR MAH (YAŞAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AHALGASGİL MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AHAŞEN MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AKGÖL MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AKKIRAÇ MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AKSAKALLAR MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AKSU MAH (MADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ALAGÖZ MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ALİGİL MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ALTINOLUK MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ARÇİLER MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ARDIÇLI MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ARDIYASMINDA MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ARILAR MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ARIŞET MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ARKİYET MAH (YUKARIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ARSİYAN MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ARSİYAN MAH (YONCALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ARSİYAN YAYLASI MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ASNİGİL MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI BAĞLI MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI CAMİ MAH (KİREÇLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (HANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (KARAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (MADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (SUSUZ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (TEPEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (YAŞAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI MAH (YUKARIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AŞAĞI TETRAKET MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AVAZANAT MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AVCALA MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AVCILAR MAH (ESKİKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "AYVAZGİL MAH (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAĞBAŞI MAH (DUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAĞCECİ MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAĞCILAR MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAĞÇUKUR MAH (KÖPRÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAĞLICA MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAHÇECİK MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAHÇECİK MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAHÇECİK MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAHÇEKAPI MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAHÇELİ MAH (ŞALCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BALCILAR MAH (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BALIKLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BANA1 MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BANA2 MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BASAVRA MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BASKALLAR MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAŞAĞAGİL MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAŞKALE MAH (ESKİKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAŞPINAR MAH (DÜZENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAYIRCA MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BAYRAKTARLAR MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BECİTGİL MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BELTİYET MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BEREKGİL MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BERİYET MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BEŞEVLER MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BEYLER MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BEYLER MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BEYLİK MAH (YAMAÇLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BİZİNGİL MAH (SAYLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BORAĞAL MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BOZTOPRAK MAH (KİREÇLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BUCAT MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BUÇİGİL MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BUDAKLI MAH (AŞAĞIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BUHAR MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BULUNTUGİL MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BÜYÜK KIŞLA MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "BÜYÜK KKIŞLA MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CALACALAT MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (AŞAĞIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (ÇAĞLIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (DUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (DÜZENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (ESKİKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (HANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (KURUDERE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (SAYLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (ŞALCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CAMİ MAH (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CANOĞLU MAH (ZİYARET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CARAT MAH (KÖPRÜYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CEDLİGİL MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CENGELEK MAH (ÇERMİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CENGELEK MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CENGELEK MAH (ŞALCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CENGELEK MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CENGELEK MAH (YEŞİLCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CEYLANLI MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CİMUHLAR MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CİNDAĞI MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CİNDAĞI MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CİNOLAR MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CİNŞARLAR MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CİRİGİL MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "COLA MAH (YUKARIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "CUDES MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAÇAT MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAĞLAYAN YAYLASI MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAĞLIPINAR MAH (ÇAĞLIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAĞLIPINAR-2 MAH (ÇAĞLIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAKIRLI MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAKVRİZELER MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAMLITEPE MAH (DEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇARBAŞI MAH (KARAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇATALKAYA MAH (KİREÇLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAVDARLI YAYLASI MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAYAĞZI MAH (ÇAYAĞZI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAYIRLAR MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇAYSALİZE MAH (KOCABEY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇERMİK MAH (MADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇİÇEKLİ MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇİÇEKLİ MAH (KÜTAV MAH) (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇİFTEHANLAR MAH (ESKİKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇİMENLİ MAH (YONCALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇİVİZELER MAH (OBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇİVLİK MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇİVO MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇORAKLI 2 MAH (ÇORAKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇORAKLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇORAKLI MAH (ÇORAKLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇUKUR 2 MAH (ESKİKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇUKUR MAH (ESKİKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÇUKUR YAYLASI MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DADAŞGİL MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DAVLAUR MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DAVUTLAR MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEDE MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEDEAĞA MAH (KİREÇLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEMİRCİGİL MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEMİRCİGİL MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEMİRCİGİL MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEMİRCİLER MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEMİRCİLER MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEMİRCİLER MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEMİRCİOĞLU MAH (ÇERMİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEMİRKAPI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEMİRKAPI MAH (AKDAMLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEMİRKAPI MAH (DEMİRKAPI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DERE MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DERE MAH (SAYLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DERE MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DERECİK MAH (DEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEREİÇİ MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DEVRİŞLER MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DICALA MAH (ÜZÜMLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DİDMERE MAH (DUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DOĞANDÜZÜ MAH (KÖPRÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DOĞANLAR MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DRANKOĞLU MAH (KOCABEY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DUĞABİZE MAH (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DURSUNLAR MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DUTLU MAH (DUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DÜKKANLAR MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DÜKKANLAR MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DÜZ MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DÜZ MAH (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DÜZEBAKAN MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "DÜZENLİ YAYLASI MAH (DÜZENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "EHERLİ MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "EKİNCİLER MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ERİKLİ MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ESKİ CAMİ MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ESKİKALE MAH (ESKİKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ESKİYAYLA MAH (ESKİKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "EYİPGİL MAH (YAMAÇLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GENÇAĞAGİL MAH (KOCABEY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GIGAZELER MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GOGELET MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GORGAZE MAH (OBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GÖÇOĞULLARI MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GÖKNİZELER MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GÖKOVA MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GÖKYUVA MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GÜNDOĞDU MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GÜNKAYA MAH (TOSU MAH) (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GÜRSOY MAH (DUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GÜRZELLAR MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GÜVEN MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "GÜZELCE MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HABERLER MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HACILAR MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HACİGİL MAH (YAMAÇLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HAFİZOĞLU MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HALAZELER MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HALİFGİL MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HALOGİL MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HAVACIOĞLU MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HAYTAGİL MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HAZNADAR MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HAZNEDAROĞULLARI MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HOCAGİL MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HOCAGİL MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "HOZANÇAYIR MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "İBRAHİMOĞLU MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "İKİ SU ARASI MAH (HANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "İNKAVAR MAH (AŞAĞIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "İSPİROĞLU MAH (KOCABEY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KADİRGİL MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KAHVECİOĞLU MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KAMBATLAR MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KARABİBER MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KARAGÖL MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KARİSAT MAH (ÇERMİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KARŞI MAH (KÖPRÜYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KARŞIYAKA MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KARTALLAR MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KAVACIK MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KAVAKLIK MAH (KARAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KAVUZOĞLU MAH (ŞALCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KAYABAŞI MAH (DÜZENLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KAYABAŞI MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KAYABEGLAR MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KAYAOĞULLARI MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KILDIZİRET MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KIRIK MAH (KÖPRÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KIŞLA MAH (HANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KIŞLALAR MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KOCABEY MAH (KOCABEY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KODANA MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KORTAHAZE MAH (OBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KORUNGA MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KÖKLER MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KÖPRÜBAŞI MAH (HANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KUMAŞLAR MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KUNELAR MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "KURUNDERE MAH (HANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "LİBAN MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MAÇKADET MAH (YEŞİLCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MAHİGİL MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MAHİGİL MAH (YAMAÇLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MAMOGİL MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MANASGİL MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MARİASMİNDA MAH (ŞALCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MEGRELOĞULLAR MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MELEKGİL MAH (YAŞAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MENEMŞE MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (DALKIRMAZ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (DEMİRCİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (KÖPRÜLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (MEYDANCIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (OTLUCA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (SEBZELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (YEŞİLCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MERKEZ MAH (YONCALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MEYDANLAR MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MEZRA MAH (KARAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MISIRLI KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MİKAZELER MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MOLLAGİL MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MOLLAOĞLU MAH (OBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MORTLAZELAR MAH (YAŞAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MURATOĞLU MAH (KOCABEY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "MUTLUCA MAH (ŞENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "NADIROĞULLARI MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "NAKUŞNEV MAH (AKDAMLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "NAPARNEV YAYLASI MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "OBA MAH (OBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ODABAŞLAR MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "OGEÇE MAH (AŞAĞIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "OKÇULAR MAH (ESKİKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "OKUL MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "OKURLAR MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "OLUKLAR MAH (ÇAVDARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORTA MAH (AKDAMLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORTA MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORTA MAH (AŞAĞIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORTA MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORTA MAH (OBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORTA MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORTA MAH (YAMAÇLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORTA MAH (YUKARIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORTA MAH (ZİYARET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORTA SAVAYİL MAH (ESKİKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ORUÇLU MAH (ÇAĞLIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "OVACIK MAH (KİREÇLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÖRENCİK MAH (ÇAYAĞZI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÖZTÜRKLER MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "PANCARLIK MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "PAPİYET MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "PARUET MAH (AKDAMLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "PINARTARLA MAH (KİRAZLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "PİRPİZELER MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "PUKŞALAR MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "RABAT MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "RAMADANGİL MAH (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "RECEPHANE MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SAHARA MAH (KOCABEY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SAKDAR MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SAKİOĞLU MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SAKİRİYET MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SAKORNİYET MAH (YONCALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SARAÇOĞLU MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SARIÇAYIR MAH (ERİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SARIÇİÇEK MAH (YUKARIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SARIKAVAK MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SARİKEVLA MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SARKİSEUL MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SASONGİL MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SATARBAŞI MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SAVAHİL MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SAVAŞ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SAVAYİL MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SEBZELİ MAH (SEBZELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SERDALLAR MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SERGİCİ MAH (KOCABEY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SIRT MAH (DALKIRMAZ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SIRT MAH (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SOÇLİNDOR MAH (YAMAÇLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SUBAŞGİL MAH (ATALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SUSUZ KIŞLA MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SUSUZ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SUSUZ MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ŞALİKOĞLU MAH (ŞALCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ŞARTUL MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ŞATURLAR MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ŞENOCAK MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ŞEYHOĞLU MAH (ÇERMİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ŞİRİNAĞAGİL MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ŞOBELALAR MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TABANOĞULLARI MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TARLABAŞI MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TAŞBAŞI MAH (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TAŞKÖPRÜ KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TAŞLI YAYLA MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TEKDİLDE MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TOKAZELER MAH (ZİYARET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TOPCULAR MAH (ILICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TOPÇULAR MAH (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TOPTAŞ MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TULAZELAR MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TURANGİL MAH (YAMAÇLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "TURUTLAR MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ULUKENT MAH (ÇAĞLIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÜÇYOL MAH (HANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ÜNYALLAR MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "VAKET MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "VELAT MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "VELTA MAH (SUSUZ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "Y.KOYUNLU MAH (YUKARIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "Y.ŞİNDOBAN MAH (DALKIRMAZ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YAĞLI MAH (YAĞLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YAĞMURLU MAH (DUTLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YAVUZKÖY MAH (YAVUZKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YAYALAR MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YAYIKLI MAH (KÖPRÜYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YENİ KIŞLA MAH (PINARLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YENİ MAH (CİRİTDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YENİ MAH (ŞENOCAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YENKAHOR MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YEŞİLCE MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YEŞİLVADİ MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YILDIRIM MAH (MEŞELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI CAMİ MAH (KAYADİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI CAMİ MAH (KİREÇLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (ÇERMİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (ÇİFTLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (HANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (KARAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (KOCABEY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (MADEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (SAVAŞ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (SUSUZ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (TEPEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (YAMAÇLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (YAŞAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (YUKARIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI MAH (ZİYARET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI TETRAKET MAH (ÇUKUR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YUKARI YAYLA MAH (HANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ZAMİGİL MAH (ARPALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ZANTA MAH (YUKARIKOYUNLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ZİYADOĞLU MAH (CEVİZLİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ZİYARET MAH (VELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ZİYARET MAH (ZİYARET KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "ŞAVŞAT",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ABANOZ MAH (BAHÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ABRAMET -KAKRAZEVL MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ADA MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ADA MAH (IRMAKYANI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ADA MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ADATEPE MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AĞAÇ DİBİ MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AĞAGİL MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AĞARA MAH (SERİNSU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AHALT MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AHALT MAH (HAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AHANGİL MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AHARŞEN MAH (BADEMKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AHARŞİN MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AHET MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AHMETOĞULLARI MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AHUT MAH (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AKAKET MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AKARŞEN MAH (ZEYTİNCİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AKÇAY MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AKÇİÇEK MAH (YOKUŞLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AKMEŞE MEZRASI MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AKMEŞE MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AKNEZOR MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ALİGİL MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ALİKOLAT MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ALLOS MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AMENESKET MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ARAPGİL MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ARDIÇLI MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AREKE MAH (DARICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ARNUTGE MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ARUNZE MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ASKENT MAH (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ASLANLI MAH (ALANBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ASLANOBA MAH (GETHANE MAH) (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI ÇAMLIK MAH (BAHÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI GÜNEY MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI GÜP MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI MAH (BAHÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI MAH (HAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI MAH (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI MAH (YÜKSEKOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI MİSUR MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI UBAN MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞAĞI VARMET MAH ( AŞAĞI ÇAĞLAR MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AŞIK MUHİBBİ MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ATAMAN MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ATAN MAH (COGARA MAH) (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ATBAŞI MAH (ZEYTİNCİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ATMİK MAH (DAĞETEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AVAREK MAH (DARICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AVREK MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AVRES MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AYAZGİL MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AYVALI MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAÇUT MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BADEMKAYA YAYLASI MAH (BADEMKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞCI CAMİ MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞCI MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞLAR MAH (KINALIÇAM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞLIK MAH (SAĞ MAH) (ARPACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞLIK MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞLIK MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞLIK MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞLIK MAH (GÜNYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞLIK MAH (PAMUKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞLIK MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAĞLIK MAH (YOKUŞLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAHTEV MAH (DERECİK MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAKIRTEPE YAYLASI MAH (BAKIRTEPE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BALCIGİL MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BALEZE MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BALHIBAR MAH (BALCILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BALİYET MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BALLIDUT MAH (GİVNAR MAH) (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAMBACIGİL MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BARIŞ MAH (ÇUMAT MAH) (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BASELET-ZUVARE MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BASİLET MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAŞ MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAŞ MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAŞAKLI MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAŞKERET MAH (MUTLUGÜN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAUT MAH (BAHÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAYRAKTARGİL - VEYİSOĞLU MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BAYRAKTAROĞLU MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BEKSLER MAH (DAMLATAŞ MAH) (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BELENCİK MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BENARA MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BEŞKAVAK MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BEZ MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BİRADİYET MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BODURLAR MAH (IRMAKYANI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BOĞAZ BAĞLIK MAH (DARICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BOROVAN MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BOROVAN MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BOROVANLAR MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BOSMİNDA MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BOZKUŞ MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BÖLÜKBAŞI MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BÖLÜKBAŞI MEZRASI MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BÖREKLİ MAH (KÖSEOĞULLAR MAH) (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BURAT MAH (VERİMLİ MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "BUSAKET MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CALAT MAH (GÖKCELER MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMEKAR MAH ( CAMİ MAH) (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ VE İHTİYAROĞLU MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ KAPISI MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (BAHÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (KÖPRÜGÖREN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (TARAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİ MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİİ MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CAMİLİ MAH (BALCILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CANCAK MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CANISKALA MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CANOL MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CARET MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CARKANA MAH (HAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CATELLER MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CATELLER MEZRA MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CELİCVAR MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CEVİZLİ MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CİHALOR VE SİVANZOR MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CİNAGARA MAH (IRMAKYANI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CİNNAR MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CİRES MAH (DARICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CİSELET MAH (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CONZARET MAH (BADEMKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CORNAK MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "CURET MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAĞLAYAN MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAĞLAYAN MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAKMAK MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇALILIK MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇALIŞKANLAR MAH (KİRAZALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAM YUVA MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAMDİBİ MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAMLIBEL MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAMLICA MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAMLIK MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAMOLUK MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇARMANET MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇARŞI MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇARŞI MAH (KÖPRÜGÖREN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇATALELMA MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAVUŞGİL MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAYAĞZI MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAYAĞZI MAH (MUTLUGÜN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAYIRİÇİ MAH (BAKIRTEPE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAYIRLI MAH (KAHLAR MAH) (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇAYIRLI MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇELİK MAH (BADEMKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇINAGARA MAH (ÇELTİKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇINARLI MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇİÇALA MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇİLKOSET MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇİLLİKET MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇİNSEGARA MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇİNTAT MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇİTOĞULLARI MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇOBANSUYU MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇOLAKOĞLU MAH (PAMUKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇONCUR MAH (ARPACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇORAHLAKET MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇÖRGENS MAH (YAMAÇÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇUBUKLU MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇUKUR MAH (DARICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇUKUR MAH (GÜMÜŞÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇUKUR MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÇUVAR MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DAGİR MAH (DAĞETEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DAĞEZE MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DAMLACIK MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DARNUÇ MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DART MAH (ZEYTİNCİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DARTAV MAH (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DEDEHAL MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DEĞİRMENCİK MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DELİGİL MAH ( CİLVANA MAH) (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DELİGİL MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DEMİRCİGİL MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DEMİRKALEM MEZRA MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DEMİRKALEM MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DERE MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DERE MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DERE MAH (YAMAÇÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DEREBAŞI MAH (MORKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DEREİÇİ MAH (KİRAZALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DEREİÇİ MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DEREKAPI MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DEVTİSE MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DİB MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DİBE MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DİDMUĞA MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DİDVAKE MAH (KİRAZALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DİKMELER MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DİYAKEN MAH (GÖKÇALA MAH) (ZEYTİNCİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DİZANOT MAH (ZEYTİNCİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DOĞANKARA MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DOLEYS MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DOLUPINAR MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DURUÇAY MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DUTDERE MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DUTDERE MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DUTLUPINAR MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DÜĞÜNLÜ MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DÜZCE MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DÜZLER MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DÜZLER MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "DÜZYOL MAH (KACOL MAH) (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "EĞRİTAŞ MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "EKUTER MAH (GÜNYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "EMETOĞLU MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ENGÜLLÜ MAH (DAĞETEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ERİSMAN MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ESENTEPE MAH (IRMAKYANI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ESKİ CAMİ MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ESKİYAYLA MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ESPEK MAH (DARICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "EYGAR MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GABANDİBİ MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GALDAMAK MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GASMALİKET MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GAVNAR MAH (ÇELTİKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GAVRANZOR MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GEDİKLİ TAŞ MAH (MUTLUGÜN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GEVLET MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GEVRAKE MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GEZLOR MAH (GÜNYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GOCOĞET MAH (GÜNYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GOMELT MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GORİYET MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GOSTAGARA MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÖKÇESU MAH (MUTLUGÜN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÖLDERE MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÖRGÜLÜ MAH (KINALIÇAM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÖTEYARA MAH (ZEYTİNCİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÖZECİK MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GURGUNZE MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GUYRET MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÜDASHEV MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÜLOĞLU MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÜNAYDIN MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÜNDOĞDU MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÜNDÜZ MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÜNEY MAH (PAMUKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÜNEY MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÜNEY MAH (YÜKSEKOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÜNGÖRMEZ MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "GÜRMAŞIN MAH (ÇELTİKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HACERET MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HACIGİL MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HACIGİL MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HACIGİL MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HACIOĞLU MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HACIOĞULLARI MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HACIOSMANGİL MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HACOĞLAR MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HAKALI MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HAKVERDİ MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HANTAL MAH (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HANZARAT MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HARAN MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HARAT MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HARŞİGİL MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HASET MAH (MUTLUGÜN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HATAGARA MAH (HAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HAV BAĞLARI MAH (ALANBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HAVUZBAŞI MAH (BAHÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HIDIROĞLU MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HINZIHOV MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HIRCİK MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HİLDİSHAV MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HİNZASOR MAH (DAĞETEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HİŞNET MAH (ÇELTİKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HOCAGİL MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HOCAGİLLER MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HORK MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HOSİLET MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HOSTAGARA MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HOTMARA MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HUMETGİL MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HUNAHATKAR MAH (BALCILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HURŞİTGİL MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HUSİLLAR MAH (BALCILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HÜSEYİN HÜSNÜ PAŞA MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "IRMAKYANI MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "İKİZKAYA MAH (IRMAKYANI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "İMAMGİL MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "İMEN ÇİMEN MAH (SEBZECİLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "İNCETEPE MAH (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "İSPANDİK MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "İSRET MAH (BAYINDIR MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KADI KIŞLA MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KADIOĞLU MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAĞLIK MAH (GÜMÜŞÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAHRAMANGİL MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAHRAMANLAR MAH (BALCILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KALEDİBİ MAH (KARŞI MAH) (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KALEDİBİ MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KALEDİBİ MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KALEDİBİ MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KALMAĞOT MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAMNEGARA MAH (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KANATLI MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KANNET MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KANSAS MAH (ALANBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARACAOĞLAN MAH ( POLİSTAV MAH) (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARAGÖZOĞULLARI MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARAGÖZOĞULLARI MEZRA MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARAHANLAR MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARAMANLAR MAH (YOKUŞLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARAMEŞE MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARAMEZRA MAH (YAMAÇÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARAYİĞİT MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARBASAN MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARMUSÖR MAH (KINALIÇAM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARŞI MAH (DARICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARŞIKÖY MAH (CAMİ MAH) (YAMAÇÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARTUTAN MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARVANA MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KARZEL MAH (KÖPRÜGÖREN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAŞIKÇIGİL MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KATOLİK MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KATVANA MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAVAKLIDERE MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAYABAŞI MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAYABAŞI MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAYAGİL MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAYMAKLI MAH (KİRAZALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAYMAZ MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAYNARCA MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KEDA MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KEDAS MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KELAZOR MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KELENSEV MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KELEŞ MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KERAT MAH (YAPICI MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KEREMOĞLU MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KERTİCİLER MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KERVAN TEPE MAH (DAĞETEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KESBERLER MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KEŞOĞLU YAYLA MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KETKET MAH (AKALAN MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KETKET MAH (YÜKSEKOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KIR MAH (KÖPRÜGÖREN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KIRAVET MAH (BADEMKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KIRMA MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KIŞLA MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KIŞLA MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KIŞLA MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KIŞLA MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KITAVET MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KIVRAK MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KİDAZOR MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KİLETKAR MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KİRAVAT MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KİRAZLI MAH (YUKARI IRGUT MAH) (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KİRAZLI MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KİRAZLI MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KİRAZLI MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KİRTİYİT MAH (GÜNYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOBALET MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOCA AĞA MAH (ŞİRİN MAH) (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOÇAKLAR MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOÇALİGİL MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOÇAT MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOÇKET MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOLETET MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOLOGİL MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOLORTA MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KONNİYET MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KORNET MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KORYET MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOŞNAHAL MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KOŞUYOLU MAH (KOZANET MAH) (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÖPRÜBAŞI MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÖPRÜBAŞI MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÖPRÜBAŞI MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÖPRÜBAŞI MAH (IRMAKYANI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÖRAHMET MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÖŞEBAŞI MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÖY YANI MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÖYBAŞI MAH (KÖPRÜGÖREN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÖYBAŞI MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KRAYEKAR MAH (CAMİİ MAH) (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KUMLU MEZRASI MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KUMLU MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KUPRAT MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KUPRİYET MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KURTGİL MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KUZEY MAH (BABUTOĞLU MAH) (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KUZEY MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KUZEY MAH (MORKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KUZLUCA MAH (TARAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÜÇÜK ÇATALELMA MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÜÇÜK KAVAKLIDERE MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KÜÇÜK MAH (YÜKSEKOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "LAÇİNOĞLU MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "LAZGİL MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "LAZLAR MAH (AVCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "LAZOĞLU MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "LEKNAR MAH (YÜKSEKOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "LELVAR MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "LİTREV MAH (BALCILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "LUKASET MAH (GÜNYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "M.CAMİ MAH (SERİNSU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MAÇHETLER MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MAĞARA MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MAHİK MAH (ÇELTİKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MAHMİYOĞLAR MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MARAŞ MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MEREKLER MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ YUKARI MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (ARPACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (BADEMKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (BAKIRTEPE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (ÇELTİKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (DAĞETEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (GÜMÜŞÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (GÜNYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (İNANLI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (KILIÇKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (MUTLUGÜN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (ORMANDİBİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (ÖZGÜVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (PAMUKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (YOKUŞLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH (ZEYTİNCİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ OSANBAŞI MAH (ÇAĞLIYAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MEŞECİK KÖYÜ"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MEVLA MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MEYDAN MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MEZARLIK MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MEZRA MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MEZRA MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MISIROĞULLARI MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MISTAFAGİL MAH (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MİÇİNGİL MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MİYLES MAH (YAMAÇÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MODUT MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MOLLA ÖMER MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MOŞNAR-GİMNAR MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MURHAÇGİL MAH (DUTLUK MAH) (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MUSAGİL MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MUŞABES MAH (YAMAÇÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "NAHSİT MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "NAKERAV MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "NAKORT-SAKISDELA MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "NARCİVEL MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "NAVANEV -DALAVAR MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "NAZNARA MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "NESLİGARA MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "NİYART MAH (PAMUKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "NÖBETKET MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "NUSRET -KURDAT YAYLA MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ODUN DEPOSU MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "OGEÇA MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "OKURDAĞI MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "OLGUNLAR MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORMAN AĞZI MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORMANDİBİ MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTA CAMİ MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTA MAH (ALANBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTA MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTA MAH (HAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTA MAH (KÖPRÜGÖREN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTA MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTA MAH (MORKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTA MAH (PAMUKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTA MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTA VARMET MAH (ORTA ÇAĞLAR MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTAGÜL MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ORTAKLAR MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÖMERGİL MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÖZENLİ MAH (ŞAĞVALET MAH) (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PALSUYU MAH (ÇELTİKDÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PAMUKLUK MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PARHAT MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PAŞA MAH (PAMUKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PAŞALAR MAH (IRMAKYANI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PATRİKARA MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PERSET MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PEVZALAR MAH (BALCILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PINARBAŞI MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PINARBAŞI MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PINARLI MAH (KADIYET MAH) (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PINARLI MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PINARLI MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PİÇHET MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PİKALTAY MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PİRİNÇLİK MAH (BAĞLIK MAH) (ARPACIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PİSİGARA MAH (TARAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PİŞAR YAYLASI MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PİŞHANKARA MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PİŞNAR MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PİŞNARHEV MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "POSO MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "POSOVAT MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PUÇ MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "PUSAGARA MAH (HAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "RECEPGİL MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SAATOL MAH (HAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SABAHTE MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SABANET MAH (ÇIRALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SABZUVAN MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SADIKHANE MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SAKAT MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SAKURA MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SAKUT - NATO MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SAKUT MAH (YAMAÇÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SALBET MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SALKANA MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SAMCELİYAT MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SAMİSAGARA MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SANDIKLI MAH (PAMUKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SANİKOR MAH (GÜNYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SARGÜLE MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SARIERİK MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SARIGÖL MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SARIKOÇ MAH (SERİNSU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SASEPEL MAH (YENİCE MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SATİBE MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SAVRİYAT MAH (BALCILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SEKU MAH (TAŞLICA MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SEPEGAR MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SEPEGARA MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SERGAT MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SERİNTEPE MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SERİNTEPE MAH (YAMAÇÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SETHET MAH (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SIHİYAT MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SIRT MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SIRT MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SIRT MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SIRTÜSTÜ MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SİLEMİNTA MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SİMAĞET MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SİPRİYET MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SOFUOĞLU MAH (BOSTANCI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SOĞUK OLUK MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SOĞUKSU MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SOĞUKSU MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SOŞT MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SÖĞÜTLÜ MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SÖĞÜTÖNÜ MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SUBABARA MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SUHPEÇ MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SULTANGİL MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SULTANGİL YAYLASI MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SULUOVA MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SURA MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SURHAN-TEREK OĞULLARI MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SUSUZAGARA MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SUVAK MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SÜTLÜCE MAH (KÖY MERKEZİ MAH) (SÜTLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "SÜTLÜPINAR MAH (CANİYET MAH) (KÖMÜRLÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ŞABANGİL - ZEKARATLAR MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ŞAPET MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ŞATIROĞLU MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ŞAVLAK MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ŞEHİTLİK MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ŞÖTGET MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAHNAGARA MAH (GÜNYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TANDIRKAYA MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TARPOGİL MAH (ERENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞBAŞI MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞBAŞI MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞBAŞI MAH (IRMAKYANI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞBAŞI MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞBAŞI MAH (PAMUKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞDELEN MAH (ÖĞDEM KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞDİBİ MAH (PAMUKÇULAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞDİBİ MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞKENT MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞKÖPRÜ MAH (CONET MAH) (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TAŞLI MAH (AŞAĞI MAH) (DARICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TATLIÇAY MAH (BOYALI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TEPE MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TİBET MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TİLKİ MAH (ALANBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TOKAT MAH (TALIÇAYIR MAH) (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TOPALOĞLU MAH (BALALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TURNALAR MAH (ALTIPARMAK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "TUSPİR MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "UCAR MAH (KİRAZALAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "URUMGİL MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "USUPGİL MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "UTLETLER MAH (ÇAMLICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "UYSALLAR MAH (MUTLUGÜN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "UZUN MAH (SERİNSU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ÜZÜMLÜ MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VAÇGET MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VAKE MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VAKET MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VAN MAH (GÜRSU MAH) (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VANAT-GEDEVNET-LAŞET MAH (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VARLIK MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VEHLAN MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VEHNAL MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VELİGİL MAH (SEBZECİLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VERNEŞ MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "VİNK BAĞLIĞI MAH (MORKAYA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YAĞMURÇAY MAH (BALCILI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YAKALI MAH (DEMİRKENT KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YAKARI ÇAMLIK MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YANIK ALUZAR HAKANET MAH (ÇEVRELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YANIK MAH (DAĞETEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YARBAŞI MAH (KÜPLÜCE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YARBAŞI MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YASSIKAYA MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YAYIGİL MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YENİ MAH -TAŞBAŞI MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YENİ MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YENİ MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YEŞİLÖZ MAH (BIÇAKÇILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YEŞİLYURT MAH (KURTİKET MAH) (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YEŞİLYURT MAH (AĞAGİL MAH) (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YEŞİLYURT MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YOKUŞBAŞI MAH (NAHNEP MAH) (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YOLBAŞI MAH (YÜNCÜLER KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YONCALIK MAH (KOT- NATELT MAH) (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YONCALIK MAH (DEMİRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI BÖLÜKBAŞI MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI ÇAMLIK MAH (BAHÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI GÜP MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI KAYAGİL MAH (TEKKALE KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI KAYMAZ MAH (DOKUMACILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI LEKNAR MAH (YÜKSEKOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI MAH (DARICA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI MAH (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI MAH (HAVUZLU KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI MAH (YÜKSEKOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI MISUR MAH (İŞHAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI SAKURA MAH (YAYLALAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI UBAN MAH (TAŞKIRAN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUKARI VARMET MAH (YUKARI ÇAĞLAR MAH) (DEREİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUMURTALI MAH (ALANBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUVACIK MAH ( MANTAGARA MAH) (ESENYAKA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "YUVARLI MAH (YAMAÇÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ZANGELLER MAH (IRMAKYANI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ZEKARAT MAH (DEMİRDÖVEN KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ZELİYET MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ZEYTİNLİK MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ZEYTİNLİK MAH (YARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ZİYARET MAH (NARLIK KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ZOLAĞARA MAH (YÜKSEKOBA KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ZOYBAR MAH (ESENDAL KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ZUVARE MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "AHALT MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "ERDEMLER MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "HASANAĞA MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "ARTVİN",
+    "ilçe": "YUSUFELİ",
+    "Mahalle": "MERKEZ MAH"
+  }
+]

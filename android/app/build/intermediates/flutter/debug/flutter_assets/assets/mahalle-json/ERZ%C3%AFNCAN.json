@@ -1,0 +1,5022 @@
+[
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "AHMETAĞA MAH (BÜYÜKYAYLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "AKDAŞ MAH (GÖLLER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "AKDOĞAN MAH (BÜYÜKYAYLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ARITAŞ MAH (ÇİLLİGÖL KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "AŞAĞI KOM MAH (ÇAYÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "AŞAĞIÇAMURDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "AŞAĞIKARTALLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "BALIKLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "BAŞKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "BEYİN KOMU MAH (ÇAYKENT KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "BOTAŞ MAH (BAŞKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "BOYBEYİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "BOZAĞA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "BÖLÜKOVA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "BÜYÜKGELENGEÇ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "BÜYÜKYAYLAKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "CENNETPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ÇATAKSU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ÇAYKENT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ÇAYÖNÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ÇİLHOROZ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ÇİLLİGÖL KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "DELİKTAŞ MAH (ÇİLHOROZ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "DELİKTAŞ MAH (GÖLLER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "DİREKLİ MAH (BÜYÜKYAYLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "DOĞANYUVA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "DOLUCA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ERBAŞ İSTASYONU MAH (ÇATAKSU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ESENDORUK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "EŞMEPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "GELİNPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "GÖLLER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "HARMANTEPE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "HASTARLA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "HENEGE MAH (YAZIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "KAHNUT MAH (ÇAYÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "KARAMELİK MAH (ÇAYÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "KARATAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "KAVAKLI MAH (HASTARLA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "KÜÇÜKGELENGEÇ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "KÜMBELER MAH (BÜYÜKYAYLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "MAZLUMAĞA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "MEZRA MAH (YAYLAKENT KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "MİRZAOĞLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "OĞULTAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ORTAÇAT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "OZANLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "PAŞAYURDU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "PINARLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "SARIGÜNEY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "SAYGILI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "SIRATAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "ŞENLİK BABA MAH (OZANLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "TOPRAKKALE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "TOSUNLAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "TURNAÇAYIRI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "VERİMLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "YAPRAKLI MAH (ÇATAKSU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "YAYLAKENT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "YAYLALAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "YAZIKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "YEŞİLYAKA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "YUKARIÇAMURDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "YUKARIKARTALLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÇAYIRLI",
+    "Mahalle": "YÜREKLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ABDULLAH PAŞA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "İBRAHİM ÇEÇEN MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "AKÇAYAZI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "AKDOĞU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ALTINTAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "APUŞTA MAH (AĞILDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ATMA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "BAĞDERESİ MAH (TURGUTLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "BAĞLICA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "BAHÇECİK MAH (BAĞIŞTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "BALKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "BOYALIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "BOZÇALI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "BOZYAYLA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "BÜRÜNCEK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "BÜYÜKARMUTLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "BÜYÜKGÜMÜŞLÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ÇALTI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ÇAYYAKA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ÇİFTLİK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ÇİLESİZ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ÇOBANLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ÇÖPLER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ÇÖREKLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "DİKMEN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "DOĞAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "DOLUGÜN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "DORUKSARAY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "DOSTAL KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ELMACIK MAH (ÇİLESİZ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "GARİPÇAY MAH (ÇAYYAKA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "GÜNGÖREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "HASANOVA MAH (BOYALIK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "İSLAMKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KAPIKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KARAKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KAYACIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KAYMAKLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KONUKÇU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KOZLUCA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KURAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KUZKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KÜÇÜKARMUTLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KÜÇÜKGÜMÜŞLÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "KÜPLÜCE MAH (SARIKONAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "LEVENTPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "MERKEZ MAH (AĞILDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "MERKEZ MAH (BAĞCUĞAZ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "MERKEZ MAH (BAĞIŞTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "MERKEZ MAH (BÜYÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "MERKEZ MAH (ÇAYLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "MERKEZ MAH (KURUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ORTA AĞILDERE MAH (AĞILDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ORTATEPE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ÖZLÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "SABIRLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "SAĞ MAH (BAĞCUĞAZ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "SARIKONAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "SARIPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "SULARBAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "SÜTLÜCE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "TABANLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "TARDERE MAH (KURUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "TAŞKONAK MAH (BÜYÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "TURGUTLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "UĞUR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "ULUYAMAÇ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "YAKUPLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "YALINGÖZE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "YAYLAPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "YEŞİLYURT MAH (ÇALTI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "YILMAZ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "İLİÇ",
+    "Mahalle": "YUKARI AĞILDERE MAH (AĞILDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AŞAĞIGEDİK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "BEKLİMÇAY MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "CİRGİŞİN MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "GÖĞÜSBAĞI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KARŞIBAĞ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MEKTEPÖNÜ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ORTAGEDİK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "PÖRHENKBAŞI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AĞABA MAH (MURATBOYNU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AĞAÇSARAY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AKBUDAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AKÇA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AKSAKAL MAH (OLUKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AKTAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AKYÜNLÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ALİGICİKGİL MAH (KARACA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ALP KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ANTAK MAH (KERER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AŞAĞI MAH (DİKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AŞAĞI MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AŞAĞI MAH (KÖMÜR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AŞAĞI MAH (YASTIKTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AŞAĞIAVCILAR MAH (BOZOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AŞAĞIAVCILAR MAH (KARDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ATEŞLER MAH (KARACA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "AYRANPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "BAĞLARBAŞI MAH (KOÇKAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "BAHÇE MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "BALKAYA MAH (YAHŞILAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "BALLI KIŞLA MAH (GEDİKTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "BUZLA MAH (GEDİKTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "CEBESOY İSTASYONU MAH (KÜPLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "CEMOLAR MAH (KARACA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "CEVİZLİ MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇAKŞIR MAH (ATMA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇALGI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇALIKLAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇALOLAR MAH (KARACA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇAMLIYAYLA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇAY MAH (BOZOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇAY MAH (ÇİĞDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇAY MAH (DİKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇAY MAH (KOÇKAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÇAY MAH (MURATBOYNU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "DEDEK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "DEDEOĞLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "DERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "DOĞAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "DOĞANBEYLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "DOLMABAHÇE MAH (HAKBİLİR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "DORUCA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "DUTLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ELMALI MAH (SERİNGÖZE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ESENTEPE MAH (YAHŞILAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ESİMLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ESKİ KÖY MAH (BEŞİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ESKİBAĞLAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "GAVURYURDU MAH (KEDEK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "GİNDİRA MAH (GÖLKAYNAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "GÖKDERE MAH (GÖKKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "GÖLBAŞI MAH (KÜPLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "GÖLKAYNAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "GÜLBAHÇE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "GÜLLÜBAĞ MAH (KAYABAŞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "HACIKOMU MAH (KARACA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "HAKBİLİR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ILGARLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "İNCEDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "İNCESU MAH (HAKBİLİR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KALEMİS MAH (MURATBOYNU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KARADAĞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KARAMUSTAFALAR MAH (KARACA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KARDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KARDEŞLER MAH (ŞAHİNTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KARŞIYAKA MAH (KOÇKAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KAZANKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KEDEK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KEMERYAKA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KIRIKDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KIZILMAĞARA MAH (ATMA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KIZILPINAR MAH (KOÇKAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KIZILYAZI MAH (YASTIKTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KONUKSEVER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KORUYOLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KÖSELER MAH (MAKSUTUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KURT BAHÇESİ MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KUŞLU MAH (TAŞBULAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "KUTLUOVA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (ATMA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (BEŞİKLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (BOĞAZİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (BOZOĞLAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (CEVİZLİK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (ÇAKIRLAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (ÇİĞDEMLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (DİKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (ERİÇ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (GEDİKTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (GÖKKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (KARDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (KERER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (KÜPLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (MAKSUTUŞAĞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (MURATBOYNU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (OLUKPINAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (SERİNGÖZE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (ŞAHİNTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (TAŞBULAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERKEZ MAH (YAHŞILAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MERMERLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "MEZRA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "OĞUZ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ORTA MAH (KÖMÜR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÖTEGEÇE MAH (KERER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ÖZDAMAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "PARMAKKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "PINARBAŞI MAH (KOÇKAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "SAMANLI MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "SARIYAZI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "SÜREK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "TAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "TANDIRBAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "TAN'IN KOMLARI MAH (BOĞAZİÇİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "TUZLA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "ULUÇINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YAĞCA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YARDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YAZMALI MAH (DİKYAMAÇ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YENİYERLEŞİM MAH (YASTIKTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YUKARI ÇAKIRLAR MAH (ÇAKIRLAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YUKARI MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YUKARI MAH (KÖMÜR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YUKARI MAH (YASTIKTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YUSUFLAR MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YUVACIK MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMAH",
+    "Mahalle": "YÜCEBELEN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ARMAĞAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "AŞAĞIUMUTLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "AVCI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "BAHÇECİK MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "BALKIRI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "BAŞBAĞLAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "BUĞDAYPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "DEĞİRMENDERE MAH (AŞAĞIUMUTLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "EKİNDERE MAH (ŞAHİNLER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ESENCE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "GÜNYOLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KAVACIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KOMLAR MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KUTLUCA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "MERKEZ MAH (BAŞPINAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "SUBAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ŞAHİNLER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YILDIZLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YUKARIUMUTLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ADAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "AKÇALI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "AKÇİÇEK MAH (DUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "AŞAĞI MAH (DUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "AŞAĞI YUVACIK MAH (OCAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "BOYLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ÇAKIRTAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ÇAT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ÇİT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "DEMİR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "EFELER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KARAPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KARŞI MAH (OCAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KEKİKPINARI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KIŞLACIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KIYI MEZRA MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KIZILÇUKUR MAH (EFELER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KONACIK MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KUŞAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ORTA MAH (DUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "SALKIMLI MAH (KARAPINAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "TOPKAPI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YAZMAKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YENİ MAH (DUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YUKARI MAH (DUTLUCA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YUKARI MAH (OCAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YUKARI YUVACIK MAH (OCAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ARİKİ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "BAHÇE MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "DÖRTYOLAĞZI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "GENÇAĞA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "HACI YUSUF MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "HALİLAĞA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "İSHAKPAŞA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "NAİP MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "SANDIKBAĞI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "TAŞDİBİ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "AĞIL KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "AĞILLAR MAH (GÜMÜŞÇEŞME KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "AKSÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ARSLANOBA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "BAŞARI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "BEY MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "CAMİ MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ÇALDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ÇALTI MAH (GÜMÜŞÇEŞME KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ÇANAKÇI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ÇEREZ MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "DALLICA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "DİLLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "DOLUNAY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "EMİRLİ MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ERGÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ESERTEPE MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "GÖZAYDIN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "GÜLDİBİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "GÜMÜŞÇEŞME KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "HACCA MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "HARMANKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KABATAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KARŞI MAH (KARAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KAYABAŞI MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KEMERALTI MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KOCAÇİMEN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "KOZLUPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "MEREKLER MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "MERKEZ MAH (KARAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "MESCİT MAH (TUĞLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "NERKAT MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ORTA MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "OTTAŞ MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "POSER MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "SALİHLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "SANDIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "SIRAKONAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "TOYBELEN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "ULAŞ MAH (KARAKOÇLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YAKA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YAYLA MAH (APÇAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YAYLADAMI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YENİKÖY MAH (DİLLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YEŞİLYAMAÇ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "KEMALİYE",
+    "Mahalle": "YUVA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKŞEMSETTİN MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞBAĞLAR MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERSEVENLER MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLABİBEY MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İZZETPAŞA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MENGÜCELİ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARSLANLI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMİRKENT MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERGENEKON MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİTPAŞA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOCABEY MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNÖNÜ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILAY MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMANLI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TAKSİM MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİMAHALLE MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (ÇAĞLAYAN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (ÇAĞLAYAN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREBAĞ MAH (ÇAĞLAYAN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERDENE MAH (ÇAĞLAYAN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERTEKLİ MAH (ÇAĞLAYAN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞELALE MAH (ÇAĞLAYAN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAMAÇLI MAH (ÇAĞLAYAN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ADALAR MAH (BİNKOÇ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMETLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKTEPE MAH (SOĞUKOLUK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKTOPRAK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYAZI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALSANCAK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (TATLISU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDOĞDU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AZİZ BABA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇEYAZI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALIBEYİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BALTAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BARIŞ MAH (TATLISU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAŞPINAR MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYRAK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞİKTAŞ MAH (ÇATALÖREN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEŞSARAY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİNKOÇ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZYAZI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUĞDAYLI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BULUTLU MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKÇAKIRMAN MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAFERLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CAFOLAR MAH (CAFERLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEMAL GÜRSEL MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEVİZLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CEVİZLİ MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (TATLISU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇADIRKAYA MAH (AĞILÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATALARMUT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATALÖREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY MAH (BAHÇELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUBUKLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKURKUYU MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAVARLI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENKÖY MAH (DEĞİRMENKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMETEVLER MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREYURT MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKİNCİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKİNLİ MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EKMEKLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELMAKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERGAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERTUĞRUL GAZİ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EYÜP SULTAN MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FAİKOSMAN MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GANİEFENDİÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLCÜK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖYNE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLLÜCE MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞTARLA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNBAĞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEBAKAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEBAKAN MAH (GÜNEBAKAN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜRLEVİK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACIALİPALANGASI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HANCI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HANCIÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HANİDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HEYBELİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOCA AHMET YESEVİ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HÜRREMPALANGASI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ILIDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "IŞIKPINAR MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALECİK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARADİĞİN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARATUŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKYOLU MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEKLİKKAYASI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KILIÇKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIR MAH (GÜNBAĞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİLİMLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOÇYATAĞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KONAKBAŞI MAH (KONAKBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖKLÜ MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖPRÜBAŞI MAH (TÜRKMENOĞLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURTULUŞ MAH (TATLISU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURUTİLEK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKÇAKIRMAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MECİDİYE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEMETALİBEY MAH (BİNKOÇ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUNZUR MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSTAFA KEMAL PAŞA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MÜFTÜOĞLU MAH (KİLİMLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OĞLAKTEPE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OLUKLU MAH (ÇUBUKLU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTA MAH (BAHÇELİKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAYURT MAH (ORTAYURT KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSB MAH (AYDOĞDU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OSMAN GAZİ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZGÜRLÜK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAŞA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PEKMEZLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PINARÖNÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SANCAK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIGÖL MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAZLIPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAZTEPE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SELÇUKLU MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEYİTLER MAH (MECİDİYE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOĞUKOLUK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÖĞÜTÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜTPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT CENGİZ TOPEL MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİT SERHAT YURTBAŞI MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİTSERHAT MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞORAK MAH (AĞILÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TANDIRLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TERZİBABA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TÜRKMENOĞLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ULALAR MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇKONAK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜREK MAH (ÜREK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VANK MAH (GÜNBAĞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YALINCA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YALNIZBAĞ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLÇAT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLÇAY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (MOLLAKÖY BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "CUMHURİYET MAH (MOLLAKÖY BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAHMUTLU MAH (MOLLAKÖY BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TEPECİK MAH (MOLLAKÖY BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYURT MAH (MOLLAKÖY BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "AĞAMÇAĞAM KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "AVCIÇAYIRI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "BOĞAZLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "KARADİVAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "KÜÇÜKOTLUKBELİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "MEZRA MAH (AĞAMÇAĞAM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "MEZRA MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "ÖRDEKHACI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "UMURLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "YEŞİLBÜK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "OTLUKBELİ",
+    "Mahalle": "ŞEHİTLER MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AĞMUSA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AĞTAŞ MAH (BABAASLAN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AKARSU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AKBAĞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AKÇİĞDEM KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AKMEŞE MAH (ORTAGÖZE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ALACAHAN MAH (KÜRELİK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ALACATLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ALAÇAYIR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ALAPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ALTKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ARDIÇLIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ARMUTLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ARPAYAZI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ASLANYUSUF KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AŞAĞIMADEN-ÇAMDİBİ MAH (MADENDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AŞAĞISÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AŞUT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AVŞARÖZÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AYDINCIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AYDINCIK MAH (KAMBERAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AYDOĞAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "AYDOĞAN MAH (AYDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BABAASLAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BABOLAR MAH (GÜLENSU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BAKACAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BALOĞLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BAŞTOSUN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BEKTAŞLI MAH (MENDEMEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BİÇER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BOSTANDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BÖLÜKTEPE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BULAK MAH (ORTAGÖZE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "CENGERLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇALTI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇAMDİBİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇAMLIMÜLK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇAT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇATAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇATALÇAM KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇERÇİLER MAH (DİŞTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇIRAGEDİĞİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇİÇEKALİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇOBANLI MAH (RESULLAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇUKURÇİMEN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÇUKURYAZI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DAMLACA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DEDEPINAR MAH (YUKARISÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DELİKTAŞ MAH (YENİYURT KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DEREBAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DERE-YAYLA MAH (ÇUKURÇİMEN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DİKKE--BAYIRLI MAH (KEÇEGÖZ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DİŞTAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DİYARLAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DOĞANDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DOLAYLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "DOSTOLAR-UYSAL MAH (LEVENTLER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "EKECİK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "EMİRDERE MAH (KAMBERAĞA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ERECEK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ESKİKONAK MAH (YENİYURT KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GAZİPINARI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GEMECİK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GENCOLAR-ESENLİK MAH (ÇUKURÇİMEN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GÖKSEKİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GÖLCÜK MAH (KAÇAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GÖLKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GÖMÜ MAH (MENDEMEBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GÜLENSU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GÜMÜŞAKAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GÜNYÜZÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GÜVENDİK MAH (YAYLABELİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GÜVENTEPE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "GÜZLE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "HACIKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "HALİTLER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "HİNİSLER-BAŞAKLI MAH (BABAASLAN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "IŞIKLI MAH (GAZİPINARI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "İMECİK MAH (GÜLENSU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "İNCEHATİPLER MAH (DİŞTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KABULLER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KAÇAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KADIKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KALKANCI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KAMBERAĞA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KANDİL KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KANLITAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KARASU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KARAYAPRAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KARDEŞLER MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KARYATAĞI MAH (ÇAMLIMÜLK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KAYI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KAZI MAH (ARPAYAZI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KAZÖREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KEÇEGÖZ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KEL SÜLEYMAN MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KERDAĞ MAH (DEREBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KERSEN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KINOĞLU MAH (TEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KIRANTEPE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KIRIKTAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KIRKBULAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KIZILENİŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KOÇKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KOÇO MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KONAKKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KOVA MAH (YURTBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KÖÇEVİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KÖRİSMAİL MAH (ÇAMLIMÜLK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KUŞCULLU MAH (SAĞLIK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KUZULUK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "KÜRELİK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "LALELİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "LEVENTLER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "MADENDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "MEMİYURDU MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "MENDEMEBAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "MENDEMEKÖYÇUKURU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "MERKEZ KALKANCI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "MURATÇAYIRI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "MÜLK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "OLGUNLAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "OLUKLU MAH (KOÇKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ONURLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ORTAGÖZE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "OZAN MAH (AŞUT KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÖREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÖREN MAH (RESULLAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÖRTÜLÜ MAH (KIRANTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "PERÇEM KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "PINARYOLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "PİROĞLU MAH (ÇAMLIMÜLK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "RESULLAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "RESULOĞLU MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "SAĞLIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "SALUR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "SARHAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "SARIBAYIR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "SARIKOÇ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "SIRALI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "SÖĞÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ŞAHALOĞLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ŞAHVERDİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ŞAİP KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ŞAKKA-ÇİFTLİK MAH (BOSTANDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ŞIHORUÇ MAH (GÖLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TAHAR MAH (KONAKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TAŞDİBİ-TAŞBAŞI MAH (ARPAYAZI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TAŞLICA MAH (SÖĞÜTLÜ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TEKNECİK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TEMÜR MAH (ARPAYAZI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TEPE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TOPAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TOSUNLU MAH (KIZILENİŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TUZLAKONAĞI MAH (ORTAGÖZE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TUZLUÇAYIR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "TÜLÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ULUCAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ULUDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ÜÇÖREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YAĞMURTEPE MAH (KALKANCI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YANIK MAH (ÇAMLIMÜLK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YAYLA MAH (GAZİPINARI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YAYLA MAH (YILDIZÖREN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YAYLABAŞI MAH (GAZİPINARI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YAYLABELİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YAYLACIK MAH (ŞAHVERDİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YAYLAPINARI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YAZI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YAZI MAH (SALUR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YAZIGEDİĞİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YENİYURT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YERLİCE MAH (DİŞTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YILDIZÖREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YUKARISÜTLÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YUKARIYENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YURTBAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YUVADAĞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YÜNLÜCE MAH (GÜVENTEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "ZERELER MAH (GÜLENSU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "BİNALİ YILDIRIM MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "CAMİİŞERİF MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "HAKOĞLU MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "HÖKÜMET MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "REFAHİYE",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "CAMİİ KEBİR MAH (ÇADIRKAYA BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GÖZELER MAH (ÇADIRKAYA BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YENİ MAH (ÇADIRKAYA BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "CAMİİ ŞERİF MAH (KARGIN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "İSTASYON MAH (KARGIN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "SUCUALİ MAH (KARGIN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ŞEHİT AHMET AYTEKİN MAH (KARGIN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YOLLARÜSTÜ MAH (KARGIN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "AKŞEMSETTİN MAH (MERCAN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ATATÜRK MAH (MERCAN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "FATİH MAH (MERCAN BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "A.TEPECİK MAH (İĞİKİ MAH) (ILISU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "AĞÖREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "AKMEZAR MEZRASI MAH (BALYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "AKTAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "AKYURT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ALTINKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ALTINOVA MEZRASI MAH (BULMUŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ARAKEL KOMU MAH (BAŞBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ARMUTLUK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ASLAN ÇAYIR MAH (GEDİKDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "AŞAĞI BAHÇE MEZRASI MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "AŞAĞI CEMAL MEZRASI MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "AŞAĞI KONARLI MEZRASI MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ATÇAYIRI MAH (DOLUCA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "AZİME MAH (YAZIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BAĞPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BAKÇECİK MAH (ÇALKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BALÖZÜ MEZRASI MAH (BALYAYLA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BALYAYLA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BAŞBUDAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BEĞENDİK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BEŞGÖZE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BEŞKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BEY KOMU MEZRASI MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BEYKONAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BULMUŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BULMUŞ-KOM MAH (BULMUŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "BÜKLÜMDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "CIRNAVUK MAH (FINDIKLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ÇALKIŞLA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ÇATAKDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ÇAYIRDÜZÜ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ÇERME MAH (ILISU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ÇİFTELER MEZRASI MAH (ESENEVLER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ÇUKURYURT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "DALLICA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "DARITEPE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "DEĞİRMEN ARKASI MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "DEMİRKAPI MAH (DARITEPE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "DERE MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "DEREÇAYIRI MAH (ILISU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "DERVİŞ MEZRASI MAH (GEDİKDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "DOLUCA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "EDEBÜK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ELALDI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ELMALI MERKEZ MAH (ELMALI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ESENEVLER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "FINDIKLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GAFUREFENDİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GEDİKDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GENÇALİ MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GEVENLİK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GİRNEVİK MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GÖKÇE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GÖKDERE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GÖKPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GÖKTAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GÖL MEZRASI MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GÖLLÜCE MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GÖNCÜKHAN MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "GÜZBULAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "HACIBAYRAM KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "HARHURU MAH (BAŞBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "HAYRANLI MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "HOT MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "İBRAHİMAĞA MEZRASI MAH (ESENEVLER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "İBRAHİMAĞA MEZRASI MAH (GÜZBULAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "İKİZLER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "İNAKLI MEZRASI MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "İSHAK MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "İSMAİL AĞA MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KALE MEZRASI MAH (GEDİKDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KALECİK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KAMER KOMU MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KANÇO MEZRASI MAH (GEDİKDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KARABAŞ MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KARACAKIŞLAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KARAHÜSEYİN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KARLIK MAH (İKİZLER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KARŞIKARABAŞ MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KARUMNA MEZRASI MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KAVAKLI MAH (KARACAKIŞLAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KAVAKLIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KEBANİ MEZRASI MAH (GÜZBULAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KEMERÇAM KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KEŞİŞ KOMU MAH (GEDİKDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KIZILCA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KİLİSE KOMU MAH (BAŞBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KİLİSE MEZRASI MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KONARLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KOT MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KÖPRÜBAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KÖSEBEY KIŞLAĞI MEZRASI MAH (YUVALI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KÖZME MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KURUBEY MAH (YASTIKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KURUKOL KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KUŞLU MAH (YAZIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KUZÖREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KÜÇÜKAĞA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KÜLLÜCE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KÜRÜK MEZRASI MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "LOLAN MEZRASI MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "MANTARLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "MOLLAVELİ MAH (YAZIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "MUSA KOMU MAH (ALTINKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "MUSTAFABEY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "MÜFTÜOĞLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "OĞULVEREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ORTAKOM MAH (DOLUCA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ORTAKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "OYMATAŞ MAH (YAYLIM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "PENCİREK MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ROSTO MEZRASI MAH (GÜZBULAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "SAĞIR KOMU MAH (BAŞBUDAK KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "SAĞLICA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "SEYGİ MEZRASI MAH (YALINKAŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "SIRMALI MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ŞAKİRAĞA MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ŞENGÜL KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "TEPEBAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "TOPALHASAN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "TOPDURAĞI MAH (HACIBAYRAM KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ÜÇPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "Y.TEPECİK MAH (İĞİKİ MAH) (ILISU KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YALINKAŞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YAMANLAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YASTIKKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YAYLACIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YAYLAYOLU KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YAYLIM KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YAZIÖREN KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YENİ KÖY MEZRASI MAH (ESENEVLER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YENİBUCAK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YENİEVLER MAH (İKİZLER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YEŞİLYAYLA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YOĞURTLU MAH ( MAZAN MAH) (YASTIKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YOLLUCA MAH (ÇALKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YONCALAR MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YUKARI BAHÇE MEZRASI MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YUKARI BÜKLÜMDERE MAH (BÜKLÜMDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YUKARI CEMAL MAZRASI MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YUKARI GEDİKDERE MEZRASI MAH (GEDİKDERE KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YUKARI KONARLI MEZRASI MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YUKARI PUN MAH (İKİZLER KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YUKARIKOM MAH (KONARLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YUVALI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ZİNCİRLİ MAH (AKTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "AHMET YESEVİ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "ATATÜRK MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "MAMAHATUN MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "TERCAN",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BÜYÜK KADAĞAN MAH (ALTINBAŞAK BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "FIRAT MAHELLESİ MAH (ALTINBAŞAK BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "İSTASYON MAH (ALTINBAŞAK BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "KÜÇÜKKADAĞAN MAH (ALTINBAŞAK BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "PINARBAŞI MAH (ALTINBAŞAK BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "SÜLEYMANLI MAHELLESİ MAH (ALTINBAŞAK BELDESİ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "AHMETAĞA MAH (KUREYŞLİSARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "AKBİNBURNU MAH (KUREYŞLİSARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "AKBULUT MAH (BAYIRBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "AKÖREN VE AŞAĞI AKÖREN MAH (KUREYŞLİSARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ATATÜRK MAH (BAYIRBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "AVCILAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BAĞLAR DEMİRKAPI MAH (BAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BAĞLAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BAHÇELİEVLER MAH (BAYIRBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BALABANLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BEKTAŞ MAH (PELİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BULANIK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BÜYÜKKÖY ESKİ YERLEŞİM MAH (BÜYÜKKÖY KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BÜYÜKKÖY KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇADIRTEPE KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇARDAKLI DERMELİ MEZRASI MAH (ÇARDAKLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇARDAKLI DÜZALİ MEZRASI MAH (ÇARDAKLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇARDAKLI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇARDAKLI MURAT KOMU MEZRASI MAH (ÇARDAKLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇARDAKLI ŞAKO MEZRASI MAH (ÇARDAKLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇAYIRYAZI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇAYKOMU MAH (BALABANLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇERMİK MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇINARLI MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇİKOLAR MAH (BAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "DEĞİRMENDERE MAH (PELİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "DEMİRPINAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "DENİZDAMI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "DEREBÜK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "DÜZALİ MAH (ÇARDAKLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ERGENEKON MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ESENYURT KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ESKİ AVCILAR MAH (AVCILAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "FEVZİPAŞA MAH (KARAKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "GALCA MAH (AVCILAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "GEDİKARKASI MAH (ÇARDAKLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "GÖLLER KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "GÜLPINAR MAH (KUREYŞLİSARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "HASANAĞA MAH (KUREYŞLİSARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "İNANDIK MAH (ESENYURT KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "İSTASYON GEÇİT MAH (PELİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "KARACALAR ESKİ KÖY"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "KARACALAR KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "KAZMALI MAH (KUREYŞLİSARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "KOM MAH (AVCILAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "KUREYŞLİSARIKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "MAHO MEZRASI MAH (ÇARDAKLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "OCAKBAŞI KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ORUM MEZRASI MAH (ÇARDAKLI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "OTLUK KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "PELİTLİ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "PINARLIKAYA KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "PİŞKİDAĞ KÖYÜ"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "RESO SARIÇAM MAH (KUREYŞLİSARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "SAĞLAMLI MAH (OCAKBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "SANSA MAH (BAĞLAR KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "SEDO MAH (KUREYŞLİSARIKAYA KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "YILDIZ MAH (PELİTLİ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "YUNUS EMRE MAH (BAYIRBAĞ KÖYÜ)"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BABACAN MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "BAHÇEŞEHİR MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "CİMİNLİ BABA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇAVUŞLU MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "GEYİKLİ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "MUHSİN YAZICIOĞLU MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ORUÇLU MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "PİRİ SAMİ MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "TERZİBABA MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "ÜÇLER MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilçe": "ÜZÜMLÜ",
+    "Mahalle": "YUNUS EMRE MAH"
+  }
+]

@@ -1,0 +1,3572 @@
+[
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "AFŞİNBEY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "AĞCAŞAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ALEMDAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ALİMPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ALPASLAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ALTAŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ALTINELMA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ANZOREY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ARITAŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ARMUTALAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "BAKRAÇ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "BAŞÜSTÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "BERÇENEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "BEYCEĞİZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "BİNBOĞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "BÜGET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "BÜYÜKSEVİN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "BÜYÜKTATLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ÇAĞILHAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ÇOBANBEYLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ÇOĞULHAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ÇOMUDÜZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ÇUKURPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "DAĞLICA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "DEDEBABA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "DEVEBOYNU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "DOKUZTAY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "EFSUS TURAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "EMİRİLYAS MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "EMİRLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ERÇENE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ESENCE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "GERGER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "GÖZPINARI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "HATİCEPINARI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "HURMAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "HÜYÜKLÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "İĞDEMLİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "İNCİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "İNCİRLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "KABAAĞAÇ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "KANGAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "KARAGÖZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "KAŞANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "KOÇOVASI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "KÖTÜRE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "KUŞKAYASI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "MEHRE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "NADIR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "OĞLAKKAYASI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ÖRDEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ÖRENDERESİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "ÖRENLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "SOĞUCAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "SÖĞÜTDERESİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "TANIR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "TATLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "TOPAKTAŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "TÜRKÇAYIRI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "TÜRKSEVİN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "YAZIDERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "YAZIKÖY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "AFŞİN",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "AKÇAKOYUNLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "AKGÜMÜŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "AKİFİYE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ALAMEŞE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ALANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ALINOLUK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ALTINBOĞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ALTINYAYLA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ANACIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ARIKLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "BAŞDOĞAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "BEKTAŞLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "BEŞBUCAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "BOĞAZÖREN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "BOSTANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "BOYNUYOĞUNLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "BOZTOPRAKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "BULGURKAYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "CAMUZLUK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ÇİÇEKLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ÇUHADARLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "DARIOVASI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "EFİRAĞIZLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "EMİRLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "GEBEN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "GÖKAHMETLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "GÖKÇELİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "GÖKGEDİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "HACIVELİUŞAĞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KABAAĞAÇ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KABAKLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KALEBOYNU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KARAPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KARGAÇAYIRI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KIYIKÇI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KIZIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KÖKLÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KÖLELİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KUMARLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "KUZGUN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "SUMAKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "TATARLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "TORUN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "TUFAN PAŞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "YEŞİLOVA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "CAMBAZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ÇİĞŞAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ÇOKAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "ORHANİYE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "OSMANCIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "RİFATİYE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ANDIRIN",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "AKDERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "BAYIRLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "BOYLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "BOZLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "BÖLÜKDAMLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "EMİRUŞAĞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "ENGİZEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "HELETE KARADAĞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "KÜÇÜKCERİT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "KÜÇÜKÜNGÜT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "ORUÇPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ÇAĞLAYANCERİT",
+    "Mahalle": "ZEYNEPUŞAĞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "DİVANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "EKMEKÇİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "İSA DİVANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "İSMET PAŞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "SAKARYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "TURAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "YENİ ŞEHİR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ABBASLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "AĞABEYLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "AKYAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ALİBEYUŞAĞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ARSLANBEY ÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "AYAKLICAOLUK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BAHÇELİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BAŞDEVRİŞLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BAYDEMİRLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BEŞENLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BOYALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BUDAKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BULANIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ÇATMAYAYLA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ÇINARLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ÇİĞLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ÇOBANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ÇOKYAŞAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "DEMİRCİLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "DENİZLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "DEREKÖY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "DERELİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "DOĞANLIKARAHASAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "EKBEROĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ELMALAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ESKİNARLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "GAFFARLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "GÖLLÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "GÜNEŞEVLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "GÜZELYURT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "HACIEYÜPLÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "HALKAÇAYIRI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KABASAKAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KAPIÇAM MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KARAMANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KARTAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KAZANLIPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KEMALLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KILAĞLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KOCOLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KOZLUDERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KUZUCAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KÜÇÜKNACAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KÜPELİKIZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "MAKSUTUŞAĞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "NAVRUZLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "OSMANBEY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ÖKSÜZLÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "PEYNİRDERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "SARIKAYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "SEYRANTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "SİVRİCEHÜYÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ŞEREFOĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "TEVEKKELLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ULUTAŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "YENİPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "YENİYURT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "YUSUFHACILI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "AKSU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BAHÇELİ EVLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "DULKADİROĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "EGEMENLİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ERKENEZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "EYÜP SULTAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "GENÇ OSMAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KANUNİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KARACASU FERHUŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KARACASU KARAZİYARET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KARACASU KARŞIYAKA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KARACASU KIRIM MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KARACASU MAMARAŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KARATAŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "MEHMET AKİF MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "NAMIK KEMAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "SÜMER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ŞEYH ADİL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ŞEYH ŞAMİL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "YAVUZ SELİM MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "ASLAN BEY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BALLICA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "BAYAZITLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "DOĞU KENT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "DURAKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "FEVZİ PAŞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "GAZİ PAŞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "SENEM AYŞE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "SÜTÇÜ İMAM MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "YAHYA KEMAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "DULKADİROĞLU",
+    "Mahalle": "YEŞİLTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "AKPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "ALİŞAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "ALTUNYAPRAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "ANBAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "ATAKÖY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "ÇİFTLİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "ÇİFTLİKKALE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "DEMİRLİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "GÖZPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "İÇMELER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "KABAKTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "KANDİL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "KÜRTÜL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "MAARİF MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "ORTAÖREN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "ÖZTÜRK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "SOYSALLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "TÜRKELİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "TÜRKMENLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "EKİNÖZÜ",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "AĞLICA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "AKARCA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "AKBAYIR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "AKÖREN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "AKSAKAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ALEMBEY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ALKAYAOĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ARMUTALAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ATMALIKAŞANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "BAKIŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "BALIKÇIL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "BATTALGAZİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "BEŞTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "BEYYURDU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "BÜYÜKYAPALAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "CEYHAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ÇALIŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ÇATOVA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ÇITLIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ÇİÇEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ÇİÇEK OSB MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "DEMİRCİLİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "DERVİŞÇİMLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "DOĞAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ELDELEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ESENTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "EVCİHÜYÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "FAKIOĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "GEÇİT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "GÖKÇEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "GÜBLÜCE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "GÜCÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "GÜMÜŞDÖVEN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "GÜNALTI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "GÜNDERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "GÜNEŞLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "GÜVERCİNLİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "HACIHASANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "HASANALİLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "HASANKENDİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "HORHOR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "IZGIN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "İĞDE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "İKİZPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "İNCECİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KALAYCIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KALEALTI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KANGAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KANTARMA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KARAELBİSTAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KARAHASANUŞAĞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KARAHÜYÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KARAMAĞARA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KAVAKTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KAYAGEÇİT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KEÇEMAĞARA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KIŞLA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KIZILCAOBA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KÖRÜCEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KÖSEYAHYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KÖŞK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KÜÇÜKYAPALAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "KÜMBET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "OVACIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ÖZBEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "ÖZCANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "SARIYATAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "SEVDİLLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "SÖĞÜTLÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "SÜNNET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "TAPKIRAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "TAPKIRANKALE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "TAŞBURUN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "TEPEBAŞI MAH (GÜCÜK MAH)"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "TOPALLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "TOPRAKHİSAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "TÜRKÖREN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "UNCULAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "UZUNPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "YALAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "YALINTAŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "YAPILI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "YAPILIPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "YAPRAKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "YOĞUNSÖĞÜT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ELBİSTAN",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ACIELMA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "AHMETCİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ALIÇLIBUCAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ALTINOBA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "APIKLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ASLANBEYÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "BOZARMUT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "BOZHÜYÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "BÜYÜKÇAMURLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "BÜYÜKKIZILCIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ÇAMDERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ÇARDAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "DEĞİRMENDERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "DOĞANKONAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ELMALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ERİCEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ESENKÖY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "FINDIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "FINDIKLIKOYAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "GÖLPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "GÖYNÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "GÜCÜKSU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "GÜLDAĞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "GÜLLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "HACIKODAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "HACIMİRZA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "HACIÖMER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "HARBİYE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "HUĞTAŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KALEBOYNU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KAMIŞCIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KANLIKAVAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KARAAHMET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KARAÖMER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KARATUT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KAVŞUT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KAYABAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KAZANDERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KEKLİKOLUK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KEMALPAŞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KINIKKOZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KIZILÖZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KİREÇ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KORKMAZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KÖMÜR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "KÜÇÜKÇAMURLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "MAHMUTBEY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "MEHMETBEY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "MÜRSEL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "ORTATEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "PAYAMBURNU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "SARAYCIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "SIRMALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "SOĞUKPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "TAHİRBEY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "TAŞOLUK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "TEMÜRAĞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "TEPEBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "TOMBAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "YAĞMURLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "YANTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "YENİYAPAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "YEŞİLKÖY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "YİRİCEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "GÖKSUN",
+    "Mahalle": "YOĞUNOLUK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "AĞCAŞAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "ALÇİÇEK DEĞİRMENKAYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "BARIŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "BİÇİN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "ESKİKÖY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "GÜRSEL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "HÜYÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "KARAÇAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "KARŞIYAKA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "KIYILAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "KULLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "SEYİTALİLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "TATLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "UMUTLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "NURHAK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "5 NİSAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ABDÜLHAMİD HAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "AĞCALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "AKÇAKOYUNLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "AKİF İNAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "BİN EVLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "BOĞAZİÇİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "CEYHAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÇAMLIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "GEDEMEN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HASANCIKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HAYDAR BEY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KARAMANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KAVLAKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KAZIM KARABEKİR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KILAVUZLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "MAARİF MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "MAĞRALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "MERCİMEKTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "MİMAR SİNAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "NECİP FAZIL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ORGANİZE SANAYİ BÖLGESİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ORHANGAZİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "OSMAN GAZİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SAÇAKLIZADE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SELÇUKLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SERİNTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SÜLEYMANŞAH MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ŞEHİT ABDULLAH ÇAVUŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ŞEHİT EVLİYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "TAVŞAN TEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "TEKEREK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÜNGÜT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "YAMAÇTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "YİRMİİKİGÜN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "YÜRÜKSELİM MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "BARBAROS MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "DUMLUPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ERTUĞRUL GAZİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "GAYBERLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HACI BAYRAM VELİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HAYRULLAH MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KARACAOĞLAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "MALİK EJDER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "MEVLANA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "MOLLA GÜRANİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ORUÇ REİS MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "PİRİ REİS MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ŞAZİ BEY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "VADİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "YUSUFLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ALTINOVA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "AVCILAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "AVGASIR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "AVŞAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "AYŞEPINARI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "BEŞBAĞLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "BEŞEN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "BULUTOĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "BÜYÜKSIR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "CÜCELİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÇAĞIRKAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÇAĞLAYAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÇAKIRDERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÇAKIRLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÇAMLIBEL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÇEVREPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÇOKRAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÇUKURHİSAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "DADAĞLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "DEMREK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "DEREBOĞAZI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "DÖNGEL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "DÖNGELE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "DÖNÜKLÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "FATMALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "GÖLPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HACIAĞLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HACIBUDAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HACIİBRAHİMUŞAĞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HACILAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HACIMUSTAFA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HACININOĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "HARTLAP MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ILICA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "İSMAİLLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KALAKAYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KAPIKAYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KARADERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KAYNAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KERİMLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KERTMEN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KISIKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KIZILDAMLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KIZILSEKİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KOZCAĞIZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KÖSELİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KÖŞÜRGE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KUMARLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KUMAŞIR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KURTLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KURUCAOVA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KÜÇÜKSIR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KÜMPERLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "KÜRTÜL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "MAKSUTLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "MURATLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÖNSEN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÖŞLÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ÖZTÜRK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "PAYAMLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "RAHMACILAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "REYHANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SADIKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SARIÇUKUR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SARIGÜZEL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SARIMOLLALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SAYGILI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SELİMİYE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SUÇATI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SULUYAYLA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "SÜLEYMANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ŞAHİNKAYASI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "TEKİR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "TOPÇALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "YENİCEKALE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "YENİDEMİR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "YENİYAPAN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "YOLYANI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "ONİKİŞUBAT",
+    "Mahalle": "ZEYTİNDERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "15 TEMMUZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "AHMET BOZDAĞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "AKCAKOYUNLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "AKÇALAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "AKDEMİR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ARMUTLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "AŞAĞIMÜLK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "BAĞDINISAĞIR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "BEŞÇEŞME MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "BÖLÜKÇAM MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "BÜYÜKNACAR FATİH MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "BÜYÜKNACAR KOCADERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "BÜYÜKNACAR MERKEZ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "CENGİZ TOPEL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "CİMİKANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ÇAMLICA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ÇAMLITEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ÇİÇEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ÇİÇEKALANI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ÇİĞDEMTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ÇÖÇELLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "DAMLATAŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "DEDEPAŞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "EĞLEN MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "EĞRİCE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "EMİROĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "EVRİ PINARBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "EVRİ TAŞBİÇME MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "GANİDAĞIKETİLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "GÖÇER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "GÖYNÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "HANOBASI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "HARMANCIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "HASANKOCA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "İNCİRLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "KADINCIK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "KARABIYIKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "KARAÇAY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "KARAGÖL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "KARAHÜYÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "KELEŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "KIZKAPANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "KİZİRLİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "KUZEYKENT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "MEHMET EMİN ARIKOĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "MEMİŞ ÖZDAL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "MEMİŞKAHYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "MEZERE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "MUSOLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "NARLI BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "NARLI CUMHURİYET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "NARLI İSMETPAŞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "NEFSİDOĞANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "OSMANDEDE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ÖRDEKDEDE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "SADAKALAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "SAKARKAYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "SALLIUŞAĞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "SALMANIPAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "SALMANLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "SARIERİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "SARIL MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "SOKU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "SULTANLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ŞAHİNTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ŞEHİT NURETTİN ADEMOĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "TAŞDEMİR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "TETİRLİK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "TİLKİLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "TURUNÇLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "UFACIKLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "ULUBAHÇE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "YARBAŞI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "YEŞİLKENT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "YİĞİTLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "YOLBOYU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "YUKARIHÖCÜKLÜ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "YUKARIMÜLK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "YUMAKLICERİT BAĞLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "PAZARCIK",
+    "Mahalle": "YUMAKLICERİT CUMHURİYET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "AKÇALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "AVŞARLI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "AYDINKAVAK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "BAYRAMGAZİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "BEYOĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "CECELİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "CENNETPINARI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "ÇAKALLIÇULLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "ÇAKALLIHASANAĞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "ÇAKIROĞLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "ÇOBANTEPE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "DEDELER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "DOLUCA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "GAZİLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "GAZİOSMANPAŞA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "GÜLLÜHÜYÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "HACIBEBEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "HOPURLU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "İMALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "KADIOĞLUÇİFTLİĞİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "KALEDİBİ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "KELİBİŞLER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "KILILI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "KIRMAKAYA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "KIZILENİŞ MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "KUMÇATI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "KUYUMCULAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "KÜÇÜKİMALI MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "MİNEHÜYÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "ÖNSENHOPURU MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "ÖZBEK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "PINARHÜYÜK MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "ŞEKEROBA MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "TAHTALIDEDELER MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "TÜRKOĞLU OSB MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "UZUNSÖĞÜT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "YAVUZLAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "YENİKÖY MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "YENİPINAR MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "YEŞİLYÖRE MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "YEŞİLYURT MAH"
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilçe": "TÜRKOĞLU",
+    "Mahalle": "YOLDERESİ MAH"
+  }
+]

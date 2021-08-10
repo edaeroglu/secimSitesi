@@ -1,0 +1,3532 @@
+[
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "MERKEZ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "MERKEZ MAH (DAMLAÇİMEN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ABACI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "AFET EVLER MAH (KARAYAKUP KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "AĞCAPINAR MAH (KARAYAKUP KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ALAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ARDIÇPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ARMUTDİBİ MAH (KARAYAKUP KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ASAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "AŞAĞI ÇULPARA MAH (ÇULPARA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "AŞILIK MAH (KARAYAKUP KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "AYNININ ÖNÜ MAH (KARAYAKUP KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "AYVALIPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "BAŞPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "BEKDEMİR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "BEŞİKTEPE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ÇAMURLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ÇAYAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ÇAYKIŞLA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ÇEŞMEBAŞI MAH (GEDİKSARAY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ÇULPARA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "DAVUTEVİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "GÖKÇELİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "GÜZALAN MAH (KARAYAKUP KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "HARMANCIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "HASANBEY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ILISU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "İKİZYAKA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KAFARLI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KARAPINAR MEVKİ MAH (İKİZYAKA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KARAŞAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KARAYAKUP KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KERTME KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KERVANSARAY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KIŞLABEYİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KIZILÖREN MAH (TERZİKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KİLİSE MAH (KARAYAKUP KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KONURALAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KOYUNCU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KURULUK MAH (KARAYAKUP KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KUYMA MAH (ILISU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KUYULU KAVAKLI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "KUYULU MAH (KUYULU KAVAKLI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "MEZRA MAH (YASSIKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ORTA MEVKİ MAH (İKİZYAKA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ORTA ŞARKLI MAH (ŞARKLI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "PENPELİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "SIĞIRÇAYI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ŞARKLI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ŞIHLAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "ŞIHOĞLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "TENCİRLİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "TEPE ŞARKLI MAH (ŞARKLI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "TERZİKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "YASSIKIŞLA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "YEŞİLDERE MAH (GEDİKSARAY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÖYNÜCEK",
+    "Mahalle": "YEŞİLYURT MAH (TENCİRLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ADATEPE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "AĞCADEDE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ARTIKABAT MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "CUMARA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "HACIYAHYA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "IRGAT MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ŞIHLAR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "TEKKE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "YENİCAMİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "AHLATLI MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ALBAZ DERESİ MAH (ÇALKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ALIÇLI ÇUKUR MAH (SARAYÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ALÖREN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ARMUTALAN MAH (SARAYÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "AŞAĞI BALIKLI MAH (BALIKLI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "BACAKOĞLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "BADEMLİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "BALLIK MAH (SARAYCIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "BEDEN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "BERBEROĞLU MAH (İMİRLER KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "BİLALOĞLU MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "CUMAOĞLU KIŞLASI MAH (İMİRLER KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ÇALKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ÇAMINBAŞI MAH (SARAYÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ÇAT MAH (KOLTUK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ÇAVUŞKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ÇAYANLAR MAH (YENİKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ÇETMİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ÇİFTÇİOĞLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ÇİTLİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ÇÖMEZLER MAH (KORKUT KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "DARÇİNLER KIŞLASI MAH (SARAYÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "DERBENTOBRUĞU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "DERE MAH (AŞAĞIOVACIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "DOLUCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "DUMANLI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ERENLER MAH (İMİRLER KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "ESLEMEZ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "GÜLLÜCE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "GÜLTEPE MAH (İMİRLER KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "GÜPLÜCE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "GÜVEMÖZÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "HAYATDERE MAH (KIZIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KAĞNICI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KARAALİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KARACAÖREN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KARAKAYA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KARŞI MAH (AŞAĞIOVACIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KEÇİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KELAHMETLER MAH (GÜLLER MAH) (AŞAĞIOVACIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KILIÇASLAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KIRCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KIZIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KIZILCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KIZIRCAÖREN MAH (PUSACAK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KİZİROĞLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KONUKTEPE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KORKUT KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KÖSELER KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KÖYİÇİ MAH (ÇALKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KURTDERESİ MAH (SARAYÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KUŞBURNU MAH (KONUKTEPE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KUTLUCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "KUZALAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "MERKEZ MAH (AŞAĞIOVACIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "MERKEZ MAH (BALIKLI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "MERKEZ MAH (KOLTUK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "MÜRSELLER MAH (BADEMLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "NİZAMLAR MAH (AŞAĞIOVACIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "OVABAŞI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "PUSACAK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "SALLAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "SARAYÖZÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "SEKÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "SEMERCİOĞLU MAH (SARAYÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "YAZIYERİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "YONGALIK MAH (DERBENTOBRUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "GÜMÜŞHACIKÖY",
+    "Mahalle": "YUKARI OBRUK MAH (DERBENTOBRUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "ARKUTBEY MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "HAMİTKAPLAN MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "KÖPRÜBAŞI MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "AKSU MAH (YUKARIOVACIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "ALANKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "AYCALAR MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "ÇAYKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "DAMLADERE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "DEDEKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "GÖÇERİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "GÖLKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "HIDIRLAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "KARADERE MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "KIZILCAÖREN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "MAĞARAOBRUĞU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "MERKEZ MAH (ARPADERE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "MERKEZ MAH (TEPEKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "ORTA MAH (ARPADERE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "SARAÇLAR MAH (ARPADERE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "SARAYÖZÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "TEKÇAM KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "TUTKUNLAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "UMARCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "YAYLA MAH (GÖLKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "YEMİŞEN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "HAMAMÖZÜ",
+    "Mahalle": "YUKARIOVACIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELERİÇİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEYAZITPAŞA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELLİBEŞEVLER MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLLÜ BAĞLARI MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜMÜŞLÜ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İHSANİYE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRAZLIDERE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET PAŞA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NERGİZ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİRİNÇÇİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAVADİYE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞAMLAR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZI BAĞLARI MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARASENİR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKBİLEK MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞAZKÖY MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAKALLAR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEMET EVLER MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FETHİYE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FINDIKLI MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKMEDRESE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACI İLYAS MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HACILAR MEYDANI MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATUNİYE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HELVACI MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIZIRPAŞA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOZA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURŞUNLU MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORMAN BAĞLARI MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARILAR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEHİRÜSTÜ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEYHCUİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜÇLER MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLYENİCE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YÜZEVLER MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ABACI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞILLAR MAH (MAHMATLAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AHMET KOLTUĞU MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKSALUR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKTAŞ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKYAZI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAKADI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAN MAH (AVŞAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALAŞIK MAH (YAĞCIABDAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALBAYRAK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ARDIÇLAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ATATÜRK MAH (ALBAYRAK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AVŞAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDINLIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYDOĞDU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLARÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLARÜSTÜ MAH (BAĞLARÜSTÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLICA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLICA MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLICAOSB MAH (BAĞLICA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELERALTI MAH (YAĞCIABDAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAYAT KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BEKE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELDAĞI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BELMEBÜK MAH (KARAKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOĞAKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖKE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BULDUKLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKKIZILCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇANAKLI MAH (YAĞCIABDAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATALÇAM KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAY KÖYÜ MAH (AKSALUR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇAYDERE MAH (SARIALAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇENGEL MAH (KARAİBRAHİM KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇENGELKAYI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇITIRIN ÇÖRDÜK MAH (YAĞCIABDAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİĞDEMLİK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇİVİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DADI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAMUDERE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEĞİRMENDERE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİKMENARDI MAH (YAĞCIABDAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİKYOL MAH (DAMUDERE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİREKLİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DİRGEN MAH (KIZILKIŞLACIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DURUCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ELİKTEKKE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERİKLİ MAH (YAĞCIABDAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERKONAŞ MAH (YASSIÇAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ERMİŞ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİ ARDIÇLAR MAH (ARDIÇLAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ESKİKIZILCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FINDIKLI MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FİLİNGİRLER MAH (YASSIÇAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GERNE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GEYGELER MAH (KIZOĞLU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKDERE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖKHÖYÜK MAH (DOĞANTEPE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖLÖNÜ MAH (YASSIÇAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÖZLEK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİFELİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAMDİ APAYDIN ÇİFLİĞİ MAH (OLUZ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HAN MAH (ÇENGELKAYI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HASABDAL KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HATUN PINARI MAH (MUSAKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İBECİK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İBONUN AĞIL MAH (SARIKIZ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İLGAZİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İLYAS KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İNÖNÜ MAH (UYGUR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İPEKKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTASYON MAH (KIZOĞLU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KABAARDIÇ MAH (YAĞCIABDAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KADİRGİLİN AĞIL MAH (SARIKIZ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALEBOĞAZI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KALEKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAPIKAYA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAPIKAYA MAH (KAPIKAYA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAALİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÇALILIK MAH (İPEKKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAÇAVUŞ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARADUT MAH (SEVİNCER KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAİBRAHİM KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKAYA MAH (YEŞİLDERE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAKESE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARASU MAH (DAMUDERE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARATAŞ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARSAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARŞIYAKA MAH (DOĞANTEPE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAŞKA MAH (BOĞAKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKLIAĞIL MAH (İLYAS KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVALAN ÇAYI MAH (KIZILKIŞLACIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYABAŞI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYACIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYADİBİ MAH (AVŞAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYRAK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZANASMAZ MAH (ARDIÇLAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAZANASMAZ MAH (KUTU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEÇİLİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KELTİR MAH (KIZILKIŞLACIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEŞLİK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZILKIŞLACIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZOĞLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIZSEKİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KİRAZPINARI MAH (ARDIÇLAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOÇALAN MAH (KIZILKIŞLACIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖPRÜBAŞI MAH (MEŞELİÇİFTLİĞİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖYCEĞİZ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURBAN ARMUDU MAH (SARIKIZ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUTU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZGEÇE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜK SANAYİ SİTESİ MAH (DADI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKKIZILCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MAHMATLAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MELİKYURDU MAH (SARIKIZ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (AYDINCA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (DOĞANTEPE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (EZİNEPAZAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (KARAKÖPRÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEŞELİÇİFTLİĞİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUSAKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "NOHUTLUK MAH (KARAİBRAHİM KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OBA ÖNÜ MAH (ARDIÇLAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OLUZ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORMANÖZÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ORTAKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVA MAH (SARIYAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OVASARAY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÖZFINDIKLI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PAMUKLU MAH (ORMANÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SALAMUT MAH (AKSALUR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAYÖZÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIALAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIKIZ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIMEŞE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIYAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SAZKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SEVİNCER KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SIRACEVİZLER KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SOMA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SULAKBAŞI MAH (YAĞCIABDAL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEYHSADİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TARTIŞIK MAH (ARDIÇLAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TARTIŞIK MAH (SARIKIZ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TATAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TERZİKÖY/KAPLICA MAH (ÇİVİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TUZSUZ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÜMÜK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAĞCIABDAL KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAĞMUR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAVRU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (DURUCA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİ MAH (UYGUR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLDERE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEŞİLÖZ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YIKILGAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILDIZKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YILDIZKÖY MAH (YILDIZKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOLYANI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YOLYANI MAH (MAHMATLAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI KAYRAK MAH (KAYRAK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI KIZSEKİ MAH (KIZSEKİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUVACIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUVAKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (ZİYARET BELDESİ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARAYCIK MAH (ZİYARET BELDESİ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (ZİYARET BELDESİ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "AFET EVLERİ MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "AKTARLA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ALICIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ALIŞAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "AŞAĞIBÜK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "BAĞLAR MAH (AKSUNGUR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "BAHÇECİK MAH (BAHÇECİK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "BALGÖZE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "BAYAZIT KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "BULAK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "BÜKLÜCE MAH (DEREALAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "BÜYÜKÇAY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ÇAMLICA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ÇAVUNDUR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ÇAYBAŞI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ÇAYIR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ÇAYIRÖZÜ MAH (ÇAYIRÖZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ÇOBANÖREN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "DEĞİRMENYOLU MAH (SARI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "DEMİRPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "DİPHACI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ELMAYOLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ESENTEPE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "EYMİR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "GELİNSİNİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "GÖKÇEBAĞ MAH (GÖKÇEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "GÜMÜŞTEPE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "HACET KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "HACIYAKUP KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "HAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "HAN MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "HAYRETTİN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "HIRKA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "IRMAKBAŞI MAH (UZUNYAZI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "IŞIKLAR MAH (KAYADÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "İLEMİ ÇAYIRI MAH (SAZLICA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "İNALANI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KALBURCU MAH (KIZILEĞREK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KAMIŞLI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KARACAKAYA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KARAMAĞARA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KARAMUSTAFAPAŞA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KARATEPE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KARŞIYAKA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KIREYMİR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KIZILEĞREK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KOÇ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KÖYALTI MAH (BAHÇECİK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KUYU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KÜÇÜKÇAY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "MAHMUTLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "MAHSENLİ MAH (KAYADÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "MERKEZ MAH (AKSUNGUR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "MERKEZ MAH (BAYAT KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "MERKEZ MAH (DEREALAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "MERKEZ MAH (MUŞRUF KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ORTABÜK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ORTAOVA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "OSMANOĞLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "OYMAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "OYMAK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ÖREN MAH (GÖKÇEBAĞ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "PEKMEZCİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "SARAYCIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "SARI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "SARI MAH (SARI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "SARIBUĞDAY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "SAZLICA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "SELİMİYE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ŞEYHYENİ MAH (ŞEYHYENİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "TELLİOĞLU MAH (MUŞRUF KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "TÜRKOĞLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "UZUNYAZI MAH (UZUNYAZI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YAKACIK MAH (MUŞRUF KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YAKUP KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YALNIZ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YAYLACIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YENİCE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YENİÇELTEK MAH (KAYADÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YEŞİLÖREN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YEŞİLTEPE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YEŞİLYURT MAH (KAYADÜZÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YOLÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YUKARI MAH (AKÖREN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YUKARIBÜK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ABİDEHATUN MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "BAĞLARBAŞI MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "BUĞDAYLI MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "CAMİCEDİT MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "ESKİ CAMİİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "GAZİMAHBUP MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "HACIBALI MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "HACIHASAN MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "HARMANLAR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "HOCASÜLEYMAN MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KÜMBET HATUN MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "KÜMBETHATUNOSB MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "MAHSEN MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "MEHMET AKİF ERSOY MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "NACCAR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "NUSRATİYE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "TAVŞAN MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "MERZİFON",
+    "Mahalle": "YUNUS EMRE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "AFETEVLERİ-CEBECİ MAH (ARMUTLU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "AKÖREN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ALABEDİR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ARUCAK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "AŞAĞIKARASU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "AYDERESİ MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "AYRANCI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "BAYIRLI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "BESİ OSB MAH (SALUCU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "BİNGÜŞ MAH (KARAAĞAÇ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "BOYALI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "CÜRLÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ÇAYÜSTÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "DERE AĞILI MEZRASI MAH (YÜZBEYİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "DEREBAŞALAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "DEVECİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "EĞRİBÜK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ERİKLİ MAH (EĞRİBÜK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "HARMANAĞILI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "HASAN EMMİ ÇİFTLİGİ MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KANATPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KAPANCI AĞILI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KARAAĞAÇ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KAZANLI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KAZANLI ORGANİZE SANAYİ BÖLGESİ MAH (KAZANLI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KERİMOĞLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KILIÇASLAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KIRANBAŞALAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KOLAY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KULU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KURNAZ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KUTLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KUZALAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "KÜPELİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "MAHMUT DEMİR ÇİFTLİĞİ MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "MERKEZ MAH (ARMUTLU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "MERKEZ MAH (DERE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "OĞULBAĞI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ORTAYAZI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ÖZALAKADI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "SALUCU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "SAYGILI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "SEYFE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "SOKU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "UZUNOBA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "YOLPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "YÜZBEYİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ATA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "BEYAZIT MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "BİR EYLÜL MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "BORSA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "CEVİZDİBİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ÇELTEKMADENİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "EYMİR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "GİRNE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "HACIBAYRAM MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "HACIHAYTA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "HARMANLAR MAH (ERASLAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "MAARİF MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "MAGOSA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "SARAYDÜZÜ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ŞEKER MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "ULUÇINAR MAH (ERASLAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "SULUOVA",
+    "Mahalle": "YENİDOĞAN MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "AKÇANIN DERE MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "AKKİŞİLER MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "AKPINAR MAH (KARSAVUL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ALAN MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ALAN MAH (SOFUALAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ALÇAKBEL KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ALTINLI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ANDIRAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ARDIÇÖNÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ARPADERESİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "AŞAĞI GÖKDERE MAH (GÖKPINAR KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "AŞAĞI GÖKDERE MAH (SOFUALAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "AŞAĞI MAH (SEPETLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "AYDINLAR MAH (ESENÇAY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "AYDINYERİ MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "BAHÇECİK MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "BAHÇELİEVLER MAH (BORABOY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "BAKIRPINAR MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "BALLICA MAH (BALLICA KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "BARCIN MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "BEYALAN MAH (ALÇAKBEL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "CUMHURİYET MAH (ÖZBARAKLI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "CUMHURİYET MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇAĞLAYAN MAH (ESENÇAY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇAKILCIK MAH (ŞEYHLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇAKIRSU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇALKAYA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇAMBÜKÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇAYDİBİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇERKEZLER MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇERMİK MAH (ŞEYHLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇILKIDIR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇINGILIK MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇİFTLİK MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇORAK MAH (SEPETLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ÇÖKÜYANI MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DAZLI MAH (HÜSNÜOĞLU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DERE MAH (SEPETLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DEREKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DERELİ MAH (DERELİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DEVRE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DOĞA YERİ MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DOĞAN ÇUKURU MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DOĞANŞAH MAH (ALPASLAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DÖLLÜK MAH (ALÇAKBEL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DÖNERTAŞ MAH (HÜSNÜOĞLU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DÖRTYOL KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DURUCASU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DUTLUK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "EBECE MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ELMAKIRI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ELMALIK MAH (SOFUALAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ERBEĞENDİ MAH (ALÇAKBEL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ERGÜNEŞ MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "FADARA MAH (ARDIÇÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "FEVZİOĞLU MAH (ALPASLAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "FINDICAK MAH (ŞEYHLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "GELEMİÇ MAH (ARDIÇÖNÜ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "GEMİBÜKÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "GERİŞ MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "GEYDOĞAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "GÖKPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "GÜCÜKGERİŞ MAH (ŞEYHLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "GÜNGÖRMÜŞ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "GÜRSU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "GÜVENCEALAN MAH (ŞEYHLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "GÜVENDİK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "HACIBEYKÖYÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "HACIGERİŞ MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "HAYDARAĞA MAH (KORUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "HÜSNÜOĞLU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ILICA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ILIPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "İKİPÖĞRE MAH (KARSAVUL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "İKİSAMANLIK MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "İSMET PAŞA MAH (BELEVİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KADILAR MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KARAAĞAÇ MAH (ALÇAKBEL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KARABÜK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KARAÇUKUR MAH (ALÇAKBEL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KARADÜZ MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KARAMUK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KARAMUK MAH (KORUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KARLIK DERE MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KARLIK KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KARSAVUL KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KATIRALAN MAH (KORUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KAVALOLUĞU KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KEMALPAŞA MAH (BELEVİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KIRDAĞIN MAH (ALÇAKBEL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KIRIK ÇUKURU MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KIRKHARMAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KIZGÜLDÜREN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KIZILAĞAÇ MAH (MERCİMEKKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KIZILCI ALAN MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KOCALAN MAH (KORUBAŞI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KORUBAŞI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KOZALAN MAH (ALÇAKBEL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KOZLUCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KÖSELİ MAH (ALÇAKBEL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KUMLUCA KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KUZ MAH (ŞEYHLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "KUZKIŞLA MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "LEĞENKAYA MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "MERCİMEKKÖY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "MERKEZ MAH (DESTEK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "MERKEZ MAH (SOFUALAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "MEŞELİ MAH (ŞEYHLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "MEYMAŞLAR MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "MÜLKBÜKÜ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "NURETTİN BEY MAH (ALPASLAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ORUÇGAZİ MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "SAKARAT MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "SAKIZLIK ARSASI MAH (SEPETLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "SELÇUKLU MAH (ÖZBARAKLI KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "SERÇELER MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "SITMA PINARI MAH (KARSAVUL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "SİNAN PAŞA MAH (ULUKÖY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ŞAHİNLER KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ŞEYHLİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TACETTİN BEY MAH (ALPASLAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TAŞTEPE MAH (KARLIK KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TATLIPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TEKKE MAH (TEKKE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TEKPINAR KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TEPE MAH (SEPETLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TERZİLİ MAH (ALÇAKBEL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TOPALIN FIRIN MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TURAN GÜNEŞ MAH (ESENÇAY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TUZLALI GERİŞ MAH (KAVALOLUĞU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TÜRKMENDAMI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ULUPARA MAH (YEŞİLTEPE KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YAĞBASAN MAH (SOFUALAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YAKAKENT MAH (BORABOY KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YALAMAGERİŞ MAH (ŞEYHLİ KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YATAK MAH (ALÇAKBEL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YAYLADİBİ KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YAYLASARAY KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YENİDERE KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YERKOZLU MAH (YERKOZLU KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YOLAÇAN KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YUKARI GÖKDERE MAH (SOFUALAN KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YUKARIBARAKLI KÖYÜ"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "ZANA MAH (KARSAVUL KÖYÜ)"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "DOĞU MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "SANAYİİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YEMİŞEN MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "AMASYA",
+    "ilçe": "TAŞOVA",
+    "Mahalle": "YEŞİLIRMAK MAH"
+  }
+]

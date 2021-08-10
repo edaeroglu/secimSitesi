@@ -1,0 +1,2877 @@
+[
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "AKÇAŞAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "BAHÇELİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "ÇAY MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "HÜRRİYET MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "PAZARCIK MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "TEPE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "ELDERE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "ELECİK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "İMAMLAR MAH (YAKAAFŞAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "KARACAHİSAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "KARAĞI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "KATİP KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "KOÇULAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "KÖSRE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "MANTAKLAR MAH (YAKAAFŞAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "SOFULAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "TERZİLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "YAKA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "YILANLI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "YUKARI MAH (YAKAAFŞAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "AKSU",
+    "Mahalle": "YUKARIYAYLABEL KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "ALTUNBA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "ÇEŞME MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "GEZİRLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "MÜFTÜ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "ONAÇ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "SİNAN MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "SÖKMEN MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "BAYAT KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "HARMANÖREN KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "HIDIR MAH (İSLAMKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "KAPICAK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "MÜFTÜ MAH (İSLAMKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "ORTA MAH (İSLAMKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "PEMBELİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ATABEY",
+    "Mahalle": "YENİ MAH (İSLAMKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "AĞA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "ALTINKUM MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BAĞBUYAN MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "CAMİİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "DEMİRKAPI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "HACIŞEYH MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "HAMAM MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "İMARET MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "İSTASYON MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "KALE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "KATİP MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "KIZILÇUBUK MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "KONYA BUCAĞI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "KUBBELİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "MENDERES MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "PINAR PAZARI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "POYRAZ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "SEKİBAĞ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "SEYDİM MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YAZLA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YEŞİLADA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "AĞILKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "AKDOĞAN KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "AKMESCİT MAH (BARLA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "AKPINAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "AŞAĞI GÖKDERE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "AŞAĞI MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BADEMLİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BAĞICIK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BAĞILLI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BAĞÖREN KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BAHÇIVAN MAH (YUVALI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BAKLAN KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BALKIRI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BAŞ MAH (BARLA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BEŞEVLER MAH (SEVİNÇBEY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "BOYALI MAH (BARLA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "CAMİKEBİR MAH (BARLA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "CİRBELİ MAH (HAYMANA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "CUMHURİYET MAH (GÖKÇEHÖYÜK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "ÇALTI ARASI MAH (SERPİL KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "ÇAY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "ÇİFTLİK MAH (EYÜPLER KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "DENİZ ALTI MAH (HAYMANA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "ERENLER MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "EYÜPLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "GÖKTAŞ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "HACIRAMAZANLAR MAH (EYÜPLER KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "HARMANYERİ MAH (AĞILKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "HAVUTLU KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "HAYMANA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "HÜRRİYET MAH (GÖKÇEHÖYÜK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "İSTİKLAL MAH (GÖKÇEHÖYÜK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "KARŞIYAKA MAH (AKDOĞAN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "KIRINTI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "KOCA CESME MAH (HAYMANA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "MAHMATLAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "MERKEZ MAH (BEYDERE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "MERKEZ MAH (SİPAHİLER KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "PAZAR MAH (BARLA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "SAHİL MAH (BEYDERE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "SERPİL KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "SEVİNÇBEY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "SORKUNCAK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "TEPELİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YELLİLER MAH (YUVALI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YENİ MAH (BARLA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YENİ MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YILGINCAK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YOKUŞBAŞI MAH (BARLA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YUKARI GÖKDERE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YUKARI MAH (PAZARKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "YUVALI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "ZAFER MAH (GÖKÇEHÖYÜK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "AĞA MAH (SARIİDRİS BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "DERE MAH (SARIİDRİS BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "HÜRRİYET MAH (SARIİDRİS BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "EĞİRDİR",
+    "Mahalle": "İSTİKLAL MAH (SARIİDRİS BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "17 EYLÜL MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "HAYDARPAŞA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "HÜSEYİN AVNİ PAŞA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "KIREVLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "MUHARREM MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "SELÇUK MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "YENİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "AFŞAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "AKDAĞ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "AŞAĞI MAH (BAĞILLI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "AŞAĞI MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "BAHÇELİ EVLER MAH (YAKA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "BALCI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "CUMHURİYET MAH (YAKA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "ÇALTI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "ÇAY MAH (YAKA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "ESİNYURT KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "HACILAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "HANÖNÜ MAH (YEŞİLKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "KEÇİLİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "KEMER MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "KIZDAŞI MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "KÖKE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "MADENLİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "ORTA MAH (YAKA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "ŞEHİTLER MAH (BAĞILLI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "YAKADİBİ MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "YENİ MAH (BAĞILLI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "YENİ MAH (YAKA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "YEŞİLKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "YUKARI MAH (BAĞILLI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "YUKARI MAH (YAKA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GELENDOST",
+    "Mahalle": "YUKARI MAH (YENİCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "ALACA MESCİT MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "GÖLETEVLERİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "KASAP MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "MUSALLA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "BALADIZ MAH (GÜNEYKENT BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "ORTA MAH (GÜNEYKENT BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "TEKKE MAH (GÜNEYKENT BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "YENİCE MAH (GÜNEYKENT BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "GÖLBAŞI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "İĞDECİK MAH (İĞDECİK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "KIZILCIK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "KOÇTEPE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "GÖNEN",
+    "Mahalle": "SENİRCE MAH (SENİRCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "AŞAĞI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "HACI KÖYÜ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "HASANBEY MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "KAYA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "KÜKÜRT MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "ORTA MAH (KILIÇ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "TUZLA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "YENİCE MAH (KILIÇ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "YUKARI MAH (KILIÇ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "ARDIÇLI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "CAMİİ KEBİR MAH (AYDOĞMUŞ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "CUMHURİYET MAH (İNCESU KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "ÇUKURÖREN KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "GÜLKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "GÜLTEPE MAH (AYDOĞMUŞ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "HÜRRİYET MAH (İNCESU KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "İSTİKLAL MAH (İNCESU KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "KAPLANLI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "KAVAK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "KOZLUCA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "KURTULUŞ MAH (AYDOĞMUŞ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "KUYUCAK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "ÖZBAHÇE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "SARACIK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "TOKİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "YENİTEPE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "CUMHURİYET MAH (SENİR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "KUŞÇULAR MAH (SENİR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "ORTA MAH (SENİR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "TEPECİK MAH (SENİR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "KEÇİBORLU",
+    "Mahalle": "YENİ MAH (SENİR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AYAZMANA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇELEBİLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DERE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DOĞANCI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "EMRE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GAZİ KEMAL MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLCÜ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLEVLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALIKENT MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HALİFE SULTAN MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HİSAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSKENDER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEÇECİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KURTULUŞ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SİDRE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SÜLÜBEY MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TURAN MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VATAN MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "VATANOSB MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİCE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DAVRAZ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KARAAĞAÇ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEPECİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SERMET MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KEMAL MAH (KULEÖNÜ BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKUL MAH (KULEÖNÜ BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YENİCAMİ MAH (KULEÖNÜ BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BATIKENT MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BİNBİREVLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜLİSTAN MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HIZIRBEY MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "IŞIKKENT MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUTLUBEY MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "PİRİMEHMET MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ABSARI MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AĞIL MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ALİKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (DEREGÜMÜ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH (YAKAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BOZANÖNÜ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÖGÜRTLENLİ MAH (DARIDERESİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BUCAKDERE MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BÜYÜKHACILAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇATAL MAH (BÜYÜKGÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇIKRIKLI MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇOBANİSA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇUKURKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREBOGAZI MAH (KARAHAFIZ MAH) (KÜÇÜKKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "DEREBOĞAZI MAH (KIŞLAKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GELİNCİK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEY BAHÇE EVLERİ MAH (KÜÇÜKGÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "GÜNEYCE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "HOCANTI MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "İMREZİ MAH (KÜÇÜKKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAK MAH (KÜÇÜKKIŞLA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAVAKLI ÇEŞME MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYIKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KAYNARPINAR MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIRKAYAK MAH (BÜYÜKGÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KIŞLAKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KOLCUBELİ MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖY İÇİ MERKEZ MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÖY İÇİ MERKEZ MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KUZEY BAHÇEEVLERİ MAH (KÜÇÜKGÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKGÖKÇELİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "KÜÇÜKHACILAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MERKEZ MAH (YAKAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKUL MAH (BÜYÜKGÖKÇELİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "OKUL MAH (YAKAÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SARIYER MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ŞEKERLER MAH (KADILAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "TİLKİLİK MAH (DARIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAĞCIOĞLU MAH (DARIDERESİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAYLA MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YAZISÖĞÜT KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (DARIDERESİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (DEREGÜMÜ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (DİREKLİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AKKENT MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ANADOLU MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ÇÜNÜR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MEHMET TÖNGE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MODERN EVLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "MUZAFFER TÜRKEŞ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YEDİŞEHİTLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "AŞAĞI MAH (SAV BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "FATİH MAH (SAV BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "MERKEZ",
+    "Mahalle": "YUKARI MAH (SAV BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "CAMİİ MAH (BÜYÜKKABACA BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "DERE MAH (BÜYÜKKABACA BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "KARŞI MAH (BÜYÜKKABACA BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "ORTA MAH (BÜYÜKKABACA BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "SULTAN SÜLEYMAN MAH (BÜYÜKKABACA BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "ZAFER MAH (BÜYÜKKABACA BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "AŞAĞI MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "AŞAĞI MAH (YASSIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "BAŞKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "BOZDURMUŞ MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "BÜLBÜL MAH (AKKEÇİLİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "BÜYÜKÇEŞME MAH (ULUĞBEY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "ÇANLAR MAH (YASSIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "ESKİ KÖY MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "KARABABA MAH (AKKEÇİLİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "KAYAAĞZI MAH (KARİP KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "KUZYAKA MAH (AKKEÇİLİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "MERKEZ MAH (KARİP KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "ONKUYU MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "ORTAYAZI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "TÜRBE MAH (ULUĞBEY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "YAYLA MAH (ULUĞBEY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "YUKARI MAH (GENÇALİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "YUKARI MAH (YASSIÖREN KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "16 HAZİRAN MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "HAMİDİYE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "İSTİKLAL MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "KIBRIS MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "SÜLEYMAN DEMİREL MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "ŞEHLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "TAŞMESCİT MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SENİRKENT",
+    "Mahalle": "TURGUTLAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "AŞAĞIYAYLABEL KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "AYVAPINARI MAH (AYVALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "BEKİRAĞALAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "BELENCE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "BEYDİLİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "BOĞAZKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "BUCAKDERE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "CAMİ MAH (KESME KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "CAMİİ MAH (KASIMLAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "ÇANDIR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "ÇIRAKLAR MAH (AYVALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "ÇOBANİSA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "ÇÖKEK MAH (KESME KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "ÇUKURCA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "ÇÜRÜK BELEN MAH (KASIMLAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "DARIBÜKÜ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "DERİNDERE MAH (KESME KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "GÜLDALLI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "GÜMÜ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "GÜNEY MAH (KASIMLAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "HACIAHMETLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "HACIALİLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "İBİŞLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "İNCEDERE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "KARADİKEN KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "KIZILBELEN MAH (KESME KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "KÖPRÜBAŞI MAH (AYVALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "KUZ MAH (AYVALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "KUZCA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "MELİKLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "MÜEZZİNLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "ÖBEKTAŞ MAH (AYVALIPINAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "PINARKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "SAĞRAK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "SARAY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "SARIMEHMETLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "ŞEHLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "YEŞİLYURT KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "BAŞKOZ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "BELEN MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "BİRLİK MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "CAMİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "ERENLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "YEŞİLDERE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "SÜTÇÜLER",
+    "Mahalle": "YUKARI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "BÖLÜKLER MAH (ÇARIKSARAYLAR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "CUMHURİYET MAH (ÇARIKSARAYLAR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ÇUKUR MAH (ÇARIKSARAYLAR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "SUVAR MAH (ÇARIKSARAYLAR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ULU MAH (ÇARIKSARAYLAR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "AŞAĞI MAH (ÇİÇEKPINAR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ÇÖRDÜK MAH (ÇİÇEKPINAR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ORTA MAH (ÇİÇEKPINAR BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ARAK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ARMUTLU KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ASLANDOĞMUŞ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "AŞAĞI MAH (GÖKSÖĞÜT KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "AŞAĞIDİNEK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "BAŞDEĞİRMEN KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "BELCEĞİZ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "BEYKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ÇALTI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ÇAVUNDUR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ÇELTEK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "FAKILAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "FELE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "GEDİKLİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "KARAYAKA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "KIYAKDEDE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "KÖPRÜ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "MURATBAĞI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ÖRDEKCİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ÖRENKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "SALUR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "SARIKAYA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "YAKAEMİR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "YENİ MAH (GÖKSÖĞÜT KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "YENİCEKALE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "YENİKÖY KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "YUKARI MAH (GÖKSÖĞÜT KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "YUKARIDİNEK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ALCIKLAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ASILKALE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "AŞAĞIKALE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "CAMİKEBİR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "KERKÜK MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ORTA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ŞARKİKARAAĞAÇ",
+    "Mahalle": "ULVİKALE MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "DERE KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "İLEYDAĞI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "İNHİSAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "KÜÇÜKKABACA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "GÜREŞYERİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "HAMİDELİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "KABAAĞAÇ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "KÖSEHASAN MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "NAMAZGAH MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "PAZAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "SELÇUKLU MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "SERENLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "TAŞKÖPRÜ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "TOPRAKLIK MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "ULUBORLU",
+    "Mahalle": "ZİNCİRLİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ESKİGEÇİT MAH (HÜYÜKLÜ BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "MESCİT MAH (HÜYÜKLÜ BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "NALBANT MAH (HÜYÜKLÜ BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YANARIK MAH (HÜYÜKLÜ BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (HÜYÜKLÜ BELDESİ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AKÇAŞAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ALTIKAPI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ARDIÇLI MAH (KOZLUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AŞAĞI MAH (CELEPTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AŞAĞI MAH (ÇETİNCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AŞAĞI MAH (KOZLUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AŞAĞI MAH (KÖRKÜLER KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AŞAĞI MAH (KUMDANLI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AŞAĞI MAH (SAĞIRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AŞAĞI MAH (SÜCÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AŞAĞI YUKARI MAH (AŞAĞIKAŞIKARA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AŞAĞIKAŞIKARA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AYVALI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "BAHÇELİEVLER MAH (DEDEÇAM KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "BAHTİYAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "BOLATLIK MAH (TOKMACIK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "CUMHURİYET MAH (BAĞKONAK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "CUMHURİYET MAH (ÇETİNCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ÇAKIRÇAL KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ÇAMHARMAN KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ÇAYIR MAH (KUMDANLI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "DELİKTAŞ MAH (SÜCÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "DERE GÜLTEPE MAH (AŞAĞIKAŞIKARA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "DERE MAH (KOZLUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "EĞİRLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ESENTEPE MAH (TOKMACIK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ESKİ MAH (KÖRKÜLER KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "EYÜPLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "FATİH MAH (BAĞKONAK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "FATİH MAH (KOZLUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "FATİH MAH (ÖZGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "FATİH MAH (YUKARIKAŞIKARA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "GÖKÇAY MAH (TOKMACIK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "GÖKÇEALİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "GÜLKENT MAH (TOKMACIK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "GÜMÜŞLÜ MAH (AŞAĞITIRTAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "HARMAN MAH (KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "HARMAN MAH (ÖZBAYAT KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "HARMAN MAH (SÜCÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "HARMAN MAH (YUKARIKAŞIKARA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "HİSARARDI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "HURŞİTLER MAH (SÜCÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "İLEĞİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "İSLİBUCAĞI MAH (AŞAĞITIRTAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KALE MAH (BAĞKONAK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KARŞIYAKA MAH (ÇETİNCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KIRKBAŞ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KORUYAKA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KURUSARI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KUZYAKA MAH (ÖZBAYAT KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KÜÇÜKTEPE MAH (AŞAĞITIRTAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "MEZARLIK MAH (AŞAĞITIRTAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "MISIRLI KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "MİTHATPAŞA MAH (ÇETİNCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ORTA MAH (DEDEÇAM KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ORTA MAH (KUMDANLI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ORTA MAH (KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ORTA MAH (ÖZBAYAT KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "PAZAR MAH (KÖRKÜLER KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "PAZAR MAH (ÖZGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "SELÇUKLU MAH (ÖZGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "TAŞEVİ KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "TEPECİK MAH (BAĞLARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "TERZİLER KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "TOLYÜZÜ MAH (AŞAĞITIRTAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ULUCAMİİ MAH (BAĞKONAK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YAĞCILAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YARIKKAYA KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YAYLA MAH (KOZLUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YAYLA MAH (TOKMACIK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YAYLA MAH (YUKARIKAŞIKARA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (BAĞKONAK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (ÇETİNCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (DEDEÇAM KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (KOZLUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (KÖRKÜLER KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (KUMDANLI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (ÖZBAYAT KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (ÖZGÜNEY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (SÜCÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (TOKMACIK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (YAĞCILAR KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YENİ MAH (YUKARIKAŞIKARA KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUKARI MAH (BAĞLARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUKARI MAH (CELEPTAŞ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUKARI MAH (ÇETİNCE KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUKARI MAH (İLEĞİ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUKARI MAH (KOZLUÇAY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUKARI MAH (KUMDANLI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUKARI MAH (KUYUCAK KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUKARI MAH (SAĞIRKÖY KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUKARI MAH (SÜCÜLLÜ KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUKARITIRTAR KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "YUSUFLAR MAH (BAĞLARBAŞI KÖYÜ)"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ABACILAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "AKKÖPRÜ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "BAĞLAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "BAHÇELİEVLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "CUMHURİYET MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ÇARŞI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "DEBBAĞLAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ESKİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "FATİH MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "GÖRGÜ BAYRAM MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "GÖRGÜ CAMİİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "GÖRGÜORTA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KAŞAŞAĞI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KAŞCAMİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KAŞHACIBEY MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KAŞYUKARI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KIZILCA MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "KUŞKU MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "LEBLEBİCİLER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "MÜDERRİS MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "PAZAR AŞAĞI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "PAZAR YUKARI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "SALUR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "SANAYİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "SARAY MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "SOFULAR MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YALVAÇ",
+    "Mahalle": "ZAFER MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YENİŞARBADEMLİ",
+    "Mahalle": "GÖLKONAK KÖYÜ"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YENİŞARBADEMLİ",
+    "Mahalle": "GÜNDOĞDU MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YENİŞARBADEMLİ",
+    "Mahalle": "PINARBAŞI MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YENİŞARBADEMLİ",
+    "Mahalle": "YENİCAMİ MAH"
+  },
+  {
+    "il": "ISPARTA",
+    "ilçe": "YENİŞARBADEMLİ",
+    "Mahalle": "YENİCE MAH"
+  }
+]

@@ -2,21 +2,20 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:login_page_day_23/model/users_model.dart';
+import 'package:login_page_day_23/model/usersModel.dart';
+import 'package:login_page_day_23/services/tokenService.dart';
 
-//burada hata alıyorum
 
-/*
-import 'package:secimdemo/services/token_service.dart';
+
 
 class UserApi {
   final TokenService _tokenService = TokenService();
   String _baseUrl = "sitesisecim.herokuapp.com";
   String _path = "api";
 
-  Future<UserModel?> singUp({@required UserModel userModel}) async {
+  Future<UserModel?> singUp({required UserModel userModel}) async {
     try {
-      String jwt = _tokenService.singJWT(email: userModel.userMail);
+      String jwt = _tokenService.singJWT(mail: userModel.userMail, );
       Map<String, String> headers = {
         "Content-Type": "application/json",
         "Authorization": "Bearer $jwt",
@@ -43,4 +42,3 @@ class UserApi {
     }
   }
 }
-*/
