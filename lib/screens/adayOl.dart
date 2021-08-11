@@ -46,9 +46,9 @@ class adayOl extends StatelessWidget {
             Padding(
               padding: EdgeInsets.symmetric(horizontal: 40),
               child: TextFormField(
-                textAlign: TextAlign.center,
+                textAlign: TextAlign.left,
                 decoration: InputDecoration(
-                  hintText: "Adınız-Soyadınız",
+                  hintText: "           Adınız-Soyadınız",
                   hintStyle: TextStyle(
                       fontWeight: FontWeight.bold, letterSpacing: 1.8),
                   border: OutlineInputBorder(

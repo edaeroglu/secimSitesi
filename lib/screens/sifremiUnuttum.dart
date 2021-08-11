@@ -43,9 +43,9 @@ class sifremiUnuttum extends StatelessWidget {
                       Padding(
                         padding: EdgeInsets.symmetric(horizontal: 40),
                         child: TextFormField(
-                          textAlign: TextAlign.center,
+                          textAlign: TextAlign.left,
                           decoration: InputDecoration(
-                            hintText: "E-posta",
+                            hintText: "                   E-posta",
                             hintStyle: TextStyle(
                                 fontWeight: FontWeight.bold,
                                 letterSpacing: 1.8),

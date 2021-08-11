@@ -56,7 +56,7 @@ class uyeOlSayfasi extends StatelessWidget {
                     height: 20,
                   ),
                   Text(
-                    "Ücretsiz hesap oluşturun.",
+                    "Ücretsiz hesap oluşturun",
                     style: TextStyle(fontSize: 18, color: Colors.grey[700]),
                   ),
                 ],
@@ -70,7 +70,9 @@ class uyeOlSayfasi extends StatelessWidget {
                     decoration: InputDecoration(
                       hintText: "E-Posta",
                       hintStyle: TextStyle(
-                          fontWeight: FontWeight.bold, letterSpacing: 1.8),
+                        fontWeight: FontWeight.bold,
+                        letterSpacing: 1.8,
+                      ),
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(20),
                         borderSide: BorderSide(

@@ -37,6 +37,154 @@ class darkMode extends StatelessWidget {
   }
 }
 
+class AppTheme {
+  static const int _themaColorDefault = 0xffffcdac;
+
+  static MaterialColor themeColor = MaterialColor(
+    _themaColorDefault,
+    <int, Color>{
+      500: Color(_themaColorDefault),
+    },
+  );
+  static Color wipeColor = Color.fromRGBO(255, 171, 137, 1);
+
+  static Color homeBackgrounColor = Color.fromRGBO(245, 245, 245, 1);
+  static Color bottomIconColor = Color.fromRGBO(255, 102, 102, 1);
+  static Color blueColor = Color.fromRGBO(0, 216, 201, 1);
+  static Color profilBackgrounColor = Color.fromRGBO(243, 247, 252, 1);
+  // dark
+  static Color darkDurumEkleButtonColor = Color.fromRGBO(115, 133, 159, 1);
+
+  static ThemeData get lightTheme {
+    return ThemeData(
+      primarySwatch: Colors.deepOrange,
+      visualDensity: VisualDensity.adaptivePlatformDensity,
+      primaryColor: Colors.deepOrange,
+      backgroundColor: themeColor,
+      buttonColor: wipeColor,
+      textTheme: TextTheme(
+        bodyText1: TextStyle(
+          color: Color.fromRGBO(40, 40, 40, 1),
+        ),
+        bodyText2: TextStyle(
+          color: Colors.black54,
+        ),
+      ),
+      iconTheme: IconThemeData(
+        color: Colors.black54,
+      ),
+      bottomNavigationBarTheme: BottomNavigationBarThemeData(
+        backgroundColor: Colors.white,
+        selectedItemColor: AppTheme.wipeColor,
+        unselectedItemColor: Colors.black54,
+      ),
+      bottomAppBarTheme: BottomAppBarTheme(
+        color: themeColor,
+        elevation: 2,
+      ),
+      appBarTheme: AppBarTheme(
+        backgroundColor: wipeColor,
+        centerTitle: true,
+        elevation: 0.0,
+        iconTheme: IconThemeData(
+          color: Colors.white,
+        ),
+        textTheme: TextTheme(
+          title: TextStyle(
+            color: Colors.white,
+            fontSize: 18.5,
+            fontWeight: FontWeight.w500,
+          ),
+        ),
+      ),
+      scaffoldBackgroundColor: Color.fromRGBO(255, 255, 255, 1),
+      cardColor: Color.fromRGBO(245, 245, 245, 1),
+      cardTheme: CardTheme(
+        elevation: 5,
+        color: Colors.white,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(8.0),
+        ),
+      ),
+      buttonTheme: ButtonThemeData(
+        shape:
+            RoundedRectangleBorder(borderRadius: BorderRadius.circular(18.0)),
+        buttonColor: Colors.blue,
+      ),
+      dividerTheme: DividerThemeData(
+        color: Colors.black12,
+        thickness: 0.5,
+        indent: 4.0,
+        endIndent: 4.0,
+      ),
+    );
+  }
+
+  static ThemeData get darkTheme {
+    return ThemeData(
+      primaryColor: Colors.grey[900],
+      scaffoldBackgroundColor: Color.fromRGBO(51, 51, 51, 1),
+      textTheme: ThemeData.dark().textTheme,
+      primarySwatch: Colors.grey,
+      visualDensity: VisualDensity.adaptivePlatformDensity,
+      backgroundColor: Color.fromRGBO(45, 45, 45, 1),
+      buttonColor: darkDurumEkleButtonColor,
+      iconTheme: IconThemeData(
+        color: Colors.white,
+      ),
+      bottomNavigationBarTheme: BottomNavigationBarThemeData(
+        backgroundColor: Color.fromRGBO(40, 40, 40, 1),
+        selectedItemColor: Colors.white,
+        unselectedItemColor: Colors.grey.shade600,
+      ),
+      bottomAppBarTheme: BottomAppBarTheme(
+        color: Color.fromRGBO(60, 60, 60, 1),
+        elevation: 2,
+      ),
+      appBarTheme: AppBarTheme(
+        backgroundColor: Color.fromRGBO(45, 45, 45, 1),
+        centerTitle: true,
+        elevation: 0.0,
+        iconTheme: IconThemeData(
+          color: Colors.white,
+        ),
+        textTheme: TextTheme(
+          title: TextStyle(
+            color: Colors.white,
+            fontSize: 18.5,
+            fontWeight: FontWeight.w500,
+          ),
+        ),
+      ),
+      buttonTheme: ButtonThemeData(
+        shape:
+            RoundedRectangleBorder(borderRadius: BorderRadius.circular(18.0)),
+        buttonColor: Color.fromRGBO(66, 71, 80, 1),
+      ),
+      cardColor: Color.fromRGBO(66, 71, 80, 1),
+      cardTheme: CardTheme(
+        elevation: 5,
+        color: Color.fromRGBO(66, 71, 80, 1),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(8.0),
+        ),
+      ),
+      dividerTheme: DividerThemeData(
+        color: Colors.white12,
+        thickness: 0.5,
+        indent: 4.0,
+        endIndent: 4.0,
+      ),
+    );
+  }
+
+  static TextStyle homeTextStyle = TextStyle(
+    fontSize: 20,
+    color: Colors.white,
+    fontWeight: FontWeight.bold,
+  );
+}
+
 class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

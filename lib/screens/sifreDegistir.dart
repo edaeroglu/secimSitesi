@@ -31,10 +31,10 @@ class sifreDegistir extends StatelessWidget {
                       Padding(
                         padding: EdgeInsets.symmetric(horizontal: 40),
                         child: TextFormField(
-                          textAlign: TextAlign.center,
+                          textAlign: TextAlign.left,
                           obscureText: true,
                           decoration: InputDecoration(
-                            hintText: "Mevcut şifre",
+                            hintText: "              Mevcut şifre",
                             hintStyle: TextStyle(
                                 fontWeight: FontWeight.bold,
                                 letterSpacing: 1.8),
@@ -54,10 +54,10 @@ class sifreDegistir extends StatelessWidget {
                       Padding(
                         padding: EdgeInsets.symmetric(horizontal: 40),
                         child: TextFormField(
-                          textAlign: TextAlign.center,
+                          textAlign: TextAlign.left,
                           obscureText: true,
                           decoration: InputDecoration(
-                            hintText: "Yeni şifre",
+                            hintText: "                 Yeni şifre",
                             hintStyle: TextStyle(
                                 fontWeight: FontWeight.bold,
                                 letterSpacing: 1.8),
@@ -77,10 +77,10 @@ class sifreDegistir extends StatelessWidget {
                       Padding(
                         padding: EdgeInsets.symmetric(horizontal: 40),
                         child: TextFormField(
-                          textAlign: TextAlign.center,
+                          textAlign: TextAlign.left,
                           obscureText: true,
                           decoration: InputDecoration(
-                            hintText: "Yeni şifre tekrar",
+                            hintText: "             Yeni şifre tekrar",
                             hintStyle: TextStyle(
                                 fontWeight: FontWeight.bold,
                                 letterSpacing: 1.8),
